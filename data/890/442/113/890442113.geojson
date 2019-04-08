@@ -1,0 +1,203 @@
+{
+  "id": 890442113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.48333,15.75,-84.48333,15.75",
+    "geom:latitude":15.75,
+    "geom:longitude":-84.48333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":4067,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "name:chi_x_preferred":[
+        "\u5e03\u9b6f\u65af\u62c9\u53e4\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:eng_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:fre_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:ita_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30eb\u30b9\u30fb\u30e9\u30b0\u30ca"
+    ],
+    "name:lit_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:nan_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:pol_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:por_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:spa_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:swe_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:unk_x_variant":[
+        "Brewers Lagoon"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Gracias a Dios",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Populated place",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3614663,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Brus Laguna",
+    "ne:GN_POP":4067,
+    "ne:GTOPO30":15.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.75042,
+    "ne:LONGITUDE":-84.479996,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":"Brus Laguna",
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Brus Laguna",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Brus Laguna",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4067,
+    "ne:POP_MIN":4067,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Brus Laguna",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"15.75",
+    "wd:longitude":"-84.48333333",
+    "wd:wordcount":59,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421182889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614663,
+        "gp:id":98325,
+        "qs:id":274449,
+        "wd:id":"Q2102693",
+        "wk:page":"Brus Laguna"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052350,
+    "wof:geomhash":"aa6876cf021da671b0a5ed65120bdd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182889,
+            "locality_id":890442113,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":890442113,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Brus Laguna",
+    "wof:parent_id":421182889,
+    "wof:placetype":"locality",
+    "wof:population":4067,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.48333,
+    15.75,
+    -84.48333,
+    15.75
+],
+  "geometry": {"coordinates":[-84.48333,15.75],"type":"Point"}
+}

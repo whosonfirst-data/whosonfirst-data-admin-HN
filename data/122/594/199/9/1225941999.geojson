@@ -1,0 +1,67 @@
+{
+  "id": 1225941999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.32917,13.81806,-87.32917,13.81806",
+    "geom:latitude":13.81806,
+    "geom:longitude":-87.32917,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Chaguites",
+    "gn:country_code":"HN",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605694,
+    "gn:latitude":13.81806,
+    "gn:longitude":-87.32917,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Los Chag\u00fcites",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605694
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a3791537893b4264e5489cd3c82712cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182957,
+            "locality_id":1225941999,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1225941999,
+    "wof:lastmodified":1536873840,
+    "wof:name":"Los Chaguites",
+    "wof:parent_id":421182957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.32916999999998,
+    13.81806,
+    -87.32916999999998,
+    13.81806
+],
+  "geometry": {"coordinates":[-87.32916999999998,13.81806],"type":"Point"}
+}

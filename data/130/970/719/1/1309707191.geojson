@@ -1,0 +1,67 @@
+{
+  "id": 1309707191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.51667,14.98333,-83.51667,14.98333",
+    "geom:latitude":14.98333,
+    "geom:longitude":-83.51667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Piankira",
+    "gn:country_code":"HN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603794,
+    "gn:latitude":14.98333,
+    "gn:longitude":-83.51667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Piankira",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603794
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"86ac29acff275d237f534de50f532211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1309707191,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1309707191,
+    "wof:lastmodified":1537070254,
+    "wof:name":"Piankira",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.51666999999998,
+    14.98333,
+    -83.51666999999998,
+    14.98333
+],
+  "geometry": {"coordinates":[-83.51666999999998,14.98333],"type":"Point"}
+}

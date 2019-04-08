@@ -1,0 +1,73 @@
+{
+  "id": 1209938691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8,15.85,-87.8,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":-87.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Saraguaina",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601426,
+    "gn:latitude":15.85,
+    "gn:longitude":-87.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Saraguaina",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaraguaina",
+        "Saraguama",
+        "Saraguaina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421205117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601426
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"82899adcdd0c954b930c22641ad23320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205117,
+            "locality_id":1209938691,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1209938691,
+    "wof:lastmodified":1537625570,
+    "wof:name":"Saraguaina",
+    "wof:parent_id":421205117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8,
+    15.85,
+    -87.8,
+    15.85
+],
+  "geometry": {"coordinates":[-87.8,15.85],"type":"Point"}
+}

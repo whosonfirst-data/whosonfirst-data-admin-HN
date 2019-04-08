@@ -1,0 +1,68 @@
+{
+  "id": 1293190581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.61667,15.33333,-83.61667,15.33333",
+    "geom:latitude":15.33333,
+    "geom:longitude":-83.61667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dapat",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612893,
+    "gn:latitude":15.33333,
+    "gn:longitude":-83.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dapat",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Dapat",
+        "Dapat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612893
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"2e312527bb5106a4d951a6a3e1176491",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1293190581,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293190581,
+    "wof:lastmodified":1537625770,
+    "wof:name":"Dapat",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.61667,
+    15.33333,
+    -83.61667,
+    15.33333
+],
+  "geometry": {"coordinates":[-83.61667,15.33333],"type":"Point"}
+}

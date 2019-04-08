@@ -1,0 +1,73 @@
+{
+  "id": 1293764785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.51487,16.31959,-86.51487,16.31959",
+    "geom:latitude":16.31959,
+    "geom:longitude":-86.51487,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Thatch Point",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600831,
+    "gn:latitude":16.31959,
+    "gn:longitude":-86.51487,
+    "gn:modification_date":"2014-07-05",
+    "gn:name":"Thatch Point",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thach",
+        "Tach Point",
+        "Thash Point",
+        "Thatch Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85671869,
+        421172431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600831
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b0758a28c4dca567f0dc2928fe0e4484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421172431,
+            "locality_id":1293764785,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":1293764785,
+    "wof:lastmodified":1537625563,
+    "wof:name":"Thatch Point",
+    "wof:parent_id":421172431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.51487,
+    16.31959,
+    -86.51487,
+    16.31959
+],
+  "geometry": {"coordinates":[-86.51487,16.31959],"type":"Point"}
+}

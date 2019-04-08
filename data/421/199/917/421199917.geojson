@@ -1,0 +1,95 @@
+{
+  "id": 421199917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.30253,14.58441,-88.30253,14.58441",
+    "geom:latitude":14.58441,
+    "geom:longitude":-88.30253,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Francisco de Opalaca"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco de Opalaca"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco de Opalaca"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco de Opalaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u5967\u5e15\u62c9\u5361"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":8062432,
+    "qs:gn_pop":7026,
+    "qs:name":"San Francisco de Opalaca",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "qs:qs_id":511789,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813776,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062432,
+        "gp:id":26813776,
+        "qs:id":511789,
+        "wd:id":"Q2393370"
+    },
+    "wof:country":"HN",
+    "wof:created":1459010005,
+    "wof:geomhash":"2b3e6540570194081dbb6749270b5bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421199917,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421199917,
+    "wof:lastmodified":1527716419,
+    "wof:name":"San Francisco de Opalaca",
+    "wof:parent_id":85671899,
+    "wof:placetype":"county",
+    "wof:population":7026,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.30253,
+    14.58441,
+    -88.30253,
+    14.58441
+],
+  "geometry": {"coordinates":[-88.30253,14.58441],"type":"Point"}
+}

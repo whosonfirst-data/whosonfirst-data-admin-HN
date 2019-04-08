@@ -1,0 +1,67 @@
+{
+  "id": 1226518581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.59,13.55389,-87.59,13.55389",
+    "geom:latitude":13.55389,
+    "geom:longitude":-87.59,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Juancho",
+    "gn:country_code":"HN",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608583,
+    "gn:latitude":13.55389,
+    "gn:longitude":-87.59,
+    "gn:modification_date":"2005-06-28",
+    "gn:name":"Juancho",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608583
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"01cfc5f8a7349075ac7707b0c2902b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1226518581,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1226518581,
+    "wof:lastmodified":1537035731,
+    "wof:name":"Juancho",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.59,
+    13.55389,
+    -87.59,
+    13.55389
+],
+  "geometry": {"coordinates":[-87.59,13.55389],"type":"Point"}
+}

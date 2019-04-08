@@ -1,0 +1,69 @@
+{
+  "id": 890430703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.95,14.9,-87.95,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-87.95,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1043,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Granja"
+    ],
+    "qs:name":"Agua Azul Rancho",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615556,
+        "gp:id":107278,
+        "qs:id":149436
+    },
+    "wof:country":"HN",
+    "wof:created":1469051863,
+    "wof:geomhash":"e6a5bdbe57af8e92aee59cd23dbc3797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170711,
+            "locality_id":890430703,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":890430703,
+    "wof:lastmodified":1505343520,
+    "wof:name":"Agua Azul Rancho",
+    "wof:parent_id":421170711,
+    "wof:placetype":"locality",
+    "wof:population":1043,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.95,
+    14.9,
+    -87.95,
+    14.9
+],
+  "geometry": {"coordinates":[-87.95,14.9],"type":"Point"}
+}

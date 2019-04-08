@@ -1,0 +1,107 @@
+{
+  "id": 421191395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.3,13.86667,-88.3,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-88.3,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u99ac\u683c\u9054\u840a\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Magdalena"
+    ],
+    "name:eng_x_preferred":[
+        "Magdalena"
+    ],
+    "name:fre_x_preferred":[
+        "Magdalena"
+    ],
+    "name:ita_x_preferred":[
+        "Magdalena"
+    ],
+    "name:lit_x_preferred":[
+        "Magdalena"
+    ],
+    "name:por_x_preferred":[
+        "Magdalena"
+    ],
+    "name:spa_x_preferred":[
+        "Magdalena"
+    ],
+    "name:swe_x_preferred":[
+        "Magdalena"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3605179,
+    "qs:gn_pop":966,
+    "qs:name":"Magdalena",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":62758,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813884,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605179,
+        "gp:id":26813884,
+        "qs:id":62758,
+        "wd:id":"Q2393454"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009690,
+    "wof:geomhash":"f8c0f04360df25d1b72bb52075235adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694735,
+            "locality_id":421191395,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":421191395,
+    "wof:lastmodified":1553816379,
+    "wof:name":"Magdalena",
+    "wof:parent_id":1108694735,
+    "wof:placetype":"locality",
+    "wof:population":966,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.3,
+    13.86667,
+    -88.3,
+    13.86667
+],
+  "geometry": {"coordinates":[-88.3,13.86667],"type":"Point"}
+}

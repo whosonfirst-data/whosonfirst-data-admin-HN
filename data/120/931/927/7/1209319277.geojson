@@ -1,0 +1,66 @@
+{
+  "id": 1209319277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,14.75,-88.93333,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Chiqueritos",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613591,
+    "gn:latitude":14.75,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chiqueritos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiquerito",
+        "Chiqueritos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613591
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"26885967f278c4fc5f4ac842415aba75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209319277
+        }
+    ],
+    "wof:id":1209319277,
+    "wof:lastmodified":1537625778,
+    "wof:name":"Chiqueritos",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    14.75,
+    -88.93333,
+    14.75
+],
+  "geometry": {"coordinates":[-88.93333,14.75],"type":"Point"}
+}

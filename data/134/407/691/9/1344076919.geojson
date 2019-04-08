@@ -1,0 +1,67 @@
+{
+  "id": 1344076919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.18333,14.01667,-87.18333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-87.18333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Santa Rosa",
+    "gn:country_code":"HN",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9179597,
+    "gn:latitude":14.01667,
+    "gn:longitude":-87.18333,
+    "gn:modification_date":"2014-07-03",
+    "gn:name":"Colonia Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179597
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"8d0ee282c3a17e4acbe42cf9e0001ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":1344076919,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1344076919,
+    "wof:lastmodified":1536850808,
+    "wof:name":"Colonia Santa Rosa",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.18333,
+    14.01667,
+    -87.18333,
+    14.01667
+],
+  "geometry": {"coordinates":[-87.18333,14.01667],"type":"Point"}
+}

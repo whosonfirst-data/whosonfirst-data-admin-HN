@@ -1,0 +1,117 @@
+{
+  "id": 421179843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.85,14.25,-87.85,14.25",
+    "geom:latitude":14.25,
+    "geom:longitude":-87.85,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u5716\u5716\u840a"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30c7\u30fb\u30c8\u30a5\u30c8\u30a5\u30fc\u30ec"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro de Tutule"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro Tutule"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f69\u5fb7\u7f85\u5fb7\u5716\u5716\u840a"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3601784,
+    "qs:gn_pop":1876,
+    "qs:name":"San Pedro de Tutule",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":214216,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107142,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421188519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601784,
+        "gp:id":107142,
+        "qs:id":214216,
+        "wd:id":"Q2201661",
+        "wk:page":"San Pedro de Tutule"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009235,
+    "wof:geomhash":"4bc8fa66ac4b9d90642b900b630edf3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188519,
+            "locality_id":421179843,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":421179843,
+    "wof:lastmodified":1514446881,
+    "wof:name":"San Pedro de Tutule",
+    "wof:parent_id":421188519,
+    "wof:placetype":"locality",
+    "wof:population":1876,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.85,
+    14.25,
+    -87.85,
+    14.25
+],
+  "geometry": {"coordinates":[-87.84999999999999,14.25],"type":"Point"}
+}

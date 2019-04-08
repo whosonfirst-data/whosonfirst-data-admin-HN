@@ -1,0 +1,67 @@
+{
+  "id": 1344053903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08472,13.69778,-87.08472,13.69778",
+    "geom:latitude":13.69778,
+    "geom:longitude":-87.08472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Estacado",
+    "gn:country_code":"HN",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611805,
+    "gn:latitude":13.69778,
+    "gn:longitude":-87.08472,
+    "gn:modification_date":"2004-07-09",
+    "gn:name":"El Estacado",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611805
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"aea8333b82af4e50e883b299c3cfced6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1344053903,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1344053903,
+    "wof:lastmodified":1536884554,
+    "wof:name":"El Estacado",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08471999999998,
+    13.69778,
+    -87.08471999999998,
+    13.69778
+],
+  "geometry": {"coordinates":[-87.08471999999998,13.69778],"type":"Point"}
+}

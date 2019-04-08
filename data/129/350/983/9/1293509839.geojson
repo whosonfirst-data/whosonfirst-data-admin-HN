@@ -1,0 +1,67 @@
+{
+  "id": 1293509839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.46028,13.71528,-87.46028,13.71528",
+    "geom:latitude":13.71528,
+    "geom:longitude":-87.46028,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Lagunitas",
+    "gn:country_code":"HN",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606686,
+    "gn:latitude":13.71528,
+    "gn:longitude":-87.46028,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Las Lagunitas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606686
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"42d77633f8fec8306631d2d4633158fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191365,
+            "locality_id":1293509839,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1293509839,
+    "wof:lastmodified":1536754914,
+    "wof:name":"Las Lagunitas",
+    "wof:parent_id":421191365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.46028000000003,
+    13.71528,
+    -87.46028000000003,
+    13.71528
+],
+  "geometry": {"coordinates":[-87.46028000000003,13.71528],"type":"Point"}
+}

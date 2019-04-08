@@ -1,0 +1,68 @@
+{
+  "id": 1293207985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.13333,16.0,-85.13333,16.0",
+    "geom:latitude":16.0,
+    "geom:longitude":-85.13333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarteneja",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601418,
+    "gn:latitude":16.0,
+    "gn:longitude":-85.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sarteneja",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Satanejo",
+        "Sartaneja",
+        "Sartenejo",
+        "Sarteneja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601418
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"de2815d2de5101d13d7f06a3d5ed9fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293207985,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293207985,
+    "wof:lastmodified":1537625570,
+    "wof:name":"Sarteneja",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.13333,
+    16.0,
+    -85.13333,
+    16.0
+],
+  "geometry": {"coordinates":[-85.13333,16.0],"type":"Point"}
+}

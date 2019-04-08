@@ -1,0 +1,83 @@
+{
+  "id": 421167955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.4,13.98333,-86.4,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-86.4,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3608522,
+    "qs:gn_pop":1153,
+    "qs:name":"Jutiapa",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"El Para\u00edso",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201257,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102433,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":895.0,
+    "wd:latitude":14.282778,
+    "wd:longitude":-89.8925,
+    "wd:wordcount":93,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421203561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608522,
+        "gp:id":102433,
+        "qs:id":1201257
+    },
+    "wof:country":"HN",
+    "wof:created":1459008749,
+    "wof:geomhash":"0826d510ab6335414d25ab512ca60c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203561,
+            "locality_id":421167955,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":421167955,
+    "wof:lastmodified":1527716153,
+    "wof:name":"Jutiapa",
+    "wof:parent_id":421203561,
+    "wof:placetype":"locality",
+    "wof:population":1153,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.4,
+    13.98333,
+    -86.4,
+    13.98333
+],
+  "geometry": {"coordinates":[-86.40000000000001,13.98333],"type":"Point"}
+}

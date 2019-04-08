@@ -1,0 +1,72 @@
+{
+  "id": 1276308591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05,15.35,-87.05,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":-87.05,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Soringo",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601198,
+    "gn:latitude":15.35,
+    "gn:longitude":-87.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Soringo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorringo",
+        "Soringo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421191673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601198
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"eaef3e234643ad0700771c1932a28275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191673,
+            "locality_id":1276308591,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1276308591,
+    "wof:lastmodified":1537625567,
+    "wof:name":"Soringo",
+    "wof:parent_id":421191673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05,
+    15.35,
+    -87.05,
+    15.35
+],
+  "geometry": {"coordinates":[-87.05,15.35],"type":"Point"}
+}

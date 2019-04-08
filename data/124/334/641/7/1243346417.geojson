@@ -1,0 +1,67 @@
+{
+  "id": 1243346417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.25,14.6,-86.25,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-86.25,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Las Guacamayas",
+    "gn:country_code":"HN",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606748,
+    "gn:latitude":14.6,
+    "gn:longitude":-86.25,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Guacamayas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671877,
+        1108701673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606748
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4dedf6e74fc2a0279f5cbb5cfa4695f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701673,
+            "locality_id":1243346417,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":1243346417,
+    "wof:lastmodified":1536950094,
+    "wof:name":"Las Guacamayas",
+    "wof:parent_id":1108701673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.25,
+    14.6,
+    -86.25,
+    14.6
+],
+  "geometry": {"coordinates":[-86.25,14.6],"type":"Point"}
+}

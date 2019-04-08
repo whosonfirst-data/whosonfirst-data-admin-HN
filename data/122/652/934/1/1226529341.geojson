@@ -1,0 +1,67 @@
+{
+  "id": 1226529341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.94889,13.90417,-87.94889,13.90417",
+    "geom:latitude":13.90417,
+    "geom:longitude":-87.94889,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Agua Caliente",
+    "gn:country_code":"HN",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615488,
+    "gn:latitude":13.90417,
+    "gn:longitude":-87.94889,
+    "gn:modification_date":"2005-09-07",
+    "gn:name":"Agua Caliente",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421182967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615488
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a3084bbc3b5431eb15b8f40539c2d9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182967,
+            "locality_id":1226529341,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":1226529341,
+    "wof:lastmodified":1537020809,
+    "wof:name":"Agua Caliente",
+    "wof:parent_id":421182967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.94889,
+    13.90417,
+    -87.94889,
+    13.90417
+],
+  "geometry": {"coordinates":[-87.94889000000001,13.90417],"type":"Point"}
+}

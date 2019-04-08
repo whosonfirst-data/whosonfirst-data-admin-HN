@@ -1,0 +1,80 @@
+{
+  "id": 421179343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23333,14.7,-86.23333,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-86.23333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3608142,
+    "qs:gn_pop":1985,
+    "qs:name":"La Concepci\u00f3n",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Olancho",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149349,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102717,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671877,
+        1108701673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608142,
+        "gp:id":102717,
+        "qs:id":149349
+    },
+    "wof:country":"HN",
+    "wof:created":1459009212,
+    "wof:geomhash":"c103afcd0b8a8babf705b17413035cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701673,
+            "locality_id":421179343,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":421179343,
+    "wof:lastmodified":1527717717,
+    "wof:name":"La Concepci\u00f3n",
+    "wof:parent_id":1108701673,
+    "wof:placetype":"locality",
+    "wof:population":1985,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23333,
+    14.7,
+    -86.23333,
+    14.7
+],
+  "geometry": {"coordinates":[-86.23333,14.7],"type":"Point"}
+}

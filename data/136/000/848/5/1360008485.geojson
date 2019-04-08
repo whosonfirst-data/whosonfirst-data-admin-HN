@@ -1,0 +1,72 @@
+{
+  "id": 1360008485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.11667,14.96667,-89.11667,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-89.11667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Cuchilla del Alto",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613027,
+    "gn:latitude":14.96667,
+    "gn:longitude":-89.11667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cuchilla del Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cuchilla de Alto",
+        "Cuchilla del Alto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421203999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613027
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e79d7172134f88d19677782dc29dc6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203999,
+            "locality_id":1360008485,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1360008485,
+    "wof:lastmodified":1537625771,
+    "wof:name":"Cuchilla del Alto",
+    "wof:parent_id":421203999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.11667,
+    14.96667,
+    -89.11667,
+    14.96667
+],
+  "geometry": {"coordinates":[-89.11667,14.96667],"type":"Point"}
+}

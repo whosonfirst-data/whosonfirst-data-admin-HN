@@ -1,0 +1,62 @@
+{
+  "id": 1209585343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.2,15.11667,-88.2,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":-88.2,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Chinda",
+    "gn:country_code":"HN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613601,
+    "gn:latitude":15.11667,
+    "gn:longitude":-88.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chinda",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613601,
+        "wk:page":"Chinda"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"26ce985267b116967a48c50f0894f76a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209585343
+        }
+    ],
+    "wof:id":1209585343,
+    "wof:lastmodified":1537563270,
+    "wof:name":"Chinda",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.2,
+    15.11667,
+    -88.2,
+    15.11667
+],
+  "geometry": {"coordinates":[-88.2,15.11667],"type":"Point"}
+}

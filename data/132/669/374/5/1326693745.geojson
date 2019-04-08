@@ -1,0 +1,67 @@
+{
+  "id": 1326693745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.7,13.48333,-87.7,13.48333",
+    "geom:latitude":13.48333,
+    "geom:longitude":-87.7,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Estero",
+    "gn:country_code":"HN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611804,
+    "gn:latitude":13.48333,
+    "gn:longitude":-87.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Estero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421191085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611804
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"949b6f8d9bff5e47e678adfc42208ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191085,
+            "locality_id":1326693745,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1326693745,
+    "wof:lastmodified":1536751255,
+    "wof:name":"El Estero",
+    "wof:parent_id":421191085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.7,
+    13.48333,
+    -87.7,
+    13.48333
+],
+  "geometry": {"coordinates":[-87.7,13.48333],"type":"Point"}
+}

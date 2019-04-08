@@ -1,0 +1,362 @@
+{
+  "id": 421169093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.025,15.50417,-88.025,15.50417",
+    "geom:latitude":15.50417,
+    "geom:longitude":-88.025,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0628\u064a\u062f\u0631\u0648 \u0633\u0648\u0644\u0627"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576 \u054a\u0565\u0564\u0580\u0578 \u054d\u0578\u0582\u056c\u0561"
+    ],
+    "name:baq_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u0430-\u0421\u0443\u043b\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09aa\u09c7\u09a1\u09cd\u09b0\u09cb \u09b8\u09cb\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u041f\u0435\u0434\u0440\u043e \u0421\u0443\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:chi_x_preferred":[
+        "\u5723\u4f69\u5fb7\u7f57\u82cf\u62c9"
+    ],
+    "name:cze_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:dan_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:deu_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:dut_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:eng_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:epo_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:est_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:fin_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:fra_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:fre_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ger_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd \u03a0\u03ad\u03b4\u03c1\u03bf \u03a3\u03bf\u03cd\u03bb\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8 \u0aaa\u0ac7\u0aa1\u0acd\u0ab0\u0acb \u0ab8\u0ac1\u0ab2\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05e4\u05d3\u05e8\u05d5 \u05e1\u05d5\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u092a\u0947\u0926\u094d\u0930\u094b \u0938\u0941\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ido_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ile_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ind_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ita_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30b9\u30fc\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd \u0caa\u0cc6\u0ca1\u0ccd\u0cb0\u0cca \u0cb8\u0cc1\u0cb2\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud398\ub4dc\ub85c\uc220\ub77c"
+    ],
+    "name:lad_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:lav_x_preferred":[
+        "Sanpedro Sula"
+    ],
+    "name:lit_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0928 \u092a\u0947\u0926\u094d\u0930\u094b \u0938\u0941\u0932\u093e"
+    ],
+    "name:may_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:nah_x_preferred":[
+        "San Pedro Z\u014dll\u0101n"
+    ],
+    "name:nan_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:nld_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:nob_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646 \u067e\u062f\u0631\u0648 \u0633\u0648\u0644\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:por_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0421\u0443\u043b\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca \u0db4\u0dd9\u0daf\u0dca\u200d\u0dbb\u0ddd \u0dc3\u0dd4\u0dbd\u0dcf"
+    ],
+    "name:slo_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:spa_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:srd_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:swe_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd  \u0baa\u0bc7\u0b9f\u0bcd\u0bb0\u0bbe  \u0b9a\u0bc1\u0b95\u0bcd\u0bb2\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c28\u0c4d \u0c2a\u0c46\u0c21\u0c4d\u0c30\u0c4b \u0c38\u0c41\u0c32"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e32\u0e19\u0e40\u0e1b\u0e42\u0e14\u0e23\u0e0b\u0e39\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u043e-\u0421\u0443\u043b\u0430"
+    ],
+    "name:unk_x_variant":[
+        "San Pedro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u067e\u06cc\u0688\u0631\u0648 \u0633\u0648\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:war_x_preferred":[
+        "San Pedro Sula"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u4f69\u5fb7\u7f57\u82cf\u62c9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Cort\u00e9s",
+    "ne:ADMIN1_COD":6,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Location adjusted. Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3601782,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"San Pedro Sula",
+    "ne:GN_POP":489466,
+    "ne:GTOPO30":84.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.500022,
+    "ne:LONGITUDE":-88.029986,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"San Pedro Sula",
+    "ne:MAX_AREAKM":98.0,
+    "ne:MAX_AREAMI":38.0,
+    "ne:MAX_BBXMAX":-87.925,
+    "ne:MAX_BBXMIN":-88.058333,
+    "ne:MAX_BBYMAX":15.591667,
+    "ne:MAX_BBYMIN":15.45,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":93.0,
+    "ne:MAX_PERMI":58.0,
+    "ne:MAX_POP10":680091,
+    "ne:MAX_POP20":680091,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-87.995553,
+    "ne:MEAN_BBYC":15.514601,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":98.0,
+    "ne:MIN_AREAMI":38.0,
+    "ne:MIN_BBXMAX":-87.925,
+    "ne:MIN_BBXMIN":-88.058333,
+    "ne:MIN_BBYMAX":15.591667,
+    "ne:MIN_BBYMIN":15.45,
+    "ne:MIN_PERKM":93.0,
+    "ne:MIN_PERMI":58.0,
+    "ne:NAME":"San Pedro Sula",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"San Pedro Sula",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":680091,
+    "ne:POP_MIN":489466,
+    "ne:POP_OTHER":680253,
+    "ne:RANK_MAX":11,
+    "ne:RANK_MIN":10,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3601782,
+    "qs:gn_pop":489466,
+    "qs:name":"San Pedro Sula",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Cort\u00e9s",
+    "qs:photos":1118,
+    "qs:photos_1k":227,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1118,
+    "qs:photos_sr":11,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"11",
+    "qs:qs_id":211094,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107143,
+    "src:geom":"quattroshapes",
+    "src:population":"wk",
+    "wd:elevation":83.0,
+    "wd:latitude":15.5,
+    "wd:longitude":-88.033333,
+    "wd:population":1073824,
+    "wd:wordcount":1457,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601782,
+        "gp:id":107143,
+        "qs:id":211094,
+        "wd:id":"Q274584",
+        "wk:page":"San Pedro Sula"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008794,
+    "wof:geomhash":"c4079b4e931e4072294ef65a94d646c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170709,
+            "locality_id":421169093,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":421169093,
+    "wof:lastmodified":1527716175,
+    "wof:name":"San Pedro Sula",
+    "wof:parent_id":421170709,
+    "wof:placetype":"locality",
+    "wof:population":1073824,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.025,
+    15.50417,
+    -88.025,
+    15.50417
+],
+  "geometry": {"coordinates":[-88.02500000000001,15.50417],"type":"Point"}
+}

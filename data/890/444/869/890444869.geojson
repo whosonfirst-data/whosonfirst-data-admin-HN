@@ -1,0 +1,66 @@
+{
+  "id": 890444869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.68333,15.1,-88.68333,15.1",
+    "geom:latitude":15.1,
+    "geom:longitude":-88.68333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":2008,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chalmeca",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        1108701677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613708,
+        "gp:id":98890,
+        "qs:id":1045706
+    },
+    "wof:country":"HN",
+    "wof:created":1469052485,
+    "wof:geomhash":"9ca578e4d2aa26d23eccf9732a1acb41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701677,
+            "locality_id":890444869,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":890444869,
+    "wof:lastmodified":1505343601,
+    "wof:name":"Chalmeca",
+    "wof:parent_id":1108701677,
+    "wof:placetype":"locality",
+    "wof:population":2008,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.68333,
+    15.1,
+    -88.68333,
+    15.1
+],
+  "geometry": {"coordinates":[-88.68333,15.1],"type":"Point"}
+}

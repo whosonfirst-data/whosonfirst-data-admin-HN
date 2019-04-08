@@ -1,0 +1,67 @@
+{
+  "id": 1243425925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5,13.65,-87.5,13.65",
+    "geom:latitude":13.65,
+    "geom:longitude":-87.5,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Los Alonzos",
+    "gn:country_code":"HN",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605801,
+    "gn:latitude":13.65,
+    "gn:longitude":-87.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Alonzos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605801
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"05bbae02e82990831201861d58cd6842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1243425925,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1243425925,
+    "wof:lastmodified":1536834122,
+    "wof:name":"Los Alonzos",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5,
+    13.65,
+    -87.5,
+    13.65
+],
+  "geometry": {"coordinates":[-87.5,13.65],"type":"Point"}
+}

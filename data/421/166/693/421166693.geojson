@@ -1,0 +1,82 @@
+{
+  "id": 421166693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.56667,15.68333,-86.56667,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":-86.56667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Piedras Amarilas"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3603696,
+    "qs:gn_pop":999,
+    "qs:name":"Piedras Amarillas",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Atl\u00e1ntida",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":269707,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":105819,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671851,
+        421188767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603696,
+        "gp:id":105819,
+        "qs:id":269707
+    },
+    "wof:country":"HN",
+    "wof:created":1459008699,
+    "wof:geomhash":"0b457b4668206976c0710e98a081c146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188767,
+            "locality_id":421166693,
+            "region_id":85671851
+        }
+    ],
+    "wof:id":421166693,
+    "wof:lastmodified":1505340582,
+    "wof:name":"Piedras Amarillas",
+    "wof:parent_id":421188767,
+    "wof:placetype":"locality",
+    "wof:population":999,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.56667,
+    15.68333,
+    -86.56667,
+    15.68333
+],
+  "geometry": {"coordinates":[-86.56667,15.68333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1276762763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8,14.8,-87.8,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-87.8,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Los Globos",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605602,
+    "gn:latitude":14.8,
+    "gn:longitude":-87.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Los Globos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Globos",
+        "Los Globos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421181805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605602
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"743e9a6cc0c79fd46fb3f9d15c296d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181805,
+            "locality_id":1276762763,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":1276762763,
+    "wof:lastmodified":1537625617,
+    "wof:name":"Los Globos",
+    "wof:parent_id":421181805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8,
+    14.8,
+    -87.8,
+    14.8
+],
+  "geometry": {"coordinates":[-87.8,14.8],"type":"Point"}
+}

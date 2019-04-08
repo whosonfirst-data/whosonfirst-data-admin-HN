@@ -1,0 +1,67 @@
+{
+  "id": 1259976347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.09139,13.64056,-87.09139,13.64056",
+    "geom:latitude":13.64056,
+    "geom:longitude":-87.09139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Lorenzo",
+    "gn:country_code":"HN",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601975,
+    "gn:latitude":13.64056,
+    "gn:longitude":-87.09139,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"San Lorenzo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601975
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"2f9d2b74a2645568a79a420dac552cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1259976347,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1259976347,
+    "wof:lastmodified":1536644883,
+    "wof:name":"San Lorenzo",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.09139,
+    13.64056,
+    -87.09139,
+    13.64056
+],
+  "geometry": {"coordinates":[-87.09139,13.64056],"type":"Point"}
+}

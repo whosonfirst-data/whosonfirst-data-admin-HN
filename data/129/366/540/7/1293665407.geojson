@@ -1,0 +1,67 @@
+{
+  "id": 1293665407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.48333,13.61667,-87.48333,13.61667",
+    "geom:latitude":13.61667,
+    "geom:longitude":-87.48333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Quemadero",
+    "gn:country_code":"HN",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610576,
+    "gn:latitude":13.61667,
+    "gn:longitude":-87.48333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Quemadero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610576
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"77d5281d3984ce46a49d8aef6be90afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1293665407,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1293665407,
+    "wof:lastmodified":1537026664,
+    "wof:name":"El Quemadero",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.48333000000002,
+    13.61667,
+    -87.48333000000002,
+    13.61667
+],
+  "geometry": {"coordinates":[-87.48333000000002,13.61667],"type":"Point"}
+}

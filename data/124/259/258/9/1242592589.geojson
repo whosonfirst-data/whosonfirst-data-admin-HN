@@ -1,0 +1,67 @@
+{
+  "id": 1242592589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.98744,14.73705,-84.98744,14.73705",
+    "geom:latitude":14.73705,
+    "geom:longitude":-84.98744,
+    "gn:asciiname":"Siksayali",
+    "gn:country_code":"HN",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3616282,
+    "gn:latitude":14.73705,
+    "gn:longitude":-84.98744,
+    "gn:modification_date":"2014-06-03",
+    "gn:name":"Siksayali",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sika Yari",
+        "Siksayari",
+        "Siksayali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3616282
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1c30e394fd1492deb6f565261efff775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1242592589,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242592589,
+    "wof:lastmodified":1537625798,
+    "wof:name":"Siksayali",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.98744,
+    14.73705,
+    -84.98744,
+    14.73705
+],
+  "geometry": {"coordinates":[-84.98744000000001,14.73705],"type":"Point"}
+}

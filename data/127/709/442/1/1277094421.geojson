@@ -1,0 +1,67 @@
+{
+  "id": 1277094421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.38333,13.8,-88.38333,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-88.38333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Junquillo",
+    "gn:country_code":"HN",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608548,
+    "gn:latitude":13.8,
+    "gn:longitude":-88.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Junquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608548
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"afe7b9bbf8287f15e6a2f4894740cfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694949,
+            "locality_id":1277094421,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1277094421,
+    "wof:lastmodified":1536750723,
+    "wof:name":"Junquillo",
+    "wof:parent_id":1108694949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.38333,
+    13.8,
+    -88.38333,
+    13.8
+],
+  "geometry": {"coordinates":[-88.38333,13.8],"type":"Point"}
+}

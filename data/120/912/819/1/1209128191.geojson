@@ -1,0 +1,61 @@
+{
+  "id": 1209128191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1,15.38333,-88.1,15.38333",
+    "geom:latitude":15.38333,
+    "geom:longitude":-88.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Pita",
+    "gn:country_code":"HN",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3607169,
+    "gn:latitude":15.38333,
+    "gn:longitude":-88.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Pita",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607169
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e867032e226479eb2498f0f5ee949fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209128191
+        }
+    ],
+    "wof:id":1209128191,
+    "wof:lastmodified":1536296890,
+    "wof:name":"La Pita",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1,
+    15.38333,
+    -88.1,
+    15.38333
+],
+  "geometry": {"coordinates":[-88.09999999999999,15.38333],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421180275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.91667,15.76667,-85.91667,15.76667",
+    "geom:latitude":15.76667,
+    "geom:longitude":-85.91667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Quebrada Arena"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3603097,
+    "qs:gn_pop":2723,
+    "qs:name":"Quebrada de Arena",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201295,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106232,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421188783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603097,
+        "gp:id":106232,
+        "qs:id":1201295
+    },
+    "wof:country":"HN",
+    "wof:created":1459009250,
+    "wof:geomhash":"3de72293a0a346edeebe82c57a701443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188783,
+            "locality_id":421180275,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":421180275,
+    "wof:lastmodified":1505340647,
+    "wof:name":"Quebrada de Arena",
+    "wof:parent_id":421188783,
+    "wof:placetype":"locality",
+    "wof:population":2723,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.91667,
+    15.76667,
+    -85.91667,
+    15.76667
+],
+  "geometry": {"coordinates":[-85.91667,15.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276438615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.03333,13.63333,-87.03333,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-87.03333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Quebrada Hipanta",
+    "gn:country_code":"HN",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603065,
+    "gn:latitude":13.63333,
+    "gn:longitude":-87.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Quebrada Hipanta",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603065
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"7f5a4755796d9f02133855e5346bb6bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1276438615,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1276438615,
+    "wof:lastmodified":1536636382,
+    "wof:name":"Quebrada Hipanta",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.03333,
+    13.63333,
+    -87.03333,
+    13.63333
+],
+  "geometry": {"coordinates":[-87.03333000000001,13.63333],"type":"Point"}
+}

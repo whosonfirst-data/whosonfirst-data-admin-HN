@@ -1,0 +1,67 @@
+{
+  "id": 1360256681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.67472,13.65639,-87.67472,13.65639",
+    "geom:latitude":13.65639,
+    "geom:longitude":-87.67472,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Lajero",
+    "gn:country_code":"HN",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826125,
+    "gn:latitude":13.65639,
+    "gn:longitude":-87.67472,
+    "gn:modification_date":"2005-06-28",
+    "gn:name":"Lajero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421182583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826125
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"ff6ff111e109b384ddc9a7abd799a1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182583,
+            "locality_id":1360256681,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1360256681,
+    "wof:lastmodified":1536698435,
+    "wof:name":"Lajero",
+    "wof:parent_id":421182583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.67472,
+    13.65639,
+    -87.67472,
+    13.65639
+],
+  "geometry": {"coordinates":[-87.67471999999999,13.65639],"type":"Point"}
+}

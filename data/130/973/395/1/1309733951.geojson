@@ -1,0 +1,73 @@
+{
+  "id": 1309733951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.9,15.45,-87.9,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":-87.9,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Copen",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613211,
+    "gn:latitude":15.45,
+    "gn:longitude":-87.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cop\u00e9n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Copen Aldea",
+        "Copan Aldea",
+        "Cop\u00e9n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421204279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613211
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4c0e982b052dce823358b5aa27bf0ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204279,
+            "locality_id":1309733951,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1309733951,
+    "wof:lastmodified":1537625773,
+    "wof:name":"Copen",
+    "wof:parent_id":421204279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.9,
+    15.45,
+    -87.9,
+    15.45
+],
+  "geometry": {"coordinates":[-87.90000000000001,15.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259478731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.27028,13.78222,-87.27028,13.78222",
+    "geom:latitude":13.78222,
+    "geom:longitude":-87.27028,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Naranjos",
+    "gn:country_code":"HN",
+    "gn:dem":891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820554,
+    "gn:latitude":13.78222,
+    "gn:longitude":-87.27028,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Los Naranjos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820554
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6e234df5b210127e2724872657538925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182957,
+            "locality_id":1259478731,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1259478731,
+    "wof:lastmodified":1536864325,
+    "wof:name":"Los Naranjos",
+    "wof:parent_id":421182957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.27028,
+    13.78222,
+    -87.27028,
+    13.78222
+],
+  "geometry": {"coordinates":[-87.27028,13.78222],"type":"Point"}
+}

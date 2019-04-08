@@ -1,0 +1,67 @@
+{
+  "id": 1343552905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05,13.66667,-87.05,13.66667",
+    "geom:latitude":13.66667,
+    "geom:longitude":-87.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Portillo",
+    "gn:country_code":"HN",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610743,
+    "gn:latitude":13.66667,
+    "gn:longitude":-87.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Portillo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610743
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"769e49a8470b3d360d1389aa0cd16bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1343552905,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1343552905,
+    "wof:lastmodified":1536610236,
+    "wof:name":"El Portillo",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05,
+    13.66667,
+    -87.05,
+    13.66667
+],
+  "geometry": {"coordinates":[-87.05,13.66667],"type":"Point"}
+}

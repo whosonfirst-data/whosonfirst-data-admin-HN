@@ -1,0 +1,67 @@
+{
+  "id": 1343581241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.50417,13.82278,-87.50417,13.82278",
+    "geom:latitude":13.82278,
+    "geom:longitude":-87.50417,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Guapinol",
+    "gn:country_code":"HN",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826190,
+    "gn:latitude":13.82278,
+    "gn:longitude":-87.50417,
+    "gn:modification_date":"2005-07-06",
+    "gn:name":"El Guapinol",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421194945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826190
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"79c8119ab888f5479698fe99d497aea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421194945,
+            "locality_id":1343581241,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1343581241,
+    "wof:lastmodified":1537066600,
+    "wof:name":"El Guapinol",
+    "wof:parent_id":421194945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.50417,
+    13.82278,
+    -87.50417,
+    13.82278
+],
+  "geometry": {"coordinates":[-87.50417,13.82278],"type":"Point"}
+}

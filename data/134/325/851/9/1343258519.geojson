@@ -1,0 +1,63 @@
+{
+  "id": 1343258519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.31667,14.65,-84.31667,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-84.31667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ipiri",
+    "gn:country_code":"HN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608830,
+    "gn:latitude":14.65,
+    "gn:longitude":-84.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ipiri",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608830
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"ca36545ab4608d79ceb30a8b4a56a352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1343258519,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343258519,
+    "wof:lastmodified":1537036147,
+    "wof:name":"Ipiri",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.31667,
+    14.65,
+    -84.31667,
+    14.65
+],
+  "geometry": {"coordinates":[-84.31667,14.65],"type":"Point"}
+}

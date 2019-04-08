@@ -1,0 +1,74 @@
+{
+  "id": 1292901177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.15,15.4,-88.15,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-88.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cofradia",
+    "gn:country_code":"HN",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613394,
+    "gn:latitude":15.4,
+    "gn:longitude":-88.15,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Cofrad\u00eda",
+    "gn:population":20353,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cofrad\u00eda"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613394,
+        "wk:page":"Cofrad%C3%ADa%2C_Cort%C3%A9s"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1125b2e061ca897a2c09a558dd337c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170709,
+            "locality_id":1292901177,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1292901177,
+    "wof:lastmodified":1537625775,
+    "wof:name":"Cofradia",
+    "wof:parent_id":421170709,
+    "wof:placetype":"locality",
+    "wof:population":20353,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.15,
+    15.4,
+    -88.15,
+    15.4
+],
+  "geometry": {"coordinates":[-88.15000000000001,15.4],"type":"Point"}
+}

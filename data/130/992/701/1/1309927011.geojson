@@ -1,0 +1,73 @@
+{
+  "id": 1309927011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.73333,14.08333,-86.73333,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-86.73333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Junquillo",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611455,
+    "gn:latitude":14.08333,
+    "gn:longitude":-86.73333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Junquillo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Junquillos",
+        "Junquillo",
+        "El Junquillo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        1108701691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611455
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"ef4e1320ab3716bbba99c7acef9bb370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701691,
+            "locality_id":1309927011,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1309927011,
+    "wof:lastmodified":1537625729,
+    "wof:name":"El Junquillo",
+    "wof:parent_id":1108701691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.73333000000002,
+    14.08333,
+    -86.73333000000002,
+    14.08333
+],
+  "geometry": {"coordinates":[-86.73333000000002,14.08333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890440993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91667,14.63333,-87.91667,14.63333",
+    "geom:latitude":14.63333,
+    "geom:longitude":-87.91667,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1092,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Socorro"
+    ],
+    "qs:name":"El Socorro",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421188781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610278,
+        "gp:id":107478,
+        "qs:id":149372,
+        "wk:page":"El Socorro"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052305,
+    "wof:geomhash":"b5ccbcadd8033758f498a0e3a6f57841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188781,
+            "locality_id":890440993,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":890440993,
+    "wof:lastmodified":1527727106,
+    "wof:name":"El Socorro",
+    "wof:parent_id":421188781,
+    "wof:placetype":"locality",
+    "wof:population":1092,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91667,
+    14.63333,
+    -87.91667,
+    14.63333
+],
+  "geometry": {"coordinates":[-87.91667,14.63333],"type":"Point"}
+}

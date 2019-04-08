@@ -1,0 +1,297 @@
+{
+  "id": 421172759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.23611,14.91944,-88.23611,14.91944",
+    "geom:latitude":14.91944,
+    "geom:longitude":-88.23611,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0627\u0631\u0627\u060c \u0647\u0646\u062f\u0648\u0631\u0627\u0633"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0576\u057f\u0561 \u0532\u0561\u0580\u0562\u0561\u0580\u0561"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ac\u09be\u09b0\u09ac\u09be\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5df4\u5df4\u62c9"
+    ],
+    "name:dan_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:dut_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:eng_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fin_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fra_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:fre_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ac\u03bd\u03c4\u03b1 \u039c\u03c0\u03ac\u03c1\u03bc\u03c0\u03b1\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abe\u0a82\u0aa4\u0abe \u0aac\u0abe\u0ab0\u0acd\u0aac\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u092c\u093e\u0930\u092c\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:ita_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30bf\u30fb\u30d0\u30eb\u30d0\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbe\u0c82\u0ca4 \u0cac\u0cbe\u0cb0\u0ccd\u0cac\u0cb0\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0\ud0c0\ubc14\ub974\ubc14\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Santabarbara"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093e\u0902\u0924\u093e \u092c\u093e\u0930\u092c\u0930\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:nan_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:nld_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:nob_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:pol_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:por_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd0\u0db1\u0dca\u0da7\u0dcf \u0db6\u0dcf\u0db6\u0dbb\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:swe_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3e\u0c02\u0c1f\u0c3e \u0c2c\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e0b\u0e19\u0e15\u0e32\u0e1a\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u062a\u0627 \u0628\u0627\u0631\u0628\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Santa Barbara"
+    ],
+    "name:war_x_preferred":[
+        "Santa B\u00e1rbara"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Santa B\u00e1rbara",
+    "ne:ADMIN1_COD":16,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3601691,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Santa Barbara",
+    "ne:GN_POP":15119,
+    "ne:GTOPO30":264.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":14.919003,
+    "ne:LONGITUDE":-88.236,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Santa Barbara",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Santa Barbara",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":15119,
+    "ne:POP_MIN":15119,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":6,
+    "ne:RANK_MIN":6,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3601691,
+    "qs:gn_pop":15119,
+    "qs:name":"Santa B\u00e1rbara",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Santa B\u00e1rbara",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":274444,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107231,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":14.91667,
+    "wd:longitude":-88.23333,
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421170949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601691,
+        "gp:id":107231,
+        "qs:id":274444,
+        "wd:id":"Q2283714",
+        "wk:page":"Santa B\u00e1rbara, Honduras"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008954,
+    "wof:geomhash":"c2417c553c440ed7e6b5a2aed674338a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170949,
+            "locality_id":421172759,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":421172759,
+    "wof:lastmodified":1553816363,
+    "wof:name":"Santa B\u00e1rbara",
+    "wof:parent_id":421170949,
+    "wof:placetype":"locality",
+    "wof:population":15119,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.23611,
+    14.91944,
+    -88.23611,
+    14.91944
+],
+  "geometry": {"coordinates":[-88.23611,14.91944],"type":"Point"}
+}

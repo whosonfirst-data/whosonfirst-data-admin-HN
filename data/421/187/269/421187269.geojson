@@ -1,0 +1,104 @@
+{
+  "id": 421187269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.25,14.28333,-88.25,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":-88.25,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u4e9e\u99ac\u862d\u5409\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:eng_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:fre_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:ita_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:por_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:spa_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0645\u0627\u0631\u0627\u0646\u06af\u06cc\u0644\u0627"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3600254,
+    "qs:gn_pop":1187,
+    "qs:name":"Yamaranguila",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":569,
+    "qs:photos_1k":115,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":569,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1082626,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":108090,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899,
+        421181669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600254,
+        "gp:id":108090,
+        "qs:id":1082626,
+        "wd:id":"Q2394043"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009507,
+    "wof:geomhash":"6c808040f6fd14c8050e279ff78f9bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181669,
+            "locality_id":421187269,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421187269,
+    "wof:lastmodified":1514447229,
+    "wof:name":"Yamaranguila",
+    "wof:parent_id":421181669,
+    "wof:placetype":"locality",
+    "wof:population":1187,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.25,
+    14.28333,
+    -88.25,
+    14.28333
+],
+  "geometry": {"coordinates":[-88.25,14.28333],"type":"Point"}
+}

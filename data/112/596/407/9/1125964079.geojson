@@ -1,0 +1,81 @@
+{
+  "id": 1125964079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83333,15.23333,-87.83333,15.23333",
+    "geom:latitude":15.23333,
+    "geom:longitude":-87.83333,
+    "gn:gn_country":"HN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2188,
+    "gn:population":2188,
+    "iso:country":"HN",
+    "lbl:latitude":15.23333,
+    "lbl:longitude":-87.83333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Sarrosa"
+    ],
+    "qs_pg:aaroncc":"HN",
+    "qs_pg:gn_country":"HN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3607003,
+    "qs_pg:gn_pop":2188,
+    "qs_pg:name":"La Sarrosa",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":149326,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607003,
+        "qs_pg:id":149326
+    },
+    "wof:country":"HN",
+    "wof:created":1497297908,
+    "wof:geomhash":"5ffe4677d026ae13d3fefa0633f73749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":1125964079,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1125964079,
+    "wof:lastmodified":1509403509,
+    "wof:name":"La Sarrosa",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:population":2188,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83333,
+    15.23333,
+    -87.83333,
+    15.23333
+],
+  "geometry": {"coordinates":[-87.83333,15.23333],"type":"Point"}
+}

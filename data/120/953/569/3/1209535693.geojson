@@ -1,0 +1,66 @@
+{
+  "id": 1209535693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.07667,13.82806,-87.07667,13.82806",
+    "geom:latitude":13.82806,
+    "geom:longitude":-87.07667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Reducto",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610539,
+    "gn:latitude":13.82806,
+    "gn:longitude":-87.07667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Reducto",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Reducto",
+        "Reducto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610539
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"766707da6b15904c766f10b264e5e22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209535693
+        }
+    ],
+    "wof:id":1209535693,
+    "wof:lastmodified":1537625702,
+    "wof:name":"Reducto",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.07667,
+    13.82806,
+    -87.07667,
+    13.82806
+],
+  "geometry": {"coordinates":[-87.07666999999999,13.82806],"type":"Point"}
+}

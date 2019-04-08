@@ -1,0 +1,67 @@
+{
+  "id": 1310114697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.02917,13.41833,-87.02917,13.41833",
+    "geom:latitude":13.41833,
+    "geom:longitude":-87.02917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chaguite Negro",
+    "gn:country_code":"HN",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819070,
+    "gn:latitude":13.41833,
+    "gn:longitude":-87.02917,
+    "gn:modification_date":"2004-02-12",
+    "gn:name":"Chag\u00fcite Negro",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421193685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819070
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"14647e3b50c7b65742ecb8b0ce3277a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421193685,
+            "locality_id":1310114697,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1310114697,
+    "wof:lastmodified":1536982417,
+    "wof:name":"Chaguite Negro",
+    "wof:parent_id":421193685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.02917,
+    13.41833,
+    -87.02917,
+    13.41833
+],
+  "geometry": {"coordinates":[-87.02916999999999,13.41833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259590589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71667,15.81667,-85.71667,15.81667",
+    "geom:latitude":15.81667,
+    "geom:longitude":-85.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Piedra Blanca",
+    "gn:country_code":"HN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603751,
+    "gn:latitude":15.81667,
+    "gn:longitude":-85.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Piedra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421169619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603751
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6d73385542c331b49008d66c0ba65d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421169619,
+            "locality_id":1259590589,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":1259590589,
+    "wof:lastmodified":1536704784,
+    "wof:name":"Piedra Blanca",
+    "wof:parent_id":421169619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71667,
+    15.81667,
+    -85.71667,
+    15.81667
+],
+  "geometry": {"coordinates":[-85.71666999999999,15.81667],"type":"Point"}
+}

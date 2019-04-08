@@ -1,0 +1,79 @@
+{
+  "id": 421180159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.81667,15.48333,-87.81667,15.48333",
+    "geom:latitude":15.48333,
+    "geom:longitude":-87.81667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3600357,
+    "qs:gn_pop":2884,
+    "qs:name":"Victoria",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Yoro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":186,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116220,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":108030,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600357,
+        "gp:id":108030,
+        "qs:id":1116220
+    },
+    "wof:country":"HN",
+    "wof:created":1459009246,
+    "wof:geomhash":"23a5e69b2c12804a1a1b7be2dadb5163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":421180159,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":421180159,
+    "wof:lastmodified":1505340646,
+    "wof:name":"Victoria",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:population":2884,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.81667,
+    15.48333,
+    -87.81667,
+    15.48333
+],
+  "geometry": {"coordinates":[-87.81667,15.48333],"type":"Point"}
+}

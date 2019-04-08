@@ -1,0 +1,67 @@
+{
+  "id": 1226065283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.39111,13.99528,-87.39111,13.99528",
+    "geom:latitude":13.99528,
+    "geom:longitude":-87.39111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Los Encinos",
+    "gn:country_code":"HN",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820692,
+    "gn:latitude":13.99528,
+    "gn:longitude":-87.39111,
+    "gn:modification_date":"2004-08-12",
+    "gn:name":"Los Encinos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421205119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820692
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"9d02ce8f10adbcada2c4effd3545ad9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205119,
+            "locality_id":1226065283,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1226065283,
+    "wof:lastmodified":1536697265,
+    "wof:name":"Los Encinos",
+    "wof:parent_id":421205119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.39111,
+    13.99528,
+    -87.39111,
+    13.99528
+],
+  "geometry": {"coordinates":[-87.39111,13.99528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243184071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.5,15.86667,-85.5,15.86667",
+    "geom:latitude":15.86667,
+    "geom:longitude":-85.5,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Limon",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606010,
+    "gn:latitude":15.86667,
+    "gn:longitude":-85.5,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lim\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606010,
+        "wk:page":"Lim%C3%B3n,_Honduras"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5fbefdd0c92b265523abd5eba476382a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1243184071,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243184071,
+    "wof:lastmodified":1537625625,
+    "wof:name":"Limon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.5,
+    15.86667,
+    -85.5,
+    15.86667
+],
+  "geometry": {"coordinates":[-85.5,15.86667],"type":"Point"}
+}

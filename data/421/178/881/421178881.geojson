@@ -1,0 +1,107 @@
+{
+  "id": 421178881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.41667,14.75,-87.41667,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":-87.41667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u8def\u6613"
+    ],
+    "name:dut_x_preferred":[
+        "San Luis"
+    ],
+    "name:eng_x_preferred":[
+        "San Luis"
+    ],
+    "name:fre_x_preferred":[
+        "San Luis"
+    ],
+    "name:ita_x_preferred":[
+        "San Luis"
+    ],
+    "name:pol_x_preferred":[
+        "San Luis"
+    ],
+    "name:por_x_preferred":[
+        "San Luis"
+    ],
+    "name:spa_x_preferred":[
+        "San Luis"
+    ],
+    "name:swe_x_preferred":[
+        "San Luis"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3601936,
+    "qs:gn_pop":1967,
+    "qs:name":"San Luis",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Comayagua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":280910,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107029,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421200721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601936,
+        "gp:id":107029,
+        "qs:id":280910,
+        "wd:id":"Q1643719"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009196,
+    "wof:geomhash":"5e3df59e807e334f8522ecb32a794c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421200721,
+            "locality_id":421178881,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":421178881,
+    "wof:lastmodified":1553816368,
+    "wof:name":"San Luis",
+    "wof:parent_id":421200721,
+    "wof:placetype":"locality",
+    "wof:population":1967,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.41667,
+    14.75,
+    -87.41667,
+    14.75
+],
+  "geometry": {"coordinates":[-87.41667,14.75],"type":"Point"}
+}

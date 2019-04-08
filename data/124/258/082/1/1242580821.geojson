@@ -1,0 +1,72 @@
+{
+  "id": 1242580821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.04306,13.22944,-87.04306,13.22944",
+    "geom:latitude":13.22944,
+    "geom:longitude":-87.04306,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Zapotal",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609943,
+    "gn:latitude":13.22944,
+    "gn:longitude":-87.04306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Zapotal",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zapotal",
+        "El Zapotal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421185037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609943
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"3a4afb969b0e3c24e01563da771cf04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185037,
+            "locality_id":1242580821,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1242580821,
+    "wof:lastmodified":1537625686,
+    "wof:name":"El Zapotal",
+    "wof:parent_id":421185037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.04306,
+    13.22944,
+    -87.04306,
+    13.22944
+],
+  "geometry": {"coordinates":[-87.04306,13.22944],"type":"Point"}
+}

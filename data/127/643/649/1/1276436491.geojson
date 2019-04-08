@@ -1,0 +1,73 @@
+{
+  "id": 1276436491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.08333,14.71667,-84.08333,14.71667",
+    "geom:latitude":14.71667,
+    "geom:longitude":-84.08333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Leimus",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606071,
+    "gn:latitude":14.71667,
+    "gn:longitude":-84.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Leimus",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laimus",
+        "Lemus",
+        "Leimus"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606071
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"21e75029ade4cdc30c3b6c3fbb6eb9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1276436491,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1276436491,
+    "wof:lastmodified":1537625626,
+    "wof:name":"Leimus",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.08333,
+    14.71667,
+    -84.08333,
+    14.71667
+],
+  "geometry": {"coordinates":[-84.08333,14.71667],"type":"Point"}
+}

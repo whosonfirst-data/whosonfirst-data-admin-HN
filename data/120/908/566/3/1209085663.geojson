@@ -1,0 +1,66 @@
+{
+  "id": 1209085663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.51667,14.03333,-88.51667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-88.51667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"El Chaparral",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612177,
+    "gn:latitude":14.03333,
+    "gn:longitude":-88.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Chaparral",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaparral",
+        "El Chaparral"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612177
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f44b191cb597120d0c0759eec9678283",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209085663
+        }
+    ],
+    "wof:id":1209085663,
+    "wof:lastmodified":1537625751,
+    "wof:name":"El Chaparral",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.51666999999998,
+    14.03333,
+    -88.51666999999998,
+    14.03333
+],
+  "geometry": {"coordinates":[-88.51666999999998,14.03333],"type":"Point"}
+}

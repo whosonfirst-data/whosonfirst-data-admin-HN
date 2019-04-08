@@ -1,0 +1,66 @@
+{
+  "id": 1209434875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08333,14.28333,-87.08333,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":-87.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pajarillos",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604116,
+    "gn:latitude":14.28333,
+    "gn:longitude":-87.08333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pajarillos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pajarillo",
+        "Pajarillos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604116
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f11849d8b3e46e2331e27aacf2d7b7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209434875
+        }
+    ],
+    "wof:id":1209434875,
+    "wof:lastmodified":1537625596,
+    "wof:name":"Pajarillos",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08333,
+    14.28333,
+    -87.08333,
+    14.28333
+],
+  "geometry": {"coordinates":[-87.08333,14.28333],"type":"Point"}
+}

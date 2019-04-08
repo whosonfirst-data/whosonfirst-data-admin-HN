@@ -1,0 +1,78 @@
+{
+  "id": 421183309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.38333,14.0,-88.38333,14.0",
+    "geom:latitude":14.0,
+    "geom:longitude":-88.38333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3600316,
+    "qs:gn_pop":2666,
+    "qs:name":"Virginia",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Lempira",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"4",
+    "qs:qs_id":971553,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813874,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600316,
+        "gp:id":26813874,
+        "qs:id":971553
+    },
+    "wof:country":"HN",
+    "wof:created":1459009365,
+    "wof:geomhash":"a37efdb55c6727626ee4dc1d2402c39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183309,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421183309,
+    "wof:lastmodified":1505340684,
+    "wof:name":"Virginia",
+    "wof:parent_id":85671899,
+    "wof:placetype":"county",
+    "wof:population":2666,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.38333,
+    14.0,
+    -88.38333,
+    14.0
+],
+  "geometry": {"coordinates":[-88.38333,14.0],"type":"Point"}
+}

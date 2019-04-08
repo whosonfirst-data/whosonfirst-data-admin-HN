@@ -1,0 +1,103 @@
+{
+  "id": 421177567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,14.86667,-88.83333,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-88.83333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Dolores"
+    ],
+    "name:nld_x_preferred":[
+        "Dolores"
+    ],
+    "name:pol_x_preferred":[
+        "Dolores"
+    ],
+    "name:por_x_preferred":[
+        "Dolores"
+    ],
+    "name:spa_x_preferred":[
+        "Dolores"
+    ],
+    "name:swe_x_preferred":[
+        "Dolores"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u6d1b\u96f7\u65af"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3612838,
+    "qs:gn_pop":1107,
+    "qs:name":"Dolores",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Cop\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201227,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":99330,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":62,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421183865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612838,
+        "gp:id":99330,
+        "qs:id":1201227,
+        "wd:id":"Q2391992",
+        "wk:page":"Dolores, Cop\u00e1n"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009150,
+    "wof:geomhash":"701de174552350b6a2e59548673327b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183865,
+            "locality_id":421177567,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":421177567,
+    "wof:lastmodified":1527716476,
+    "wof:name":"Dolores",
+    "wof:parent_id":421183865,
+    "wof:placetype":"locality",
+    "wof:population":1107,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    14.86667,
+    -88.83333,
+    14.86667
+],
+  "geometry": {"coordinates":[-88.83333,14.86667],"type":"Point"}
+}

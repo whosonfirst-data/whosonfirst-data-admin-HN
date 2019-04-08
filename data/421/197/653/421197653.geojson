@@ -1,0 +1,114 @@
+{
+  "id": 421197653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.35,14.8,-87.35,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-87.35,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u7c73\u7d0d\u65af\u5fb7\u5967\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:eng_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:fre_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:ita_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:nld_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:pol_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:por_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:spa_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:swe_x_preferred":[
+        "Minas de Oro"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7d0d\u65af\u5fb7\u5967\u7f85"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3604795,
+    "qs:gn_pop":3554,
+    "qs:name":"Minas de Oro",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Comayagua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":149302,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":105223,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421188501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604795,
+        "gp:id":105223,
+        "qs:id":149302,
+        "wd:id":"Q2116913",
+        "wk:page":"Minas de Oro"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009920,
+    "wof:geomhash":"90b08094137c3e01060538588fba37f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188501,
+            "locality_id":421197653,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":421197653,
+    "wof:lastmodified":1514446635,
+    "wof:name":"Minas de Oro",
+    "wof:parent_id":421188501,
+    "wof:placetype":"locality",
+    "wof:population":3554,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.35,
+    14.8,
+    -87.35,
+    14.8
+],
+  "geometry": {"coordinates":[-87.34999999999999,14.8],"type":"Point"}
+}

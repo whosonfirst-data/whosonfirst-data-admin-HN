@@ -1,0 +1,74 @@
+{
+  "id": 1310268115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83333,15.45,-87.83333,15.45",
+    "geom:latitude":15.45,
+    "geom:longitude":-87.83333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Naranjo Chino",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604464,
+    "gn:latitude":15.45,
+    "gn:longitude":-87.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naranjo Chino",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noranjo Chino",
+        "Naranjas Chinas",
+        "Naranja China",
+        "Naranjo Chino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604464
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"647dc15b98b1224a190f6b1482f15d08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":1310268115,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1310268115,
+    "wof:lastmodified":1537625599,
+    "wof:name":"Naranjo Chino",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83333,
+    15.45,
+    -87.83333,
+    15.45
+],
+  "geometry": {"coordinates":[-87.83333,15.45],"type":"Point"}
+}

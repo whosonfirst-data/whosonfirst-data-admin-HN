@@ -1,0 +1,72 @@
+{
+  "id": 1310493383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.76667,14.3,-86.76667,14.3",
+    "geom:latitude":14.3,
+    "geom:longitude":-86.76667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Higuero",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611623,
+    "gn:latitude":14.3,
+    "gn:longitude":-86.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Higuero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Huiguero",
+        "El Higuero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611623
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"54e8ac59ae1c3e6f48272f1a9b69705e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182979,
+            "locality_id":1310493383,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1310493383,
+    "wof:lastmodified":1537625734,
+    "wof:name":"El Higuero",
+    "wof:parent_id":421182979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.76666999999998,
+    14.3,
+    -86.76666999999998,
+    14.3
+],
+  "geometry": {"coordinates":[-86.76666999999998,14.3],"type":"Point"}
+}

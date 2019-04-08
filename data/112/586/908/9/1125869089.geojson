@@ -1,0 +1,81 @@
+{
+  "id": 1125869089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.55,13.93333,-86.55,13.93333",
+    "geom:latitude":13.93333,
+    "geom:longitude":-86.55,
+    "gn:gn_country":"HN",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":909,
+    "gn:population":909,
+    "iso:country":"HN",
+    "lbl:latitude":13.93333,
+    "lbl:longitude":-86.55,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Pescadero San Marcos"
+    ],
+    "qs_pg:aaroncc":"HN",
+    "qs_pg:gn_country":"HN",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3610860,
+    "qs_pg:gn_pop":909,
+    "qs_pg:name":"El Pescadero",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":96080,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        1108701667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610860,
+        "qs_pg:id":96080
+    },
+    "wof:country":"HN",
+    "wof:created":1497294196,
+    "wof:geomhash":"79774f8b08f1887009e01f3e28e9224b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701667,
+            "locality_id":1125869089,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1125869089,
+    "wof:lastmodified":1509397180,
+    "wof:name":"El Pescadero",
+    "wof:parent_id":1108701667,
+    "wof:placetype":"locality",
+    "wof:population":909,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.55,
+    13.93333,
+    -86.55,
+    13.93333
+],
+  "geometry": {"coordinates":[-86.55,13.93333],"type":"Point"}
+}

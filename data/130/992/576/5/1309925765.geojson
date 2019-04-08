@@ -1,0 +1,72 @@
+{
+  "id": 1309925765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.95,14.86667,-86.95,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-86.95,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Triunfo",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610058,
+    "gn:latitude":14.86667,
+    "gn:longitude":-86.95,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Triunfo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Triunfo",
+        "El Triunfo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610058
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"55f340e72b55bac3ee8c4842d66a322d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191361,
+            "locality_id":1309925765,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1309925765,
+    "wof:lastmodified":1537625689,
+    "wof:name":"El Triunfo",
+    "wof:parent_id":421191361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.95,
+    14.86667,
+    -86.95,
+    14.86667
+],
+  "geometry": {"coordinates":[-86.95,14.86667],"type":"Point"}
+}

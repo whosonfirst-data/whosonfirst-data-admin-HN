@@ -1,0 +1,61 @@
+{
+  "id": 1193139177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.11667,15.91667,-86.11667,15.91667",
+    "geom:latitude":15.91667,
+    "geom:longitude":-86.11667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602471,
+    "gn:latitude":15.91667,
+    "gn:longitude":-86.11667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602471
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"45e8962c250a7478d75cc909bf1be763",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193139177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193139177,
+    "wof:lastmodified":1536367259,
+    "wof:name":"San Antonio",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.11667,
+    15.91667,
+    -86.11667,
+    15.91667
+],
+  "geometry": {"coordinates":[-86.11667,15.91667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260279011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.60556,13.86889,-87.60556,13.86889",
+    "geom:latitude":13.86889,
+    "geom:longitude":-87.60556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Roman",
+    "gn:country_code":"HN",
+    "gn:dem":1273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826604,
+    "gn:latitude":13.86889,
+    "gn:longitude":-87.60556,
+    "gn:modification_date":"2005-07-07",
+    "gn:name":"San Roman",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421194945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826604
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b0ff900a7facdf0822b70b891cc09718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421194945,
+            "locality_id":1260279011,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1260279011,
+    "wof:lastmodified":1536718320,
+    "wof:name":"San Roman",
+    "wof:parent_id":421194945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.60556,
+    13.86889,
+    -87.60556,
+    13.86889
+],
+  "geometry": {"coordinates":[-87.60556,13.86889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259369131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,14.01667,-88.83333,14.01667",
+    "geom:latitude":14.01667,
+    "geom:longitude":-88.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:country_code":"HN",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603211,
+    "gn:latitude":14.01667,
+    "gn:longitude":-88.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603211
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"dfe816379ac8f5472f54894bb3c76a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694953,
+            "locality_id":1259369131,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1259369131,
+    "wof:lastmodified":1537021970,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":1108694953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    14.01667,
+    -88.83333,
+    14.01667
+],
+  "geometry": {"coordinates":[-88.83333,14.01667],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 421193089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88333,15.25,-87.88333,15.25",
+    "geom:latitude":15.25,
+    "geom:longitude":-87.88333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Agua Blanca del Sur"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3615509,
+    "qs:gn_pop":7592,
+    "qs:name":"Agua Blanca Sur",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Yoro",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1201198,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":97859,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615509,
+        "gp:id":97859,
+        "qs:id":1201198
+    },
+    "wof:country":"HN",
+    "wof:created":1459009759,
+    "wof:geomhash":"00c541892b5a2501a3084ee23c0fd8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":421193089,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":421193089,
+    "wof:lastmodified":1505340732,
+    "wof:name":"Agua Blanca Sur",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:population":7592,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88333,
+    15.25,
+    -87.88333,
+    15.25
+],
+  "geometry": {"coordinates":[-87.88333,15.25],"type":"Point"}
+}

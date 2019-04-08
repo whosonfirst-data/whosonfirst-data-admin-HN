@@ -1,0 +1,67 @@
+{
+  "id": 1193039291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.12722,13.55583,-87.12722,13.55583",
+    "geom:latitude":13.55583,
+    "geom:longitude":-87.12722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Moray",
+    "gn:country_code":"HN",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812368,
+    "gn:latitude":13.55583,
+    "gn:longitude":-87.12722,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"El Moray",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421191385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812368
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6f069c8b06968c5925e8e4d1bc7a5ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191385,
+            "locality_id":1193039291,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1193039291,
+    "wof:lastmodified":1536377662,
+    "wof:name":"El Moray",
+    "wof:parent_id":421191385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.12722,
+    13.55583,
+    -87.12722,
+    13.55583
+],
+  "geometry": {"coordinates":[-87.12721999999999,13.55583],"type":"Point"}
+}

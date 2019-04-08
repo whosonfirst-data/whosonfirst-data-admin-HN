@@ -1,0 +1,67 @@
+{
+  "id": 1242871559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.91679,15.03197,-87.91679,15.03197",
+    "geom:latitude":15.03197,
+    "geom:longitude":-87.91679,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Marias",
+    "gn:country_code":"HN",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606567,
+    "gn:latitude":15.03197,
+    "gn:longitude":-87.91679,
+    "gn:modification_date":"2014-07-23",
+    "gn:name":"Las Mar\u00edas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606567
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"cab6341cae504c83410b9485ffb66bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170711,
+            "locality_id":1242871559,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1242871559,
+    "wof:lastmodified":1536639319,
+    "wof:name":"Las Marias",
+    "wof:parent_id":421170711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.91679,
+    15.03197,
+    -87.91679,
+    15.03197
+],
+  "geometry": {"coordinates":[-87.91679000000001,15.03197],"type":"Point"}
+}

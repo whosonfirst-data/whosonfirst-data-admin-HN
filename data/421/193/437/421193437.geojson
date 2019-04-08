@@ -1,0 +1,124 @@
+{
+  "id": 421193437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.25917,13.80778,-87.25917,13.80778",
+    "geom:latitude":13.80778,
+    "geom:longitude":-87.25917,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u85a9\u74e6\u7d0d\u683c\u862d\u5fb7"
+    ],
+    "name:dut_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:eng_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:fre_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:ita_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:lit_x_preferred":[
+        "Sabanagrand\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:pol_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:por_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:spa_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:swe_x_preferred":[
+        "Sabanagrande"
+    ],
+    "name:unk_x_variant":[
+        "Sabanu Grande"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0628\u0646\u0627\u06af\u0631\u0627\u0646\u062f\u06d2\u060c \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u74e6\u7d0d\u683c\u862d\u5fb7"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3602680,
+    "qs:gn_pop":2056,
+    "qs:name":"Sabanagrande",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Francisco Moraz\u00e1n",
+    "qs:photos":29,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":29,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":898493,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106550,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602680,
+        "gp:id":106550,
+        "qs:id":898493,
+        "wd:id":"Q2573365",
+        "wk:page":"Sabanagrande, Honduras"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009771,
+    "wof:geomhash":"2ac7e71db7a4ff8e86097e85cc035dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182957,
+            "locality_id":421193437,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":421193437,
+    "wof:lastmodified":1527716143,
+    "wof:name":"Sabanagrande",
+    "wof:parent_id":421182957,
+    "wof:placetype":"locality",
+    "wof:population":2056,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.25917,
+    13.80778,
+    -87.25917,
+    13.80778
+],
+  "geometry": {"coordinates":[-87.25917,13.80778],"type":"Point"}
+}

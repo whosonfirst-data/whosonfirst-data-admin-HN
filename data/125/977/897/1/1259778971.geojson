@@ -1,0 +1,72 @@
+{
+  "id": 1259778971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.0,14.18333,-87.0,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-87.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Coyolito",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611951,
+    "gn:latitude":14.18333,
+    "gn:longitude":-87.0,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Coyolito",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Coyolito",
+        "El Coyolito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421204281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611951
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"eb0552465847e1a4a899aec2d3c42619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204281,
+            "locality_id":1259778971,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1259778971,
+    "wof:lastmodified":1537625744,
+    "wof:name":"El Coyolito",
+    "wof:parent_id":421204281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.0,
+    14.18333,
+    -87.0,
+    14.18333
+],
+  "geometry": {"coordinates":[-87.0,14.18333],"type":"Point"}
+}

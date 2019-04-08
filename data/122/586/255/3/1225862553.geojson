@@ -1,0 +1,61 @@
+{
+  "id": 1225862553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.65,15.8,-86.65,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-86.65,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roma",
+    "gn:country_code":"HN",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602710,
+    "gn:latitude":15.8,
+    "gn:longitude":-86.65,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Roma",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602710
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"7bad26c2eb543dac2315960c47ae8ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1225862553,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225862553,
+    "wof:lastmodified":1536988620,
+    "wof:name":"Roma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.65,
+    15.8,
+    -86.65,
+    15.8
+],
+  "geometry": {"coordinates":[-86.65000000000001,15.8],"type":"Point"}
+}

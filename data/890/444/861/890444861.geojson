@@ -1,0 +1,69 @@
+{
+  "id": 890444861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.0,15.63333,-88.0,15.63333",
+    "geom:latitude":15.63333,
+    "geom:longitude":-88.0,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":4183,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jutosa"
+    ],
+    "qs:name":"La Jutosa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421185035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607647,
+        "gp:id":98951,
+        "qs:id":1045673
+    },
+    "wof:country":"HN",
+    "wof:created":1469052484,
+    "wof:geomhash":"bcfe4294513b97645f50f64b886e8c91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185035,
+            "locality_id":890444861,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":890444861,
+    "wof:lastmodified":1505343601,
+    "wof:name":"La Jutosa",
+    "wof:parent_id":421185035,
+    "wof:placetype":"locality",
+    "wof:population":4183,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.0,
+    15.63333,
+    -88.0,
+    15.63333
+],
+  "geometry": {"coordinates":[-88.0,15.63333],"type":"Point"}
+}

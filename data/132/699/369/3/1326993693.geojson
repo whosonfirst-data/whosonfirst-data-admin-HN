@@ -1,0 +1,67 @@
+{
+  "id": 1326993693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.62936,13.36089,-87.62936,13.36089",
+    "geom:latitude":13.36089,
+    "geom:longitude":-87.62936,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Puerto Grande",
+    "gn:country_code":"HN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603159,
+    "gn:latitude":13.36089,
+    "gn:longitude":-87.62936,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Puerto Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603159
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d15c6daa5032986710daa1eb462367fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1326993693,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1326993693,
+    "wof:lastmodified":1536815670,
+    "wof:name":"Puerto Grande",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.62935999999998,
+    13.36089,
+    -87.62935999999998,
+    13.36089
+],
+  "geometry": {"coordinates":[-87.62935999999998,13.36089],"type":"Point"}
+}

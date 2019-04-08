@@ -1,0 +1,61 @@
+{
+  "id": 1209587167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.63722,13.61417,-87.63722,13.61417",
+    "geom:latitude":13.61417,
+    "geom:longitude":-87.63722,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Portillo de la Java",
+    "gn:country_code":"HN",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826149,
+    "gn:latitude":13.61417,
+    "gn:longitude":-87.63722,
+    "gn:modification_date":"2005-06-28",
+    "gn:name":"Portillo de la Java",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826149
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"2571f65e584701fdcc7aee1866d90328",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209587167
+        }
+    ],
+    "wof:id":1209587167,
+    "wof:lastmodified":1536282597,
+    "wof:name":"Portillo de la Java",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.63722,
+    13.61417,
+    -87.63722,
+    13.61417
+],
+  "geometry": {"coordinates":[-87.63722,13.61417],"type":"Point"}
+}

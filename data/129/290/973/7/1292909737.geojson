@@ -1,0 +1,67 @@
+{
+  "id": 1292909737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.46667,14.61667,-87.46667,14.61667",
+    "geom:latitude":14.61667,
+    "geom:longitude":-87.46667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Casas Viejas",
+    "gn:country_code":"HN",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614006,
+    "gn:latitude":14.61667,
+    "gn:longitude":-87.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Casas Viejas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421203401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614006
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5c0293ab0bc0011eacb977458706c59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203401,
+            "locality_id":1292909737,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":1292909737,
+    "wof:lastmodified":1536623851,
+    "wof:name":"Casas Viejas",
+    "wof:parent_id":421203401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.46667,
+    14.61667,
+    -87.46667,
+    14.61667
+],
+  "geometry": {"coordinates":[-87.46666999999999,14.61667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309702037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.8,15.41667,-83.8,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":-83.8,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yahurabila",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600264,
+    "gn:latitude":15.41667,
+    "gn:longitude":-83.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yahurabila",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yajurabila",
+        "Yajurabilla",
+        "Yahurabila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600264
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"53c60e3b102667bc33797a294648d81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309702037,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309702037,
+    "wof:lastmodified":1537625556,
+    "wof:name":"Yahurabila",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.8,
+    15.41667,
+    -83.8,
+    15.41667
+],
+  "geometry": {"coordinates":[-83.8,15.41667],"type":"Point"}
+}

@@ -1,0 +1,111 @@
+{
+  "id": 421201743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18333,14.45,-89.18333,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":-89.18333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u932b\u52aa\u963f\u5e15"
+    ],
+    "name:dut_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:eng_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:fre_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:ita_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:nld_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:por_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:spa_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:swe_x_preferred":[
+        "Sinuapa"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u52aa\u963f\u5e15"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3601282,
+    "qs:gn_pop":2389,
+    "qs:name":"Sinuapa",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Ocotepeque",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":214211,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107490,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421169621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601282,
+        "gp:id":107490,
+        "qs:id":214211,
+        "wd:id":"Q2394150",
+        "wk:page":"Sinuapa"
+    },
+    "wof:country":"HN",
+    "wof:created":1459010082,
+    "wof:geomhash":"c203769e9f2b3e4a99f4b4f859936760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421169621,
+            "locality_id":421201743,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":421201743,
+    "wof:lastmodified":1514446922,
+    "wof:name":"Sinuapa",
+    "wof:parent_id":421169621,
+    "wof:placetype":"locality",
+    "wof:population":2389,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18333,
+    14.45,
+    -89.18333,
+    14.45
+],
+  "geometry": {"coordinates":[-89.18333,14.45],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193265479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.86667,14.03333,-87.86667,14.03333",
+    "geom:latitude":14.03333,
+    "geom:longitude":-87.86667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"El Tejar",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610166,
+    "gn:latitude":14.03333,
+    "gn:longitude":-87.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Tejar",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tejar",
+        "El Tejar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421182947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610166
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b966d19e970e855065e6c24895817de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182947,
+            "locality_id":1193265479,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":1193265479,
+    "wof:lastmodified":1537625692,
+    "wof:name":"El Tejar",
+    "wof:parent_id":421182947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.86667,
+    14.03333,
+    -87.86667,
+    14.03333
+],
+  "geometry": {"coordinates":[-87.86667,14.03333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209529751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.26929,15.74452,-87.26929,15.74452",
+    "geom:latitude":15.74452,
+    "geom:longitude":-87.26929,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"El Jazmin",
+    "gn:country_code":"HN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9781030,
+    "gn:latitude":15.74452,
+    "gn:longitude":-87.26929,
+    "gn:modification_date":"2014-10-15",
+    "gn:name":"El Jazmin",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9781030
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d4d688fee95f1672a7809df477698ccf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209529751
+        }
+    ],
+    "wof:id":1209529751,
+    "wof:lastmodified":1536284317,
+    "wof:name":"El Jazmin",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.26929,
+    15.74452,
+    -87.26929,
+    15.74452
+],
+  "geometry": {"coordinates":[-87.26929,15.74452],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209411033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.7,15.15,-83.7,15.15",
+    "geom:latitude":15.15,
+    "geom:longitude":-83.7,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Lurr",
+    "gn:country_code":"HN",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605213,
+    "gn:latitude":15.15,
+    "gn:longitude":-83.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Lurr",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605213
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"86d71bc7fb9574aaca9ce5470d9f5fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209411033
+        }
+    ],
+    "wof:id":1209411033,
+    "wof:lastmodified":1536287837,
+    "wof:name":"Lurr",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.7,
+    15.15,
+    -83.7,
+    15.15
+],
+  "geometry": {"coordinates":[-83.7,15.15],"type":"Point"}
+}

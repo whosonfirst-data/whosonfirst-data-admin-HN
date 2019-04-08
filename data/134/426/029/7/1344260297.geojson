@@ -1,0 +1,67 @@
+{
+  "id": 1344260297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08444,13.19639,-87.08444,13.19639",
+    "geom:latitude":13.19639,
+    "geom:longitude":-87.08444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Tajo",
+    "gn:country_code":"HN",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610200,
+    "gn:latitude":13.19639,
+    "gn:longitude":-87.08444,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"El Tajo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421188503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610200
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1241631daccefdfb809a74ad02a0f18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188503,
+            "locality_id":1344260297,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1344260297,
+    "wof:lastmodified":1537081213,
+    "wof:name":"El Tajo",
+    "wof:parent_id":421188503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08444,
+    13.19639,
+    -87.08444,
+    13.19639
+],
+  "geometry": {"coordinates":[-87.08444,13.19639],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243576837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.91667,14.86667,-88.91667,14.86667",
+    "geom:latitude":14.86667,
+    "geom:longitude":-88.91667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Canon de Barbascal",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614196,
+    "gn:latitude":14.86667,
+    "gn:longitude":-88.91667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ca\u00f1\u00f3n de Barbascal",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barbascal",
+        "Ca\u00f1\u00f3n de Barbascal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421188511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614196
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0516fc5709fa090b57dae7d249f31444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188511,
+            "locality_id":1243576837,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1243576837,
+    "wof:lastmodified":1537625784,
+    "wof:name":"Canon de Barbascal",
+    "wof:parent_id":421188511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.91667,
+    14.86667,
+    -88.91667,
+    14.86667
+],
+  "geometry": {"coordinates":[-88.91667,14.86667],"type":"Point"}
+}

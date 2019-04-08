@@ -1,0 +1,67 @@
+{
+  "id": 1310601731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.58333,14.93333,-87.58333,14.93333",
+    "geom:latitude":14.93333,
+    "geom:longitude":-87.58333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cabeza de Vaca",
+    "gn:country_code":"HN",
+    "gn:dem":837,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614526,
+    "gn:latitude":14.93333,
+    "gn:longitude":-87.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cabeza de Vaca",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421182925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614526
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4eac80fceb1b7f6ee19854d6c2c344f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182925,
+            "locality_id":1310601731,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":1310601731,
+    "wof:lastmodified":1536778612,
+    "wof:name":"Cabeza de Vaca",
+    "wof:parent_id":421182925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.58333,
+    14.93333,
+    -87.58333,
+    14.93333
+],
+  "geometry": {"coordinates":[-87.58333,14.93333],"type":"Point"}
+}

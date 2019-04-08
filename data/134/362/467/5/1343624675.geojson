@@ -1,0 +1,72 @@
+{
+  "id": 1343624675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.68333,15.55,-86.68333,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":-86.68333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"La Camelia",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608340,
+    "gn:latitude":15.55,
+    "gn:longitude":-86.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Camelia",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camelia",
+        "La Camelia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421204589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608340
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1b0e4d2b0ff305e7eb3037a87afa699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204589,
+            "locality_id":1343624675,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1343624675,
+    "wof:lastmodified":1537625666,
+    "wof:name":"La Camelia",
+    "wof:parent_id":421204589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.68333,
+    15.55,
+    -86.68333,
+    15.55
+],
+  "geometry": {"coordinates":[-86.68333,15.55],"type":"Point"}
+}

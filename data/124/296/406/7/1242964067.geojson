@@ -1,0 +1,67 @@
+{
+  "id": 1242964067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05,13.98333,-87.05,13.98333",
+    "geom:latitude":13.98333,
+    "geom:longitude":-87.05,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Loma",
+    "gn:country_code":"HN",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3607494,
+    "gn:latitude":13.98333,
+    "gn:longitude":-87.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Loma",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421201047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607494
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"caa31ea216d3689d6faa40a4db13a776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201047,
+            "locality_id":1242964067,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1242964067,
+    "wof:lastmodified":1537003315,
+    "wof:name":"La Loma",
+    "wof:parent_id":421201047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05,
+    13.98333,
+    -87.05,
+    13.98333
+],
+  "geometry": {"coordinates":[-87.05,13.98333],"type":"Point"}
+}

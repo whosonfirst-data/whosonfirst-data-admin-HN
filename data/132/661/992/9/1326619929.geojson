@@ -1,0 +1,67 @@
+{
+  "id": 1326619929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.46667,15.18333,-83.46667,15.18333",
+    "geom:latitude":15.18333,
+    "geom:longitude":-83.46667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ajuyata",
+    "gn:country_code":"HN",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615278,
+    "gn:latitude":15.18333,
+    "gn:longitude":-83.46667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ajuyata",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        1108701695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615278
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"7332a9612b32cba80325fbdc007bbe52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701695,
+            "locality_id":1326619929,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":1326619929,
+    "wof:lastmodified":1536856371,
+    "wof:name":"Ajuyata",
+    "wof:parent_id":1108701695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.46667,
+    15.18333,
+    -83.46667,
+    15.18333
+],
+  "geometry": {"coordinates":[-83.46666999999999,15.18333],"type":"Point"}
+}

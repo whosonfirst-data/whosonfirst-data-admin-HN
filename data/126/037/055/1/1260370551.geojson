@@ -1,0 +1,67 @@
+{
+  "id": 1260370551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88333,13.95,-87.88333,13.95",
+    "geom:latitude":13.95,
+    "geom:longitude":-87.88333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lopez",
+    "gn:country_code":"HN",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605828,
+    "gn:latitude":13.95,
+    "gn:longitude":-87.88333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"L\u00f3pez",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421182947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605828
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c1e52243b61f91888691543ad746f92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182947,
+            "locality_id":1260370551,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":1260370551,
+    "wof:lastmodified":1537089051,
+    "wof:name":"Lopez",
+    "wof:parent_id":421182947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88333,
+    13.95,
+    -87.88333,
+    13.95
+],
+  "geometry": {"coordinates":[-87.88333,13.95],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310002777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.42417,13.83278,-87.42417,13.83278",
+    "geom:latitude":13.83278,
+    "geom:longitude":-87.42417,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Parriguada",
+    "gn:country_code":"HN",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820578,
+    "gn:latitude":13.83278,
+    "gn:longitude":-87.42417,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Parriguada",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820578
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6d1ded829214e4f1322ddf8af7afea74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191601,
+            "locality_id":1310002777,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1310002777,
+    "wof:lastmodified":1536646852,
+    "wof:name":"Parriguada",
+    "wof:parent_id":421191601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.42416999999998,
+    13.83278,
+    -87.42416999999998,
+    13.83278
+],
+  "geometry": {"coordinates":[-87.42416999999998,13.83278],"type":"Point"}
+}

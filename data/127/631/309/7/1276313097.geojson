@@ -1,0 +1,67 @@
+{
+  "id": 1276313097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.78861,13.905,-87.78861,13.905",
+    "geom:latitude":13.905,
+    "geom:longitude":-87.78861,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Portillo Blanco",
+    "gn:country_code":"HN",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826816,
+    "gn:latitude":13.905,
+    "gn:longitude":-87.78861,
+    "gn:modification_date":"2005-09-07",
+    "gn:name":"Portillo Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421193689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826816
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"090c7e3b38dfce885905643f1b561ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421193689,
+            "locality_id":1276313097,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":1276313097,
+    "wof:lastmodified":1536805675,
+    "wof:name":"Portillo Blanco",
+    "wof:parent_id":421193689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.78860999999998,
+    13.905,
+    -87.78860999999998,
+    13.905
+],
+  "geometry": {"coordinates":[-87.78860999999998,13.905],"type":"Point"}
+}

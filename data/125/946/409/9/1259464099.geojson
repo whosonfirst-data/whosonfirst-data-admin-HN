@@ -1,0 +1,66 @@
+{
+  "id": 1259464099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.5,16.33333,-86.5,16.33333",
+    "geom:latitude":16.33333,
+    "geom:longitude":-86.5,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Brick Bay",
+    "gn:country_code":"HN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614681,
+    "gn:latitude":16.33333,
+    "gn:longitude":-86.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Brick Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85671869,
+        421172431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614681
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"263d426307c104b012ffd1731c3e2a94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421172431,
+            "locality_id":1259464099,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":1259464099,
+    "wof:lastmodified":1536886188,
+    "wof:name":"Brick Bay",
+    "wof:parent_id":421172431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.5,
+    16.33333,
+    -86.5,
+    16.33333
+],
+  "geometry": {"coordinates":[-86.5,16.33333],"type":"Point"}
+}

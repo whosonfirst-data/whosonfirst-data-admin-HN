@@ -1,0 +1,67 @@
+{
+  "id": 1344165661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.32667,13.555,-87.32667,13.555",
+    "geom:latitude":13.555,
+    "geom:longitude":-87.32667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Rafael",
+    "gn:country_code":"HN",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819502,
+    "gn:latitude":13.555,
+    "gn:longitude":-87.32667,
+    "gn:modification_date":"2004-02-19",
+    "gn:name":"San Rafael",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421182951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819502
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"24f22c4e338f8a6f374d6d5a96d21ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182951,
+            "locality_id":1344165661,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1344165661,
+    "wof:lastmodified":1536724059,
+    "wof:name":"San Rafael",
+    "wof:parent_id":421182951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.32667,
+    13.555,
+    -87.32667,
+    13.555
+],
+  "geometry": {"coordinates":[-87.32666999999999,13.555],"type":"Point"}
+}

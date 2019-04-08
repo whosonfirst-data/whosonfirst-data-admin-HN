@@ -1,0 +1,72 @@
+{
+  "id": 1360081797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.38333,14.66667,-84.38333,14.66667",
+    "geom:latitude":14.66667,
+    "geom:longitude":-84.38333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Huirapane",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608887,
+    "gn:latitude":14.66667,
+    "gn:longitude":-84.38333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Huirapane",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wiripana",
+        "Huirapane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608887
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"12fb522374f8ddd59744ae0a4c400a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1360081797,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1360081797,
+    "wof:lastmodified":1537625673,
+    "wof:name":"Huirapane",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.38333,
+    14.66667,
+    -84.38333,
+    14.66667
+],
+  "geometry": {"coordinates":[-84.38333,14.66667],"type":"Point"}
+}

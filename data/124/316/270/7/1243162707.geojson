@@ -1,0 +1,67 @@
+{
+  "id": 1243162707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.2525,14.0969,-87.2525,14.0969",
+    "geom:latitude":14.0969,
+    "geom:longitude":-87.2525,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Altos del Paraiso",
+    "gn:country_code":"HN",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645336,
+    "gn:latitude":14.0969,
+    "gn:longitude":-87.2525,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Colonia Altos del Para\u00edso",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645336
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c04110f18a74cc254e3184ab09e190dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":1243162707,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1243162707,
+    "wof:lastmodified":1536718022,
+    "wof:name":"Colonia Altos del Paraiso",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.2525,
+    14.0969,
+    -87.2525,
+    14.0969
+],
+  "geometry": {"coordinates":[-87.2525,14.0969],"type":"Point"}
+}

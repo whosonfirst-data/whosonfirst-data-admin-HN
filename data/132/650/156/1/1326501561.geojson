@@ -1,0 +1,67 @@
+{
+  "id": 1326501561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68972,13.74694,-87.68972,13.74694",
+    "geom:latitude":13.74694,
+    "geom:longitude":-87.68972,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Alto",
+    "gn:country_code":"HN",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826166,
+    "gn:latitude":13.74694,
+    "gn:longitude":-87.68972,
+    "gn:modification_date":"2005-07-06",
+    "gn:name":"El Alto",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421182569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826166
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"99556fd83c09fb8cbfa6928ff0f00f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182569,
+            "locality_id":1326501561,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1326501561,
+    "wof:lastmodified":1537027140,
+    "wof:name":"El Alto",
+    "wof:parent_id":421182569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68972,
+    13.74694,
+    -87.68972,
+    13.74694
+],
+  "geometry": {"coordinates":[-87.68971999999999,13.74694],"type":"Point"}
+}

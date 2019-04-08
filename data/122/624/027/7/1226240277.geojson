@@ -1,0 +1,72 @@
+{
+  "id": 1226240277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.2,15.51667,-88.2,15.51667",
+    "geom:latitude":15.51667,
+    "geom:longitude":-88.2,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Remolino de Banaderos",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602849,
+    "gn:latitude":15.51667,
+    "gn:longitude":-88.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Remolino de Ba\u00f1aderos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Remolino",
+        "Remolino de Ba\u00f1aderos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602849
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0013d02f48a054d830fe43af6add3f5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170709,
+            "locality_id":1226240277,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1226240277,
+    "wof:lastmodified":1537625583,
+    "wof:name":"Remolino de Banaderos",
+    "wof:parent_id":421170709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.2,
+    15.51667,
+    -88.2,
+    15.51667
+],
+  "geometry": {"coordinates":[-88.2,15.51667],"type":"Point"}
+}

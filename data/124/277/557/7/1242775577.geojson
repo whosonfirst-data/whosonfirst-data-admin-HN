@@ -1,0 +1,72 @@
+{
+  "id": 1242775577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.85,15.36667,-87.85,15.36667",
+    "geom:latitude":15.36667,
+    "geom:longitude":-87.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Omonita",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604219,
+    "gn:latitude":15.36667,
+    "gn:longitude":-87.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Omonita",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omonita Estacion",
+        "Omonita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604219
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a10a68267436efa2fd7813192b14649d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":1242775577,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1242775577,
+    "wof:lastmodified":1537625597,
+    "wof:name":"Omonita",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.85,
+    15.36667,
+    -87.85,
+    15.36667
+],
+  "geometry": {"coordinates":[-87.84999999999999,15.36667],"type":"Point"}
+}

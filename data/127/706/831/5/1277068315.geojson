@@ -1,0 +1,67 @@
+{
+  "id": 1277068315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05,13.63333,-87.05,13.63333",
+    "geom:latitude":13.63333,
+    "geom:longitude":-87.05,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Los Arados",
+    "gn:country_code":"HN",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605766,
+    "gn:latitude":13.63333,
+    "gn:longitude":-87.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Arados",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605766
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"33751163c879d54a2a373d69f6977a9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1277068315,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1277068315,
+    "wof:lastmodified":1536788889,
+    "wof:name":"Los Arados",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05,
+    13.63333,
+    -87.05,
+    13.63333
+],
+  "geometry": {"coordinates":[-87.05,13.63333],"type":"Point"}
+}

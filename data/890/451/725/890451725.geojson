@@ -1,0 +1,71 @@
+{
+  "id": 890451725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5,14.68333,-87.5,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-87.5,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1484,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Rancho Grande"
+    ],
+    "qs:name":"El Rancho",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":143,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421203401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610558,
+        "gp:id":101221,
+        "qs:id":149379,
+        "wk:page":"El Rancho"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052791,
+    "wof:geomhash":"b8e9aa1ddd56b0e81e84795a905c2deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203401,
+            "locality_id":890451725,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":890451725,
+    "wof:lastmodified":1527792937,
+    "wof:name":"El Rancho",
+    "wof:parent_id":421203401,
+    "wof:placetype":"locality",
+    "wof:population":1484,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5,
+    14.68333,
+    -87.5,
+    14.68333
+],
+  "geometry": {"coordinates":[-87.5,14.68333],"type":"Point"}
+}

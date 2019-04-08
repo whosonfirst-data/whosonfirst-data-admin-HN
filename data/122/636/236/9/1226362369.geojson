@@ -1,0 +1,67 @@
+{
+  "id": 1226362369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.24833,13.96,-87.24833,13.96",
+    "geom:latitude":13.96,
+    "geom:longitude":-87.24833,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Limon",
+    "gn:country_code":"HN",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819604,
+    "gn:latitude":13.96,
+    "gn:longitude":-87.24833,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"El Lim\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421184595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819604
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"82a8bbb131c652afb37e47dc4b9dc08b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184595,
+            "locality_id":1226362369,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1226362369,
+    "wof:lastmodified":1536766032,
+    "wof:name":"El Limon",
+    "wof:parent_id":421184595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.24833000000002,
+    13.96,
+    -87.24833000000002,
+    13.96
+],
+  "geometry": {"coordinates":[-87.24833000000002,13.96],"type":"Point"}
+}

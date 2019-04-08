@@ -1,0 +1,102 @@
+{
+  "id": 421181813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.69,15.08,-88.69,15.08",
+    "geom:latitude":15.08,
+    "geom:longitude":-88.69,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:nld_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:pol_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:por_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:spa_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:swe_x_preferred":[
+        "Nueva Arcadia"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u963f\u723e\u5361\u8fea\u4e9e"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3604400,
+    "qs:gn_pop":27561,
+    "qs:name":"Nueva Arcadia",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Cop\u00e1n",
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"7",
+    "qs:qs_id":504947,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813732,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604400,
+        "gp:id":26813732,
+        "qs:id":504947,
+        "wd:id":"Q2392478",
+        "wk:page":"Nueva Arcadia"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009307,
+    "wof:geomhash":"27b6b352e9045e64a121dd3c5a605357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181813,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":421181813,
+    "wof:lastmodified":1527716328,
+    "wof:name":"Nueva Arcadia",
+    "wof:parent_id":85671911,
+    "wof:placetype":"county",
+    "wof:population":27561,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.69,
+    15.08,
+    -88.69,
+    15.08
+],
+  "geometry": {"coordinates":[-88.69,15.08],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 421180277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.03333,14.65,-87.03333,14.65",
+    "geom:latitude":14.65,
+    "geom:longitude":-87.03333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fre_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:nan_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:pol_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0433\u043d\u0430\u0441\u0438\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:unk_x_variant":[
+        "San Ignasio"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3602257,
+    "qs:gn_pop":2330,
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Francisco Moraz\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1201302,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106791,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602257,
+        "gp:id":106791,
+        "qs:id":1201302,
+        "wd:id":"Q925890"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009250,
+    "wof:geomhash":"83fd9f491eac5ebe4b58a4410f69de14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191677,
+            "locality_id":421180277,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":421180277,
+    "wof:lastmodified":1553816369,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":421191677,
+    "wof:placetype":"locality",
+    "wof:population":2330,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.03333,
+    14.65,
+    -87.03333,
+    14.65
+],
+  "geometry": {"coordinates":[-87.03333000000001,14.65],"type":"Point"}
+}

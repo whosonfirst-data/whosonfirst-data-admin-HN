@@ -1,0 +1,61 @@
+{
+  "id": 1310689441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.45,15.96667,-86.45,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":-86.45,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Cayos Cochinos",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613934,
+    "gn:latitude":15.96667,
+    "gn:longitude":-86.45,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Cayos Cochinos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613934
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6d823334da79860d2055fdbf6b080de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310689441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310689441,
+    "wof:lastmodified":1536651409,
+    "wof:name":"Cayos Cochinos",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.45,
+    15.96667,
+    -86.45,
+    15.96667
+],
+  "geometry": {"coordinates":[-86.45,15.96667],"type":"Point"}
+}

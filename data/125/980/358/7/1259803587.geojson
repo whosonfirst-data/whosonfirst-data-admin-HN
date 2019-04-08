@@ -1,0 +1,67 @@
+{
+  "id": 1259803587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.8,14.36667,-86.8,14.36667",
+    "geom:latitude":14.36667,
+    "geom:longitude":-86.8,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Puerta",
+    "gn:country_code":"HN",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3607128,
+    "gn:latitude":14.36667,
+    "gn:longitude":-86.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Puerta",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421188483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607128
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"460708388714f7ac6ccbcebfde2c85b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188483,
+            "locality_id":1259803587,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1259803587,
+    "wof:lastmodified":1536894054,
+    "wof:name":"La Puerta",
+    "wof:parent_id":421188483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.8,
+    14.36667,
+    -86.8,
+    14.36667
+],
+  "geometry": {"coordinates":[-86.8,14.36667],"type":"Point"}
+}

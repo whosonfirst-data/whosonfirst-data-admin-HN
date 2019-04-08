@@ -1,0 +1,102 @@
+{
+  "id": 421180283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,14.43333,-88.95,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-88.95,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:unk_x_variant":[
+        "San Francisco"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u723e\u5df4\u5217"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3602277,
+    "qs:gn_pop":1878,
+    "qs:name":"San Francisco del Valle",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Ocotepeque",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201304,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106786,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421203417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602277,
+        "gp:id":106786,
+        "qs:id":1201304,
+        "wd:id":"Q2394017",
+        "wk:page":"San Francisco del Valle"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009251,
+    "wof:geomhash":"0db2c465bda0596d694b59fd2320307b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203417,
+            "locality_id":421180283,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":421180283,
+    "wof:lastmodified":1505340647,
+    "wof:name":"San Francisco del Valle",
+    "wof:parent_id":421203417,
+    "wof:placetype":"locality",
+    "wof:population":1878,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    14.43333,
+    -88.95,
+    14.43333
+],
+  "geometry": {"coordinates":[-88.95,14.43333],"type":"Point"}
+}

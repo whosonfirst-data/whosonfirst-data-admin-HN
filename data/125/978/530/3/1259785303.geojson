@@ -1,0 +1,72 @@
+{
+  "id": 1259785303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.75,15.96667,-85.75,15.96667",
+    "geom:latitude":15.96667,
+    "geom:longitude":-85.75,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Barra de Aguan",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614854,
+    "gn:latitude":15.96667,
+    "gn:longitude":-85.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Barra de Agu\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boca de Aguan",
+        "Barra de Agu\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421188783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614854
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1966c0829fa88158a33030568c36ca43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188783,
+            "locality_id":1259785303,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":1259785303,
+    "wof:lastmodified":1537625790,
+    "wof:name":"Barra de Aguan",
+    "wof:parent_id":421188783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.75,
+    15.96667,
+    -85.75,
+    15.96667
+],
+  "geometry": {"coordinates":[-85.75,15.96667],"type":"Point"}
+}

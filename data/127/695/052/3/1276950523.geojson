@@ -1,0 +1,67 @@
+{
+  "id": 1276950523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.55,14.96667,-88.55,14.96667",
+    "geom:latitude":14.96667,
+    "geom:longitude":-88.55,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pompoa",
+    "gn:country_code":"HN",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603440,
+    "gn:latitude":14.96667,
+    "gn:longitude":-88.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Pompoa",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421188509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603440
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"09b5f76d86bd821c0263ab5b7af017bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188509,
+            "locality_id":1276950523,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1276950523,
+    "wof:lastmodified":1536947077,
+    "wof:name":"Pompoa",
+    "wof:parent_id":421188509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55,
+    14.96667,
+    -88.55,
+    14.96667
+],
+  "geometry": {"coordinates":[-88.55,14.96667],"type":"Point"}
+}

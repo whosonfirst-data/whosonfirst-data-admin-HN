@@ -1,0 +1,67 @@
+{
+  "id": 1242564005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,14.18333,-88.83333,14.18333",
+    "geom:latitude":14.18333,
+    "geom:longitude":-88.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Troja Quemada",
+    "gn:country_code":"HN",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600602,
+    "gn:latitude":14.18333,
+    "gn:longitude":-88.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Troja Quemada",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        421183303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600602
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4e86b7d6b65ab1bd1f1fc4655e95dfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183303,
+            "locality_id":1242564005,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":1242564005,
+    "wof:lastmodified":1537080131,
+    "wof:name":"Troja Quemada",
+    "wof:parent_id":421183303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    14.18333,
+    -88.83333,
+    14.18333
+],
+  "geometry": {"coordinates":[-88.83333,14.18333],"type":"Point"}
+}

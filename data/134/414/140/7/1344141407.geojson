@@ -1,0 +1,70 @@
+{
+  "id": 1344141407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.78068,15.22078,-83.78068,15.22078",
+    "geom:latitude":15.22078,
+    "geom:longitude":-83.78068,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"La Piur",
+    "gn:country_code":"HN",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11437372,
+    "gn:latitude":15.22078,
+    "gn:longitude":-83.78068,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"La Piur",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "La Piur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421181809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11437372
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1ae21738ed217b9fba4ebaf4c637bdcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181809,
+            "locality_id":1344141407,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":1344141407,
+    "wof:lastmodified":1537625801,
+    "wof:name":"La Piur",
+    "wof:parent_id":421181809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.78068,
+    15.22078,
+    -83.78068,
+    15.22078
+],
+  "geometry": {"coordinates":[-83.78068,15.22078],"type":"Point"}
+}

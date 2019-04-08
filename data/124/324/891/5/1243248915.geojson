@@ -1,0 +1,67 @@
+{
+  "id": 1243248915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08,13.89583,-87.08,13.89583",
+    "geom:latitude":13.89583,
+    "geom:longitude":-87.08,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Lorenzo Arriba",
+    "gn:country_code":"HN",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819752,
+    "gn:latitude":13.89583,
+    "gn:longitude":-87.08,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"San Lorenzo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819752
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4ab3b058f0e0106532fd0e39e5fa7882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182943,
+            "locality_id":1243248915,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1243248915,
+    "wof:lastmodified":1537087118,
+    "wof:name":"San Lorenzo Arriba",
+    "wof:parent_id":421182943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08,
+    13.89583,
+    -87.08,
+    13.89583
+],
+  "geometry": {"coordinates":[-87.08,13.89583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242699887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.1,15.23333,-88.1,15.23333",
+    "geom:latitude":15.23333,
+    "geom:longitude":-88.1,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ocote Ralo",
+    "gn:country_code":"HN",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604317,
+    "gn:latitude":15.23333,
+    "gn:longitude":-88.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ocote Ralo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421184465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604317
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"8a99169c37a4887a1f36aca3c2eb8e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184465,
+            "locality_id":1242699887,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1242699887,
+    "wof:lastmodified":1536887220,
+    "wof:name":"Ocote Ralo",
+    "wof:parent_id":421184465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.1,
+    15.23333,
+    -88.1,
+    15.23333
+],
+  "geometry": {"coordinates":[-88.09999999999999,15.23333],"type":"Point"}
+}

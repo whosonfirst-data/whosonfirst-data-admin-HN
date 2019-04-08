@@ -1,0 +1,66 @@
+{
+  "id": 1209426485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.25,15.68333,-85.25,15.68333",
+    "geom:latitude":15.68333,
+    "geom:longitude":-85.25,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ocotales",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604340,
+    "gn:latitude":15.68333,
+    "gn:longitude":-85.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ocotales",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ocotal",
+        "Ocotales"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604340
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f29c2056a823079f627a332fcd580dba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209426485
+        }
+    ],
+    "wof:id":1209426485,
+    "wof:lastmodified":1537625598,
+    "wof:name":"Ocotales",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.25,
+    15.68333,
+    -85.25,
+    15.68333
+],
+  "geometry": {"coordinates":[-85.25,15.68333],"type":"Point"}
+}

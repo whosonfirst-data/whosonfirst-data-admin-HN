@@ -1,0 +1,61 @@
+{
+  "id": 1209277959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.4,13.5,-87.4,13.5",
+    "geom:latitude":13.5,
+    "geom:longitude":-87.4,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Cuesta",
+    "gn:country_code":"HN",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608065,
+    "gn:latitude":13.5,
+    "gn:longitude":-87.4,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Cuesta",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608065
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"62260bcfb3b2dbc4f216add0ea85e9f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209277959
+        }
+    ],
+    "wof:id":1209277959,
+    "wof:lastmodified":1536292125,
+    "wof:name":"La Cuesta",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.4,
+    13.5,
+    -87.4,
+    13.5
+],
+  "geometry": {"coordinates":[-87.40000000000001,13.5],"type":"Point"}
+}

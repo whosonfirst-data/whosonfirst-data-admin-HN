@@ -1,0 +1,107 @@
+{
+  "id": 421193063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.76667,14.8,-87.76667,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-87.76667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u7f85\u85a9\u91cc\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "El Rosario"
+    ],
+    "name:eng_x_preferred":[
+        "El Rosario"
+    ],
+    "name:fre_x_preferred":[
+        "El Rosario"
+    ],
+    "name:ita_x_preferred":[
+        "El Rosario"
+    ],
+    "name:pol_x_preferred":[
+        "El Rosario"
+    ],
+    "name:por_x_preferred":[
+        "El Rosario"
+    ],
+    "name:spa_x_preferred":[
+        "El Rosario"
+    ],
+    "name:swe_x_preferred":[
+        "El Rosario"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3610377,
+    "qs:gn_pop":2575,
+    "qs:name":"El Rosario",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Comayagua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116174,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":101378,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421181805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610377,
+        "gp:id":101378,
+        "qs:id":1116174,
+        "wd:id":"Q5823190"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009759,
+    "wof:geomhash":"908107aa24508ba1234cacbd97b19883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181805,
+            "locality_id":421193063,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":421193063,
+    "wof:lastmodified":1553816381,
+    "wof:name":"El Rosario",
+    "wof:parent_id":421181805,
+    "wof:placetype":"locality",
+    "wof:population":2575,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.76667,
+    14.8,
+    -87.76667,
+    14.8
+],
+  "geometry": {"coordinates":[-87.76667,14.8],"type":"Point"}
+}

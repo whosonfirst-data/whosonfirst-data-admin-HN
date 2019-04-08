@@ -1,0 +1,67 @@
+{
+  "id": 1226746601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.85,14.9,-88.85,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-88.85,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vega Redonda",
+    "gn:country_code":"HN",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600399,
+    "gn:latitude":14.9,
+    "gn:longitude":-88.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vega Redonda",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421183865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600399
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1cac8419cbf65601e692fc93a2469bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183865,
+            "locality_id":1226746601,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1226746601,
+    "wof:lastmodified":1536714604,
+    "wof:name":"Vega Redonda",
+    "wof:parent_id":421183865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.85,
+    14.9,
+    -88.85,
+    14.9
+],
+  "geometry": {"coordinates":[-88.84999999999999,14.9],"type":"Point"}
+}

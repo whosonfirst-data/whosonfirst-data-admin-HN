@@ -1,0 +1,110 @@
+{
+  "id": 421179289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.70306,13.88444,-87.70306,13.88444",
+    "geom:latitude":13.88444,
+    "geom:longitude":-87.70306,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5317\u8056\u5b89\u6771\u5c3c\u5967"
+    ],
+    "name:dut_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:eng_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:fre_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:ita_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30fc\u30cb\u30aa\u30fb\u30c7\u30eb\u30fb\u30ce\u30eb\u30c6"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:unk_x_variant":[
+        "San Antonio Norte"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3602428,
+    "qs:gn_pop":1002,
+    "qs:name":"San Antonio del Norte",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"La Paz",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149258,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106683,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671901,
+        421203415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602428,
+        "gp:id":106683,
+        "qs:id":149258,
+        "wd:id":"Q2132360"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009210,
+    "wof:geomhash":"3899bb3b00d3dc0fc3df72f72eceb206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203415,
+            "locality_id":421179289,
+            "region_id":85671901
+        }
+    ],
+    "wof:id":421179289,
+    "wof:lastmodified":1553816368,
+    "wof:name":"San Antonio del Norte",
+    "wof:parent_id":421203415,
+    "wof:placetype":"locality",
+    "wof:population":1002,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.70306,
+    13.88444,
+    -87.70306,
+    13.88444
+],
+  "geometry": {"coordinates":[-87.70305999999999,13.88444],"type":"Point"}
+}

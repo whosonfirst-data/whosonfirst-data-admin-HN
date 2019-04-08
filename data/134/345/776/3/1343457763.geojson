@@ -1,0 +1,72 @@
+{
+  "id": 1343457763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05,14.81667,-89.05,14.81667",
+    "geom:latitude":14.81667,
+    "geom:longitude":-89.05,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mirasolito de La Esperanza",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604762,
+    "gn:latitude":14.81667,
+    "gn:longitude":-89.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mirasolito de La Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirasolito",
+        "Mirasolito de La Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421191381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604762
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"9a0f74987f32d2e3af79196c2aa07462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191381,
+            "locality_id":1343457763,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1343457763,
+    "wof:lastmodified":1537625603,
+    "wof:name":"Mirasolito de La Esperanza",
+    "wof:parent_id":421191381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05,
+    14.81667,
+    -89.05,
+    14.81667
+],
+  "geometry": {"coordinates":[-89.05,14.81667],"type":"Point"}
+}

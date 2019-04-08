@@ -1,0 +1,66 @@
+{
+  "id": 1209692431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.51667,14.68333,-88.51667,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-88.51667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rodeo del Cile",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602713,
+    "gn:latitude":14.68333,
+    "gn:longitude":-88.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rodeo del Cile",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodeo del Sile",
+        "Rodeo del Cile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602713
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1a929083b5f7f255fce17c700273d0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209692431
+        }
+    ],
+    "wof:id":1209692431,
+    "wof:lastmodified":1537625582,
+    "wof:name":"Rodeo del Cile",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.51666999999998,
+    14.68333,
+    -88.51666999999998,
+    14.68333
+],
+  "geometry": {"coordinates":[-88.51666999999998,14.68333],"type":"Point"}
+}

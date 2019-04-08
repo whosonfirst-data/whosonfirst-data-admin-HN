@@ -1,0 +1,67 @@
+{
+  "id": 890420207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.98333,14.75,-88.98333,14.75",
+    "geom:latitude":14.75,
+    "geom:longitude":-88.98333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":863,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Santa Cruz",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":1120,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421182933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601651,
+        "qs:id":96032,
+        "wk:page":"Santa Cruz"
+    },
+    "wof:country":"HN",
+    "wof:created":1469051323,
+    "wof:geomhash":"9379a7c06003aed5e0935b5d67ac3b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182933,
+            "locality_id":890420207,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":890420207,
+    "wof:lastmodified":1527792812,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":421182933,
+    "wof:placetype":"locality",
+    "wof:population":863,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98333,
+    14.75,
+    -88.98333,
+    14.75
+],
+  "geometry": {"coordinates":[-88.98333,14.75],"type":"Point"}
+}

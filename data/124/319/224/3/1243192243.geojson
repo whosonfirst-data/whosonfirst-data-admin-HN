@@ -1,0 +1,67 @@
+{
+  "id": 1243192243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.31667,13.8,-87.31667,13.8",
+    "geom:latitude":13.8,
+    "geom:longitude":-87.31667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Plan de San Antonio",
+    "gn:country_code":"HN",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603529,
+    "gn:latitude":13.8,
+    "gn:longitude":-87.31667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Plan de San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603529
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"eee9e8f7948bc9dfdc9f903f4981a85f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182957,
+            "locality_id":1243192243,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1243192243,
+    "wof:lastmodified":1536675028,
+    "wof:name":"Plan de San Antonio",
+    "wof:parent_id":421182957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.31667,
+    13.8,
+    -87.31667,
+    13.8
+],
+  "geometry": {"coordinates":[-87.31667,13.8],"type":"Point"}
+}

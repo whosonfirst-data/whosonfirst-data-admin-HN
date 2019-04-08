@@ -1,0 +1,61 @@
+{
+  "id": 1209204241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.6,15.78333,-84.6,15.78333",
+    "geom:latitude":15.78333,
+    "geom:longitude":-84.6,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Esterbrook",
+    "gn:country_code":"HN",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609722,
+    "gn:latitude":15.78333,
+    "gn:longitude":-84.6,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Esterbrook",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609722
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"291b473f7a3efb3c109077a48d5db44f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209204241
+        }
+    ],
+    "wof:id":1209204241,
+    "wof:lastmodified":1536294507,
+    "wof:name":"Esterbrook",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.6,
+    15.78333,
+    -84.6,
+    15.78333
+],
+  "geometry": {"coordinates":[-84.59999999999999,15.78333],"type":"Point"}
+}

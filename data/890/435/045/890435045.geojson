@@ -1,0 +1,71 @@
+{
+  "id": 890435045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.68333,15.35,-86.68333,15.35",
+    "geom:latitude":15.35,
+    "geom:longitude":-86.68333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1250,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Nombre Jes\u00fas"
+    ],
+    "qs:name":"Nombre de Jes\u00fas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421204589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604414,
+        "gp:id":105533,
+        "qs:id":149296,
+        "wk:page":"Nombre de Jes\u00fas"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052049,
+    "wof:geomhash":"7a490eb9a5e72471d366ffa7caa85d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204589,
+            "locality_id":890435045,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":890435045,
+    "wof:lastmodified":1527793050,
+    "wof:name":"Nombre de Jes\u00fas",
+    "wof:parent_id":421204589,
+    "wof:placetype":"locality",
+    "wof:population":1250,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.68333,
+    15.35,
+    -86.68333,
+    15.35
+],
+  "geometry": {"coordinates":[-86.68333,15.35],"type":"Point"}
+}

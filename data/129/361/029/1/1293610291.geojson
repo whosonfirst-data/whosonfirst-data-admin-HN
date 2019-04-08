@@ -1,0 +1,72 @@
+{
+  "id": 1293610291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.03611,13.66333,-87.03611,13.66333",
+    "geom:latitude":13.66333,
+    "geom:longitude":-87.03611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sui",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601167,
+    "gn:latitude":13.66333,
+    "gn:longitude":-87.03611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Su\u00ed",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zui",
+        "Su\u00ed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421182983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601167
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"71a9f4df00b173dee22d71bb0645d4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182983,
+            "locality_id":1293610291,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1293610291,
+    "wof:lastmodified":1537625567,
+    "wof:name":"Sui",
+    "wof:parent_id":421182983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.03611,
+    13.66333,
+    -87.03611,
+    13.66333
+],
+  "geometry": {"coordinates":[-87.03610999999999,13.66333],"type":"Point"}
+}

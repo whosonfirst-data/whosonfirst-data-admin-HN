@@ -1,0 +1,74 @@
+{
+  "id": 1293481645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78333,14.13333,-86.78333,14.13333",
+    "geom:latitude":14.13333,
+    "geom:longitude":-86.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hoya Grande",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608911,
+    "gn:latitude":14.13333,
+    "gn:longitude":-86.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hoya Grande",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoja Grande",
+        "Joya Grande",
+        "Holla Grande",
+        "Hoya Grande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        890455353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608911
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a95bb4530eb1d67e014d0674e72cd2c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":890455353,
+            "locality_id":1293481645,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1293481645,
+    "wof:lastmodified":1537625673,
+    "wof:name":"Hoya Grande",
+    "wof:parent_id":890455353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78333,
+    14.13333,
+    -86.78333,
+    14.13333
+],
+  "geometry": {"coordinates":[-86.78333000000001,14.13333],"type":"Point"}
+}

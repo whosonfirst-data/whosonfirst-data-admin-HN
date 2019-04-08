@@ -1,0 +1,67 @@
+{
+  "id": 1277045087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.3,14.9,-88.3,14.9",
+    "geom:latitude":14.9,
+    "geom:longitude":-88.3,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Pinalejo",
+    "gn:country_code":"HN",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603628,
+    "gn:latitude":14.9,
+    "gn:longitude":-88.3,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pinalejo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421191373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603628
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"ed5412e53482a898614471af4208a3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191373,
+            "locality_id":1277045087,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1277045087,
+    "wof:lastmodified":1536818915,
+    "wof:name":"Pinalejo",
+    "wof:parent_id":421191373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.3,
+    14.9,
+    -88.3,
+    14.9
+],
+  "geometry": {"coordinates":[-88.3,14.9],"type":"Point"}
+}

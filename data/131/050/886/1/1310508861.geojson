@@ -1,0 +1,72 @@
+{
+  "id": 1310508861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.13333,15.71667,-85.13333,15.71667",
+    "geom:latitude":15.71667,
+    "geom:longitude":-85.13333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mariana",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604995,
+    "gn:latitude":15.71667,
+    "gn:longitude":-85.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mariana",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Las Marianas",
+        "Mariana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421170697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604995
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"7136f9eaeccd3f61ac652685b0e6ee4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170697,
+            "locality_id":1310508861,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":1310508861,
+    "wof:lastmodified":1537625606,
+    "wof:name":"Mariana",
+    "wof:parent_id":421170697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.13333,
+    15.71667,
+    -85.13333,
+    15.71667
+],
+  "geometry": {"coordinates":[-85.13333,15.71667],"type":"Point"}
+}

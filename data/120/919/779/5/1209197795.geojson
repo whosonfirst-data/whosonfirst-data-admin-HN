@@ -1,0 +1,61 @@
+{
+  "id": 1209197795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.95,14.38333,-88.95,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":-88.95,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Canon",
+    "gn:country_code":"HN",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612445,
+    "gn:latitude":14.38333,
+    "gn:longitude":-88.95,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Ca\u00f1\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612445
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a65a4ed4359fddd35f4a2ed3ffd21d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209197795
+        }
+    ],
+    "wof:id":1209197795,
+    "wof:lastmodified":1536294712,
+    "wof:name":"El Canon",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.95,
+    14.38333,
+    -88.95,
+    14.38333
+],
+  "geometry": {"coordinates":[-88.95,14.38333],"type":"Point"}
+}

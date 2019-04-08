@@ -1,0 +1,67 @@
+{
+  "id": 1243365585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.3,15.55,-86.3,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":-86.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sonambula",
+    "gn:country_code":"HN",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601209,
+    "gn:latitude":15.55,
+    "gn:longitude":-86.3,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Son\u00e1mbula",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421183307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601209
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"aec9c04386ad0f9c6e091a55efa16038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183307,
+            "locality_id":1243365585,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":1243365585,
+    "wof:lastmodified":1536922854,
+    "wof:name":"Sonambula",
+    "wof:parent_id":421183307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.3,
+    15.55,
+    -86.3,
+    15.55
+],
+  "geometry": {"coordinates":[-86.3,15.55],"type":"Point"}
+}

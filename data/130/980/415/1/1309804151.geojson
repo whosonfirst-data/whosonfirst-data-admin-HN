@@ -1,0 +1,72 @@
+{
+  "id": 1309804151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.53333,14.11667,-87.53333,14.11667",
+    "geom:latitude":14.11667,
+    "geom:longitude":-87.53333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Las Mesas",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606537,
+    "gn:latitude":14.11667,
+    "gn:longitude":-87.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Las Mesas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Mesas",
+        "Las Mesas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421170707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606537
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5a53e59fed3727847baa91757ee6c0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170707,
+            "locality_id":1309804151,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1309804151,
+    "wof:lastmodified":1537625634,
+    "wof:name":"Las Mesas",
+    "wof:parent_id":421170707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.53333,
+    14.11667,
+    -87.53333,
+    14.11667
+],
+  "geometry": {"coordinates":[-87.53333000000001,14.11667],"type":"Point"}
+}

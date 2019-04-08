@@ -1,0 +1,67 @@
+{
+  "id": 1310715759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.1,15.66667,-87.1,15.66667",
+    "geom:latitude":15.66667,
+    "geom:longitude":-87.1,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Frisco Uno",
+    "gn:country_code":"HN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609654,
+    "gn:latitude":15.66667,
+    "gn:longitude":-87.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Frisco Uno",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671851,
+        421182929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609654
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0af803facdde9ed6f27dbdb506ce4634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182929,
+            "locality_id":1310715759,
+            "region_id":85671851
+        }
+    ],
+    "wof:id":1310715759,
+    "wof:lastmodified":1536610970,
+    "wof:name":"Frisco Uno",
+    "wof:parent_id":421182929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.1,
+    15.66667,
+    -87.1,
+    15.66667
+],
+  "geometry": {"coordinates":[-87.09999999999999,15.66667],"type":"Point"}
+}

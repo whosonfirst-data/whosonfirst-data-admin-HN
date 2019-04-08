@@ -1,0 +1,67 @@
+{
+  "id": 890455361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.63333,15.11667,-88.63333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":-88.63333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":954,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"La Reina",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":573,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421190809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607079,
+        "qs:id":96063,
+        "wk:page":"La Reina"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052944,
+    "wof:geomhash":"5a200fc2230100bad9732a4276157f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421190809,
+            "locality_id":890455361,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":890455361,
+    "wof:lastmodified":1527734194,
+    "wof:name":"La Reina",
+    "wof:parent_id":421190809,
+    "wof:placetype":"locality",
+    "wof:population":954,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.63333,
+    15.11667,
+    -88.63333,
+    15.11667
+],
+  "geometry": {"coordinates":[-88.63333,15.11667],"type":"Point"}
+}

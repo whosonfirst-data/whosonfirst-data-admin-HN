@@ -1,0 +1,79 @@
+{
+  "id": 421177181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.51528,13.46639,-87.51528,13.46639",
+    "geom:latitude":13.46639,
+    "geom:longitude":-87.51528,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3610046,
+    "qs:gn_pop":1927,
+    "qs:name":"El Tular",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Valle",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1116181,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":101655,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610046,
+        "gp:id":101655,
+        "qs:id":1116181
+    },
+    "wof:country":"HN",
+    "wof:created":1459009135,
+    "wof:geomhash":"4f3c885e0a23ea46d38f08d79ffd3990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":421177181,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":421177181,
+    "wof:lastmodified":1505340632,
+    "wof:name":"El Tular",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:population":1927,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.51528,
+    13.46639,
+    -87.51528,
+    13.46639
+],
+  "geometry": {"coordinates":[-87.51528,13.46639],"type":"Point"}
+}

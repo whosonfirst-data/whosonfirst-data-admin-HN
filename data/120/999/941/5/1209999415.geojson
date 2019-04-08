@@ -1,0 +1,67 @@
+{
+  "id": 1209999415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.9,14.8,-86.9,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-86.9,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"El Coyolar",
+    "gn:country_code":"HN",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611958,
+    "gn:latitude":14.8,
+    "gn:longitude":-86.9,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Coyolar",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611958
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"61016898df6a89a39f201a2a12697142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191361,
+            "locality_id":1209999415,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1209999415,
+    "wof:lastmodified":1536380337,
+    "wof:name":"El Coyolar",
+    "wof:parent_id":421191361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.9,
+    14.8,
+    -86.9,
+    14.8
+],
+  "geometry": {"coordinates":[-86.90000000000001,14.8],"type":"Point"}
+}

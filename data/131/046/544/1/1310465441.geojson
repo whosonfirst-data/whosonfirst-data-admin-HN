@@ -1,0 +1,67 @@
+{
+  "id": 1310465441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5,13.51667,-87.5,13.51667",
+    "geom:latitude":13.51667,
+    "geom:longitude":-87.5,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Rario Urbano",
+    "gn:country_code":"HN",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602882,
+    "gn:latitude":13.51667,
+    "gn:longitude":-87.5,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rario Urbano",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602882
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b8f81922e43fbf27732a253297c3cd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1310465441,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1310465441,
+    "wof:lastmodified":1536974349,
+    "wof:name":"Rario Urbano",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5,
+    13.51667,
+    -87.5,
+    13.51667
+],
+  "geometry": {"coordinates":[-87.5,13.51667],"type":"Point"}
+}

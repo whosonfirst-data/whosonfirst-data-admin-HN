@@ -1,0 +1,67 @@
+{
+  "id": 1326901395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18333,14.43333,-89.18333,14.43333",
+    "geom:latitude":14.43333,
+    "geom:longitude":-89.18333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Vera Cruz",
+    "gn:country_code":"HN",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600383,
+    "gn:latitude":14.43333,
+    "gn:longitude":-89.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Vera Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        890429335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600383
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"cf5dfd1cc64d707de4a81e5d51352847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":890429335,
+            "locality_id":1326901395,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":1326901395,
+    "wof:lastmodified":1536949574,
+    "wof:name":"Vera Cruz",
+    "wof:parent_id":890429335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18333,
+    14.43333,
+    -89.18333,
+    14.43333
+],
+  "geometry": {"coordinates":[-89.18333,14.43333],"type":"Point"}
+}

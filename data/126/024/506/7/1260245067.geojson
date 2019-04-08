@@ -1,0 +1,72 @@
+{
+  "id": 1260245067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83333,15.13333,-87.83333,15.13333",
+    "geom:latitude":15.13333,
+    "geom:longitude":-87.83333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Tapiquilares",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601003,
+    "gn:latitude":15.13333,
+    "gn:longitude":-87.83333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tapiquilares",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tapiguilares",
+        "Tapiquilares"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170711
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601003
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"93bd2638bf4190d74d677f132b0d95d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170711,
+            "locality_id":1260245067,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1260245067,
+    "wof:lastmodified":1537625565,
+    "wof:name":"Tapiquilares",
+    "wof:parent_id":421170711,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83333,
+    15.13333,
+    -87.83333,
+    15.13333
+],
+  "geometry": {"coordinates":[-87.83333,15.13333],"type":"Point"}
+}

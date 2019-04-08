@@ -1,0 +1,73 @@
+{
+  "id": 1310374997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.51667,15.05,-88.51667,15.05",
+    "geom:latitude":15.05,
+    "geom:longitude":-88.51667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Totoca",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600645,
+    "gn:latitude":15.05,
+    "gn:longitude":-88.51667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Totoca",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Barro",
+        "Tatoca",
+        "Totoca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421201045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600645
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"41472d3423ec2de7122309586f0d3ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201045,
+            "locality_id":1310374997,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1310374997,
+    "wof:lastmodified":1537625561,
+    "wof:name":"Totoca",
+    "wof:parent_id":421201045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.51666999999998,
+    15.05,
+    -88.51666999999998,
+    15.05
+],
+  "geometry": {"coordinates":[-88.51666999999998,15.05],"type":"Point"}
+}

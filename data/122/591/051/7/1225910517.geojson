@@ -1,0 +1,67 @@
+{
+  "id": 1225910517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.18333,15.26667,-87.18333,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":-87.18333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Rio Abajo",
+    "gn:country_code":"HN",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602819,
+    "gn:latitude":15.26667,
+    "gn:longitude":-87.18333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421185397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602819
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"85389d44b2f065cb65e3be3321cbf22d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185397,
+            "locality_id":1225910517,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1225910517,
+    "wof:lastmodified":1536921101,
+    "wof:name":"Rio Abajo",
+    "wof:parent_id":421185397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.18333,
+    15.26667,
+    -87.18333,
+    15.26667
+],
+  "geometry": {"coordinates":[-87.18333,15.26667],"type":"Point"}
+}

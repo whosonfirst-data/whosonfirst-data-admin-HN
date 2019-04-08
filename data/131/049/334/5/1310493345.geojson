@@ -1,0 +1,67 @@
+{
+  "id": 1310493345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.07028,13.58389,-87.07028,13.58389",
+    "geom:latitude":13.58389,
+    "geom:longitude":-87.07028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Ramon",
+    "gn:country_code":"HN",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601754,
+    "gn:latitude":13.58389,
+    "gn:longitude":-87.07028,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"San Ram\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421188505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601754
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"99c648342283abe60a664dd7e1d7588c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188505,
+            "locality_id":1310493345,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1310493345,
+    "wof:lastmodified":1536935235,
+    "wof:name":"San Ramon",
+    "wof:parent_id":421188505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.07028000000003,
+    13.58389,
+    -87.07028000000003,
+    13.58389
+],
+  "geometry": {"coordinates":[-87.07028000000003,13.58389],"type":"Point"}
+}

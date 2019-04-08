@@ -1,0 +1,67 @@
+{
+  "id": 1225848405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.04722,13.3925,-87.04722,13.3925",
+    "geom:latitude":13.3925,
+    "geom:longitude":-87.04722,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Pillado",
+    "gn:country_code":"HN",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819130,
+    "gn:latitude":13.3925,
+    "gn:longitude":-87.04722,
+    "gn:modification_date":"2004-02-12",
+    "gn:name":"El Pillado",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421188769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819130
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a48c108e951a7cf08a06ed073581efc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188769,
+            "locality_id":1225848405,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1225848405,
+    "wof:lastmodified":1537009104,
+    "wof:name":"El Pillado",
+    "wof:parent_id":421188769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.04722,
+    13.3925,
+    -87.04722,
+    13.3925
+],
+  "geometry": {"coordinates":[-87.04722,13.3925],"type":"Point"}
+}

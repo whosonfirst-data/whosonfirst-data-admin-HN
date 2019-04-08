@@ -1,0 +1,67 @@
+{
+  "id": 1310428427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.175,14.77833,-89.175,14.77833",
+    "geom:latitude":14.77833,
+    "geom:longitude":-89.175,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Quebrachos",
+    "gn:country_code":"HN",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9179493,
+    "gn:latitude":14.77833,
+    "gn:longitude":-89.175,
+    "gn:modification_date":"2014-07-01",
+    "gn:name":"Quebrachos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632385,
+        85671715,
+        421188729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9179493
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e9d3fc89d9314d9781baf7002bdfb45b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632385,
+            "county_id":421188729,
+            "locality_id":1310428427,
+            "region_id":85671715
+        }
+    ],
+    "wof:id":1310428427,
+    "wof:lastmodified":1537026971,
+    "wof:name":"Quebrachos",
+    "wof:parent_id":421188729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.175,
+    14.77833,
+    -89.175,
+    14.77833
+],
+  "geometry": {"coordinates":[-89.175,14.77833],"type":"Point"}
+}

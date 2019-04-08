@@ -1,0 +1,67 @@
+{
+  "id": 1225941857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.18,13.92556,-87.18,13.92556",
+    "geom:latitude":13.92556,
+    "geom:longitude":-87.18,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Onofre",
+    "gn:country_code":"HN",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819682,
+    "gn:latitude":13.92556,
+    "gn:longitude":-87.18,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"El Onofre",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421193299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819682
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f1ca921e1b8b6a8b2440b41e762416ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421193299,
+            "locality_id":1225941857,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1225941857,
+    "wof:lastmodified":1536874042,
+    "wof:name":"El Onofre",
+    "wof:parent_id":421193299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.18,
+    13.92556,
+    -87.18,
+    13.92556
+],
+  "geometry": {"coordinates":[-87.18000000000001,13.92556],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 421177189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.58333,14.78333,-88.58333,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-88.58333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u840a\u5e15\u57c3\u62c9"
+    ],
+    "name:dut_x_preferred":[
+        "Lepaera"
+    ],
+    "name:eng_x_preferred":[
+        "Lepaera"
+    ],
+    "name:fre_x_preferred":[
+        "Lepaera"
+    ],
+    "name:ita_x_preferred":[
+        "Lepaera"
+    ],
+    "name:nan_x_preferred":[
+        "Lepaera"
+    ],
+    "name:nld_x_preferred":[
+        "Lepaera"
+    ],
+    "name:por_x_preferred":[
+        "Lepaera"
+    ],
+    "name:spa_x_preferred":[
+        "Lepaera"
+    ],
+    "name:swe_x_preferred":[
+        "Lepaera"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5e15\u57c3\u62c9"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3606048,
+    "qs:gn_pop":3137,
+    "qs:name":"Lepaera",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Lempira",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1116191,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":104341,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        421205531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606048,
+        "gp:id":104341,
+        "qs:id":1116191,
+        "wd:id":"Q777598",
+        "wk:page":"Lepaera"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009136,
+    "wof:geomhash":"28a351887caf2e030f2ba5b1585db466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205531,
+            "locality_id":421177189,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":421177189,
+    "wof:lastmodified":1514446633,
+    "wof:name":"Lepaera",
+    "wof:parent_id":421205531,
+    "wof:placetype":"locality",
+    "wof:population":3137,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.58333,
+    14.78333,
+    -88.58333,
+    14.78333
+],
+  "geometry": {"coordinates":[-88.58333,14.78333],"type":"Point"}
+}

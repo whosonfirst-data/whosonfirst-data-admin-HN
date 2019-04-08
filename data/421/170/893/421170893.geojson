@@ -1,0 +1,79 @@
+{
+  "id": 421170893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36667,15.58333,-88.36667,15.58333",
+    "geom:latitude":15.58333,
+    "geom:longitude":-88.36667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3613191,
+    "qs:gn_pop":954,
+    "qs:name":"Corinto",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Cort\u00e9s",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"2",
+    "qs:qs_id":269700,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":99144,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421172429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613191,
+        "gp:id":99144,
+        "qs:id":269700
+    },
+    "wof:country":"HN",
+    "wof:created":1459008872,
+    "wof:geomhash":"385bb1c9410a7fd110a90337f0cb1da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421172429,
+            "locality_id":421170893,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":421170893,
+    "wof:lastmodified":1505340607,
+    "wof:name":"Corinto",
+    "wof:parent_id":421172429,
+    "wof:placetype":"locality",
+    "wof:population":954,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36667,
+    15.58333,
+    -88.36667,
+    15.58333
+],
+  "geometry": {"coordinates":[-88.36667,15.58333],"type":"Point"}
+}

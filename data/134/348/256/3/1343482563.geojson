@@ -1,0 +1,72 @@
+{
+  "id": 1343482563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.43333,14.1,-86.43333,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-86.43333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Zarzal",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609843,
+    "gn:latitude":14.1,
+    "gn:longitude":-86.43333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Zarzal",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zarzal",
+        "El Zarzal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421203561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609843
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"3d4f368507ebbdd867d1a96054ae265c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203561,
+            "locality_id":1343482563,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1343482563,
+    "wof:lastmodified":1537625683,
+    "wof:name":"El Zarzal",
+    "wof:parent_id":421203561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.43333,
+    14.1,
+    -86.43333,
+    14.1
+],
+  "geometry": {"coordinates":[-86.43333,14.1],"type":"Point"}
+}

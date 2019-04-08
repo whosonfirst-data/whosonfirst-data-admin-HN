@@ -1,0 +1,61 @@
+{
+  "id": 1293667223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.21667,16.4,-86.21667,16.4",
+    "geom:latitude":16.4,
+    "geom:longitude":-86.21667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601605,
+    "gn:latitude":16.4,
+    "gn:longitude":-86.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601605
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"bb6ea6ce64459af4a898219ad2ace7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293667223,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293667223,
+    "wof:lastmodified":1537024147,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.21667,
+    16.4,
+    -86.21667,
+    16.4
+],
+  "geometry": {"coordinates":[-86.21666999999999,16.4],"type":"Point"}
+}

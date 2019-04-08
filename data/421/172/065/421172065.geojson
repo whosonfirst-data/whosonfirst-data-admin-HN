@@ -1,0 +1,101 @@
+{
+  "id": 421172065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.35361,15.08472,-83.35361,15.08472",
+    "geom:latitude":15.08472,
+    "geom:longitude":-83.35361,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Ram\u00f3n Villeda Morales"
+    ],
+    "name:nld_x_preferred":[
+        "Villeda Morales"
+    ],
+    "name:por_x_preferred":[
+        "Ram\u00f3n Villeda Morales"
+    ],
+    "name:spa_x_preferred":[
+        "Ram\u00f3n Villeda Morales"
+    ],
+    "name:swe_x_preferred":[
+        "Villeda Morales"
+    ],
+    "name:unk_x_variant":[
+        "Ram\u00f3n Villeda Morales"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u8499\u6bd4\u5217\u9054\u83ab\u62c9\u840a\u65af"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":8062436,
+    "qs:gn_pop":8601,
+    "qs:name":"Villeda Morales",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Gracias a Dios",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":184,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "qs:qs_id":234941,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813873,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8062436,
+        "gp:id":26813873,
+        "qs:id":234941,
+        "wd:id":"Q924828",
+        "wk:page":"Ram\u00f3n Villeda Morales (municipality)"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008919,
+    "wof:geomhash":"8f72db667a553db53400a66d3e7429a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421172065,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":421172065,
+    "wof:lastmodified":1505340609,
+    "wof:name":"Villeda Morales",
+    "wof:parent_id":85671867,
+    "wof:placetype":"county",
+    "wof:population":8601,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.35361,
+    15.08472,
+    -83.35361,
+    15.08472
+],
+  "geometry": {"coordinates":[-83.35361,15.08472],"type":"Point"}
+}

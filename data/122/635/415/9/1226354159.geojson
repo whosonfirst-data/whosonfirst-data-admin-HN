@@ -1,0 +1,61 @@
+{
+  "id": 1226354159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.96667,15.8,-86.96667,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-86.96667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Masicales",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3604958,
+    "gn:latitude":15.8,
+    "gn:longitude":-86.96667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Masicales",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3604958
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"76b88fe5e868b88364a3bd54ef46a666",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226354159,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226354159,
+    "wof:lastmodified":1536777836,
+    "wof:name":"Masicales",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.96667,
+    15.8,
+    -86.96667,
+    15.8
+],
+  "geometry": {"coordinates":[-86.96666999999999,15.8],"type":"Point"}
+}

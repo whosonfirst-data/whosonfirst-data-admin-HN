@@ -1,0 +1,72 @@
+{
+  "id": 1193248129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.65,15.06667,-88.65,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":-88.65,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Guiscoyol",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609104,
+    "gn:latitude":15.06667,
+    "gn:longitude":-88.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fciscoyol",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El G\u00fciscoyol",
+        "G\u00fciscoyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421190809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609104
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b5cd73f81d99397769c6fe0319dbbc58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421190809,
+            "locality_id":1193248129,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1193248129,
+    "wof:lastmodified":1537625675,
+    "wof:name":"Guiscoyol",
+    "wof:parent_id":421190809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.65,
+    15.06667,
+    -88.65,
+    15.06667
+],
+  "geometry": {"coordinates":[-88.65000000000001,15.06667],"type":"Point"}
+}

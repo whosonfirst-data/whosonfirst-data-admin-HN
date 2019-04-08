@@ -1,0 +1,67 @@
+{
+  "id": 1293904841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.58333,14.08333,-86.58333,14.08333",
+    "geom:latitude":14.08333,
+    "geom:longitude":-86.58333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"San Cristobal",
+    "gn:country_code":"HN",
+    "gn:dem":1307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602384,
+    "gn:latitude":14.08333,
+    "gn:longitude":-86.58333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Crist\u00f3bal",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421203561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602384
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"82e73a3eafaba795cedbb4e416d9ca0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203561,
+            "locality_id":1293904841,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1293904841,
+    "wof:lastmodified":1536682571,
+    "wof:name":"San Cristobal",
+    "wof:parent_id":421203561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.58333,
+    14.08333,
+    -86.58333,
+    14.08333
+],
+  "geometry": {"coordinates":[-86.58333,14.08333],"type":"Point"}
+}

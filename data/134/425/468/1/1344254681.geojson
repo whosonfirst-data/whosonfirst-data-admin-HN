@@ -1,0 +1,67 @@
+{
+  "id": 1344254681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.98158,15.71759,-87.98158,15.71759",
+    "geom:latitude":15.71759,
+    "geom:longitude":-87.98158,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Santa Martha",
+    "gn:country_code":"HN",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9076838,
+    "gn:latitude":15.71759,
+    "gn:longitude":-87.98158,
+    "gn:modification_date":"2014-06-07",
+    "gn:name":"Santa Martha",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421185035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9076838
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d0bff9437f8929ef0595f7964ade0901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185035,
+            "locality_id":1344254681,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1344254681,
+    "wof:lastmodified":1537089380,
+    "wof:name":"Santa Martha",
+    "wof:parent_id":421185035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.98158000000002,
+    15.71759,
+    -87.98158000000002,
+    15.71759
+],
+  "geometry": {"coordinates":[-87.98158000000002,15.71759],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243253309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.91667,14.78333,-84.91667,14.78333",
+    "geom:latitude":14.78333,
+    "geom:longitude":-84.91667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Awawas Rapido",
+    "gn:country_code":"HN",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614999,
+    "gn:latitude":14.78333,
+    "gn:longitude":-84.91667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Awawas R\u00e1pido",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632599,
+        85675485,
+        1108693673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614999
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"90b1769476f6c66d13000bc2fcd728dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632599,
+            "county_id":1108693673,
+            "locality_id":1243253309,
+            "region_id":85675485
+        }
+    ],
+    "wof:id":1243253309,
+    "wof:lastmodified":1537080803,
+    "wof:name":"Awawas Rapido",
+    "wof:parent_id":1108693673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.91667,
+    14.78333,
+    -84.91667,
+    14.78333
+],
+  "geometry": {"coordinates":[-84.91667,14.78333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310510431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.12556,13.53472,-87.12556,13.53472",
+    "geom:latitude":13.53472,
+    "geom:longitude":-87.12556,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Andres",
+    "gn:country_code":"HN",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602537,
+    "gn:latitude":13.53472,
+    "gn:longitude":-87.12556,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"San Andr\u00e9s",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421205245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602537
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"72f5797a71c088f6abc06b3dff78f7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205245,
+            "locality_id":1310510431,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1310510431,
+    "wof:lastmodified":1536910028,
+    "wof:name":"San Andres",
+    "wof:parent_id":421205245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.12556,
+    13.53472,
+    -87.12556,
+    13.53472
+],
+  "geometry": {"coordinates":[-87.12555999999999,13.53472],"type":"Point"}
+}

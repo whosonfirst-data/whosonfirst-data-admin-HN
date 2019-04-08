@@ -1,0 +1,61 @@
+{
+  "id": 1209102959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.23278,13.99278,-87.23278,13.99278",
+    "geom:latitude":13.99278,
+    "geom:longitude":-87.23278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Estacada",
+    "gn:country_code":"HN",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819531,
+    "gn:latitude":13.99278,
+    "gn:longitude":-87.23278,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"La Estacada",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819531
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"2cecabd13d336337373023b121523241",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209102959
+        }
+    ],
+    "wof:id":1209102959,
+    "wof:lastmodified":1536297673,
+    "wof:name":"La Estacada",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.23278,
+    13.992779999999998,
+    -87.23278,
+    13.992779999999998
+],
+  "geometry": {"coordinates":[-87.23278000000001,13.99278],"type":"Point"}
+}

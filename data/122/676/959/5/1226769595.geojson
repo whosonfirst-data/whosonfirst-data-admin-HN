@@ -1,0 +1,67 @@
+{
+  "id": 1226769595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.12778,13.90389,-87.12778,13.90389",
+    "geom:latitude":13.90389,
+    "geom:longitude":-87.12778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"La Mole",
+    "gn:country_code":"HN",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819738,
+    "gn:latitude":13.90389,
+    "gn:longitude":-87.12778,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"La Mole",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819738
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"7c59a478c4af1164bfdee37061d1f40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":1226769595,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1226769595,
+    "wof:lastmodified":1536681222,
+    "wof:name":"La Mole",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.12778,
+    13.90389,
+    -87.12778,
+    13.90389
+],
+  "geometry": {"coordinates":[-87.12778,13.90389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242750371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,14.8,-88.35,14.8",
+    "geom:latitude":14.8,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"El Ocotillo",
+    "gn:country_code":"HN",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611076,
+    "gn:latitude":14.8,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Ocotillo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421182565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611076
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"202cc596403207b20de2ccaa7361a57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182565,
+            "locality_id":1242750371,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1242750371,
+    "wof:lastmodified":1536814227,
+    "wof:name":"El Ocotillo",
+    "wof:parent_id":421182565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    14.8,
+    -88.35,
+    14.8
+],
+  "geometry": {"coordinates":[-88.34999999999999,14.8],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276958141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.56667,14.06667,-88.56667,14.06667",
+    "geom:latitude":14.06667,
+    "geom:longitude":-88.56667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Francisco",
+    "gn:country_code":"HN",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602322,
+    "gn:latitude":14.06667,
+    "gn:longitude":-88.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Francisco",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        421182893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602322
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f1fec2959f4f61e99ef3877d11a728d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182893,
+            "locality_id":1276958141,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":1276958141,
+    "wof:lastmodified":1536937236,
+    "wof:name":"San Francisco",
+    "wof:parent_id":421182893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.56667,
+    14.06667,
+    -88.56667,
+    14.06667
+],
+  "geometry": {"coordinates":[-88.56667,14.06667],"type":"Point"}
+}

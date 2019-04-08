@@ -1,0 +1,67 @@
+{
+  "id": 1310226431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.12056,13.80389,-87.12056,13.80389",
+    "geom:latitude":13.80389,
+    "geom:longitude":-87.12056,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Las Vueltas",
+    "gn:country_code":"HN",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820341,
+    "gn:latitude":13.80389,
+    "gn:longitude":-87.12056,
+    "gn:modification_date":"2004-07-09",
+    "gn:name":"Las Vueltas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421181925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820341
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"bdab5874a075bfc72f3b64f1952e7157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181925,
+            "locality_id":1310226431,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1310226431,
+    "wof:lastmodified":1536821264,
+    "wof:name":"Las Vueltas",
+    "wof:parent_id":421181925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.12056,
+    13.80389,
+    -87.12056,
+    13.80389
+],
+  "geometry": {"coordinates":[-87.12056,13.80389],"type":"Point"}
+}

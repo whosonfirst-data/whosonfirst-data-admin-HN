@@ -1,0 +1,66 @@
+{
+  "id": 890444867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.98333,15.41667,-87.98333,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":-87.98333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1564,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Chotepe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421184465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613509,
+        "gp:id":107143,
+        "qs:id":1045704
+    },
+    "wof:country":"HN",
+    "wof:created":1469052484,
+    "wof:geomhash":"d84e135fec01bec85b62b77ff11b7c60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184465,
+            "locality_id":890444867,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":890444867,
+    "wof:lastmodified":1505343601,
+    "wof:name":"Chotepe",
+    "wof:parent_id":421184465,
+    "wof:placetype":"locality",
+    "wof:population":1564,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.98333,
+    15.41667,
+    -87.98333,
+    15.41667
+],
+  "geometry": {"coordinates":[-87.98333,15.41667],"type":"Point"}
+}

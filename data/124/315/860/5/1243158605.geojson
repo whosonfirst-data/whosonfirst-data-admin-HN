@@ -1,0 +1,67 @@
+{
+  "id": 1243158605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.54963,14.22246,-88.54963,14.22246",
+    "geom:latitude":14.22246,
+    "geom:longitude":-88.54963,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"San Jose de Esquimpara",
+    "gn:country_code":"HN",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534978,
+    "gn:latitude":14.22246,
+    "gn:longitude":-88.54963,
+    "gn:modification_date":"2014-09-10",
+    "gn:name":"San Jos\u00e9 de Esquimpara",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        421188513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534978
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0b56e41a5eafbf34dfa5bc3bb94aa70d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188513,
+            "locality_id":1243158605,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":1243158605,
+    "wof:lastmodified":1536723933,
+    "wof:name":"San Jose de Esquimpara",
+    "wof:parent_id":421188513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.54963000000002,
+    14.22246,
+    -88.54963000000002,
+    14.22246
+],
+  "geometry": {"coordinates":[-88.54963000000002,14.22246],"type":"Point"}
+}

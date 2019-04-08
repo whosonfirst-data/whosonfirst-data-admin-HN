@@ -1,0 +1,67 @@
+{
+  "id": 1225916639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.51583,15.43944,-88.51583,15.43944",
+    "geom:latitude":15.43944,
+    "geom:longitude":-88.51583,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Teocintales",
+    "gn:country_code":"HN",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3764256,
+    "gn:latitude":15.43944,
+    "gn:longitude":-88.51583,
+    "gn:modification_date":"1998-08-26",
+    "gn:name":"Teocintales",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        890455339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3764256
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5396011a0c11b2053fa0fbc9402ecca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":890455339,
+            "locality_id":1225916639,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1225916639,
+    "wof:lastmodified":1536911918,
+    "wof:name":"Teocintales",
+    "wof:parent_id":890455339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.51583000000002,
+    15.43944,
+    -88.51583000000002,
+    15.43944
+],
+  "geometry": {"coordinates":[-88.51583000000002,15.43944],"type":"Point"}
+}

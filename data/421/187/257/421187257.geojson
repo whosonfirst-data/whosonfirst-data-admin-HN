@@ -1,0 +1,79 @@
+{
+  "id": 421187257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.36667,16.4,-86.36667,16.4",
+    "geom:latitude":16.4,
+    "geom:longitude":-86.36667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Jansville"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3608609,
+    "qs:gn_pop":0,
+    "qs:name":"Jonesville",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Islas de la Bah\u00eda",
+    "qs:photos":1694,
+    "qs:photos_1k":343,
+    "qs:photos_9k":8,
+    "qs:photos_9r":8,
+    "qs:photos_all":1694,
+    "qs:photos_sr":14,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082614,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102391,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":35,
+    "wof:belongsto":[
+        102191575,
+        85671869,
+        421170703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608609,
+        "gp:id":102391,
+        "qs:id":1082614
+    },
+    "wof:country":"HN",
+    "wof:created":1459009507,
+    "wof:geomhash":"9169faa78d924abfd374adc241eb735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421170703,
+            "locality_id":421187257,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":421187257,
+    "wof:lastmodified":1527716246,
+    "wof:name":"Jonesville",
+    "wof:parent_id":421170703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.36667,
+    16.4,
+    -86.36667,
+    16.4
+],
+  "geometry": {"coordinates":[-86.36667,16.4],"type":"Point"}
+}

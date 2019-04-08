@@ -1,0 +1,61 @@
+{
+  "id": 1209515611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.05,14.68333,-88.05,14.68333",
+    "geom:latitude":14.68333,
+    "geom:longitude":-88.05,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Delicias",
+    "gn:country_code":"HN",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612884,
+    "gn:latitude":14.68333,
+    "gn:longitude":-88.05,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612884
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"48e796f64200079f09e377fe2fe43aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209515611
+        }
+    ],
+    "wof:id":1209515611,
+    "wof:lastmodified":1536284742,
+    "wof:name":"Delicias",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.05,
+    14.683329999999998,
+    -88.05,
+    14.683329999999998
+],
+  "geometry": {"coordinates":[-88.05,14.68333],"type":"Point"}
+}

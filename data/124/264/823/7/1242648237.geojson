@@ -1,0 +1,72 @@
+{
+  "id": 1242648237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13333,14.45,-89.13333,14.45",
+    "geom:latitude":14.45,
+    "geom:longitude":-89.13333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"San Rafael de las Mataras",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601756,
+    "gn:latitude":14.45,
+    "gn:longitude":-89.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Rafael de las Mataras",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mataras",
+        "San Rafael de las Mataras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421169621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601756
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"587553645dbd779a8e93073eafaec23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421169621,
+            "locality_id":1242648237,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":1242648237,
+    "wof:lastmodified":1537625573,
+    "wof:name":"San Rafael de las Mataras",
+    "wof:parent_id":421169621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13333,
+    14.45,
+    -89.13333,
+    14.45
+],
+  "geometry": {"coordinates":[-89.13333,14.45],"type":"Point"}
+}

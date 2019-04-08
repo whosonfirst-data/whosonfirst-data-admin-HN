@@ -1,0 +1,72 @@
+{
+  "id": 1209836849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05028,13.57028,-87.05028,13.57028",
+    "geom:latitude":13.57028,
+    "geom:longitude":-87.05028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"La Burrera",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608368,
+    "gn:latitude":13.57028,
+    "gn:longitude":-87.05028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Burrera",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burrera",
+        "La Burrera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421188505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608368
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f5e128cf8ff5a9f293f6762c51147901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188505,
+            "locality_id":1209836849,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1209836849,
+    "wof:lastmodified":1537625667,
+    "wof:name":"La Burrera",
+    "wof:parent_id":421188505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05028,
+    13.57028,
+    -87.05028,
+    13.57028
+],
+  "geometry": {"coordinates":[-87.05028,13.57028],"type":"Point"}
+}

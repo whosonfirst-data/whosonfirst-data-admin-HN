@@ -1,0 +1,67 @@
+{
+  "id": 1210029277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.1275,13.23306,-87.1275,13.23306",
+    "geom:latitude":13.23306,
+    "geom:longitude":-87.1275,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tierra Blanca",
+    "gn:country_code":"HN",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600809,
+    "gn:latitude":13.23306,
+    "gn:longitude":-87.1275,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"Tierra Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421188503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600809
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"3599cba5e903dc54688c898583c9587f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188503,
+            "locality_id":1210029277,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1210029277,
+    "wof:lastmodified":1536389314,
+    "wof:name":"Tierra Blanca",
+    "wof:parent_id":421188503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.1275,
+    13.23306,
+    -87.1275,
+    13.23306
+],
+  "geometry": {"coordinates":[-87.1275,13.23306],"type":"Point"}
+}

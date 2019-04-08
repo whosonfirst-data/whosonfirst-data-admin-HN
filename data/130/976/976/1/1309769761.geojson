@@ -1,0 +1,67 @@
+{
+  "id": 1309769761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.65917,13.67306,-87.65917,13.67306",
+    "geom:latitude":13.67306,
+    "geom:longitude":-87.65917,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Mogote",
+    "gn:country_code":"HN",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826206,
+    "gn:latitude":13.67306,
+    "gn:longitude":-87.65917,
+    "gn:modification_date":"2005-07-06",
+    "gn:name":"El Mogote",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421182583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826206
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c97c26c6c2c6591d67cc0b8a5ce19d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182583,
+            "locality_id":1309769761,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1309769761,
+    "wof:lastmodified":1536982460,
+    "wof:name":"El Mogote",
+    "wof:parent_id":421182583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.65916999999997,
+    13.67306,
+    -87.65916999999997,
+    13.67306
+],
+  "geometry": {"coordinates":[-87.65916999999997,13.67306],"type":"Point"}
+}

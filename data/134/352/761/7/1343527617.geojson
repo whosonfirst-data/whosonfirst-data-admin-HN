@@ -1,0 +1,72 @@
+{
+  "id": 1343527617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.68333,15.41667,-87.68333,15.41667",
+    "geom:latitude":15.41667,
+    "geom:longitude":-87.68333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"San Jose el Negrito",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602064,
+    "gn:latitude":15.41667,
+    "gn:longitude":-87.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"San Jos\u00e9 el Negrito",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jos\u00e9",
+        "San Jos\u00e9 el Negrito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421201043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602064
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"bfc5984e6b35ba2da5e2b59180ce72a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201043,
+            "locality_id":1343527617,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1343527617,
+    "wof:lastmodified":1537625575,
+    "wof:name":"San Jose el Negrito",
+    "wof:parent_id":421201043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.68333,
+    15.41667,
+    -87.68333,
+    15.41667
+],
+  "geometry": {"coordinates":[-87.68333,15.41667],"type":"Point"}
+}

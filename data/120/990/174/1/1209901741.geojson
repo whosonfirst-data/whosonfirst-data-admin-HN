@@ -1,0 +1,67 @@
+{
+  "id": 1209901741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.3975,13.81222,-87.3975,13.81222",
+    "geom:latitude":13.81222,
+    "geom:longitude":-87.3975,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oseguera",
+    "gn:country_code":"HN",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820574,
+    "gn:latitude":13.81222,
+    "gn:longitude":-87.3975,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Oseguera",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820574
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"871010d2b6d5aab5e03ed8395becb8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191601,
+            "locality_id":1209901741,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1209901741,
+    "wof:lastmodified":1536386125,
+    "wof:name":"Oseguera",
+    "wof:parent_id":421191601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.3975,
+    13.81222,
+    -87.3975,
+    13.81222
+],
+  "geometry": {"coordinates":[-87.39749999999999,13.81222],"type":"Point"}
+}

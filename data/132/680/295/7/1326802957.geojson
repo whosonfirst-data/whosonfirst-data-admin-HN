@@ -1,0 +1,67 @@
+{
+  "id": 1326802957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.41667,15.06667,-88.41667,15.06667",
+    "geom:latitude":15.06667,
+    "geom:longitude":-88.41667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Tierra Buena",
+    "gn:country_code":"HN",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600791,
+    "gn:latitude":15.06667,
+    "gn:longitude":-88.41667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Tierra Buena",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421201045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600791
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"37778035b466021c6aeec5f731d8ee94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201045,
+            "locality_id":1326802957,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1326802957,
+    "wof:lastmodified":1537087865,
+    "wof:name":"Tierra Buena",
+    "wof:parent_id":421201045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.41667,
+    15.06667,
+    -88.41667,
+    15.06667
+],
+  "geometry": {"coordinates":[-88.41667,15.06667],"type":"Point"}
+}

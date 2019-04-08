@@ -1,0 +1,67 @@
+{
+  "id": 890455333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,14.38333,-89.0,14.38333",
+    "geom:latitude":14.38333,
+    "geom:longitude":-89.0,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":914,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Santa Teresa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":166,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421203417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601479,
+        "qs:id":96028,
+        "wk:page":"Santa Teresa"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052943,
+    "wof:geomhash":"2e1a40f357ecd85a03b12bd02bf85f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203417,
+            "locality_id":890455333,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":890455333,
+    "wof:lastmodified":1527735396,
+    "wof:name":"Santa Teresa",
+    "wof:parent_id":421203417,
+    "wof:placetype":"locality",
+    "wof:population":914,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    14.38333,
+    -89.0,
+    14.38333
+],
+  "geometry": {"coordinates":[-89.0,14.38333],"type":"Point"}
+}

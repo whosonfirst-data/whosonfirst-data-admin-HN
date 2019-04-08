@@ -1,0 +1,67 @@
+{
+  "id": 1209612541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.93333,15.75,-87.93333,15.75",
+    "geom:latitude":15.75,
+    "geom:longitude":-87.93333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Cieneguita",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3613478,
+    "gn:latitude":15.75,
+    "gn:longitude":-87.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cieneguita",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cienaguita",
+        "Cienoguita",
+        "Cieneguita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613478
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a1d429c337ded3f8489d18e5a619c38b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209612541
+        }
+    ],
+    "wof:id":1209612541,
+    "wof:lastmodified":1537625776,
+    "wof:name":"Cieneguita",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.93333,
+    15.75,
+    -87.93333,
+    15.75
+],
+  "geometry": {"coordinates":[-87.93333,15.75],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243144599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.21667,14.6,-88.21667,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-88.21667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Buenos Aires",
+    "gn:country_code":"HN",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3614588,
+    "gn:latitude":14.6,
+    "gn:longitude":-88.21667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Buenos Aires",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899,
+        1108701685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614588
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"181b2109c34e9c7703d3978d9310e146",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701685,
+            "locality_id":1243144599,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":1243144599,
+    "wof:lastmodified":1536743596,
+    "wof:name":"Buenos Aires",
+    "wof:parent_id":1108701685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.21667,
+    14.6,
+    -88.21667,
+    14.6
+],
+  "geometry": {"coordinates":[-88.21666999999999,14.6],"type":"Point"}
+}

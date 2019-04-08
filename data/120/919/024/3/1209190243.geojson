@@ -1,0 +1,61 @@
+{
+  "id": 1209190243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.83333,15.4,-86.83333,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-86.83333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Santa Marta Campo",
+    "gn:country_code":"HN",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601535,
+    "gn:latitude":15.4,
+    "gn:longitude":-86.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Marta Campo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601535
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"960d94382a3c35edb8a16ffb182f0e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209190243
+        }
+    ],
+    "wof:id":1209190243,
+    "wof:lastmodified":1536294959,
+    "wof:name":"Santa Marta Campo",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.83333,
+    15.4,
+    -86.83333,
+    15.4
+],
+  "geometry": {"coordinates":[-86.83333,15.4],"type":"Point"}
+}

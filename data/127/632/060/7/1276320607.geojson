@@ -1,0 +1,67 @@
+{
+  "id": 1276320607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8,13.86667,-87.8,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-87.8,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dolores",
+    "gn:country_code":"HN",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612843,
+    "gn:latitude":13.86667,
+    "gn:longitude":-87.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Dolores",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677169,
+        1108694893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612843
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e005a268de4a4963675efb8cbea8a813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694893,
+            "locality_id":1276320607,
+            "region_id":85677169
+        }
+    ],
+    "wof:id":1276320607,
+    "wof:lastmodified":1536796053,
+    "wof:name":"Dolores",
+    "wof:parent_id":1108694893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8,
+    13.86667,
+    -87.8,
+    13.86667
+],
+  "geometry": {"coordinates":[-87.8,13.86667],"type":"Point"}
+}

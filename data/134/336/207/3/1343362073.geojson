@@ -1,0 +1,67 @@
+{
+  "id": 1343362073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.14639,13.37333,-87.14639,13.37333",
+    "geom:latitude":13.37333,
+    "geom:longitude":-87.14639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Colonia Enrique Antonio Arias",
+    "gn:country_code":"HN",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819075,
+    "gn:latitude":13.37333,
+    "gn:longitude":-87.14639,
+    "gn:modification_date":"2004-02-12",
+    "gn:name":"Colonia Enrique Antonio Arias",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421188769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819075
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"3152b0372791c21f1affba2df1100c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188769,
+            "locality_id":1343362073,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1343362073,
+    "wof:lastmodified":1536887714,
+    "wof:name":"Colonia Enrique Antonio Arias",
+    "wof:parent_id":421188769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.14639,
+    13.37333,
+    -87.14639,
+    13.37333
+],
+  "geometry": {"coordinates":[-87.14639,13.37333],"type":"Point"}
+}

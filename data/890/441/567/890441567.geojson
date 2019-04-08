@@ -1,0 +1,65 @@
+{
+  "id": 890441567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.88333,14.76667,-87.88333,14.76667",
+    "geom:latitude":14.76667,
+    "geom:longitude":-87.88333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1054,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"R\u00edo Bonito",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421188781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602785,
+        "qs:id":279816
+    },
+    "wof:country":"HN",
+    "wof:created":1469052329,
+    "wof:geomhash":"a7b3c08333b5b0eaeec579036fb78516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188781,
+            "locality_id":890441567,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":890441567,
+    "wof:lastmodified":1505343583,
+    "wof:name":"R\u00edo Bonito",
+    "wof:parent_id":421188781,
+    "wof:placetype":"locality",
+    "wof:population":1054,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.88333,
+    14.76667,
+    -87.88333,
+    14.76667
+],
+  "geometry": {"coordinates":[-87.88333,14.76667],"type":"Point"}
+}

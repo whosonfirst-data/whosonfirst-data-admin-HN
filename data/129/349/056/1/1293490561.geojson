@@ -1,0 +1,67 @@
+{
+  "id": 1293490561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.0225,13.1325,-87.0225,13.1325",
+    "geom:latitude":13.1325,
+    "geom:longitude":-87.0225,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Las Uvas",
+    "gn:country_code":"HN",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606274,
+    "gn:latitude":13.1325,
+    "gn:longitude":-87.0225,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"Las Uvas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421182907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606274
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"15b9a042ae5fb888d8ac515bb0b8616d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182907,
+            "locality_id":1293490561,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1293490561,
+    "wof:lastmodified":1536783081,
+    "wof:name":"Las Uvas",
+    "wof:parent_id":421182907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.0225,
+    13.1325,
+    -87.0225,
+    13.1325
+],
+  "geometry": {"coordinates":[-87.02249999999999,13.1325],"type":"Point"}
+}

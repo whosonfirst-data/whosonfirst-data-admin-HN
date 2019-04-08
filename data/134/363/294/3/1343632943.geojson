@@ -1,0 +1,67 @@
+{
+  "id": 1343632943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.57528,13.64639,-87.57528,13.64639",
+    "geom:latitude":13.64639,
+    "geom:longitude":-87.57528,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Terrero",
+    "gn:country_code":"HN",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826067,
+    "gn:latitude":13.64639,
+    "gn:longitude":-87.57528,
+    "gn:modification_date":"2005-06-28",
+    "gn:name":"Terrero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421182591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826067
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"fa74e5f74a96097de5293c36bd9ebf3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182591,
+            "locality_id":1343632943,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1343632943,
+    "wof:lastmodified":1536994023,
+    "wof:name":"Terrero",
+    "wof:parent_id":421182591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.57528,
+    13.64639,
+    -87.57528,
+    13.64639
+],
+  "geometry": {"coordinates":[-87.57528000000001,13.64639],"type":"Point"}
+}

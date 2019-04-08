@@ -1,0 +1,333 @@
+{
+  "id": 421173059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.78221,15.75971,-86.78221,15.75971",
+    "geom:latitude":15.75971,
+    "geom:longitude":-86.78221,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0633\u064a\u0628\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u041b\u0430-\u0421\u0435\u0439\u0431\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u0995\u09c7\u0987\u09ac\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430 \u0421\u0435\u0439\u0431\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u585e\u74e6"
+    ],
+    "name:cze_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:dan_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:deu_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:dut_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:eng_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:epo_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:est_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:fin_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:fra_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:fre_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:ger_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u039a\u03ad\u03b9\u03bc\u03c0\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0ab8\u0ac7\u0a87\u0aac\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d4 \u05e1\u05d9\u05d9\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u093e \u0938\u093e\u0907\u092c\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:ind_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:ita_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30bb\u30a4\u30d0"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0cb8\u0cc8\u0cac\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc138\uc774\ubc14"
+    ],
+    "name:lav_x_preferred":[
+        "Laseiba"
+    ],
+    "name:lit_x_preferred":[
+        "La Seiba"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u0938\u0948\u092c\u093e"
+    ],
+    "name:may_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:nan_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:nld_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:nob_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u0627 \u0633\u06cc\u0628\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:por_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u0421\u0435\u0439\u0431\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0dc3\u0dd9\u0dba\u0dd2\u0db6\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:swe_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0b9a\u0bc6\u0baf\u0bcd\u0baa\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e \u0c38\u0c40\u0c2c\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32 \u0e44\u0e0b\u0e1a\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0421\u0435\u0439\u0431\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Ceiba"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0633\u06cc\u06cc\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:war_x_preferred":[
+        "La Ceiba"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u585e\u74e6"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Atl\u00e1ntida",
+    "ne:ADMIN1_COD":1,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":1,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed scale rank.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3608248,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"La Ceiba",
+    "ne:GN_POP":130218,
+    "ne:GTOPO30":8.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.763106,
+    "ne:LONGITUDE":-86.796987,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"La Ceiba",
+    "ne:MAX_AREAKM":16.0,
+    "ne:MAX_AREAMI":6.0,
+    "ne:MAX_BBXMAX":-86.758333,
+    "ne:MAX_BBXMIN":-86.816667,
+    "ne:MAX_BBYMAX":15.791667,
+    "ne:MAX_BBYMIN":15.758333,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":22.0,
+    "ne:MAX_PERMI":14.0,
+    "ne:MAX_POP10":145926,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-86.787939,
+    "ne:MEAN_BBYC":15.773026,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":16.0,
+    "ne:MIN_AREAMI":6.0,
+    "ne:MIN_BBXMAX":-86.758333,
+    "ne:MIN_BBXMIN":-86.816667,
+    "ne:MIN_BBYMAX":15.791667,
+    "ne:MIN_BBYMIN":15.758333,
+    "ne:MIN_PERKM":22.0,
+    "ne:MIN_PERMI":14.0,
+    "ne:NAME":"La Ceiba",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Ceiba",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":30,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":145926,
+    "ne:POP_MIN":130218,
+    "ne:POP_OTHER":145926,
+    "ne:RANK_MAX":9,
+    "ne:RANK_MIN":9,
+    "ne:SCALERANK":6,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3608248,
+    "qs:gn_pop":130218,
+    "qs:name":"La Ceiba",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Atl\u00e1ntida",
+    "qs:photos":2570,
+    "qs:photos_1k":521,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2570,
+    "qs:photos_sr":18,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":489210,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102638,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":3.0,
+    "wd:latitude":15.78,
+    "wd:longitude":-86.787778,
+    "wd:wordcount":1937,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671851,
+        421172427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608248,
+        "gp:id":102638,
+        "qs:id":489210,
+        "wd:id":"Q916536"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008969,
+    "wof:geomhash":"4a224b7931f6e6d3bc3b206779501504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421172427,
+            "locality_id":421173059,
+            "region_id":85671851
+        }
+    ],
+    "wof:id":421173059,
+    "wof:lastmodified":1527716260,
+    "wof:name":"La Ceiba",
+    "wof:parent_id":421172427,
+    "wof:placetype":"locality",
+    "wof:population":130218,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.78221,
+    15.75971,
+    -86.78221,
+    15.75971
+],
+  "geometry": {"coordinates":[-86.78221000000001,15.75971],"type":"Point"}
+}

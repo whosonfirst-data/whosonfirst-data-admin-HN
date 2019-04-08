@@ -1,0 +1,99 @@
+{
+  "id": 421193693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.46667,13.96667,-88.46667,13.96667",
+    "geom:latitude":13.96667,
+    "geom:longitude":-88.46667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "San Antonio"
+    ],
+    "name:nld_x_preferred":[
+        "San Antonio"
+    ],
+    "name:por_x_preferred":[
+        "San Antonio"
+    ],
+    "name:spa_x_preferred":[
+        "San Antonio"
+    ],
+    "name:swe_x_preferred":[
+        "San Antonio"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u6771\u5c3c\u5967"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3602523,
+    "qs:gn_pop":5066,
+    "qs:name":"San Antonio",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "qs:qs_id":62706,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813767,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602523,
+        "gp:id":26813767,
+        "qs:id":62706,
+        "wd:id":"Q1645362",
+        "wk:page":"San Antonio, Intibuc\u00e1"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009780,
+    "wof:geomhash":"4341dcc15788153c29a56609a75a8244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421193693,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421193693,
+    "wof:lastmodified":1527716143,
+    "wof:name":"San Antonio",
+    "wof:parent_id":85671899,
+    "wof:placetype":"county",
+    "wof:population":5066,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.46667,
+    13.96667,
+    -88.46667,
+    13.96667
+],
+  "geometry": {"coordinates":[-88.46666999999999,13.96667],"type":"Point"}
+}

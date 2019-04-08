@@ -1,0 +1,104 @@
+{
+  "id": 421194467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.4,14.51667,-87.4,14.51667",
+    "geom:latitude":14.51667,
+    "geom:longitude":-87.4,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5df4\u8036\u897f\u7d04"
+    ],
+    "name:dut_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:eng_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:fre_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:ita_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:pol_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:spa_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:swe_x_preferred":[
+        "Vallecillo"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3600450,
+    "qs:gn_pop":1986,
+    "qs:name":"Vallecillo",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Francisco Moraz\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201344,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107990,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421188527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600450,
+        "gp:id":107990,
+        "qs:id":1201344,
+        "wd:id":"Q1645152"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009806,
+    "wof:geomhash":"b49ee53578bcd20d54ae00a57395fa92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188527,
+            "locality_id":421194467,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":421194467,
+    "wof:lastmodified":1553816382,
+    "wof:name":"Vallecillo",
+    "wof:parent_id":421188527,
+    "wof:placetype":"locality",
+    "wof:population":1986,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.4,
+    14.51667,
+    -87.4,
+    14.51667
+],
+  "geometry": {"coordinates":[-87.40000000000001,14.51667],"type":"Point"}
+}

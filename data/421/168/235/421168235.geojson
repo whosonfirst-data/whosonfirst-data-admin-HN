@@ -1,0 +1,123 @@
+{
+  "id": 421168235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.71667,15.95,-85.71667,15.95",
+    "geom:latitude":15.95,
+    "geom:longitude":-85.71667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u7f85\u85a9\u5fb7\u963f\u53e4\u5b89"
+    ],
+    "name:dut_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:eng_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:fre_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8\u05d4 \u05e8\u05d5\u05d6\u05d4 \u05d3\u05d4 \u05d0\u05d7\u05d5\u05d0\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:nan_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:pol_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:por_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Rosa de Agu\u00e1n"
+    ],
+    "name:unk_x_variant":[
+        "Santa Rosa Agu\u00e1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u7f85\u85a9\u5fb7\u963f\u53e4\u5b89"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3601496,
+    "qs:gn_pop":1304,
+    "qs:name":"Santa Rosa de Agu\u00e1n",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Col\u00f3n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1045625,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107384,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421182973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601496,
+        "gp:id":107384,
+        "qs:id":1045625,
+        "wd:id":"Q958080",
+        "wk:page":"Santa Rosa de Agu\u00e1n"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008759,
+    "wof:geomhash":"7788bc6d28c63dc77731b63fe2b87fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182973,
+            "locality_id":421168235,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":421168235,
+    "wof:lastmodified":1514446921,
+    "wof:name":"Santa Rosa de Agu\u00e1n",
+    "wof:parent_id":421182973,
+    "wof:placetype":"locality",
+    "wof:population":1304,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.71667,
+    15.95,
+    -85.71667,
+    15.95
+],
+  "geometry": {"coordinates":[-85.71666999999999,15.95],"type":"Point"}
+}

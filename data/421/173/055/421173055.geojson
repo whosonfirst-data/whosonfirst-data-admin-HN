@@ -1,0 +1,98 @@
+{
+  "id": 421173055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.16667,14.31667,-88.16667,14.31667",
+    "geom:latitude":14.31667,
+    "geom:longitude":-88.16667,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3608834,
+    "qs:gn_pop":13741,
+    "qs:name":"Intibuc\u00e1",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":346,
+    "qs:photos_1k":70,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":346,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":489213,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102265,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899,
+        421170699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608834,
+        "gp:id":102265,
+        "qs:id":489213,
+        "wd:id":"Q2395884"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008969,
+    "wof:geomhash":"5a04b5dc077d8ef0414ff7d77b52eb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170699,
+            "locality_id":421173055,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421173055,
+    "wof:lastmodified":1514446208,
+    "wof:name":"Intibuc\u00e1",
+    "wof:parent_id":421170699,
+    "wof:placetype":"locality",
+    "wof:population":13741,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.16667,
+    14.31667,
+    -88.16667,
+    14.31667
+],
+  "geometry": {"coordinates":[-88.16667,14.31667],"type":"Point"}
+}

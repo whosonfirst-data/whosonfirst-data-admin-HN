@@ -1,0 +1,67 @@
+{
+  "id": 1360005783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.09556,13.97278,-87.09556,13.97278",
+    "geom:latitude":13.97278,
+    "geom:longitude":-87.09556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Tule",
+    "gn:country_code":"HN",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819584,
+    "gn:latitude":13.97278,
+    "gn:longitude":-87.09556,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"El Tule",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421201047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819584
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"17da74aa287b6a53c5d07bed8777a640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201047,
+            "locality_id":1360005783,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1360005783,
+    "wof:lastmodified":1537057565,
+    "wof:name":"El Tule",
+    "wof:parent_id":421201047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.09555999999998,
+    13.97278,
+    -87.09555999999998,
+    13.97278
+],
+  "geometry": {"coordinates":[-87.09555999999998,13.97278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276402575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.73333,15.56667,-87.73333,15.56667",
+    "geom:latitude":15.56667,
+    "geom:longitude":-87.73333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Guaimitas",
+    "gn:country_code":"HN",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609414,
+    "gn:latitude":15.56667,
+    "gn:longitude":-87.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Guaimitas",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421201043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609414
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d02941339bd51dee638f3368d7162392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421201043,
+            "locality_id":1276402575,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":1276402575,
+    "wof:lastmodified":1536685943,
+    "wof:name":"Guaimitas",
+    "wof:parent_id":421201043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.73333000000002,
+    15.56667,
+    -87.73333000000002,
+    15.56667
+],
+  "geometry": {"coordinates":[-87.73333000000002,15.56667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226827141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.23333,16.41667,-86.23333,16.41667",
+    "geom:latitude":16.41667,
+    "geom:longitude":-86.23333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Pulpito",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603152,
+    "gn:latitude":16.41667,
+    "gn:longitude":-86.23333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u00falpito",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pulpit",
+        "P\u00falpito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603152
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"757fea485328623cbcb8d9f177831f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1226827141,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226827141,
+    "wof:lastmodified":1537625587,
+    "wof:name":"Pulpito",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.23333000000002,
+    16.41667,
+    -86.23333000000002,
+    16.41667
+],
+  "geometry": {"coordinates":[-86.23333000000002,16.41667],"type":"Point"}
+}

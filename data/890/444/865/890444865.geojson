@@ -1,0 +1,66 @@
+{
+  "id": 890444865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.66667,13.46667,-87.66667,13.46667",
+    "geom:latitude":13.46667,
+    "geom:longitude":-87.66667,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1286,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "El Cubulero"
+    ],
+    "qs:name":"El Cubolero",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611933,
+        "qs:id":1045689
+    },
+    "wof:country":"HN",
+    "wof:created":1469052484,
+    "wof:geomhash":"7e066fbad3d508f82a33af0deba2a500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "locality_id":890444865,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":890444865,
+    "wof:lastmodified":1505343601,
+    "wof:name":"El Cubolero",
+    "wof:parent_id":85671883,
+    "wof:placetype":"locality",
+    "wof:population":1286,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.66667,
+    13.46667,
+    -87.66667,
+    13.46667
+],
+  "geometry": {"coordinates":[-87.66667,13.46667],"type":"Point"}
+}

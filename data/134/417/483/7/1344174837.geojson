@@ -1,0 +1,61 @@
+{
+  "id": 1344174837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.63333,15.8,-86.63333,15.8",
+    "geom:latitude":15.8,
+    "geom:longitude":-86.63333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Salitran",
+    "gn:country_code":"HN",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602597,
+    "gn:latitude":15.8,
+    "gn:longitude":-86.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Salitr\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602597
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"39dd17ed94a24dd8bc8e33964830639e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1344174837,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344174837,
+    "wof:lastmodified":1536710848,
+    "wof:name":"Salitran",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.63333,
+    15.8,
+    -86.63333,
+    15.8
+],
+  "geometry": {"coordinates":[-86.63333,15.8],"type":"Point"}
+}

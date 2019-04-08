@@ -1,0 +1,117 @@
+{
+  "id": 421172267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.38333,15.08333,-86.38333,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":-86.38333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u74dc\u5854"
+    ],
+    "name:dut_x_preferred":[
+        "Guata"
+    ],
+    "name:eng_x_preferred":[
+        "Guata"
+    ],
+    "name:fre_x_preferred":[
+        "Guata"
+    ],
+    "name:ita_x_preferred":[
+        "Guata"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30fc\u30bf"
+    ],
+    "name:nld_x_preferred":[
+        "Guata"
+    ],
+    "name:por_x_preferred":[
+        "Guata"
+    ],
+    "name:spa_x_preferred":[
+        "Guata"
+    ],
+    "name:swe_x_preferred":[
+        "La Guata"
+    ],
+    "name:unk_x_variant":[
+        "Guata"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u5854"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3607830,
+    "qs:gn_pop":1217,
+    "qs:name":"La Guata",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Olancho",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149336,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102965,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671877,
+        421199915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607830,
+        "gp:id":102965,
+        "qs:id":149336,
+        "wd:id":"Q2394928",
+        "wk:page":"Guata"
+    },
+    "wof:country":"HN",
+    "wof:created":1459008929,
+    "wof:geomhash":"35d4467379fb2663e10e44e78dd4bdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421199915,
+            "locality_id":421172267,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":421172267,
+    "wof:lastmodified":1514446461,
+    "wof:name":"La Guata",
+    "wof:parent_id":421199915,
+    "wof:placetype":"locality",
+    "wof:population":1217,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.38333,
+    15.08333,
+    -86.38333,
+    15.08333
+],
+  "geometry": {"coordinates":[-86.38333,15.08333],"type":"Point"}
+}

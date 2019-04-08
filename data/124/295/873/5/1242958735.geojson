@@ -1,0 +1,67 @@
+{
+  "id": 1242958735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.49111,13.76528,-87.49111,13.76528",
+    "geom:latitude":13.76528,
+    "geom:longitude":-87.49111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Las Flores",
+    "gn:country_code":"HN",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3820521,
+    "gn:latitude":13.76528,
+    "gn:longitude":-87.49111,
+    "gn:modification_date":"2004-08-05",
+    "gn:name":"Las Flores",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421191365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3820521
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"31c2a4eb954ddad7d3a1ad23aee083d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191365,
+            "locality_id":1242958735,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1242958735,
+    "wof:lastmodified":1537011055,
+    "wof:name":"Las Flores",
+    "wof:parent_id":421191365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.49110999999998,
+    13.76528,
+    -87.49110999999998,
+    13.76528
+],
+  "geometry": {"coordinates":[-87.49110999999998,13.76528],"type":"Point"}
+}

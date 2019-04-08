@@ -1,0 +1,67 @@
+{
+  "id": 1226733603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.2,13.91667,-88.2,13.91667",
+    "geom:latitude":13.91667,
+    "geom:longitude":-88.2,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"San Sebastian",
+    "gn:country_code":"HN",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601738,
+    "gn:latitude":13.91667,
+    "gn:longitude":-88.2,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Sebasti\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108695085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601738
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0669bdfd71b8c860b565ce1251ebdd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695085,
+            "locality_id":1226733603,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1226733603,
+    "wof:lastmodified":1536733290,
+    "wof:name":"San Sebastian",
+    "wof:parent_id":1108695085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.2,
+    13.91667,
+    -88.2,
+    13.91667
+],
+  "geometry": {"coordinates":[-88.2,13.91667],"type":"Point"}
+}

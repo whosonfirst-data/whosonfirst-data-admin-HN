@@ -1,0 +1,67 @@
+{
+  "id": 1193002807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.16667,15.28333,-84.16667,15.28333",
+    "geom:latitude":15.28333,
+    "geom:longitude":-84.16667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ribra",
+    "gn:country_code":"HN",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602841,
+    "gn:latitude":15.28333,
+    "gn:longitude":-84.16667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Ribra",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421193573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602841
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"667138945f7655d4a7fac50b780a3292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421193573,
+            "locality_id":1193002807,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":1193002807,
+    "wof:lastmodified":1536368590,
+    "wof:name":"Ribra",
+    "wof:parent_id":421193573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.16667,
+    15.28333,
+    -84.16667,
+    15.28333
+],
+  "geometry": {"coordinates":[-84.16667,15.28333],"type":"Point"}
+}

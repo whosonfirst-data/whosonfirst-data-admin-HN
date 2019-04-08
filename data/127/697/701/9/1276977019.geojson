@@ -1,0 +1,67 @@
+{
+  "id": 1276977019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.07972,13.88028,-87.07972,13.88028",
+    "geom:latitude":13.88028,
+    "geom:longitude":-87.07972,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"San Lorenzo Abajo",
+    "gn:country_code":"HN",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819781,
+    "gn:latitude":13.88028,
+    "gn:longitude":-87.07972,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"San Lorenzo Abajo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819781
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"86c0d6d5f8054caf2a2c9013642fe9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182943,
+            "locality_id":1276977019,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1276977019,
+    "wof:lastmodified":1536911433,
+    "wof:name":"San Lorenzo Abajo",
+    "wof:parent_id":421182943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.07972,
+    13.88028,
+    -87.07972,
+    13.88028
+],
+  "geometry": {"coordinates":[-87.07971999999999,13.88028],"type":"Point"}
+}

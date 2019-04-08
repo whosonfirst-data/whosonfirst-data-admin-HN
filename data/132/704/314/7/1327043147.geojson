@@ -1,0 +1,67 @@
+{
+  "id": 1327043147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.15861,13.14694,-87.15861,13.14694",
+    "geom:latitude":13.14694,
+    "geom:longitude":-87.15861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Prados",
+    "gn:country_code":"HN",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3810947,
+    "gn:latitude":13.14694,
+    "gn:longitude":-87.15861,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"Los Prados",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421188503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3810947
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5d8d4791ef72770ef9dadd9f1e629e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188503,
+            "locality_id":1327043147,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1327043147,
+    "wof:lastmodified":1536744580,
+    "wof:name":"Los Prados",
+    "wof:parent_id":421188503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.15861,
+    13.14694,
+    -87.15861,
+    13.14694
+],
+  "geometry": {"coordinates":[-87.15861,13.14694],"type":"Point"}
+}

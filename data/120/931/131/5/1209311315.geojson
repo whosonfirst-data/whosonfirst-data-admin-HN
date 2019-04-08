@@ -1,0 +1,61 @@
+{
+  "id": 1209311315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.26722,13.85528,-87.26722,13.85528",
+    "geom:latitude":13.85528,
+    "geom:longitude":-87.26722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Potrero Redondo",
+    "gn:country_code":"HN",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603299,
+    "gn:latitude":13.85528,
+    "gn:longitude":-87.26722,
+    "gn:modification_date":"2004-08-12",
+    "gn:name":"Potrero Redondo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603299
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"f416955fb91dfae5ef4003a09df1c12a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209311315
+        }
+    ],
+    "wof:id":1209311315,
+    "wof:lastmodified":1536291019,
+    "wof:name":"Potrero Redondo",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.26722,
+    13.85528,
+    -87.26722,
+    13.85528
+],
+  "geometry": {"coordinates":[-87.26721999999999,13.85528],"type":"Point"}
+}

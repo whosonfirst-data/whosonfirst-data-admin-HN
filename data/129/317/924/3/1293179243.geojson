@@ -1,0 +1,73 @@
+{
+  "id": 1293179243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.57475,16.32451,-86.57475,16.32451",
+    "geom:latitude":16.32451,
+    "geom:longitude":-86.57475,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Antoneys Cay",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3615166,
+    "gn:latitude":16.32451,
+    "gn:longitude":-86.57475,
+    "gn:modification_date":"2013-12-15",
+    "gn:name":"Antoneys Cay",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cayo Antonieta",
+        "Antonys Cay",
+        "Antony-Caye",
+        "Antoneys Cay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85671869,
+        421172431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615166
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6ac8e787e0daec0484f953d7ce5c7da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421172431,
+            "locality_id":1293179243,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":1293179243,
+    "wof:lastmodified":1537625794,
+    "wof:name":"Antoneys Cay",
+    "wof:parent_id":421172431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.57475,
+    16.32451,
+    -86.57475,
+    16.32451
+],
+  "geometry": {"coordinates":[-86.57474999999999,16.32451],"type":"Point"}
+}

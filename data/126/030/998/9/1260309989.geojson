@@ -1,0 +1,67 @@
+{
+  "id": 1260309989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.56667,14.35,-87.56667,14.35",
+    "geom:latitude":14.35,
+    "geom:longitude":-87.56667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"El Campanario",
+    "gn:country_code":"HN",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3612455,
+    "gn:latitude":14.35,
+    "gn:longitude":-87.56667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Campanario",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421184597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3612455
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"684c44e5820758c4f9e451be14e62dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184597,
+            "locality_id":1260309989,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":1260309989,
+    "wof:lastmodified":1536676435,
+    "wof:name":"El Campanario",
+    "wof:parent_id":421184597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.56667,
+    14.35,
+    -87.56667,
+    14.35
+],
+  "geometry": {"coordinates":[-87.56667,14.35],"type":"Point"}
+}

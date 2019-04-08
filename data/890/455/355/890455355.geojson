@@ -1,0 +1,68 @@
+{
+  "id": 890455355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.01667,14.46667,-89.01667,14.46667",
+    "geom:latitude":14.46667,
+    "geom:longitude":-89.01667,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":910,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Llano Largo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":78,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421188495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605907,
+        "gp:id":103062,
+        "qs:id":96060,
+        "wk:page":"Llano Largo"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052943,
+    "wof:geomhash":"abd9c890f7f131d3d3cbe1b57a9b8170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188495,
+            "locality_id":890455355,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":890455355,
+    "wof:lastmodified":1527734191,
+    "wof:name":"Llano Largo",
+    "wof:parent_id":421188495,
+    "wof:placetype":"locality",
+    "wof:population":910,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.01667,
+    14.46667,
+    -89.01667,
+    14.46667
+],
+  "geometry": {"coordinates":[-89.01667,14.46667],"type":"Point"}
+}

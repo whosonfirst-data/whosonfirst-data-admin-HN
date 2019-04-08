@@ -1,0 +1,117 @@
+{
+  "id": 421198453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.03333,14.73333,-88.03333,14.73333",
+    "geom:latitude":14.73333,
+    "geom:longitude":-88.03333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u79d1\u99ac\u4e9e\u74dc"
+    ],
+    "name:dut_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:eng_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:fre_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:ita_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:nld_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:pol_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:por_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:swe_x_preferred":[
+        "San Jos\u00e9 de Comayagua"
+    ],
+    "name:unk_x_variant":[
+        "San Jos\u00e9 Comayagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f55\u585e\u5fb7\u79d1\u99ac\u4e9e\u74dc"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3602094,
+    "qs:gn_pop":1066,
+    "qs:name":"San Jos\u00e9 de Comayagua",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Comayagua",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1201309,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":106915,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421198889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602094,
+        "gp:id":106915,
+        "qs:id":1201309,
+        "wd:id":"Q2296196",
+        "wk:page":"San Jos\u00e9 de Comayagua"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009948,
+    "wof:geomhash":"f22e436dc9112e7746604fd1632f9ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421198889,
+            "locality_id":421198453,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":421198453,
+    "wof:lastmodified":1514446876,
+    "wof:name":"San Jos\u00e9 de Comayagua",
+    "wof:parent_id":421198889,
+    "wof:placetype":"locality",
+    "wof:population":1066,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.03333,
+    14.73333,
+    -88.03333,
+    14.73333
+],
+  "geometry": {"coordinates":[-88.03333000000001,14.73333],"type":"Point"}
+}

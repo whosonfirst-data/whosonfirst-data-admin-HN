@@ -1,0 +1,67 @@
+{
+  "id": 1226155839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.09639,13.26639,-87.09639,13.26639",
+    "geom:latitude":13.26639,
+    "geom:longitude":-87.09639,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hacienda La Rubenia",
+    "gn:country_code":"HN",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3811250,
+    "gn:latitude":13.26639,
+    "gn:longitude":-87.09639,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"Hacienda La Rub\u00e9nia",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421200723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3811250
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"53477e06300ee398b3ed1c3d93f0f9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421200723,
+            "locality_id":1226155839,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1226155839,
+    "wof:lastmodified":1537060418,
+    "wof:name":"Hacienda La Rubenia",
+    "wof:parent_id":421200723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.09639,
+    13.26639,
+    -87.09639,
+    13.26639
+],
+  "geometry": {"coordinates":[-87.09639,13.26639],"type":"Point"}
+}

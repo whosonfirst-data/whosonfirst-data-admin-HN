@@ -1,0 +1,72 @@
+{
+  "id": 1310128467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.78333,15.08333,-88.78333,15.08333",
+    "geom:latitude":15.08333,
+    "geom:longitude":-88.78333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Puente Goascoran",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603180,
+    "gn:latitude":15.08333,
+    "gn:longitude":-88.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Puente Goascor\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goascor\u00e1n",
+        "Puente Goascor\u00e1n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421194947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603180
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1b9b8af952ce20b3acf700792031f42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421194947,
+            "locality_id":1310128467,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1310128467,
+    "wof:lastmodified":1537625587,
+    "wof:name":"Puente Goascoran",
+    "wof:parent_id":421194947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.78333,
+    15.08333,
+    -88.78333,
+    15.08333
+],
+  "geometry": {"coordinates":[-88.78333000000001,15.08333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225920527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.61667,14.1,-88.61667,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-88.61667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Rodeito",
+    "gn:country_code":"HN",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602716,
+    "gn:latitude":14.1,
+    "gn:longitude":-88.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rode\u00edto",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        1108701661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602716
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e17716210e62e2645fb29e68ab4e487b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701661,
+            "locality_id":1225920527,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":1225920527,
+    "wof:lastmodified":1536906147,
+    "wof:name":"Rodeito",
+    "wof:parent_id":1108701661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.61667,
+    14.1,
+    -88.61667,
+    14.1
+],
+  "geometry": {"coordinates":[-88.61667,14.1],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1193017667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.21667,15.85,-85.21667,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":-85.21667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"El Venado",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609987,
+    "gn:latitude":15.85,
+    "gn:longitude":-85.21667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Venado",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Venado",
+        "El Venado"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421170697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609987
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6ecc2d04cff59ea7f84a005b3144d57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170697,
+            "locality_id":1193017667,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":1193017667,
+    "wof:lastmodified":1537625687,
+    "wof:name":"El Venado",
+    "wof:parent_id":421170697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.21667,
+    15.85,
+    -85.21667,
+    15.85
+],
+  "geometry": {"coordinates":[-85.21666999999999,15.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243227283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.44583,13.64972,-87.44583,13.64972",
+    "geom:latitude":13.64972,
+    "geom:longitude":-87.44583,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Hacienda",
+    "gn:country_code":"HN",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819422,
+    "gn:latitude":13.64972,
+    "gn:longitude":-87.44583,
+    "gn:modification_date":"2004-02-19",
+    "gn:name":"La Hacienda",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819422
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"47df3f3d31734b7bf56ef84499aaf21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1243227283,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1243227283,
+    "wof:lastmodified":1536622597,
+    "wof:name":"La Hacienda",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.44583,
+    13.64972,
+    -87.44583,
+    13.64972
+],
+  "geometry": {"coordinates":[-87.44583,13.64972],"type":"Point"}
+}

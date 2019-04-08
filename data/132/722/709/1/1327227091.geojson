@@ -1,0 +1,67 @@
+{
+  "id": 1327227091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.22793,14.05129,-87.22793,14.05129",
+    "geom:latitude":14.05129,
+    "geom:longitude":-87.22793,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Colonia Los Angeles",
+    "gn:country_code":"HN",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9645352,
+    "gn:latitude":14.05129,
+    "gn:longitude":-87.22793,
+    "gn:modification_date":"2014-10-06",
+    "gn:name":"Colonia Los Angeles",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9645352
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"eb5bc38161ee38cc1ccffac70bc8a3e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":1327227091,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1327227091,
+    "wof:lastmodified":1536976723,
+    "wof:name":"Colonia Los Angeles",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.22793,
+    14.05129,
+    -87.22793,
+    14.05129
+],
+  "geometry": {"coordinates":[-87.22793,14.05129],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327455411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.18167,13.63,-87.18167,13.63",
+    "geom:latitude":13.63,
+    "geom:longitude":-87.18167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"El Hachero",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611664,
+    "gn:latitude":13.63,
+    "gn:longitude":-87.18167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Hachero",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Nachero",
+        "El Hachero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421191385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611664
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"8160bd369168169a1e6f49232c72f4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191385,
+            "locality_id":1327455411,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1327455411,
+    "wof:lastmodified":1537625735,
+    "wof:name":"El Hachero",
+    "wof:parent_id":421191385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.18167,
+    13.63,
+    -87.18167,
+    13.63
+],
+  "geometry": {"coordinates":[-87.18167,13.63],"type":"Point"}
+}

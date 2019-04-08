@@ -1,0 +1,67 @@
+{
+  "id": 1327455201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.55,13.81667,-86.55,13.81667",
+    "geom:latitude":13.81667,
+    "geom:longitude":-86.55,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rio Arriba",
+    "gn:country_code":"HN",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602809,
+    "gn:latitude":13.81667,
+    "gn:longitude":-86.55,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"R\u00edo Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        1108701667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602809
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"9196bbd84b0ed70a3040c31786bf8c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701667,
+            "locality_id":1327455201,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1327455201,
+    "wof:lastmodified":1536647550,
+    "wof:name":"Rio Arriba",
+    "wof:parent_id":1108701667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.55,
+    13.81667,
+    -86.55,
+    13.81667
+],
+  "geometry": {"coordinates":[-86.55,13.81667],"type":"Point"}
+}

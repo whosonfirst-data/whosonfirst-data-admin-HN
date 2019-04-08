@@ -1,0 +1,67 @@
+{
+  "id": 1226136023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.23222,13.895,-87.23222,13.895",
+    "geom:latitude":13.895,
+    "geom:longitude":-87.23222,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"El Menchor",
+    "gn:country_code":"HN",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819758,
+    "gn:latitude":13.895,
+    "gn:longitude":-87.23222,
+    "gn:modification_date":"2004-02-20",
+    "gn:name":"El Menchor",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421182957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819758
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"cd66c7aaa9de80c26de98de01973c502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182957,
+            "locality_id":1226136023,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":1226136023,
+    "wof:lastmodified":1537088549,
+    "wof:name":"El Menchor",
+    "wof:parent_id":421182957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.23222,
+    13.895,
+    -87.23222,
+    13.895
+],
+  "geometry": {"coordinates":[-87.23222,13.895],"type":"Point"}
+}

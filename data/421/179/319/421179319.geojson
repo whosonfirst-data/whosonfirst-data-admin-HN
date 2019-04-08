@@ -1,0 +1,112 @@
+{
+  "id": 421179319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,14.55,-88.93333,14.55",
+    "geom:latitude":14.55,
+    "geom:longitude":-88.93333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u76e7\u585e\u723e\u7d0d"
+    ],
+    "name:dut_x_preferred":[
+        "Lucerna"
+    ],
+    "name:eng_x_preferred":[
+        "Lucerna polska"
+    ],
+    "name:fre_x_preferred":[
+        "Lucerna"
+    ],
+    "name:ita_x_preferred":[
+        "Lucerna"
+    ],
+    "name:nld_x_preferred":[
+        "Lucerna"
+    ],
+    "name:por_x_preferred":[
+        "Lucerna"
+    ],
+    "name:spa_x_preferred":[
+        "Lucerna"
+    ],
+    "name:swe_x_preferred":[
+        "Lucerna"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u585e\u723e\u7d0d"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3605222,
+    "qs:gn_pop":1452,
+    "qs:name":"Lucerna",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Ocotepeque",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149306,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":104984,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":36,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421188485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605222,
+        "gp:id":104984,
+        "qs:id":149306,
+        "wd:id":"Q2394083",
+        "wk:page":"Lucerna, Ocotepeque"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009211,
+    "wof:geomhash":"38fe995e5b3db427dac20d8e5909fcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188485,
+            "locality_id":421179319,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":421179319,
+    "wof:lastmodified":1527717716,
+    "wof:name":"Lucerna",
+    "wof:parent_id":421188485,
+    "wof:placetype":"locality",
+    "wof:population":1452,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    14.55,
+    -88.93333,
+    14.55
+],
+  "geometry": {"coordinates":[-88.93333,14.55],"type":"Point"}
+}

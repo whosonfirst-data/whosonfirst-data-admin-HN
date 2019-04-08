@@ -1,0 +1,68 @@
+{
+  "id": 1293856477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53333,15.3,-88.53333,15.3",
+    "geom:latitude":15.3,
+    "geom:longitude":-88.53333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Macuelizo",
+    "gn:country_code":"HN",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605186,
+    "gn:latitude":15.3,
+    "gn:longitude":-88.53333,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Macuelizo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671905,
+        421182937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605186,
+        "wk:page":"Macuelizo"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"b3dd0e661ce880446a76e4ee2195f14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182937,
+            "locality_id":1293856477,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":1293856477,
+    "wof:lastmodified":1537563255,
+    "wof:name":"Macuelizo",
+    "wof:parent_id":421182937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53333,
+    15.3,
+    -88.53333,
+    15.3
+],
+  "geometry": {"coordinates":[-88.53333000000001,15.3],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226831999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.4,15.11667,-86.4,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":-86.4,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Zacualpita",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600143,
+    "gn:latitude":15.11667,
+    "gn:longitude":-86.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zacualpita",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Azacualpita",
+        "Sacualpita",
+        "Zacualpita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671877,
+        421199915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600143
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6baa8cea459ea1175ebdd001e6ebc911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421199915,
+            "locality_id":1226831999,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":1226831999,
+    "wof:lastmodified":1537625555,
+    "wof:name":"Zacualpita",
+    "wof:parent_id":421199915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.4,
+    15.11667,
+    -86.4,
+    15.11667
+],
+  "geometry": {"coordinates":[-86.40000000000001,15.11667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209013211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.1,13.43333,-87.1,13.43333",
+    "geom:latitude":13.43333,
+    "geom:longitude":-87.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Encuentros",
+    "gn:country_code":"HN",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609796,
+    "gn:latitude":13.43333,
+    "gn:longitude":-87.1,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Encuentros",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609796
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"023e7aa9b008df2161cf92915de0b5ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209013211
+        }
+    ],
+    "wof:id":1209013211,
+    "wof:lastmodified":1536300378,
+    "wof:name":"Encuentros",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.1,
+    13.433329999999998,
+    -87.1,
+    13.433329999999998
+],
+  "geometry": {"coordinates":[-87.09999999999999,13.43333],"type":"Point"}
+}

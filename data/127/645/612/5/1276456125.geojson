@@ -1,0 +1,67 @@
+{
+  "id": 1276456125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.11528,13.52278,-87.11528,13.52278",
+    "geom:latitude":13.52278,
+    "geom:longitude":-87.11528,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"El Escano",
+    "gn:country_code":"HN",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812383,
+    "gn:latitude":13.52278,
+    "gn:longitude":-87.11528,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"El Esca\u00f1o",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421205245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812383
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"50672d1ef2966d24439632a8da8c1673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205245,
+            "locality_id":1276456125,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1276456125,
+    "wof:lastmodified":1536611589,
+    "wof:name":"El Escano",
+    "wof:parent_id":421205245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.11528,
+    13.52278,
+    -87.11528,
+    13.52278
+],
+  "geometry": {"coordinates":[-87.11528,13.52278],"type":"Point"}
+}

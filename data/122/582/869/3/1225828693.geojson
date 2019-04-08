@@ -1,0 +1,63 @@
+{
+  "id": 1225828693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.15,14.6,-89.15,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-89.15,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"El Encumbrado",
+    "gn:country_code":"HN",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3611850,
+    "gn:latitude":14.6,
+    "gn:longitude":-89.15,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"El Encumbrado",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611850
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"5377ae2036008697360b3aab1f3a6620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1225828693,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1225828693,
+    "wof:lastmodified":1537036701,
+    "wof:name":"El Encumbrado",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.15,
+    14.6,
+    -89.15,
+    14.6
+],
+  "geometry": {"coordinates":[-89.15000000000001,14.6],"type":"Point"}
+}

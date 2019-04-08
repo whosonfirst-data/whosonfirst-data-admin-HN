@@ -1,0 +1,67 @@
+{
+  "id": 1209737743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.08333,15.11667,-88.08333,15.11667",
+    "geom:latitude":15.11667,
+    "geom:longitude":-88.08333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Graciosa",
+    "gn:country_code":"HN",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3607861,
+    "gn:latitude":15.11667,
+    "gn:longitude":-88.08333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Graciosa",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421188515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607861
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1b06103897aa087ba8cd76cf91865b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188515,
+            "locality_id":1209737743,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1209737743,
+    "wof:lastmodified":1536371859,
+    "wof:name":"La Graciosa",
+    "wof:parent_id":421188515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.08333,
+    15.11667,
+    -88.08333,
+    15.11667
+],
+  "geometry": {"coordinates":[-88.08333,15.11667],"type":"Point"}
+}

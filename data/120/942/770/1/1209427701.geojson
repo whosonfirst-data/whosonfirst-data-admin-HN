@@ -1,0 +1,61 @@
+{
+  "id": 1209427701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05861,13.34028,-87.05861,13.34028",
+    "geom:latitude":13.34028,
+    "geom:longitude":-87.05861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Llano Limpio",
+    "gn:country_code":"HN",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819213,
+    "gn:latitude":13.34028,
+    "gn:longitude":-87.05861,
+    "gn:modification_date":"2004-02-12",
+    "gn:name":"Llano Limpio",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819213
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4b667faab40627b4574e729aea27c89d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209427701
+        }
+    ],
+    "wof:id":1209427701,
+    "wof:lastmodified":1536287329,
+    "wof:name":"Llano Limpio",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05861,
+    13.340279999999998,
+    -87.05861,
+    13.340279999999998
+],
+  "geometry": {"coordinates":[-87.05861,13.34028],"type":"Point"}
+}

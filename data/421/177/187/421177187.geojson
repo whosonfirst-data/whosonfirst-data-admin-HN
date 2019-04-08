@@ -1,0 +1,298 @@
+{
+  "id": 421177187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.18056,14.31111,-88.18056,14.31111",
+    "geom:latitude":14.31111,
+    "geom:longitude":-88.18056,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u0628\u064a\u0631\u0627\u0646\u0632\u0627\u060c \u0647\u0646\u062f\u0648\u0631\u0627\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09be \u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u099e\u09cd\u099c\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u62c9\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "name:dan_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:dut_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fin_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fra_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:fre_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b1 \u0395\u03c3\u03c0\u03b5\u03c1\u03ac\u03bd\u03c4\u03b6\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0abe \u0a8f\u0ab8\u0acd\u0aaa\u0ac7\u0ab0\u0abe\u0aa8\u0acd\u0a9d\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0947 \u090f\u0938\u094d\u092a\u0947\u0930\u093e\u0902\u091c\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ita_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30fb\u30a8\u30b9\u30da\u30e9\u30f3\u30b5"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbe \u0c8e\u0cb8\u0ccd\u0caa\u0cc6\u0cb0\u0cbe\u0ca8\u0ccd\u0c9c\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc5d0\uc2a4\ud398\ub780\uc0ac"
+    ],
+    "name:lav_x_preferred":[
+        "Laesperansa"
+    ],
+    "name:lit_x_preferred":[
+        "La Esperansa"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u093e \u090f\u0938\u094d\u092a\u0947\u0930\u093e\u0902\u091d\u093e"
+    ],
+    "name:may_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:nan_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:nld_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:nob_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:pol_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:por_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430-\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dcf \u0d91\u0dc3\u0dca\u0db4\u0dd9\u0dbb\u0dd9\u0db1\u0dca\u0dc3\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbe \u0b8e\u0bb8\u0bcd\u0baa\u0bbf\u0bb0\u0ba9\u0bcd\u0b9a"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c3e\u0c0e\u0c38\u0c4d\u0c2a\u0c46\u0c30\u0c02\u0c1c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e25\u0e32 \u0e40\u0e2d\u0e2a\u0e40\u0e1b\u0e2d\u0e23\u0e31\u0e19\u0e0b\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0430-\u0415\u0441\u043f\u0435\u0440\u0430\u043d\u0437\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Nueva Esperanza"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627 \u0627\u0633\u067e\u06cc\u0631\u0627\u0646\u0632\u0627\u060c \u06c1\u0648\u0646\u062f\u0648\u0631\u0627\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:war_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u57c3\u65af\u4f69\u862d\u85a9"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Intibuc\u00e1",
+    "ne:ADMIN1_COD":10,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3607966,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"La Esperanza",
+    "ne:GN_POP":5318,
+    "ne:GTOPO30":1721.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":14.333004,
+    "ne:LONGITUDE":-88.1667,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"La Esperanza",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"La Esperanza",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":5318,
+    "ne:POP_MIN":5318,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":3607966,
+    "qs:gn_pop":5318,
+    "qs:name":"La Esperanza",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":190,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1116192,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102871,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:elevation":1700.0,
+    "wd:latitude":14.3,
+    "wd:longitude":-88.18333,
+    "wd:wordcount":2403,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899,
+        421170699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607966,
+        "gp:id":102871,
+        "qs:id":1116192,
+        "wd:id":"Q2561304",
+        "wk:page":"La Esperanza, Honduras"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009135,
+    "wof:geomhash":"beeda600aa15564e47fafebcf59201e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170699,
+            "locality_id":421177187,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421177187,
+    "wof:lastmodified":1527716481,
+    "wof:name":"La Esperanza",
+    "wof:parent_id":421170699,
+    "wof:placetype":"locality",
+    "wof:population":5318,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.18056,
+    14.31111,
+    -88.18056,
+    14.31111
+],
+  "geometry": {"coordinates":[-88.18056,14.31111],"type":"Point"}
+}

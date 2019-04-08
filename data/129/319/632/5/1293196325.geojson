@@ -1,0 +1,74 @@
+{
+  "id": 1293196325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.4,15.21667,-83.4,15.21667",
+    "geom:latitude":15.21667,
+    "geom:longitude":-83.4,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Walpatara",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600298,
+    "gn:latitude":15.21667,
+    "gn:longitude":-83.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Walpatara",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kruta",
+        "Cruta Waltapara",
+        "Walpatanta",
+        "Walpatara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        1108701695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600298
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"35b36f6a6690e0888d66fc16d0744035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701695,
+            "locality_id":1293196325,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":1293196325,
+    "wof:lastmodified":1537625557,
+    "wof:name":"Walpatara",
+    "wof:parent_id":1108701695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.4,
+    15.21667,
+    -83.4,
+    15.21667
+],
+  "geometry": {"coordinates":[-83.40000000000001,15.21667],"type":"Point"}
+}

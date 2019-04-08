@@ -1,0 +1,72 @@
+{
+  "id": 1226405987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.71111,13.49778,-87.71111,13.49778",
+    "geom:latitude":13.49778,
+    "geom:longitude":-87.71111,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"La Laguna",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3607636,
+    "gn:latitude":13.49778,
+    "gn:longitude":-87.71111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Laguna",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laguna",
+        "La Laguna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421191085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3607636
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"2b969946aafe8faca1cec481967e82a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191085,
+            "locality_id":1226405987,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1226405987,
+    "wof:lastmodified":1537625653,
+    "wof:name":"La Laguna",
+    "wof:parent_id":421191085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.71110999999998,
+    13.49778,
+    -87.71110999999998,
+    13.49778
+],
+  "geometry": {"coordinates":[-87.71110999999998,13.49778],"type":"Point"}
+}

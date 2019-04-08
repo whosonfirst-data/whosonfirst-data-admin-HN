@@ -1,0 +1,71 @@
+{
+  "id": 1242765617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.56667,16.3,-86.56667,16.3",
+    "geom:latitude":16.3,
+    "geom:longitude":-86.56667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Watering Place",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600282,
+    "gn:latitude":16.3,
+    "gn:longitude":-86.56667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Watering Place",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waterine Place",
+        "Watering Place"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85671869,
+        421172431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600282
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"af4e57c9bb7750a2b7d8c31f6b4fc685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421172431,
+            "locality_id":1242765617,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":1242765617,
+    "wof:lastmodified":1537625557,
+    "wof:name":"Watering Place",
+    "wof:parent_id":421172431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.56667,
+    16.3,
+    -86.56667,
+    16.3
+],
+  "geometry": {"coordinates":[-86.56667,16.3],"type":"Point"}
+}

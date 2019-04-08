@@ -1,0 +1,72 @@
+{
+  "id": 1276639539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.25,13.88333,-88.25,13.88333",
+    "geom:latitude":13.88333,
+    "geom:longitude":-88.25,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"La Caridad",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608289,
+    "gn:latitude":13.88333,
+    "gn:longitude":-88.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Caridad",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caridad",
+        "La Caridad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677173,
+        1108695085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608289
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"656badf8783f89524035671d30b59f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108695085,
+            "locality_id":1276639539,
+            "region_id":85677173
+        }
+    ],
+    "wof:id":1276639539,
+    "wof:lastmodified":1537625665,
+    "wof:name":"La Caridad",
+    "wof:parent_id":1108695085,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.25,
+    13.88333,
+    -88.25,
+    13.88333
+],
+  "geometry": {"coordinates":[-88.25,13.88333],"type":"Point"}
+}

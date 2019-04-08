@@ -1,0 +1,66 @@
+{
+  "id": 890455327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.63333,15.01667,-83.63333,15.01667",
+    "geom:latitude":15.01667,
+    "geom:longitude":-83.63333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":925,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tikiraya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421181809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600754,
+        "gp:id":106183,
+        "qs:id":96026
+    },
+    "wof:country":"HN",
+    "wof:created":1469052943,
+    "wof:geomhash":"75361c38cc37c91ddae1ea96948a7627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181809,
+            "locality_id":890455327,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":890455327,
+    "wof:lastmodified":1505343662,
+    "wof:name":"Tikiraya",
+    "wof:parent_id":421181809,
+    "wof:placetype":"locality",
+    "wof:population":925,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.63333,
+    15.01667,
+    -83.63333,
+    15.01667
+],
+  "geometry": {"coordinates":[-83.63333,15.01667],"type":"Point"}
+}

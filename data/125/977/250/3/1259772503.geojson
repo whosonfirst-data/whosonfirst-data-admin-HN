@@ -1,0 +1,67 @@
+{
+  "id": 1259772503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.35,13.86667,-88.35,13.86667",
+    "geom:latitude":13.86667,
+    "geom:longitude":-88.35,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Santa Rita",
+    "gn:country_code":"HN",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601526,
+    "gn:latitude":13.86667,
+    "gn:longitude":-88.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Santa Rita",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677177,
+        1108694735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601526
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"e8f4fd930cf03439aa806ffa446ebbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694735,
+            "locality_id":1259772503,
+            "region_id":85677177
+        }
+    ],
+    "wof:id":1259772503,
+    "wof:lastmodified":1536939693,
+    "wof:name":"Santa Rita",
+    "wof:parent_id":1108694735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.35,
+    13.86667,
+    -88.35,
+    13.86667
+],
+  "geometry": {"coordinates":[-88.34999999999999,13.86667],"type":"Point"}
+}

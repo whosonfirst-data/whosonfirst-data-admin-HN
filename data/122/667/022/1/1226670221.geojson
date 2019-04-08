@@ -1,0 +1,67 @@
+{
+  "id": 1226670221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5,14.85,-87.5,14.85",
+    "geom:latitude":14.85,
+    "geom:longitude":-87.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pimienta",
+    "gn:country_code":"HN",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603656,
+    "gn:latitude":14.85,
+    "gn:longitude":-87.5,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Pimienta",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671887,
+        421182925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603656
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"84a9d6db3fca24d3d7aa049d978135c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182925,
+            "locality_id":1226670221,
+            "region_id":85671887
+        }
+    ],
+    "wof:id":1226670221,
+    "wof:lastmodified":1536823379,
+    "wof:name":"Pimienta",
+    "wof:parent_id":421182925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5,
+    14.85,
+    -87.5,
+    14.85
+],
+  "geometry": {"coordinates":[-87.5,14.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343270609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.21,13.53417,-87.21,13.53417",
+    "geom:latitude":13.53417,
+    "geom:longitude":-87.21,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Limones",
+    "gn:country_code":"HN",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812237,
+    "gn:latitude":13.53417,
+    "gn:longitude":-87.21,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"Los Limones",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421182951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812237
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c5e091bb4a1bdf7766ad4c297cc7ec57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182951,
+            "locality_id":1343270609,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1343270609,
+    "wof:lastmodified":1537019338,
+    "wof:name":"Los Limones",
+    "wof:parent_id":421182951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.21,
+    13.53417,
+    -87.21,
+    13.53417
+],
+  "geometry": {"coordinates":[-87.20999999999999,13.53417],"type":"Point"}
+}

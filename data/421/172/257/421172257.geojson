@@ -1,0 +1,83 @@
+{
+  "id": 421172257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.27139,13.93167,-87.27139,13.93167",
+    "geom:latitude":13.93167,
+    "geom:longitude":-87.27139,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3601719,
+    "qs:gn_pop":1052,
+    "qs:name":"Santa Ana",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Francisco Moraz\u00e1n",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149244,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":107219,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671863,
+        421184595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601707,
+        "gp:id":107219,
+        "qs:id":149244,
+        "qs_pg:id":1045630
+    },
+    "wof:country":"HN",
+    "wof:created":1459008929,
+    "wof:geomhash":"8ea1f85feecaf40defa0194b8034e733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184595,
+            "locality_id":421172257,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":421172257,
+    "wof:lastmodified":1505340610,
+    "wof:name":"Santa Ana",
+    "wof:parent_id":421184595,
+    "wof:placetype":"locality",
+    "wof:population":1052,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.27139,
+    13.93167,
+    -87.27139,
+    13.93167
+],
+  "geometry": {"coordinates":[-87.27139,13.93167],"type":"Point"}
+}

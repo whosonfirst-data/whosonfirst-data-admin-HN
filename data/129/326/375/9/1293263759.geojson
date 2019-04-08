@@ -1,0 +1,67 @@
+{
+  "id": 1293263759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.5475,13.42972,-87.5475,13.42972",
+    "geom:latitude":13.42972,
+    "geom:longitude":-87.5475,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Guandique",
+    "gn:country_code":"HN",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826007,
+    "gn:latitude":13.42972,
+    "gn:longitude":-87.5475,
+    "gn:modification_date":"2005-06-23",
+    "gn:name":"Guandique",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826007
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"30cf85bb7d5fd50a0074d7e37cf6e9d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1293263759,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1293263759,
+    "wof:lastmodified":1536609997,
+    "wof:name":"Guandique",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.5475,
+    13.42972,
+    -87.5475,
+    13.42972
+],
+  "geometry": {"coordinates":[-87.5475,13.42972],"type":"Point"}
+}

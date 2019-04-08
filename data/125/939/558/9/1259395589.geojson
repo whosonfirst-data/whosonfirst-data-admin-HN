@@ -1,0 +1,67 @@
+{
+  "id": 1259395589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.03333,13.3,-87.03333,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":-87.03333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hoja Blanca",
+    "gn:country_code":"HN",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3608998,
+    "gn:latitude":13.3,
+    "gn:longitude":-87.03333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Hoja Blanca",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421185037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608998
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4eb6868299f54d5ae4802402316c246d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185037,
+            "locality_id":1259395589,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1259395589,
+    "wof:lastmodified":1536984032,
+    "wof:name":"Hoja Blanca",
+    "wof:parent_id":421185037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.03333,
+    13.3,
+    -87.03333,
+    13.3
+],
+  "geometry": {"coordinates":[-87.03333000000001,13.3],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890435027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.86667,15.7,-87.86667,15.7",
+    "geom:latitude":15.7,
+    "geom:longitude":-87.86667,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":1385,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Puente Alto"
+    ],
+    "qs:name":"Puerto Alto",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421205117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603169,
+        "gp:id":106176,
+        "qs:id":149273
+    },
+    "wof:country":"HN",
+    "wof:created":1469052049,
+    "wof:geomhash":"2130805019c864b46f04f9f6479654a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421205117,
+            "locality_id":890435027,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":890435027,
+    "wof:lastmodified":1505343545,
+    "wof:name":"Puerto Alto",
+    "wof:parent_id":421205117,
+    "wof:placetype":"locality",
+    "wof:population":1385,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.86667,
+    15.7,
+    -87.86667,
+    15.7
+],
+  "geometry": {"coordinates":[-87.86667,15.7],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276143581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.08389,13.56139,-87.08389,13.56139",
+    "geom:latitude":13.56139,
+    "geom:longitude":-87.08389,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Canta Gallo",
+    "gn:country_code":"HN",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3812416,
+    "gn:latitude":13.56139,
+    "gn:longitude":-87.08389,
+    "gn:modification_date":"2003-07-17",
+    "gn:name":"Canta Gallo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421188505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3812416
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6439becddf303e6e457e1c91e7953281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188505,
+            "locality_id":1276143581,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1276143581,
+    "wof:lastmodified":1537031627,
+    "wof:name":"Canta Gallo",
+    "wof:parent_id":421188505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.08389,
+    13.56139,
+    -87.08389,
+    13.56139
+],
+  "geometry": {"coordinates":[-87.08389,13.56139],"type":"Point"}
+}

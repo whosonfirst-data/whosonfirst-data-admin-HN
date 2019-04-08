@@ -1,0 +1,67 @@
+{
+  "id": 1259692831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.28861,13.57389,-87.28861,13.57389",
+    "geom:latitude":13.57389,
+    "geom:longitude":-87.28861,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Corrales",
+    "gn:country_code":"HN",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3819467,
+    "gn:latitude":13.57389,
+    "gn:longitude":-87.28861,
+    "gn:modification_date":"2004-02-19",
+    "gn:name":"Los Corrales",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        421182951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3819467
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d30a7fd61ba2d2fee042b9acf0efe1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182951,
+            "locality_id":1259692831,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1259692831,
+    "wof:lastmodified":1537051305,
+    "wof:name":"Los Corrales",
+    "wof:parent_id":421182951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.28860999999998,
+    13.57389,
+    -87.28860999999998,
+    13.57389
+],
+  "geometry": {"coordinates":[-87.28860999999998,13.57389],"type":"Point"}
+}

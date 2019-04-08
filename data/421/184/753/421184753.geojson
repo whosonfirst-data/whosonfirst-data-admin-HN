@@ -1,0 +1,104 @@
+{
+  "id": 421184753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.48333,14.5,-88.48333,14.5",
+    "geom:latitude":14.5,
+    "geom:longitude":-88.48333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8c9d\u502b"
+    ],
+    "name:dut_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:eng_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:fre_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:ita_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:lit_x_preferred":[
+        "Belenas"
+    ],
+    "name:por_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:spa_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "name:swe_x_preferred":[
+        "Bel\u00e9n"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3614801,
+    "qs:gn_pop":0,
+    "qs:name":"Bel\u00e9n",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Lempira",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1007474,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":98278,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671915,
+        421185031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3614801,
+        "gp:id":98278,
+        "qs:id":1007474,
+        "wd:id":"Q2355084"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009421,
+    "wof:geomhash":"27b7c1d76760537d313c68e47ec0c32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185031,
+            "locality_id":421184753,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":421184753,
+    "wof:lastmodified":1553816374,
+    "wof:name":"Bel\u00e9n",
+    "wof:parent_id":421185031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.48333,
+    14.5,
+    -88.48333,
+    14.5
+],
+  "geometry": {"coordinates":[-88.48333,14.5],"type":"Point"}
+}

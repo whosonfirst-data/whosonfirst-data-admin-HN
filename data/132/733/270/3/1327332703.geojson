@@ -1,0 +1,72 @@
+{
+  "id": 1327332703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.86667,14.53333,-88.86667,14.53333",
+    "geom:latitude":14.53333,
+    "geom:longitude":-88.86667,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"El Plan de los Platanos",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610783,
+    "gn:latitude":14.53333,
+    "gn:longitude":-88.86667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Plan de los Pl\u00e1tanos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Los Pl\u00e1tanos",
+        "El Plan de los Pl\u00e1tanos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421194943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610783
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0465c01a82406335c7bf7192c36922a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421194943,
+            "locality_id":1327332703,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":1327332703,
+    "wof:lastmodified":1537625709,
+    "wof:name":"El Plan de los Platanos",
+    "wof:parent_id":421194943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.86667,
+    14.53333,
+    -88.86667,
+    14.53333
+],
+  "geometry": {"coordinates":[-88.86667,14.53333],"type":"Point"}
+}

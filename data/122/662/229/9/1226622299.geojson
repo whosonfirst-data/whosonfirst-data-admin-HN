@@ -1,0 +1,67 @@
+{
+  "id": 1226622299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.50833,13.67222,-87.50833,13.67222",
+    "geom:latitude":13.67222,
+    "geom:longitude":-87.50833,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Panasacaran",
+    "gn:country_code":"HN",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826326,
+    "gn:latitude":13.67222,
+    "gn:longitude":-87.50833,
+    "gn:modification_date":"2005-07-06",
+    "gn:name":"Panasacar\u00e1n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421182591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826326
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"91c2314eaa9e3955afdb74836d33cb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182591,
+            "locality_id":1226622299,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1226622299,
+    "wof:lastmodified":1536893053,
+    "wof:name":"Panasacaran",
+    "wof:parent_id":421182591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.50833,
+    13.67222,
+    -87.50833,
+    13.67222
+],
+  "geometry": {"coordinates":[-87.50833,13.67222],"type":"Point"}
+}

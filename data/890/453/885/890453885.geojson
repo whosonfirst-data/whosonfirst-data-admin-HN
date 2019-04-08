@@ -1,0 +1,72 @@
+{
+  "id": 890453885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.44389,13.48944,-87.44389,13.48944",
+    "geom:latitude":13.48944,
+    "geom:longitude":-87.44389,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":889,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Guayabo"
+    ],
+    "qs:name":"El Guayabo",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3611697,
+        "gp:id":105388,
+        "qs:id":96083,
+        "wd:id":"Q5351361",
+        "wk:page":"El Guayabo River"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052877,
+    "wof:geomhash":"a6784ff96da0281da852fdfa4bb578aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":890453885,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":890453885,
+    "wof:lastmodified":1527736642,
+    "wof:name":"El Guayabo",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:population":889,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.44389,
+    13.48944,
+    -87.44389,
+    13.48944
+],
+  "geometry": {"coordinates":[-87.44389,13.48944],"type":"Point"}
+}

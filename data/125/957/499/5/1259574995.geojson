@@ -1,0 +1,68 @@
+{
+  "id": 1259574995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.06,13.74306,-87.06,13.74306",
+    "geom:latitude":13.74306,
+    "geom:longitude":-87.06,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yauyupe",
+    "gn:country_code":"HN",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600222,
+    "gn:latitude":13.74306,
+    "gn:longitude":-87.06,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Yauyupe",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671929,
+        421191391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600222,
+        "wk:page":"Yauyupe"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"d698d495af8403270e34aa6c57cb7584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191391,
+            "locality_id":1259574995,
+            "region_id":85671929
+        }
+    ],
+    "wof:id":1259574995,
+    "wof:lastmodified":1537563250,
+    "wof:name":"Yauyupe",
+    "wof:parent_id":421191391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.06,
+    13.74306,
+    -87.06,
+    13.74306
+],
+  "geometry": {"coordinates":[-87.06,13.74306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242973943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.035,13.18556,-87.035,13.18556",
+    "geom:latitude":13.18556,
+    "geom:longitude":-87.035,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Los Matapalos",
+    "gn:country_code":"HN",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605468,
+    "gn:latitude":13.18556,
+    "gn:longitude":-87.035,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"Los Matapalos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671923,
+        890421511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605468
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"a4b03743647b9ca89c398f57982ca5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":890421511,
+            "locality_id":1242973943,
+            "region_id":85671923
+        }
+    ],
+    "wof:id":1242973943,
+    "wof:lastmodified":1536988905,
+    "wof:name":"Los Matapalos",
+    "wof:parent_id":890421511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.035,
+    13.18556,
+    -87.035,
+    13.18556
+],
+  "geometry": {"coordinates":[-87.035,13.18556],"type":"Point"}
+}

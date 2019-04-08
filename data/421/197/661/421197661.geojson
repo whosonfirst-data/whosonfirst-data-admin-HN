@@ -1,0 +1,134 @@
+{
+  "id": 421197661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.8,15.4,-87.8,15.4",
+    "geom:latitude":15.4,
+    "geom:longitude":-87.8,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u723e\u666e\u7f85\u683c\u96f7\u7d22"
+    ],
+    "name:dut_x_preferred":[
+        "El Progreso"
+    ],
+    "name:eng_x_preferred":[
+        "El Progreso"
+    ],
+    "name:fre_x_preferred":[
+        "El Progreso"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03bb \u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "El Progreso"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d7\u30ed\u30b0\u30ec\u30bd"
+    ],
+    "name:lit_x_preferred":[
+        "El Progresas"
+    ],
+    "name:pol_x_preferred":[
+        "El Progreso"
+    ],
+    "name:por_x_preferred":[
+        "El Progreso"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "El Progreso"
+    ],
+    "name:swe_x_preferred":[
+        "El Progreso"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Progreso"
+    ],
+    "name:war_x_preferred":[
+        "El Progreso"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3610613,
+    "qs:gn_pop":100810,
+    "qs:name":"El Progreso",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Yoro",
+    "qs:photos":332,
+    "qs:photos_1k":67,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":332,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "qs:qs_id":149381,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":101172,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":15.4,
+    "wd:longitude":-87.8,
+    "wd:wordcount":676,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671879,
+        421188755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610613,
+        "gp:id":101172,
+        "qs:id":149381,
+        "wd:id":"Q2277161"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009920,
+    "wof:geomhash":"9e21dfd005f8d3fd69da9676c9b62ec1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188755,
+            "locality_id":421197661,
+            "region_id":85671879
+        }
+    ],
+    "wof:id":421197661,
+    "wof:lastmodified":1553816385,
+    "wof:name":"El Progreso",
+    "wof:parent_id":421188755,
+    "wof:placetype":"locality",
+    "wof:population":100810,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.8,
+    15.4,
+    -87.8,
+    15.4
+],
+  "geometry": {"coordinates":[-87.8,15.4],"type":"Point"}
+}

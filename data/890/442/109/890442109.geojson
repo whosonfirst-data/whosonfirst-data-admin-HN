@@ -1,0 +1,279 @@
+{
+  "id": 890442109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-83.77222,15.26667,-83.77222,15.26667",
+    "geom:latitude":15.26667,
+    "geom:longitude":-83.77222,
+    "gn:country":"HN",
+    "gn:fcode":"PPLA",
+    "gn:pop":4856,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:min_zoom":6.7,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u064a\u0631\u062a\u0648 \u0644\u0645\u0628\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b2\u09c7\u09ae\u09cd\u09aa\u09bf\u09b0\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u502b\u76ae\u62c9\u6e2f"
+    ],
+    "name:dan_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:dut_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:eng_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:fin_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:fre_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ad\u03c1\u03c4\u03bf \u039b\u03b5\u03bc\u03c0\u03af\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0acd\u0aaf\u0ac1\u0ab0\u0acd\u0a9f\u0acb \u0ab2\u0ac7\u0aae\u0acd\u0aaa\u0ac0\u0ab0\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0930\u0924\u094b \u0932\u0947\u092e\u094d\u092a\u093f\u0930\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:ita_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30a8\u30eb\u30c8\u30fb\u30ec\u30f3\u30d4\u30e9"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0ccb\u0cb0\u0ccd\u0c9f\u0cca \u0cb2\u0cc6\u0c82\u0caa\u0ccd\u0caa\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc5d0\ub974\ud1a0\ub818\ud53c\ub77c"
+    ],
+    "name:lav_x_preferred":[
+        "Puertolempira"
+    ],
+    "name:lit_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0941\u090f\u0930\u094d\u0924\u094b \u0932\u0947\u092e\u094d\u092a\u093f\u0930\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:nan_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:nob_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0626\u0631\u062a\u0648 \u0644\u0645\u067e\u06cc\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:por_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u044d\u0440\u0442\u043e-\u041b\u0435\u043c\u043f\u0438\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd4\u0dc0\u0dbb\u0dca\u0da7\u0ddd \u0dbd\u0dda\u0db8\u0dca\u0db4\u0dd2\u0dbb\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:swe_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0baf\u0bb0\u0bcd\u0b9f\u0bcb \u0bb2\u0bc6\u0bae\u0bcd\u0baa\u0bbf\u0bb0\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c41\u0c30\u0c4d\u0c24\u0c4b\u0c32\u0c46\u0c02\u0c2b\u0c3f\u0c30\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15 \u0e40\u0e25\u0e21\u0e1e\u0e34\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e-\u041b\u0435\u043c\u043f\u0456\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u0644\u06cc\u0645\u067e\u06cc\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "name:war_x_preferred":[
+        "Puerto Lempira"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Honduras",
+    "ne:ADM0_A3":"HND",
+    "ne:ADM1NAME":"Gracias a Dios",
+    "ne:ADMIN1_COD":9,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3603157,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Puerto Lempira",
+    "ne:GN_POP":4856,
+    "ne:GTOPO30":1.0,
+    "ne:ISO_A2":"HN",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":15.262026,
+    "ne:LONGITUDE":-83.771641,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Puerto Lempira",
+    "ne:MAX_AREAKM":2.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-83.766667,
+    "ne:MAX_BBXMIN":-83.783333,
+    "ne:MAX_BBYMAX":15.266667,
+    "ne:MAX_BBYMIN":15.258333,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":5.0,
+    "ne:MAX_PERMI":3.0,
+    "ne:MAX_POP10":4664,
+    "ne:MAX_POP20":4664,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-83.775,
+    "ne:MEAN_BBYC":15.2625,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":2.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-83.766667,
+    "ne:MIN_BBXMIN":-83.783333,
+    "ne:MIN_BBYMAX":15.266667,
+    "ne:MIN_BBYMIN":15.258333,
+    "ne:MIN_PERKM":5.0,
+    "ne:MIN_PERMI":3.0,
+    "ne:NAME":"Puerto Lempira",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Puerto Lempira",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":4856,
+    "ne:POP_MIN":4664,
+    "ne:POP_OTHER":4664,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":4,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Honduras",
+    "ne:SOV_A3":"HND",
+    "ne:TIMEZONE":"America/Tegucigalpa",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:name":"Puerto Lempira",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:latitude":"15.265277777",
+    "wd:longitude":"-83.774444444",
+    "wd:wordcount":195,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671867,
+        421181809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3603157,
+        "gp:id":106183,
+        "qs:id":274445,
+        "wd:id":"Q2075665",
+        "wk:page":"Puerto Lempira"
+    },
+    "wof:country":"HN",
+    "wof:created":1469052350,
+    "wof:geomhash":"1a2325f42a7fa40f9c7859a289115fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181809,
+            "locality_id":890442109,
+            "region_id":85671867
+        }
+    ],
+    "wof:id":890442109,
+    "wof:lastmodified":1553816399,
+    "wof:name":"Puerto Lempira",
+    "wof:parent_id":421181809,
+    "wof:placetype":"locality",
+    "wof:population":4856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[
+        421186495
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.77222,
+    15.26667,
+    -83.77222,
+    15.26667
+],
+  "geometry": {"coordinates":[-83.77222,15.26667],"type":"Point"}
+}

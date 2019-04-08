@@ -1,0 +1,67 @@
+{
+  "id": 1360256593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.55833,13.51694,-87.55833,13.51694",
+    "geom:latitude":13.51694,
+    "geom:longitude":-87.55833,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Talpetate",
+    "gn:country_code":"HN",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3826065,
+    "gn:latitude":13.51694,
+    "gn:longitude":-87.55833,
+    "gn:modification_date":"2005-06-28",
+    "gn:name":"Talpetate",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3826065
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"6e7804a45369b9acd53a1df858d8a930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1360256593,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1360256593,
+    "wof:lastmodified":1536698565,
+    "wof:name":"Talpetate",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.55833,
+    13.51694,
+    -87.55833,
+    13.51694
+],
+  "geometry": {"coordinates":[-87.55833,13.51694],"type":"Point"}
+}

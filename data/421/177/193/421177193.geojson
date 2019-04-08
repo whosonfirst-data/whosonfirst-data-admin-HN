@@ -1,0 +1,111 @@
+{
+  "id": 421177193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.98333,14.48333,-87.98333,14.48333",
+    "geom:latitude":14.48333,
+    "geom:longitude":-87.98333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u8d6b\u8607\u65af\u5fb7\u5967\u6258\u7f85"
+    ],
+    "name:dut_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:eng_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:fre_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:ita_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:nld_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:por_x_preferred":[
+        "Jesus de Otoro"
+    ],
+    "name:spa_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:swe_x_preferred":[
+        "Jes\u00fas de Otoro"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d6b\u8607\u65af\u5fb7\u5967\u6258\u7f85"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3608715,
+    "qs:gn_pop":6988,
+    "qs:name":"Jes\u00fas de Otoro",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1116194,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":102328,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899,
+        421182921
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3608715,
+        "gp:id":102328,
+        "qs:id":1116194,
+        "wd:id":"Q2105288",
+        "wk:page":"Jes\u00fas de Otoro"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009136,
+    "wof:geomhash":"e0d004b0f28104f0816edff95394eec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182921,
+            "locality_id":421177193,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421177193,
+    "wof:lastmodified":1514446455,
+    "wof:name":"Jes\u00fas de Otoro",
+    "wof:parent_id":421182921,
+    "wof:placetype":"locality",
+    "wof:population":6988,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.98333,
+    14.48333,
+    -87.98333,
+    14.48333
+],
+  "geometry": {"coordinates":[-87.98333,14.48333],"type":"Point"}
+}

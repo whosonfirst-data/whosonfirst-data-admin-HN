@@ -1,0 +1,67 @@
+{
+  "id": 1293222589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.85,15.55,-87.85,15.55",
+    "geom:latitude":15.55,
+    "geom:longitude":-87.85,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Las Delicias",
+    "gn:country_code":"HN",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3606804,
+    "gn:latitude":15.55,
+    "gn:longitude":-87.85,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Las Delicias",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421185035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606804
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"28f6c0d056b18ed2bca40ab6ab4a1cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185035,
+            "locality_id":1293222589,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1293222589,
+    "wof:lastmodified":1536671895,
+    "wof:name":"Las Delicias",
+    "wof:parent_id":421185035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.85,
+    15.55,
+    -87.85,
+    15.55
+],
+  "geometry": {"coordinates":[-87.84999999999999,15.55],"type":"Point"}
+}

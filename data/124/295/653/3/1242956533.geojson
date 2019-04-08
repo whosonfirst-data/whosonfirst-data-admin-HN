@@ -1,0 +1,67 @@
+{
+  "id": 1242956533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.0,14.6,-89.0,14.6",
+    "geom:latitude":14.6,
+    "geom:longitude":-89.0,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Los Planes",
+    "gn:country_code":"HN",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605368,
+    "gn:latitude":14.6,
+    "gn:longitude":-89.0,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Planes",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671919,
+        421182977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605368
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"4ac96b1b84a71d81c82482acc81d7821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421182977,
+            "locality_id":1242956533,
+            "region_id":85671919
+        }
+    ],
+    "wof:id":1242956533,
+    "wof:lastmodified":1537014214,
+    "wof:name":"Los Planes",
+    "wof:parent_id":421182977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.0,
+    14.6,
+    -89.0,
+    14.6
+],
+  "geometry": {"coordinates":[-89.0,14.6],"type":"Point"}
+}

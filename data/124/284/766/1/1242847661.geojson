@@ -1,0 +1,63 @@
+{
+  "id": 1242847661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.8,13.3,-86.8,13.3",
+    "geom:latitude":13.3,
+    "geom:longitude":-86.8,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"San Manuel",
+    "gn:country_code":"HN",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601922,
+    "gn:latitude":13.3,
+    "gn:longitude":-86.8,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"San Manuel",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601922
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c33222516a53a5e923d0d8024297ed73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1242847661,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242847661,
+    "wof:lastmodified":1536674723,
+    "wof:name":"San Manuel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.8,
+    13.3,
+    -86.8,
+    13.3
+],
+  "geometry": {"coordinates":[-86.8,13.3],"type":"Point"}
+}

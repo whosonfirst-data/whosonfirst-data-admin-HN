@@ -1,0 +1,67 @@
+{
+  "id": 1310683983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-86.83333,15.03333,-86.83333,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":-86.83333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Los Almacigos",
+    "gn:country_code":"HN",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3605808,
+    "gn:latitude":15.03333,
+    "gn:longitude":-86.83333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Los Alm\u00e1cigos",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671877,
+        421203413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3605808
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"cfa4dd0e951e204500db7abaaff4e602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421203413,
+            "locality_id":1310683983,
+            "region_id":85671877
+        }
+    ],
+    "wof:id":1310683983,
+    "wof:lastmodified":1536659521,
+    "wof:name":"Los Almacigos",
+    "wof:parent_id":421203413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.83333,
+    15.03333,
+    -86.83333,
+    15.03333
+],
+  "geometry": {"coordinates":[-86.83333,15.03333],"type":"Point"}
+}

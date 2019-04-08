@@ -1,0 +1,63 @@
+{
+  "id": 1259678329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-84.73333,14.7,-84.73333,14.7",
+    "geom:latitude":14.7,
+    "geom:longitude":-84.73333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yasko",
+    "gn:country_code":"HN",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3600227,
+    "gn:latitude":14.7,
+    "gn:longitude":-84.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Yasko",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3600227
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"96af681ee574cae0de5fccc3289be744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "locality_id":1259678329,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259678329,
+    "wof:lastmodified":1537071395,
+    "wof:name":"Yasko",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -84.73333000000002,
+    14.7,
+    -84.73333000000002,
+    14.7
+],
+  "geometry": {"coordinates":[-84.73333000000002,14.7],"type":"Point"}
+}

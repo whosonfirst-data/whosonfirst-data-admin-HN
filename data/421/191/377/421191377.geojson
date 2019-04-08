@@ -1,0 +1,99 @@
+{
+  "id": 421191377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-21",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4,13.9,-88.4,13.9",
+    "geom:latitude":13.9,
+    "geom:longitude":-88.4,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ita_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:nld_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:por_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u76e7\u897f\u4e9e"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"ADM2",
+    "qs:gn_id":3601572,
+    "qs:gn_pop":5020,
+    "qs:name":"Santa Luc\u00eda",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Intibuc\u00e1",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "qs:qs_id":62734,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":26813832,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3601572,
+        "gp:id":26813832,
+        "qs:id":62734,
+        "wd:id":"Q961069",
+        "wk:page":"Santa Luc\u00eda, Intibuc\u00e1"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009690,
+    "wof:geomhash":"46db60b66f21e4e3c2d275a913c29c30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421191377,
+            "region_id":85671899
+        }
+    ],
+    "wof:id":421191377,
+    "wof:lastmodified":1527716378,
+    "wof:name":"Santa Luc\u00eda",
+    "wof:parent_id":85671899,
+    "wof:placetype":"county",
+    "wof:population":5020,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4,
+    13.9,
+    -88.4,
+    13.9
+],
+  "geometry": {"coordinates":[-88.40000000000001,13.9],"type":"Point"}
+}

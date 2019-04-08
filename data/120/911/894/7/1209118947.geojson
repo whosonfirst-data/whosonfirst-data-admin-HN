@@ -1,0 +1,61 @@
+{
+  "id": 1209118947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.05917,13.28194,-87.05917,13.28194",
+    "geom:latitude":13.28194,
+    "geom:longitude":-87.05917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"San Juan Arriba",
+    "gn:country_code":"HN",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3602012,
+    "gn:latitude":13.28194,
+    "gn:longitude":-87.05917,
+    "gn:modification_date":"2003-05-15",
+    "gn:name":"San Juan Arriba",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3602012
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"45c2dabd8a396d3ee49800a6937c9251",
+    "wof:hierarchy":[
+        {
+            "country_id":85632323,
+            "locality_id":1209118947
+        }
+    ],
+    "wof:id":1209118947,
+    "wof:lastmodified":1536297165,
+    "wof:name":"San Juan Arriba",
+    "wof:parent_id":85632323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.05917,
+    13.28194,
+    -87.05917,
+    13.28194
+],
+  "geometry": {"coordinates":[-87.05916999999999,13.28194],"type":"Point"}
+}

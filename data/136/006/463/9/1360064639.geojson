@@ -1,0 +1,67 @@
+{
+  "id": 1360064639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.73333,14.1,-88.73333,14.1",
+    "geom:latitude":14.1,
+    "geom:longitude":-88.73333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Gilona",
+    "gn:country_code":"HN",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3609614,
+    "gn:latitude":14.1,
+    "gn:longitude":-88.73333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Gilona",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632545,
+        85677193,
+        1108694717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609614
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"8ea05963dc76507b5423855a8cb6fabf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632545,
+            "county_id":1108694717,
+            "locality_id":1360064639,
+            "region_id":85677193
+        }
+    ],
+    "wof:id":1360064639,
+    "wof:lastmodified":1536974748,
+    "wof:name":"Gilona",
+    "wof:parent_id":1108694717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.73333000000002,
+    14.1,
+    -88.73333000000002,
+    14.1
+],
+  "geometry": {"coordinates":[-88.73333000000002,14.1],"type":"Point"}
+}

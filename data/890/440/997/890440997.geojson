@@ -1,0 +1,68 @@
+{
+  "id": 890440997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.78333,15.75,-85.78333,15.75",
+    "geom:latitude":15.75,
+    "geom:longitude":-85.78333,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":2855,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Corocilo"
+    ],
+    "qs:name":"Corocito",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671857,
+        421169619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3613189,
+        "qs:id":149407
+    },
+    "wof:country":"HN",
+    "wof:created":1469052305,
+    "wof:geomhash":"b76bd0b5b655a14fd79f3e3d1026c8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421169619,
+            "locality_id":890440997,
+            "region_id":85671857
+        }
+    ],
+    "wof:id":890440997,
+    "wof:lastmodified":1505343580,
+    "wof:name":"Corocito",
+    "wof:parent_id":421169619,
+    "wof:placetype":"locality",
+    "wof:population":2855,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.78333,
+    15.75,
+    -85.78333,
+    15.75
+],
+  "geometry": {"coordinates":[-85.78333000000001,15.75],"type":"Point"}
+}

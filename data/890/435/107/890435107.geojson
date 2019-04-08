@@ -1,0 +1,66 @@
+{
+  "id": 890435107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.05,15.5,-88.05,15.5",
+    "geom:latitude":15.5,
+    "geom:longitude":-88.05,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
+    "gn:pop":2989,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Armenta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421170709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3615065,
+        "gp:id":106433,
+        "qs:id":149426
+    },
+    "wof:country":"HN",
+    "wof:created":1469052055,
+    "wof:geomhash":"f64c1d12614616c0578365986614072f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170709,
+            "locality_id":890435107,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":890435107,
+    "wof:lastmodified":1505343545,
+    "wof:name":"Armenta",
+    "wof:parent_id":421170709,
+    "wof:placetype":"locality",
+    "wof:population":2989,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.05,
+    15.5,
+    -88.05,
+    15.5
+],
+  "geometry": {"coordinates":[-88.05,15.5],"type":"Point"}
+}

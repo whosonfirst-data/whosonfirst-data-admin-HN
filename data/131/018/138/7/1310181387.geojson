@@ -1,0 +1,72 @@
+{
+  "id": 1310181387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.53333,13.4,-87.53333,13.4",
+    "geom:latitude":13.4,
+    "geom:longitude":-87.53333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"El Papalon",
+    "gn:cc2":"HN",
+    "gn:country_code":"HN",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3610971,
+    "gn:latitude":13.4,
+    "gn:longitude":-87.53333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Papal\u00f3n",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papal\u00f3n",
+        "El Papal\u00f3n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671883,
+        421181807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3610971
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"3d36d991f81a00e6ba3d4e60714f58d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421181807,
+            "locality_id":1310181387,
+            "region_id":85671883
+        }
+    ],
+    "wof:id":1310181387,
+    "wof:lastmodified":1537625714,
+    "wof:name":"El Papalon",
+    "wof:parent_id":421181807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.53333,
+    13.4,
+    -87.53333,
+    13.4
+],
+  "geometry": {"coordinates":[-87.53333000000001,13.4],"type":"Point"}
+}

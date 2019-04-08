@@ -1,0 +1,115 @@
+{
+  "id": 421183813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83333,15.03333,-88.83333,15.03333",
+    "geom:latitude":15.03333,
+    "geom:longitude":-88.83333,
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:chi_x_preferred":[
+        "\u5f17\u6d1b\u91cc\u9054"
+    ],
+    "name:dut_x_preferred":[
+        "Florida"
+    ],
+    "name:eng_x_preferred":[
+        "Florida"
+    ],
+    "name:fre_x_preferred":[
+        "Florida"
+    ],
+    "name:ita_x_preferred":[
+        "Florida"
+    ],
+    "name:nld_x_preferred":[
+        "Florida"
+    ],
+    "name:pol_x_preferred":[
+        "Florida"
+    ],
+    "name:por_x_preferred":[
+        "Florida"
+    ],
+    "name:spa_x_preferred":[
+        "Florida"
+    ],
+    "name:swe_x_preferred":[
+        "Florida"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f17\u6d1b\u91cc\u9054"
+    ],
+    "qs:gn_country":"HN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3609681,
+    "qs:gn_pop":5340,
+    "qs:name":"Florida",
+    "qs:name_adm0":"Honduras",
+    "qs:name_adm1":"Cop\u00e1n",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1045684,
+    "qs:woe_adm0":23424841,
+    "qs:woe_id":101907,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421188479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3609681,
+        "gp:id":101907,
+        "qs:id":1045684,
+        "wd:id":"Q2392006",
+        "wk:page":"Florida, Cop\u00e1n"
+    },
+    "wof:country":"HN",
+    "wof:created":1459009383,
+    "wof:geomhash":"2be763ff6a39231baecc5fd703b9c8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421188479,
+            "locality_id":421183813,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":421183813,
+    "wof:lastmodified":1527717697,
+    "wof:name":"Florida",
+    "wof:parent_id":421188479,
+    "wof:placetype":"locality",
+    "wof:population":5340,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83333,
+    15.03333,
+    -88.83333,
+    15.03333
+],
+  "geometry": {"coordinates":[-88.83333,15.03333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326527481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.83205,15.61942,-87.83205,15.61942",
+    "geom:latitude":15.61942,
+    "geom:longitude":-87.83205,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Waler Bordo",
+    "gn:country_code":"HN",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072664,
+    "gn:latitude":15.61942,
+    "gn:longitude":-87.83205,
+    "gn:modification_date":"2014-06-03",
+    "gn:name":"Waler Bordo",
+    "gn:population":0,
+    "gn:timezone":"America/Tegucigalpa",
+    "iso:country":"HN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671893,
+        421185035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072664
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"932b99e5a6b354268afd32f801906028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421185035,
+            "locality_id":1326527481,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":1326527481,
+    "wof:lastmodified":1536990132,
+    "wof:name":"Waler Bordo",
+    "wof:parent_id":421185035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.83205,
+    15.61942,
+    -87.83205,
+    15.61942
+],
+  "geometry": {"coordinates":[-87.83205,15.61942],"type":"Point"}
+}
