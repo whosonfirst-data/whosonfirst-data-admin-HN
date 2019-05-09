@@ -10,6 +10,12 @@
     "geom:latitude":14.153128,
     "geom:longitude":-88.711814,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Valladolid Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.154233,
     "lbl:longitude":-88.710875,
     "meso:admin_1":"Lempira",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421191093,
-    "wof:lastmodified":1536616087,
+    "wof:lastmodified":1554488992,
     "wof:name":"Valladolid",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

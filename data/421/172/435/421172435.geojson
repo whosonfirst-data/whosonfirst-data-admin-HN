@@ -10,6 +10,12 @@
     "geom:latitude":15.70484,
     "geom:longitude":-87.582812,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Tela Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.65975,
     "lbl:longitude":-87.568052,
     "meso:admin_1":"Atlantida",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421172435,
-    "wof:lastmodified":1536615940,
+    "wof:lastmodified":1554488775,
     "wof:name":"Tela",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

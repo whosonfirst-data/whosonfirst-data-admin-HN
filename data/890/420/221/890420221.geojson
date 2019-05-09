@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":5255,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Jose de Colinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.066912,
     "lbl:longitude":-88.329576,
     "meso:admin_1":"Santa Barbara",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890420221,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1554489058,
     "wof:name":"San Jose de Colinas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

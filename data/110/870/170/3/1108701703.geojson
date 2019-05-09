@@ -10,6 +10,12 @@
     "geom:latitude":15.271801,
     "geom:longitude":-88.668126,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Jose de Tarros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.268647,
     "lbl:longitude":-88.666736,
     "meso:admin_1":"Santa Barbara",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701703,
-    "wof:lastmodified":1536615504,
+    "wof:lastmodified":1554489367,
     "wof:name":"San Jose de Tarros",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.310689,
     "geom:longitude":-88.88451,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Cololaca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.307269,
     "lbl:longitude":-88.886025,
     "meso:admin_1":"Lempira",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421193293,
-    "wof:lastmodified":1536616104,
+    "wof:lastmodified":1554489010,
     "wof:name":"Cololaca",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

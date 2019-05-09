@@ -10,6 +10,12 @@
     "geom:latitude":14.513256,
     "geom:longitude":-86.867795,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Guimaca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.53687,
     "lbl:longitude":-86.856657,
     "meso:admin_1":"Francisco Morazan",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421188483,
-    "wof:lastmodified":1536616052,
+    "wof:lastmodified":1554488970,
     "wof:name":"Guimaca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

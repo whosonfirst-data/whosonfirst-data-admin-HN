@@ -10,6 +10,12 @@
     "geom:latitude":13.56369,
     "geom:longitude":-86.901728,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Morolica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.556811,
     "lbl:longitude":-86.90357,
     "meso:admin_1":"Choluteca",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421181923,
-    "wof:lastmodified":1536615979,
+    "wof:lastmodified":1554488811,
     "wof:name":"Morolica",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

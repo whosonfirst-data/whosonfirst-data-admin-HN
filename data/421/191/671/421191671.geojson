@@ -10,6 +10,12 @@
     "geom:latitude":14.937967,
     "geom:longitude":-87.102447,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Marale Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.934123,
     "lbl:longitude":-87.104672,
     "meso:admin_1":"Francisco Morazan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421191671,
-    "wof:lastmodified":1536616097,
+    "wof:lastmodified":1554489004,
     "wof:name":"Marale",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

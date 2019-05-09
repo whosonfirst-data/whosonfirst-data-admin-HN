@@ -10,6 +10,12 @@
     "geom:latitude":13.717054,
     "geom:longitude":-87.422604,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Coraycito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.716562,
     "lbl:longitude":-87.423396,
     "meso:admin_1":"Choluteca",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108701663,
-    "wof:lastmodified":1536615498,
+    "wof:lastmodified":1554489359,
     "wof:name":"Coraycito",
     "wof:parent_id":85671923,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

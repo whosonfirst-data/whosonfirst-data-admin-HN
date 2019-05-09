@@ -10,6 +10,12 @@
     "geom:latitude":13.260867,
     "geom:longitude":-87.231742,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Choluteca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.390129,
     "lbl:longitude":-87.206752,
     "meso:admin_1":"Choluteca",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421188769,
-    "wof:lastmodified":1536616067,
+    "wof:lastmodified":1554488990,
     "wof:name":"Choluteca",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.528691,
     "geom:longitude":-88.023791,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Jesus de Otoro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.513588,
     "lbl:longitude":-88.014175,
     "meso:admin_1":"Intibuca",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421182921,
-    "wof:lastmodified":1536615995,
+    "wof:lastmodified":1554488881,
     "wof:name":"Jesus de Otoro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.583893,
     "geom:longitude":-85.963161,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Tocoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.585849,
     "lbl:longitude":-85.965829,
     "meso:admin_1":"Colon",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421182985,
-    "wof:lastmodified":1536616005,
+    "wof:lastmodified":1554488936,
     "wof:name":"Tocoa",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

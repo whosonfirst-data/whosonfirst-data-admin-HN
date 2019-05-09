@@ -10,6 +10,12 @@
     "geom:latitude":14.893878,
     "geom:longitude":-86.692372,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Rosario Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.893139,
     "lbl:longitude":-86.686936,
     "meso:admin_1":"Olancho",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421203399,
-    "wof:lastmodified":1536616153,
+    "wof:lastmodified":1554489038,
     "wof:name":"El Rosario",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.851459,
     "geom:longitude":-87.429119,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Reitoca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.849432,
     "lbl:longitude":-87.427873,
     "meso:admin_1":"Francisco Morazan",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421191601,
-    "wof:lastmodified":1536616096,
+    "wof:lastmodified":1554489001,
     "wof:name":"Reitoca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.928103,
     "geom:longitude":-87.214069,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Ana Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.932178,
     "lbl:longitude":-87.242224,
     "meso:admin_1":"Francisco Morazan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421184595,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1554488948,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

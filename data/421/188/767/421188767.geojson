@@ -10,6 +10,12 @@
     "geom:latitude":15.685685,
     "geom:longitude":-86.504242,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Jutiapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.679152,
     "lbl:longitude":-86.520585,
     "meso:admin_1":"Atlantida",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421188767,
-    "wof:lastmodified":1536616067,
+    "wof:lastmodified":1554488979,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

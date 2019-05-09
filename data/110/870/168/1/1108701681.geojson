@@ -10,6 +10,12 @@
     "geom:latitude":15.097168,
     "geom:longitude":-86.683314,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Union Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.103634,
     "lbl:longitude":-86.701521,
     "meso:admin_1":"Olancho",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701681,
-    "wof:lastmodified":1536615501,
+    "wof:lastmodified":1554489367,
     "wof:name":"La Union",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

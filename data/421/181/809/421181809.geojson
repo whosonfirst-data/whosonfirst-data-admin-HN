@@ -10,6 +10,12 @@
     "geom:latitude":15.01438,
     "geom:longitude":-84.078578,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Puerto Lempira Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.022271,
     "lbl:longitude":-84.022038,
     "meso:admin_1":"Gracias a Dios",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421181809,
-    "wof:lastmodified":1536615973,
+    "wof:lastmodified":1554488954,
     "wof:name":"Puerto Lempira",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

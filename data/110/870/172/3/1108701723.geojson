@@ -10,6 +10,12 @@
     "geom:latitude":14.754995,
     "geom:longitude":-88.270597,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Rita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.754961,
     "lbl:longitude":-88.271526,
     "meso:admin_1":"Santa Barbara",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108701723,
-    "wof:lastmodified":1536615509,
+    "wof:lastmodified":1554489374,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

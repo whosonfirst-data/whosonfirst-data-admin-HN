@@ -10,6 +10,12 @@
     "geom:latitude":15.630389,
     "geom:longitude":-86.25673,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Sonaguera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.650452,
     "lbl:longitude":-86.241442,
     "meso:admin_1":"Colon",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":421183307,
-    "wof:lastmodified":1536616009,
+    "wof:lastmodified":1554488943,
     "wof:name":"Sonaguera",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

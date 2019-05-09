@@ -10,6 +10,12 @@
     "geom:latitude":14.999865,
     "geom:longitude":-88.74331,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Nicolas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.999159,
     "lbl:longitude":-88.729502,
     "meso:admin_1":"Copan",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421191367,
-    "wof:lastmodified":1536616093,
+    "wof:lastmodified":1554488996,
     "wof:name":"San Nicolas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

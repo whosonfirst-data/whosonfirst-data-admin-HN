@@ -10,6 +10,12 @@
     "geom:latitude":14.525246,
     "geom:longitude":-89.203092,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Concepcion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.54071,
     "lbl:longitude":-89.202019,
     "meso:admin_1":"Ocotepeque",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421183301,
-    "wof:lastmodified":1536616009,
+    "wof:lastmodified":1554488941,
     "wof:name":"Concepcion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

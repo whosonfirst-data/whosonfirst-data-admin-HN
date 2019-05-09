@@ -10,6 +10,12 @@
     "geom:latitude":13.455259,
     "geom:longitude":-87.015696,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Apacilagua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.458127,
     "lbl:longitude":-87.017612,
     "meso:admin_1":"Choluteca",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421193685,
-    "wof:lastmodified":1536616111,
+    "wof:lastmodified":1554489013,
     "wof:name":"Apacilagua",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

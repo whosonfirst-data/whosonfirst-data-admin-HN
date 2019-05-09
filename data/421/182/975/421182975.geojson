@@ -10,6 +10,12 @@
     "geom:latitude":14.358355,
     "geom:longitude":-87.879445,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santiago de Puringla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.35625,
     "lbl:longitude":-87.878154,
     "meso:admin_1":"La Paz",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421182975,
-    "wof:lastmodified":1536616004,
+    "wof:lastmodified":1554488898,
     "wof:name":"Santiago de Puringla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

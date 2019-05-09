@@ -10,6 +10,12 @@
     "geom:latitude":14.904849,
     "geom:longitude":-86.289155,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Guarizama Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.906958,
     "lbl:longitude":-86.295005,
     "meso:admin_1":"Olancho",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421203407,
-    "wof:lastmodified":1536616154,
+    "wof:lastmodified":1554489039,
     "wof:name":"Guarizama",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

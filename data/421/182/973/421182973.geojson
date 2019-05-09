@@ -10,6 +10,12 @@
     "geom:latitude":15.902853,
     "geom:longitude":-85.689502,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Sta. Rosa de Aguan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.896803,
     "lbl:longitude":-85.688273,
     "meso:admin_1":"Colon",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421182973,
-    "wof:lastmodified":1536616004,
+    "wof:lastmodified":1554488896,
     "wof:name":"Sta. Rosa de Aguan",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

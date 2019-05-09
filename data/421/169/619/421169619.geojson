@@ -10,6 +10,12 @@
     "geom:latitude":15.706898,
     "geom:longitude":-85.737778,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Bonito Oriental Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.704292,
     "lbl:longitude":-85.746962,
     "meso:admin_1":"Colon",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421169619,
-    "wof:lastmodified":1536615900,
+    "wof:lastmodified":1554488751,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

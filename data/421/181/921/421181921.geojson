@@ -10,6 +10,12 @@
     "geom:latitude":15.35646,
     "geom:longitude":-86.821847,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Arenal Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.34923,
     "lbl:longitude":-86.82376,
     "meso:admin_1":"Yoro",
@@ -131,7 +137,7 @@
         }
     ],
     "wof:id":421181921,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1554488813,
     "wof:name":"Arenal",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

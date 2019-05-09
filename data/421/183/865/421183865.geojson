@@ -10,6 +10,12 @@
     "geom:latitude":14.867844,
     "geom:longitude":-88.840761,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Dulce Nombre Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.860001,
     "lbl:longitude":-88.843315,
     "meso:admin_1":"Copan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421183865,
-    "wof:lastmodified":1536616014,
+    "wof:lastmodified":1554488941,
     "wof:name":"Dulce Nombre",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":15.666537,
     "geom:longitude":-88.185153,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Omoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.665685,
     "lbl:longitude":-88.210646,
     "meso:admin_1":"Cortes",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421172429,
-    "wof:lastmodified":1536615939,
+    "wof:lastmodified":1554488769,
     "wof:name":"Omoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

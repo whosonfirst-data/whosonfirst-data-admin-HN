@@ -10,6 +10,12 @@
     "geom:latitude":14.420841,
     "geom:longitude":-88.423057,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Juan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.419519,
     "lbl:longitude":-88.424683,
     "meso:admin_1":"Intibuca",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421186027,
-    "wof:lastmodified":1536616032,
+    "wof:lastmodified":1554488959,
     "wof:name":"San Juan",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

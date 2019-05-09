@@ -10,6 +10,12 @@
     "geom:latitude":14.517969,
     "geom:longitude":-87.198851,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Cedros Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.571627,
     "lbl:longitude":-87.132716,
     "meso:admin_1":"Francisco Morazan",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421198881,
-    "wof:lastmodified":1536616127,
+    "wof:lastmodified":1554489027,
     "wof:name":"Cedros",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

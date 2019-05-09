@@ -10,6 +10,12 @@
     "geom:latitude":13.851715,
     "geom:longitude":-86.525933,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Paraiso Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.860227,
     "lbl:longitude":-86.528216,
     "meso:admin_1":"El Paraiso",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701667,
-    "wof:lastmodified":1536615498,
+    "wof:lastmodified":1554489378,
     "wof:name":"El Paraiso",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

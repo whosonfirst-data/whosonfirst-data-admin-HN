@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":6477,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Marcos de Sierra Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.1319,
     "lbl:longitude":-88.247016,
     "meso:admin_1":"Intibuca",
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":890420215,
-    "wof:lastmodified":1536617372,
+    "wof:lastmodified":1554489059,
     "wof:name":"San Marcos de Sierra",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

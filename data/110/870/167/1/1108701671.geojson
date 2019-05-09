@@ -10,6 +10,12 @@
     "geom:latitude":14.960747,
     "geom:longitude":-88.899645,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Volcan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.961559,
     "lbl:longitude":-88.906837,
     "meso:admin_1":"Copan",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108701671,
-    "wof:lastmodified":1536615499,
+    "wof:lastmodified":1554489364,
     "wof:name":"El Volcan",
     "wof:parent_id":85671911,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:shortcode":"SJ",
     "wof:superseded_by":[],

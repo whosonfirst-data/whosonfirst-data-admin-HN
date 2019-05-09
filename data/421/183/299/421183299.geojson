@@ -10,6 +10,12 @@
     "geom:latitude":15.366037,
     "geom:longitude":-88.575269,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Azacualpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.370114,
     "lbl:longitude":-88.576786,
     "meso:admin_1":"Santa Barbara",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421183299,
-    "wof:lastmodified":1536616008,
+    "wof:lastmodified":1554488935,
     "wof:name":"Azacualpa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

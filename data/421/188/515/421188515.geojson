@@ -10,6 +10,12 @@
     "geom:latitude":15.131069,
     "geom:longitude":-88.027649,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Antonio de Cortes Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.135567,
     "lbl:longitude":-88.035462,
     "meso:admin_1":"Cortes",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421188515,
-    "wof:lastmodified":1536616057,
+    "wof:lastmodified":1554488972,
     "wof:name":"San Antonio de Cortes",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

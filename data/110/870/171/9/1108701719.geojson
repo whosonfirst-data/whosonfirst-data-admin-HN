@@ -10,6 +10,12 @@
     "geom:latitude":14.492266,
     "geom:longitude":-89.28428,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Fe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.497079,
     "lbl:longitude":-89.273574,
     "meso:admin_1":"Ocotepeque",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701719,
-    "wof:lastmodified":1536615508,
+    "wof:lastmodified":1554489377,
     "wof:name":"Santa Fe",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

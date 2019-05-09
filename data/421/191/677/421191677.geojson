@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027808,
-    "geom:area_square_m":332528762.127122,
+    "geom:area_square_m":332528762.127546,
     "geom:bbox":"-87.1592941284,14.603468895,-86.9738922119,14.8538732529",
     "geom:latitude":14.743992,
     "geom:longitude":-87.055937,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Ignacio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.747229,
     "lbl:longitude":-87.048423,
     "meso:admin_1":"Francisco Morazan",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421191677,
-    "wof:lastmodified":1553816380,
+    "wof:lastmodified":1555037077,
     "wof:name":"San Ignacio",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

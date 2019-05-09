@@ -10,6 +10,12 @@
     "geom:latitude":15.873288,
     "geom:longitude":-84.916864,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Batalla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.876562,
     "lbl:longitude":-84.918201,
     "meso:admin_1":"Gracias a Dios",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701649,
-    "wof:lastmodified":1536615496,
+    "wof:lastmodified":1554489360,
     "wof:name":"Batalla",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

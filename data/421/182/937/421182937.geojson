@@ -10,6 +10,12 @@
     "geom:latitude":15.232448,
     "geom:longitude":-88.572974,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Macuelizo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.210041,
     "lbl:longitude":-88.560331,
     "meso:admin_1":"Santa Barbara",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421182937,
-    "wof:lastmodified":1536615998,
+    "wof:lastmodified":1554488870,
     "wof:name":"Macuelizo",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

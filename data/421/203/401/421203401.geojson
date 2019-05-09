@@ -10,6 +10,12 @@
     "geom:latitude":14.670133,
     "geom:longitude":-87.405682,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Esquias Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.681251,
     "lbl:longitude":-87.383743,
     "meso:admin_1":"Comayagua",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421203401,
-    "wof:lastmodified":1536616153,
+    "wof:lastmodified":1554489042,
     "wof:name":"Esquias",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

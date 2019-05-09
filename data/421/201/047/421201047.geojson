@@ -10,6 +10,12 @@
     "geom:latitude":13.985465,
     "geom:longitude":-87.071355,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Tatumbla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.986609,
     "lbl:longitude":-87.079924,
     "meso:admin_1":"Francisco Morazan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421201047,
-    "wof:lastmodified":1536616138,
+    "wof:lastmodified":1554489031,
     "wof:name":"Tatumbla",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

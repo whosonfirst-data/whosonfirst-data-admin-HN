@@ -10,6 +10,12 @@
     "geom:latitude":14.887384,
     "geom:longitude":-88.78803,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Veracruz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.887203,
     "lbl:longitude":-88.783773,
     "meso:admin_1":"Copan",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":421188531,
-    "wof:lastmodified":1536616060,
+    "wof:lastmodified":1554488970,
     "wof:name":"Veracruz",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

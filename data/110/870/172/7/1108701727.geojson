@@ -10,6 +10,12 @@
     "geom:latitude":14.175831,
     "geom:longitude":-87.251074,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Tegucigalpa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.210265,
     "lbl:longitude":-87.267024,
     "meso:admin_1":"Francisco Morazan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108701727,
-    "wof:lastmodified":1536615509,
+    "wof:lastmodified":1554489378,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

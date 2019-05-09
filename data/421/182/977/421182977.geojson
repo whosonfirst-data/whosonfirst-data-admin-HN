@@ -10,6 +10,12 @@
     "geom:latitude":14.504863,
     "geom:longitude":-88.927634,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Senseti Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.501319,
     "lbl:longitude":-88.926401,
     "meso:admin_1":"Ocotepeque",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182977,
-    "wof:lastmodified":1536616004,
+    "wof:lastmodified":1554488890,
     "wof:name":"Senseti",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

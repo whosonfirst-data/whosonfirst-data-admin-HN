@@ -10,6 +10,12 @@
     "geom:latitude":15.88569,
     "geom:longitude":-84.748317,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Nueva Jerusalen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.885938,
     "lbl:longitude":-84.74832,
     "meso:admin_1":"Gracias a Dios",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108701689,
-    "wof:lastmodified":1536615503,
+    "wof:lastmodified":1554489365,
     "wof:name":"Nueva Jerusalen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:shortcode":"BL",
     "wof:superseded_by":[],

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":29761,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Quimistan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.42876,
     "lbl:longitude":-88.357155,
     "meso:admin_1":"Santa Barbara",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890455339,
-    "wof:lastmodified":1536617389,
+    "wof:lastmodified":1554489064,
     "wof:name":"Quimistan",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

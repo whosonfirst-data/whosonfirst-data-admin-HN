@@ -10,6 +10,12 @@
     "geom:latitude":13.827842,
     "geom:longitude":-87.568722,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Curaren Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.825773,
     "lbl:longitude":-87.575568,
     "meso:admin_1":"Francisco Morazan",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421194945,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1554489019,
     "wof:name":"Curaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.56341,
     "geom:longitude":-88.849007,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Corquin Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.556897,
     "lbl:longitude":-88.866982,
     "meso:admin_1":"Copan",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421194943,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1554489018,
     "wof:name":"Corquin",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

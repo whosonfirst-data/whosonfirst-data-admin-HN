@@ -10,6 +10,12 @@
     "geom:latitude":15.432628,
     "geom:longitude":-87.698623,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Negrito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.355131,
     "lbl:longitude":-87.691671,
     "meso:admin_1":"Yoro",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421201043,
-    "wof:lastmodified":1536616137,
+    "wof:lastmodified":1554489033,
     "wof:name":"El Negrito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

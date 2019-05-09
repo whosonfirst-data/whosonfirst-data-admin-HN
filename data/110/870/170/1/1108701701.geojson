@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007568,
-    "geom:area_square_m":90816912.383936,
+    "geom:area_square_m":90816912.384034,
     "geom:bbox":"-88.5113754272,13.8607664108,-88.4135360718,14.0193090439",
     "geom:latitude":13.942098,
     "geom:longitude":-88.466255,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Antonio Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.946997,
     "lbl:longitude":-88.465515,
     "meso:admin_1":"Intibuca",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1108701701,
-    "wof:lastmodified":1553816488,
+    "wof:lastmodified":1555037354,
     "wof:name":"San Antonio",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

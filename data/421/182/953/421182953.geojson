@@ -10,6 +10,12 @@
     "geom:latitude":15.275028,
     "geom:longitude":-88.23291,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Petoa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.264109,
     "lbl:longitude":-88.279512,
     "meso:admin_1":"Santa Barbara",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182953,
-    "wof:lastmodified":1536616001,
+    "wof:lastmodified":1554488856,
     "wof:name":"Petoa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

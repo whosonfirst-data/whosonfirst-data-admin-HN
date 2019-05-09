@@ -10,6 +10,12 @@
     "geom:latitude":14.282701,
     "geom:longitude":-87.681624,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Cane Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.285534,
     "lbl:longitude":-87.67188,
     "meso:admin_1":"La Paz",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421200541,
-    "wof:lastmodified":1536616134,
+    "wof:lastmodified":1554489029,
     "wof:name":"Cane",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

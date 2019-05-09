@@ -10,6 +10,12 @@
     "geom:latitude":14.913651,
     "geom:longitude":-88.714523,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Jose Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.916837,
     "lbl:longitude":-88.714531,
     "meso:admin_1":"Copan",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421198895,
-    "wof:lastmodified":1536616130,
+    "wof:lastmodified":1554489024,
     "wof:name":"San Jose",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

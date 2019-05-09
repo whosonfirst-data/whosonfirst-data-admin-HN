@@ -10,6 +10,12 @@
     "geom:latitude":15.193106,
     "geom:longitude":-87.812801,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Rita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.193537,
     "lbl:longitude":-87.811285,
     "meso:admin_1":"Yoro",
@@ -149,7 +155,7 @@
         }
     ],
     "wof:id":421182971,
-    "wof:lastmodified":1536616003,
+    "wof:lastmodified":1554488873,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

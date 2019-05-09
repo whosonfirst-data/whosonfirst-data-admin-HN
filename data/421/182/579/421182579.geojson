@@ -10,6 +10,12 @@
     "geom:latitude":14.071347,
     "geom:longitude":-88.686333,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Virtud Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.07299,
     "lbl:longitude":-88.689852,
     "meso:admin_1":"Lempira",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182579,
-    "wof:lastmodified":1536615988,
+    "wof:lastmodified":1554488827,
     "wof:name":"La Virtud",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

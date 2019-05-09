@@ -10,6 +10,12 @@
     "geom:latitude":13.732982,
     "geom:longitude":-87.690376,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Aramecina Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.72517,
     "lbl:longitude":-87.691385,
     "meso:admin_1":"Valle",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182569,
-    "wof:lastmodified":1536615987,
+    "wof:lastmodified":1554488831,
     "wof:name":"Aramecina",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

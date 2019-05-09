@@ -10,6 +10,12 @@
     "geom:latitude":13.639656,
     "geom:longitude":-86.954544,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Vado Ancho Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.637514,
     "lbl:longitude":-86.958517,
     "meso:admin_1":"El Paraiso",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421203425,
-    "wof:lastmodified":1536616156,
+    "wof:lastmodified":1554489040,
     "wof:name":"Vado Ancho",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

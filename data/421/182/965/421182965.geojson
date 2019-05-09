@@ -10,6 +10,12 @@
     "geom:latitude":14.394498,
     "geom:longitude":-88.925051,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Marcos Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.392048,
     "lbl:longitude":-88.923,
     "meso:admin_1":"Ocotepeque",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421182965,
-    "wof:lastmodified":1536616002,
+    "wof:lastmodified":1554488894,
     "wof:name":"San Marcos",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

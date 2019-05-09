@@ -10,6 +10,12 @@
     "geom:latitude":15.667571,
     "geom:longitude":-86.925238,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Porvenir Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.677821,
     "lbl:longitude":-86.907863,
     "meso:admin_1":"Atlantida",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421170695,
-    "wof:lastmodified":1536615918,
+    "wof:lastmodified":1554488760,
     "wof:name":"El Porvenir",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

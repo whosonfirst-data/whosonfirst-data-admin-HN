@@ -10,6 +10,12 @@
     "geom:latitude":15.357389,
     "geom:longitude":-84.353184,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Ahuas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.291431,
     "lbl:longitude":-84.358431,
     "meso:admin_1":"Gracias a Dios",
@@ -134,7 +140,7 @@
         }
     ],
     "wof:id":421193573,
-    "wof:lastmodified":1536616108,
+    "wof:lastmodified":1554489015,
     "wof:name":"Ahuas",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

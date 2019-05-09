@@ -10,6 +10,12 @@
     "geom:latitude":15.05797,
     "geom:longitude":-85.306851,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Dulce nombre de Culmi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.092596,
     "lbl:longitude":-85.399189,
     "meso:admin_1":"Olancho",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421199961,
-    "wof:lastmodified":1536616132,
+    "wof:lastmodified":1554489030,
     "wof:name":"Dulce nombre de Culmi",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

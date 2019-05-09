@@ -10,6 +10,12 @@
     "geom:latitude":14.12775,
     "geom:longitude":-87.095387,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Lucia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.127171,
     "lbl:longitude":-87.095386,
     "meso:admin_1":"Francisco Morazan",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421170947,
-    "wof:lastmodified":1536615922,
+    "wof:lastmodified":1554488759,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

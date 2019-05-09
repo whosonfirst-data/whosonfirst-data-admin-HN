@@ -10,6 +10,12 @@
     "geom:latitude":14.080426,
     "geom:longitude":-87.786058,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Guajiquiro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.069714,
     "lbl:longitude":-87.786042,
     "meso:admin_1":"La Paz",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421188487,
-    "wof:lastmodified":1536616053,
+    "wof:lastmodified":1554488968,
     "wof:name":"Guajiquiro",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

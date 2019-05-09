@@ -10,6 +10,12 @@
     "geom:latitude":16.333778,
     "geom:longitude":-86.520127,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Roatan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":16.333345,
     "lbl:longitude":-86.527456,
     "meso:admin_1":"Islas de la Bahia",
@@ -108,10 +114,11 @@
         }
     ],
     "wof:id":421172431,
-    "wof:lastmodified":1536615940,
+    "wof:lastmodified":1554488773,
     "wof:name":"Roatan",
     "wof:parent_id":85671869,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:population":17425,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-hn",

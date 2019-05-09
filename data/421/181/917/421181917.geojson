@@ -10,6 +10,12 @@
     "geom:latitude":14.684342,
     "geom:longitude":-88.73384,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Talgua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.677041,
     "lbl:longitude":-88.740784,
     "meso:admin_1":"Lempira",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421181917,
-    "wof:lastmodified":1536615978,
+    "wof:lastmodified":1554488809,
     "wof:name":"Talgua",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

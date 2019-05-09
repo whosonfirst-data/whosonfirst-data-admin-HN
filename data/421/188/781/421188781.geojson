@@ -10,6 +10,12 @@
     "geom:latitude":14.642702,
     "geom:longitude":-87.876678,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Siguatepeque Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.634468,
     "lbl:longitude":-87.858216,
     "meso:admin_1":"Comayagua",
@@ -120,7 +126,7 @@
         }
     ],
     "wof:id":421188781,
-    "wof:lastmodified":1536616071,
+    "wof:lastmodified":1554488981,
     "wof:name":"Siguatepeque",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

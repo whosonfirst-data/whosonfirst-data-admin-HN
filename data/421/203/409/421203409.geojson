@@ -10,6 +10,12 @@
     "geom:latitude":13.92389,
     "geom:longitude":-88.372006,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Magdalena Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.937457,
     "lbl:longitude":-88.369814,
     "meso:admin_1":"Intibuca",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421203409,
-    "wof:lastmodified":1536616154,
+    "wof:lastmodified":1554489040,
     "wof:name":"Magdalena",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

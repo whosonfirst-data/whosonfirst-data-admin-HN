@@ -10,6 +10,12 @@
     "geom:latitude":15.643523,
     "geom:longitude":-87.934017,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Choloma Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.646031,
     "lbl:longitude":-87.931616,
     "meso:admin_1":"Cortes",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421185035,
-    "wof:lastmodified":1536616026,
+    "wof:lastmodified":1554488952,
     "wof:name":"Choloma",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.056773,
     "geom:longitude":-88.557725,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Candelaria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.05881,
     "lbl:longitude":-88.556853,
     "meso:admin_1":"Lempira",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182893,
-    "wof:lastmodified":1536615991,
+    "wof:lastmodified":1554488838,
     "wof:name":"Candelaria",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

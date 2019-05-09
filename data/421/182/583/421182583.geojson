@@ -10,6 +10,12 @@
     "geom:latitude":13.657125,
     "geom:longitude":-87.629099,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Langue Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.643252,
     "lbl:longitude":-87.634392,
     "meso:admin_1":"Valle",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182583,
-    "wof:lastmodified":1536615988,
+    "wof:lastmodified":1554488826,
     "wof:name":"Langue",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.69108,
     "geom:longitude":-89.098786,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Fernando Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.693727,
     "lbl:longitude":-89.107705,
     "meso:admin_1":"Ocotepeque",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421182589,
-    "wof:lastmodified":1536615989,
+    "wof:lastmodified":1554488839,
     "wof:name":"San Fernando",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

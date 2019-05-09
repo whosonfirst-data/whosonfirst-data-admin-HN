@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025295,
-    "geom:area_square_m":302226600.606728,
+    "geom:area_square_m":302226600.606886,
     "geom:bbox":"-88.3204193115,14.8145341873,-88.050163269,15.0006189346",
     "geom:latitude":14.922356,
     "geom:longitude":-88.18187,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Barbara Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.918727,
     "lbl:longitude":-88.18186,
     "meso:admin_1":"Santa Barbara",
@@ -205,7 +211,7 @@
         }
     ],
     "wof:id":421170949,
-    "wof:lastmodified":1553816361,
+    "wof:lastmodified":1555037152,
     "wof:name":"Santa Barbara",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

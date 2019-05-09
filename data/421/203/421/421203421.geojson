@@ -10,6 +10,12 @@
     "geom:latitude":14.568312,
     "geom:longitude":-88.120926,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Isidro Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.567078,
     "lbl:longitude":-88.115988,
     "meso:admin_1":"Intibuca",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421203421,
-    "wof:lastmodified":1536616156,
+    "wof:lastmodified":1554489041,
     "wof:name":"San Isidro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

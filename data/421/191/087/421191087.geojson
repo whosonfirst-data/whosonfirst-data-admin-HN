@@ -10,6 +10,12 @@
     "geom:latitude":15.336348,
     "geom:longitude":-87.561267,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Morazan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.306208,
     "lbl:longitude":-87.559684,
     "meso:admin_1":"Yoro",
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":421191087,
-    "wof:lastmodified":1536616086,
+    "wof:lastmodified":1554488997,
     "wof:name":"Morazan",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

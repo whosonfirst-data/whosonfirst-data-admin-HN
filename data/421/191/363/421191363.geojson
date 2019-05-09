@@ -10,6 +10,12 @@
     "geom:latitude":14.313746,
     "geom:longitude":-85.963011,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Patuca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.313295,
     "lbl:longitude":-85.936763,
     "meso:admin_1":"Olancho",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421191363,
-    "wof:lastmodified":1536616092,
+    "wof:lastmodified":1554489003,
     "wof:name":"Patuca",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

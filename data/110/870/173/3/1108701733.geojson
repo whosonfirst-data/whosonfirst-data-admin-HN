@@ -10,6 +10,12 @@
     "geom:latitude":14.008783,
     "geom:longitude":-88.56423,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Virginia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.005133,
     "lbl:longitude":-88.556815,
     "meso:admin_1":"Lempira",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108701733,
-    "wof:lastmodified":1536615510,
+    "wof:lastmodified":1554489374,
     "wof:name":"Virginia",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

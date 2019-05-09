@@ -10,6 +10,12 @@
     "geom:latitude":14.826564,
     "geom:longitude":-88.595124,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Lepaera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.822333,
     "lbl:longitude":-88.587939,
     "meso:admin_1":"Lempira",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421205531,
-    "wof:lastmodified":1536616172,
+    "wof:lastmodified":1554489054,
     "wof:name":"Lepaera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

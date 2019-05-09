@@ -10,6 +10,12 @@
     "geom:latitude":14.839889,
     "geom:longitude":-86.138415,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Francisco de la Paz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.842054,
     "lbl:longitude":-86.141069,
     "meso:admin_1":"Olancho",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421198887,
-    "wof:lastmodified":1536616129,
+    "wof:lastmodified":1554489025,
     "wof:name":"San Francisco de la Paz",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

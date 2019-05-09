@@ -10,6 +10,12 @@
     "geom:latitude":13.799793,
     "geom:longitude":-87.259598,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Sabanagrande Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.807812,
     "lbl:longitude":-87.251762,
     "meso:admin_1":"Francisco Morazan",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":421182957,
-    "wof:lastmodified":1536616001,
+    "wof:lastmodified":1554488866,
     "wof:name":"Sabanagrande",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

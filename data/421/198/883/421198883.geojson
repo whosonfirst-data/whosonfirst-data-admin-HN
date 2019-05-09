@@ -10,6 +10,12 @@
     "geom:latitude":15.619471,
     "geom:longitude":-87.3527,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Harizona Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.614101,
     "lbl:longitude":-87.359289,
     "meso:admin_1":"Atlantida",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421198883,
-    "wof:lastmodified":1536616128,
+    "wof:lastmodified":1554489026,
     "wof:name":"Harizona",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

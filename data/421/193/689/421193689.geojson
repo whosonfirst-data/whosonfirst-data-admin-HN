@@ -10,6 +10,12 @@
     "geom:latitude":13.918788,
     "geom:longitude":-87.779741,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Mercedes de Oriente Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.900626,
     "lbl:longitude":-87.775488,
     "meso:admin_1":"La Paz",
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":421193689,
-    "wof:lastmodified":1536616111,
+    "wof:lastmodified":1554489013,
     "wof:name":"Mercedes de Oriente",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

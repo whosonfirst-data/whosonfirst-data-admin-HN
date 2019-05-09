@@ -10,6 +10,12 @@
     "geom:latitude":13.707326,
     "geom:longitude":-87.500541,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Libertad Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.705886,
     "lbl:longitude":-87.501233,
     "meso:admin_1":"Francisco Morazan",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421194949,
-    "wof:lastmodified":1536616118,
+    "wof:lastmodified":1554489018,
     "wof:name":"La Libertad",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

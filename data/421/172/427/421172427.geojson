@@ -10,6 +10,12 @@
     "geom:latitude":15.678204,
     "geom:longitude":-86.742786,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Ceiba Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.682377,
     "lbl:longitude":-86.740101,
     "meso:admin_1":"Atlantida",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421172427,
-    "wof:lastmodified":1536615939,
+    "wof:lastmodified":1554488768,
     "wof:name":"La Ceiba",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

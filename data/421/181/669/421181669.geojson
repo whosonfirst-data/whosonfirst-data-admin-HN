@@ -10,6 +10,12 @@
     "geom:latitude":14.263776,
     "geom:longitude":-88.248938,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Yamaranguila Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.241639,
     "lbl:longitude":-88.241648,
     "meso:admin_1":"Intibuca",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421181669,
-    "wof:lastmodified":1536615968,
+    "wof:lastmodified":1554488803,
     "wof:name":"Yamaranguila",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

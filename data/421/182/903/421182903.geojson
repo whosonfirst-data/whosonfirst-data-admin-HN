@@ -10,6 +10,12 @@
     "geom:latitude":13.635146,
     "geom:longitude":-86.807255,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Duyure Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.633757,
     "lbl:longitude":-86.79676,
     "meso:admin_1":"Choluteca",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182903,
-    "wof:lastmodified":1536615992,
+    "wof:lastmodified":1554488834,
     "wof:name":"Duyure",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

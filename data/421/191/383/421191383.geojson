@@ -10,6 +10,12 @@
     "geom:latitude":14.762952,
     "geom:longitude":-86.527394,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Silca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.763235,
     "lbl:longitude":-86.520296,
     "meso:admin_1":"Olancho",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421191383,
-    "wof:lastmodified":1536616094,
+    "wof:lastmodified":1554489002,
     "wof:name":"Silca",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":13.819456,
     "geom:longitude":-86.83319,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Oropoli Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.819345,
     "lbl:longitude":-86.818291,
     "meso:admin_1":"El Paraiso",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421182949,
-    "wof:lastmodified":1536616000,
+    "wof:lastmodified":1554488869,
     "wof:name":"Oropoli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

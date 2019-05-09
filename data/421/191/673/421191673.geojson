@@ -10,6 +10,12 @@
     "geom:latitude":15.300004,
     "geom:longitude":-86.956904,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Jocon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.305821,
     "lbl:longitude":-86.954864,
     "meso:admin_1":"Yoro",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421191673,
-    "wof:lastmodified":1536616097,
+    "wof:lastmodified":1554489006,
     "wof:name":"Jocon",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

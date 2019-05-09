@@ -10,6 +10,12 @@
     "geom:latitude":14.557312,
     "geom:longitude":-89.133011,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Dolores Merendon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.542011,
     "lbl:longitude":-89.12517,
     "meso:admin_1":"Ocotepeque",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421182897,
-    "wof:lastmodified":1536615992,
+    "wof:lastmodified":1554488855,
     "wof:name":"Dolores Merendon",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

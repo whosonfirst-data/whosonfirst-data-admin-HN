@@ -10,6 +10,12 @@
     "geom:latitude":14.86208,
     "geom:longitude":-87.300572,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Jose del Potrero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.865591,
     "lbl:longitude":-87.299098,
     "meso:admin_1":"Comayagua",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421198891,
-    "wof:lastmodified":1536616130,
+    "wof:lastmodified":1554489025,
     "wof:name":"San Jose del Potrero",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

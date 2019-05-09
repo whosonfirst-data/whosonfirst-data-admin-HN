@@ -10,6 +10,12 @@
     "geom:latitude":14.797833,
     "geom:longitude":-86.945402,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Orica Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.804268,
     "lbl:longitude":-86.9557,
     "meso:admin_1":"Francisco Morazan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421191361,
-    "wof:lastmodified":1536616092,
+    "wof:lastmodified":1554488999,
     "wof:name":"Orica",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.922705,
     "geom:longitude":-89.136461,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Copan Ruinas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.014553,
     "lbl:longitude":-89.113271,
     "meso:admin_1":"Copan",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421203999,
-    "wof:lastmodified":1536616160,
+    "wof:lastmodified":1554489049,
     "wof:name":"Copan Ruinas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

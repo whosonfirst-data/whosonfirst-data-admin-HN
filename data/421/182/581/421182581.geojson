@@ -10,6 +10,12 @@
     "geom:latitude":14.159242,
     "geom:longitude":-87.63319,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Lamani Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.167166,
     "lbl:longitude":-87.633258,
     "meso:admin_1":"Comayagua",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421182581,
-    "wof:lastmodified":1536615988,
+    "wof:lastmodified":1554488835,
     "wof:name":"Lamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

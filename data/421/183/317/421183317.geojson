@@ -10,6 +10,12 @@
     "geom:latitude":14.145984,
     "geom:longitude":-88.037254,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Marcala Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.194829,
     "lbl:longitude":-88.057936,
     "meso:admin_1":"La Paz",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421183317,
-    "wof:lastmodified":1536616010,
+    "wof:lastmodified":1554488944,
     "wof:name":"Marcala",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

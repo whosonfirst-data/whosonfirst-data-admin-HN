@@ -10,6 +10,12 @@
     "geom:latitude":14.310068,
     "geom:longitude":-87.754247,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Paz Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.321765,
     "lbl:longitude":-87.772737,
     "meso:admin_1":"La Paz",
@@ -152,7 +158,7 @@
         }
     ],
     "wof:id":421188779,
-    "wof:lastmodified":1536616071,
+    "wof:lastmodified":1554488982,
     "wof:name":"La Paz",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

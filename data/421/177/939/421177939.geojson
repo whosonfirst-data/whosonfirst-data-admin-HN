@@ -10,6 +10,12 @@
     "geom:latitude":14.772382,
     "geom:longitude":-88.336231,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Nispero Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.759496,
     "lbl:longitude":-88.340224,
     "meso:admin_1":"Santa Barbara",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421177939,
-    "wof:lastmodified":1536615961,
+    "wof:lastmodified":1554488781,
     "wof:name":"El Nispero",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

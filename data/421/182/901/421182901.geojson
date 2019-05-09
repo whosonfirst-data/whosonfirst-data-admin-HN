@@ -10,6 +10,12 @@
     "geom:latitude":14.907819,
     "geom:longitude":-88.845218,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Dolores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.928582,
     "lbl:longitude":-88.861075,
     "meso:admin_1":"Copan",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421182901,
-    "wof:lastmodified":1536615992,
+    "wof:lastmodified":1554488832,
     "wof:name":"Dolores",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

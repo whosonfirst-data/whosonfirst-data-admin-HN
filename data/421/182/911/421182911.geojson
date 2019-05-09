@@ -10,6 +10,12 @@
     "geom:latitude":14.238592,
     "geom:longitude":-88.45626,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Erandique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.248575,
     "lbl:longitude":-88.477405,
     "meso:admin_1":"Lempira",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421182911,
-    "wof:lastmodified":1536615994,
+    "wof:lastmodified":1554488853,
     "wof:name":"Erandique",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

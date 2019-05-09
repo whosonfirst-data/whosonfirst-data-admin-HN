@@ -10,6 +10,12 @@
     "geom:latitude":15.653754,
     "geom:longitude":-87.028198,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.64982,
     "lbl:longitude":-87.021754,
     "meso:admin_1":"Atlantida",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421203451,
-    "wof:lastmodified":1536616157,
+    "wof:lastmodified":1554489047,
     "wof:name":"San Francisco",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

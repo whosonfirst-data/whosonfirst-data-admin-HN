@@ -10,6 +10,12 @@
     "geom:latitude":15.663049,
     "geom:longitude":-87.235419,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Esparta Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.729588,
     "lbl:longitude":-87.209136,
     "meso:admin_1":"Atlantida",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421170693,
-    "wof:lastmodified":1536615917,
+    "wof:lastmodified":1554488766,
     "wof:name":"Esparta",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

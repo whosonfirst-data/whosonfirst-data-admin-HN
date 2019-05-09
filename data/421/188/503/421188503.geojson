@@ -10,6 +10,12 @@
     "geom:latitude":13.160247,
     "geom:longitude":-87.1349,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Namasigue Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.166637,
     "lbl:longitude":-87.142166,
     "meso:admin_1":"Choluteca",
@@ -93,7 +99,7 @@
         }
     ],
     "wof:id":421188503,
-    "wof:lastmodified":1536616056,
+    "wof:lastmodified":1554488975,
     "wof:name":"Namasigue",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

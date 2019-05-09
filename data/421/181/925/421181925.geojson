@@ -10,6 +10,12 @@
     "geom:latitude":13.751473,
     "geom:longitude":-87.161367,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Nueva Armenia Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.751631,
     "lbl:longitude":-87.155365,
     "meso:admin_1":"Francisco Morazan",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421181925,
-    "wof:lastmodified":1536615979,
+    "wof:lastmodified":1554488808,
     "wof:name":"Nueva Armenia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.248332,
     "geom:longitude":-87.850638,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Tutule Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.247177,
     "lbl:longitude":-87.853197,
     "meso:admin_1":"La Paz",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421188519,
-    "wof:lastmodified":1536616058,
+    "wof:lastmodified":1554488971,
     "wof:name":"San Pedro Tutule",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

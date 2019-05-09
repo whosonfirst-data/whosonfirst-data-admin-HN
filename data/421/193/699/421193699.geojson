@@ -10,6 +10,12 @@
     "geom:latitude":14.700423,
     "geom:longitude":-88.229683,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Francisco de Ojuera Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.70363,
     "lbl:longitude":-88.203618,
     "meso:admin_1":"Santa Barbara",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421193699,
-    "wof:lastmodified":1536616112,
+    "wof:lastmodified":1554489013,
     "wof:name":"San Francisco de Ojuera",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

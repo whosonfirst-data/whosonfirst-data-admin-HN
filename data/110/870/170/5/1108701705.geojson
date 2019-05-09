@@ -10,6 +10,12 @@
     "geom:latitude":14.232229,
     "geom:longitude":-87.955323,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Jose Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.230655,
     "lbl:longitude":-87.959552,
     "meso:admin_1":"La Paz",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1108701705,
-    "wof:lastmodified":1536615504,
+    "wof:lastmodified":1554489370,
     "wof:name":"San Jose",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

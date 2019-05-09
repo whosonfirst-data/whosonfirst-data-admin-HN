@@ -10,6 +10,12 @@
     "geom:latitude":14.34459,
     "geom:longitude":-88.734362,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Sebastian Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.344396,
     "lbl:longitude":-88.734348,
     "meso:admin_1":"Lempira",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421175543,
-    "wof:lastmodified":1536615953,
+    "wof:lastmodified":1554488778,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

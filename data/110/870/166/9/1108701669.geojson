@@ -10,6 +10,12 @@
     "geom:latitude":14.708178,
     "geom:longitude":-87.221999,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Porvenir Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.742166,
     "lbl:longitude":-87.20001,
     "meso:admin_1":"Francisco Morazan",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1108701669,
-    "wof:lastmodified":1536615499,
+    "wof:lastmodified":1554489373,
     "wof:name":"El Porvenir",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

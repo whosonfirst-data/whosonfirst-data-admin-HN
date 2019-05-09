@@ -10,6 +10,12 @@
     "geom:latitude":14.851814,
     "geom:longitude":-88.337316,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Arada Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.848323,
     "lbl:longitude":-88.350674,
     "meso:admin_1":"Santa Barbara",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421182565,
-    "wof:lastmodified":1536615987,
+    "wof:lastmodified":1554488826,
     "wof:name":"Arada",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

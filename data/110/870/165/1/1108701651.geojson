@@ -10,6 +10,12 @@
     "geom:latitude":15.893467,
     "geom:longitude":-84.76976,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Belen Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.890284,
     "lbl:longitude":-84.761925,
     "meso:admin_1":"Gracias a Dios",
@@ -50,10 +56,11 @@
         }
     ],
     "wof:id":1108701651,
-    "wof:lastmodified":1536615496,
+    "wof:lastmodified":1554489357,
     "wof:name":"Belen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:shortcode":"BL",
     "wof:superseded_by":[],

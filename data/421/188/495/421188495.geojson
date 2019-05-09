@@ -10,6 +10,12 @@
     "geom:latitude":14.495258,
     "geom:longitude":-89.033425,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Labor Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.49699,
     "lbl:longitude":-89.03454,
     "meso:admin_1":"Ocotepeque",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188495,
-    "wof:lastmodified":1536616055,
+    "wof:lastmodified":1554488968,
     "wof:name":"La Labor",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

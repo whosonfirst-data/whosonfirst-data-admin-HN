@@ -10,6 +10,12 @@
     "geom:latitude":13.444603,
     "geom:longitude":-87.713129,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Alianza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.401427,
     "lbl:longitude":-87.729926,
     "meso:admin_1":"Valle",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421191085,
-    "wof:lastmodified":1536616085,
+    "wof:lastmodified":1554489005,
     "wof:name":"Alianza",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

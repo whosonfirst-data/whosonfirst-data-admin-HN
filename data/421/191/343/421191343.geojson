@@ -10,6 +10,12 @@
     "geom:latitude":14.185418,
     "geom:longitude":-87.958302,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Chinacla Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.184972,
     "lbl:longitude":-87.958354,
     "meso:admin_1":"La Paz",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421191343,
-    "wof:lastmodified":1536616089,
+    "wof:lastmodified":1554488998,
     "wof:name":"Chinacla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

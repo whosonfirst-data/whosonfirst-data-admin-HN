@@ -10,6 +10,12 @@
     "geom:latitude":13.553689,
     "geom:longitude":-87.059971,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Liure Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.551652,
     "lbl:longitude":-87.064569,
     "meso:admin_1":"El Paraiso",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188505,
-    "wof:lastmodified":1536616056,
+    "wof:lastmodified":1554488971,
     "wof:name":"Liure",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.048234,
     "geom:longitude":-87.495496,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Lepaterique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.046418,
     "lbl:longitude":-87.49546,
     "meso:admin_1":"Francisco Morazan",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421170707,
-    "wof:lastmodified":1536615921,
+    "wof:lastmodified":1554488759,
     "wof:name":"Lepaterique",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

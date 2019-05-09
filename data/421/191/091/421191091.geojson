@@ -10,6 +10,12 @@
     "geom:latitude":15.085713,
     "geom:longitude":-87.567261,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Victoria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.104993,
     "lbl:longitude":-87.640561,
     "meso:admin_1":"Yoro",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421191091,
-    "wof:lastmodified":1536616087,
+    "wof:lastmodified":1554489002,
     "wof:name":"Victoria",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

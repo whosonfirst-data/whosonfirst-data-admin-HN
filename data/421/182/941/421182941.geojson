@@ -10,6 +10,12 @@
     "geom:latitude":14.048719,
     "geom:longitude":-88.62152,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Mapulaca Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.046242,
     "lbl:longitude":-88.622059,
     "meso:admin_1":"Lempira",
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421182941,
-    "wof:lastmodified":1536615999,
+    "wof:lastmodified":1554488862,
     "wof:name":"Mapulaca",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

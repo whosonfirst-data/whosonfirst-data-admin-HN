@@ -10,6 +10,12 @@
     "geom:latitude":13.669273,
     "geom:longitude":-87.038643,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Texigua Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.670496,
     "lbl:longitude":-87.040195,
     "meso:admin_1":"El Paraiso",
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":421182983,
-    "wof:lastmodified":1536616005,
+    "wof:lastmodified":1554488895,
     "wof:name":"Texigua",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

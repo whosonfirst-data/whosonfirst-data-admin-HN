@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017549,
-    "geom:area_square_m":208748065.709268,
+    "geom:area_square_m":208748065.709122,
     "geom:bbox":"-86.2084732056,15.7497692108,-85.9929656982,15.9052305222",
     "geom:latitude":15.846698,
     "geom:longitude":-86.115607,
@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":3679,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Fe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.846339,
     "lbl:longitude":-86.131832,
     "meso:admin_1":"Colon",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":890420205,
-    "wof:lastmodified":1553816392,
+    "wof:lastmodified":1555037041,
     "wof:name":"Santa Fe",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

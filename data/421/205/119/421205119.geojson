@@ -10,6 +10,12 @@
     "geom:latitude":13.927708,
     "geom:longitude":-87.340993,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Ojojona Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.931299,
     "lbl:longitude":-87.340936,
     "meso:admin_1":"Francisco Morazan",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421205119,
-    "wof:lastmodified":1536616171,
+    "wof:lastmodified":1554489053,
     "wof:name":"Ojojona",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

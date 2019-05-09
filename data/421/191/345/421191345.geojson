@@ -10,6 +10,12 @@
     "geom:latitude":15.200606,
     "geom:longitude":-88.143777,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Concepcion del Norte Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.203468,
     "lbl:longitude":-88.148747,
     "meso:admin_1":"Santa Barbara",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421191345,
-    "wof:lastmodified":1536616089,
+    "wof:lastmodified":1554488995,
     "wof:name":"Concepcion del Norte",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

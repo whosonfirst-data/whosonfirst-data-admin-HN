@@ -10,6 +10,12 @@
     "geom:latitude":14.581188,
     "geom:longitude":-85.554974,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Catacamas Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.554063,
     "lbl:longitude":-85.545706,
     "meso:admin_1":"Olancho",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421170691,
-    "wof:lastmodified":1536615915,
+    "wof:lastmodified":1554488770,
     "wof:name":"Catacamas",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

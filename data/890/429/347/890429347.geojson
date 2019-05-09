@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":3841,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Encarnacion Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.666309,
     "lbl:longitude":-89.043488,
     "meso:admin_1":"Ocotepeque",
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890429347,
-    "wof:lastmodified":1536617382,
+    "wof:lastmodified":1554489061,
     "wof:name":"La Encarnacion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

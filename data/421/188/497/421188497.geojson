@@ -10,6 +10,12 @@
     "geom:latitude":14.250198,
     "geom:longitude":-88.13339,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "La Esperanza Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.255672,
     "lbl:longitude":-88.119905,
     "meso:admin_1":"Intibuca",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421188497,
-    "wof:lastmodified":1536616055,
+    "wof:lastmodified":1554488970,
     "wof:name":"La Esperanza",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

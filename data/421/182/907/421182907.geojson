@@ -10,6 +10,12 @@
     "geom:latitude":13.083814,
     "geom:longitude":-87.025836,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "El Triunfo Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.086972,
     "lbl:longitude":-87.017047,
     "meso:admin_1":"Choluteca",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182907,
-    "wof:lastmodified":1536615993,
+    "wof:lastmodified":1554488857,
     "wof:name":"El Triunfo",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.131925,
     "geom:longitude":-88.369368,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Francisco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.133261,
     "lbl:longitude":-88.373447,
     "meso:admin_1":"Lempira",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421203419,
-    "wof:lastmodified":1536616155,
+    "wof:lastmodified":1554489041,
     "wof:name":"San Francisco",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

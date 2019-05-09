@@ -10,6 +10,12 @@
     "geom:latitude":14.959911,
     "geom:longitude":-86.811608,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Yocon Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.954148,
     "lbl:longitude":-86.795246,
     "meso:admin_1":"Olancho",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421191393,
-    "wof:lastmodified":1536616095,
+    "wof:lastmodified":1554489000,
     "wof:name":"Yocon",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

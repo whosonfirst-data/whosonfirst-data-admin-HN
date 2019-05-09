@@ -10,6 +10,12 @@
     "geom:latitude":14.606193,
     "geom:longitude":-88.618722,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Gracias Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.594216,
     "lbl:longitude":-88.609084,
     "meso:admin_1":"Lempira",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":421188757,
-    "wof:lastmodified":1536616065,
+    "wof:lastmodified":1554488982,
     "wof:name":"Gracias",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":14.09645,
     "geom:longitude":-86.376722,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Danli Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.080979,
     "lbl:longitude":-86.372084,
     "meso:admin_1":"El Paraiso",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":421203561,
-    "wof:lastmodified":1536616158,
+    "wof:lastmodified":1554489049,
     "wof:name":"Danli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

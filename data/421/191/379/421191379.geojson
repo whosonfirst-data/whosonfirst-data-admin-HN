@@ -10,6 +10,12 @@
     "geom:latitude":14.271608,
     "geom:longitude":-87.920932,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Santa Maria Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.278072,
     "lbl:longitude":-87.915541,
     "meso:admin_1":"La Paz",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":421191379,
-    "wof:lastmodified":1536616093,
+    "wof:lastmodified":1554489001,
     "wof:name":"Santa Maria",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

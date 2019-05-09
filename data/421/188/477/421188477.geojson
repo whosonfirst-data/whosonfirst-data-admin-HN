@@ -10,6 +10,12 @@
     "geom:latitude":15.074293,
     "geom:longitude":-87.304783,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Yorito Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.07408,
     "lbl:longitude":-87.294415,
     "meso:admin_1":"Yoro",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188477,
-    "wof:lastmodified":1536616051,
+    "wof:lastmodified":1554488968,
     "wof:name":"Yorito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

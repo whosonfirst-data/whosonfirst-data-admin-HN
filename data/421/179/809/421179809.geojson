@@ -10,6 +10,12 @@
     "geom:latitude":14.741064,
     "geom:longitude":-87.95481,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Taulabe Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.701609,
     "lbl:longitude":-87.948527,
     "meso:admin_1":"Comayagua",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421179809,
-    "wof:lastmodified":1536615965,
+    "wof:lastmodified":1554488786,
     "wof:name":"Taulabe",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

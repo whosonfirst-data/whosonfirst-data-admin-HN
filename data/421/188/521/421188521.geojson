@@ -10,6 +10,12 @@
     "geom:latitude":14.746667,
     "geom:longitude":-88.09274,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Pedro Zacapa Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.765473,
     "lbl:longitude":-88.098978,
     "meso:admin_1":"Santa Barbara",
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421188521,
-    "wof:lastmodified":1536616058,
+    "wof:lastmodified":1554488969,
     "wof:name":"San Pedro Zacapa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

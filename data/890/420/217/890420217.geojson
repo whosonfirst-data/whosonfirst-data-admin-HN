@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":2771,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Juan Guarita Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.157197,
     "lbl:longitude":-88.772649,
     "meso:admin_1":"Lempira",
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":890420217,
-    "wof:lastmodified":1536617373,
+    "wof:lastmodified":1554489058,
     "wof:name":"San Juan Guarita",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

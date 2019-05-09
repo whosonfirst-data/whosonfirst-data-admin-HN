@@ -10,6 +10,12 @@
     "geom:latitude":13.786312,
     "geom:longitude":-87.470747,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Alubaren Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.78621,
     "lbl:longitude":-87.471591,
     "meso:admin_1":"Francisco Morazan",
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":421193683,
-    "wof:lastmodified":1536616110,
+    "wof:lastmodified":1554489011,
     "wof:name":"Alubaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

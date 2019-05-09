@@ -10,6 +10,12 @@
     "geom:latitude":14.68079,
     "geom:longitude":-88.658755,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Las Flores Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.678861,
     "lbl:longitude":-88.650785,
     "meso:admin_1":"Lempira",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182587,
-    "wof:lastmodified":1536615988,
+    "wof:lastmodified":1554488829,
     "wof:name":"Las Flores",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

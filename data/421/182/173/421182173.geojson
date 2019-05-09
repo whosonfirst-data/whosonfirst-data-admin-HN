@@ -10,6 +10,12 @@
     "geom:latitude":15.316163,
     "geom:longitude":-85.719685,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "San Esteban Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":15.252496,
     "lbl:longitude":-85.740047,
     "meso:admin_1":"Olancho",
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421182173,
-    "wof:lastmodified":1536615980,
+    "wof:lastmodified":1554488817,
     "wof:name":"San Esteban",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

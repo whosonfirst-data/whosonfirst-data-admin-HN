@@ -10,6 +10,12 @@
     "geom:latitude":13.983372,
     "geom:longitude":-87.643033,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Aguanqueterique Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":13.984157,
     "lbl:longitude":-87.647425,
     "meso:admin_1":"La Paz",
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421182887,
-    "wof:lastmodified":1536615990,
+    "wof:lastmodified":1554488847,
     "wof:name":"Aguanqueterique",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

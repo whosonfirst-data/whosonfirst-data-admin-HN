@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019715,
-    "geom:area_square_m":235504805.666166,
+    "geom:area_square_m":235504805.666496,
     "geom:bbox":"-87.3906860352,14.8755750656,-87.184211731,15.0448265076",
     "geom:latitude":14.972486,
     "geom:longitude":-87.278599,
     "iso:country":"HN",
+    "label:eng_x_preferred_longname":[
+        "Sulaco Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":14.969714,
     "lbl:longitude":-87.280153,
     "meso:admin_1":"Yoro",
@@ -114,7 +120,7 @@
         }
     ],
     "wof:id":421183293,
-    "wof:lastmodified":1553816372,
+    "wof:lastmodified":1555037118,
     "wof:name":"Sulaco",
     "wof:parent_id":85671879,
     "wof:placetype":"county",
