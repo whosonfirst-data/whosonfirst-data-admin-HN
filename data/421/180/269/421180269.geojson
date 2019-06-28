@@ -16,16 +16,10 @@
     "name:bel_x_preferred":[
         "\u0413\u0430\u0430\u0441\u043a\u0430\u0440\u0430\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u963f\u65af\u79d1\u862d"
-    ],
-    "name:dut_x_preferred":[
-        "Goascor\u00e1n"
-    ],
     "name:eng_x_preferred":[
         "Goascor\u00e1n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Goascor\u00e1n"
     ],
     "name:ita_x_preferred":[
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421180269,
-    "wof:lastmodified":1514445711,
+    "wof:lastmodified":1561749450,
     "wof:name":"Goascor\u00e1n",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

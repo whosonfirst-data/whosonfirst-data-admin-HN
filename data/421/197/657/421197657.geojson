@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0441 \u0412\u0435\u0433\u0430\u0441"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u8c9d\u52a0\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "Las Vegas"
-    ],
     "name:eng_x_preferred":[
         "Las Vegas"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Las Vegas"
     ],
     "name:ita_x_preferred":[
@@ -104,7 +98,7 @@
         }
     ],
     "wof:id":421197657,
-    "wof:lastmodified":1527716402,
+    "wof:lastmodified":1561749459,
     "wof:name":"Las Vegas",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

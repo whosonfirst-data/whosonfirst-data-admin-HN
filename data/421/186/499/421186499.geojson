@@ -17,14 +17,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u7279\u9b6f\u5e0c\u7565"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Trujillo"
     ],
-    "name:dut_x_preferred":[
+    "name:cym_x_preferred":[
         "Trujillo"
+    ],
+    "name:deu_x_preferred":[
+        "Trujillo"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03bf\u03c5\u03c7\u03af\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Trujillo"
@@ -35,17 +38,14 @@
     "name:fas_x_preferred":[
         "\u062a\u0631\u0648\u062e\u06cc\u0648\u060c \u06a9\u0648\u0644\u0648\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0631\u0648\u0698\u06cc\u0644\u0648\u060c \u06a9\u0644\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Trujillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Trujillo"
-    ],
-    "name:ger_x_preferred":[
-        "Trujillo"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c1\u03bf\u03c5\u03c7\u03af\u03b3\u03b9\u03bf"
     ],
     "name:hun_x_preferred":[
         "Trujillo"
@@ -65,11 +65,11 @@
     "name:nan_x_preferred":[
         "Trujillo"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Trujillo"
     ],
-    "name:per_x_preferred":[
-        "\u062a\u0631\u0648\u0698\u06cc\u0644\u0648\u060c \u06a9\u0644\u0648\u0646"
+    "name:nob_x_preferred":[
+        "Trujillo"
     ],
     "name:por_x_preferred":[
         "Trujillo"
@@ -90,9 +90,6 @@
         "\u062a\u0631\u0648\u062e\u06cc\u0648"
     ],
     "name:war_x_preferred":[
-        "Trujillo"
-    ],
-    "name:wel_x_preferred":[
         "Trujillo"
     ],
     "name:zho_x_preferred":[
@@ -239,7 +236,7 @@
         }
     ],
     "wof:id":421186499,
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1561749454,
     "wof:name":"Trujillo",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

@@ -16,22 +16,13 @@
     "name:bre_x_preferred":[
         "Las Lajas"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u65af\u62c9\u54c8\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Las Lajas"
-    ],
-    "name:dut_x_preferred":[
         "Las Lajas"
     ],
     "name:eng_x_preferred":[
         "Las Lajas"
     ],
     "name:fra_x_preferred":[
-        "Las Lajas"
-    ],
-    "name:fre_x_preferred":[
         "Las Lajas"
     ],
     "name:hbs_x_preferred":[
@@ -57,6 +48,9 @@
     ],
     "name:swe_x_preferred":[
         "Las Lajas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u62c9\u54c8\u65af"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421179331,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561749469,
     "wof:name":"Las Lajas",
     "wof:parent_id":421181805,
     "wof:placetype":"locality",

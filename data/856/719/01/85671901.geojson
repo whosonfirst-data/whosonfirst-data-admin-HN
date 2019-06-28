@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.212259,
-    "geom:area_square_m":2545491134.445621,
+    "geom:area_square_m":2545491134.44794,
     "geom:bbox":"-88.2365112305,13.8302669525,-87.591293335,14.4268474579",
     "geom:latitude":14.104912,
     "geom:longitude":-87.881358,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0644\u0627 \u0628\u0627\u0632"
     ],
-    "name:baq_x_preferred":[
-        "La Paz"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09aa\u09be\u099c \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,14 +37,14 @@
     "name:cat_x_preferred":[
         "Departament de La Paz"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5df4\u65af\u7701"
-    ],
     "name:dan_x_preferred":[
         "La Paz Department"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "La Paz"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u03a0\u03b1\u03b6"
     ],
     "name:eng_x_preferred":[
         "La Paz"
@@ -55,23 +52,20 @@
     "name:epo_x_preferred":[
         "La Paz"
     ],
+    "name:eus_x_preferred":[
+        "La Paz"
+    ],
+    "name:fas_x_preferred":[
+        "\ufe8d\ufeb3\ufe98\ufe8e\ufee5 \ufefb\ufb58\ufe8e\ufeaf"
+    ],
     "name:fin_x_preferred":[
         "La Pazin departementti"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement de La Paz"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "La Paz"
     ],
     "name:glg_x_preferred":[
         "Departamento de La Paz"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u03a0\u03b1\u03b6"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0aaa\u0abe\u0a9d \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -97,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0cb2\u0cbe \u0caa\u0cbe\u0c9c\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d0-\u10de\u10d0\u10e1\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub77c\ud30c\uc2a4 \uc8fc"
     ],
@@ -109,7 +106,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u092a\u093e\u091d \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "La Paz Department"
     ],
     "name:nah_x_preferred":[
@@ -118,11 +115,11 @@
     "name:nan_x_preferred":[
         "La Paz Ko\u0101n"
     ],
+    "name:nld_x_preferred":[
+        "La Paz"
+    ],
     "name:nob_x_preferred":[
         "La Paz department"
-    ],
-    "name:per_x_preferred":[
-        "\ufe8d\ufeb3\ufe98\ufe8e\ufee5 \ufefb\ufb58\ufe8e\ufeaf"
     ],
     "name:pol_x_preferred":[
         "La Paz"
@@ -174,6 +171,9 @@
     ],
     "name:war_x_preferred":[
         "La Paz"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5df4\u65af\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HND",
@@ -298,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814793,
+    "wof:lastmodified":1561749370,
     "wof:name":"La Paz",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

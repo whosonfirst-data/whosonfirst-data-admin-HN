@@ -16,19 +16,10 @@
     "name:cat_x_preferred":[
         "Puerto Castilla"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u65af\u8482\u5229\u4e9e\u6e2f"
-    ],
-    "name:dut_x_preferred":[
-        "Puerto Castilla"
-    ],
     "name:eng_x_preferred":[
         "Puerto Castilla"
     ],
     "name:fra_x_preferred":[
-        "Puerto Castilla"
-    ],
-    "name:fre_x_preferred":[
         "Puerto Castilla"
     ],
     "name:heb_x_preferred":[
@@ -102,7 +93,7 @@
         }
     ],
     "wof:id":421197647,
-    "wof:lastmodified":1553816385,
+    "wof:lastmodified":1561749459,
     "wof:name":"Puerto Castilla",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

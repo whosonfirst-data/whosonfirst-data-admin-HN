@@ -13,19 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u4e9e\u99ac\u862d\u5409\u62c9"
-    ],
-    "name:dut_x_preferred":[
-        "Yamaranguila"
-    ],
     "name:eng_x_preferred":[
         "Yamaranguila"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Yamaranguila"
     ],
     "name:ita_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:nld_x_preferred":[
         "Yamaranguila"
     ],
     "name:por_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0627\u0645\u0627\u0631\u0627\u0646\u06af\u06cc\u0644\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e9e\u99ac\u862d\u5409\u62c9"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421187269,
-    "wof:lastmodified":1514447229,
+    "wof:lastmodified":1561749450,
     "wof:name":"Yamaranguila",
     "wof:parent_id":421181669,
     "wof:placetype":"locality",

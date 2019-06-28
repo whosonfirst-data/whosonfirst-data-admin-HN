@@ -16,16 +16,10 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f\u043d\u0443\u0435\u0432\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6bd4\u4e9e\u52aa\u57c3\u74e6"
-    ],
-    "name:dut_x_preferred":[
-        "Villanueva"
-    ],
     "name:eng_x_preferred":[
         "Villanueva"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Villanueva"
     ],
     "name:ita_x_preferred":[
@@ -105,7 +99,7 @@
         }
     ],
     "wof:id":421176243,
-    "wof:lastmodified":1553816366,
+    "wof:lastmodified":1561749479,
     "wof:name":"Villanueva",
     "wof:parent_id":421184465,
     "wof:placetype":"locality",

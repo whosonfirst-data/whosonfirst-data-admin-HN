@@ -22,14 +22,14 @@
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u0438\u0442\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u862d\u5947\u6258"
-    ],
     "name:dan_x_preferred":[
         "Olanchito"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Olanchito"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bb\u03b1\u03bd\u03c4\u03c3\u03af\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Olanchito"
@@ -37,14 +37,8 @@
     "name:fin_x_preferred":[
         "Olanchito"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Olanchito"
-    ],
-    "name:ger_x_preferred":[
-        "Olanchito"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bb\u03b1\u03bd\u03c4\u03c3\u03af\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab2\u0a82\u0a9a\u0abf\u0a9f\u0acb"
@@ -76,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u0911\u0932\u093f\u0902\u0936\u093f\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Olanchito"
+    ],
+    "name:nld_x_preferred":[
         "Olanchito"
     ],
     "name:nob_x_preferred":[
@@ -123,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Olanchito"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u862d\u5947\u6258"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -174,7 +174,7 @@
         }
     ],
     "wof:id":421202841,
-    "wof:lastmodified":1553816389,
+    "wof:lastmodified":1561749449,
     "wof:name":"Olanchito",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

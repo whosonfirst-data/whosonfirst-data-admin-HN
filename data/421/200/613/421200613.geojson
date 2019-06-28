@@ -13,13 +13,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5967\u83ab\u963f"
-    ],
     "name:deu_x_preferred":[
-        "Omoa"
-    ],
-    "name:dut_x_preferred":[
         "Omoa"
     ],
     "name:eng_x_preferred":[
@@ -28,10 +22,7 @@
     "name:fin_x_preferred":[
         "Omoa"
     ],
-    "name:fre_x_preferred":[
-        "Omoa"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Omoa"
     ],
     "name:ita_x_preferred":[
@@ -108,7 +99,7 @@
         }
     ],
     "wof:id":421200613,
-    "wof:lastmodified":1553816387,
+    "wof:lastmodified":1561749460,
     "wof:name":"Omoa",
     "wof:parent_id":421172429,
     "wof:placetype":"locality",

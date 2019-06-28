@@ -13,22 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u585e\u5fb7\u7f85\u65af"
-    ],
     "name:deu_x_preferred":[
-        "Cedros"
-    ],
-    "name:dut_x_preferred":[
         "Cedros"
     ],
     "name:eng_x_preferred":[
         "Cedros"
     ],
     "name:fra_x_preferred":[
-        "Cedros"
-    ],
-    "name:fre_x_preferred":[
         "Cedros"
     ],
     "name:ita_x_preferred":[
@@ -54,6 +45,9 @@
     ],
     "name:unk_x_variant":[
         "Cerros"
+    ],
+    "name:zho_x_preferred":[
+        "\u585e\u5fb7\u7f85\u65af"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -102,7 +96,7 @@
         }
     ],
     "wof:id":421180127,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561749450,
     "wof:name":"Cedros",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

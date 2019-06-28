@@ -21,19 +21,13 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0627\u0648\u0645\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u8003\u6885"
-    ],
-    "name:dut_x_preferred":[
-        "Nacaome"
-    ],
     "name:eng_x_preferred":[
         "Nacaome"
     ],
     "name:fin_x_preferred":[
         "Nacaome"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nacaome"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +46,9 @@
         "\u0928\u093e\u0915\u093e\u0913\u092e\u0947"
     ],
     "name:nan_x_preferred":[
+        "Nacaome"
+    ],
+    "name:nld_x_preferred":[
         "Nacaome"
     ],
     "name:por_x_preferred":[
@@ -74,6 +71,9 @@
     ],
     "name:war_x_preferred":[
         "Nacaome"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u8003\u6885"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Honduras",
@@ -208,7 +208,7 @@
         }
     ],
     "wof:id":1141906363,
-    "wof:lastmodified":1534379333,
+    "wof:lastmodified":1561749508,
     "wof:name":"Nacaome",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

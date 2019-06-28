@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u5b89\u6771\u5c3c\u5967\u5fb7\u79d1\u723e\u7279\u65af"
-    ],
-    "name:dut_x_preferred":[
-        "San Antonio de Cort\u00e9s"
-    ],
     "name:eng_x_preferred":[
         "San Antonio de Cort\u00e9s"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Antonio de Cort\u00e9s"
     ],
     "name:ita_x_preferred":[
@@ -93,7 +87,7 @@
         }
     ],
     "wof:id":421180143,
-    "wof:lastmodified":1514446869,
+    "wof:lastmodified":1561749450,
     "wof:name":"San Antonio de Cort\u00e9s",
     "wof:parent_id":421188515,
     "wof:placetype":"locality",

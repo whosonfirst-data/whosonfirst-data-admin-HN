@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5317\u8056\u5b89\u6771\u5c3c\u5967"
-    ],
-    "name:dut_x_preferred":[
-        "San Antonio del Norte"
-    ],
     "name:eng_x_preferred":[
         "San Antonio del Norte"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "San Antonio del Norte"
     ],
     "name:ita_x_preferred":[
@@ -30,6 +24,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30fc\u30cb\u30aa\u30fb\u30c7\u30eb\u30fb\u30ce\u30eb\u30c6"
+    ],
+    "name:nld_x_preferred":[
+        "San Antonio del Norte"
     ],
     "name:por_x_preferred":[
         "San Antonio del Norte"
@@ -42,6 +39,9 @@
     ],
     "name:unk_x_variant":[
         "San Antonio Norte"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u8056\u5b89\u6771\u5c3c\u5967"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":421179289,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561749469,
     "wof:name":"San Antonio del Norte",
     "wof:parent_id":421203415,
     "wof:placetype":"locality",

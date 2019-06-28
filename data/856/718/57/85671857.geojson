@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.697785,
-    "geom:area_square_m":8308585752.502494,
+    "geom:area_square_m":8308585752.500744,
     "geom:bbox":"-86.458770752,15.0710334778,-84.9995651245,16.0286369324",
     "geom:latitude":15.644101,
     "geom:longitude":-85.608482,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0643\u0648\u0644\u0648\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Col\u00f3n"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b2\u09a8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Departament de Col\u00f3n"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u9686\u7701"
-    ],
     "name:dan_x_preferred":[
         "Col\u00f3n Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Col\u00f3n"
     ],
-    "name:dut_x_preferred":[
-        "Col\u00f3n"
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03bb\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Col\u00f3n"
@@ -69,20 +63,11 @@
     "name:fra_x_preferred":[
         "D\u00e9partement de Col\u00f3n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "d\u00e9partement de Col\u00f3n"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Departamento Col\u00f3n"
     ],
     "name:glg_x_preferred":[
         "Departamento de Col\u00f3n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03bb\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0acb\u0aa8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -105,6 +90,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb2\u0cca\u0ca8\u0ccd \u0ca1\u0cbf\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd\u0cae\u0cc6\u0c82\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10da\u10dd\u10dc\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucf5c\ub860 \uc8fc"
     ],
@@ -117,7 +105,7 @@
     "name:mar_x_preferred":[
         "\u0915\u0949\u0932\u094b\u0928 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Colon Department"
     ],
     "name:nah_x_preferred":[
@@ -126,11 +114,11 @@
     "name:nan_x_preferred":[
         "Col\u00f3n Ko\u0101n"
     ],
+    "name:nld_x_preferred":[
+        "Col\u00f3n"
+    ],
     "name:nob_x_preferred":[
         "Colon department"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u0644\u0648\u0646"
     ],
     "name:pol_x_preferred":[
         "Col\u00f3n"
@@ -141,7 +129,7 @@
     "name:que_x_preferred":[
         "Col\u00f3n"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Col\u00f3n"
     ],
     "name:rus_x_preferred":[
@@ -186,6 +174,9 @@
     ],
     "name:war_x_preferred":[
         "Col\u00f3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u9686\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HND",
@@ -310,7 +301,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814775,
+    "wof:lastmodified":1561749378,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
