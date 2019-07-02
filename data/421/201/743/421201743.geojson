@@ -13,16 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u932b\u52aa\u963f\u5e15"
-    ],
-    "name:dut_x_preferred":[
-        "Sinuapa"
-    ],
     "name:eng_x_preferred":[
         "Sinuapa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sinuapa"
     ],
     "name:ita_x_preferred":[
@@ -90,7 +84,7 @@
         }
     ],
     "wof:id":421201743,
-    "wof:lastmodified":1514446922,
+    "wof:lastmodified":1561749461,
     "wof:name":"Sinuapa",
     "wof:parent_id":421169621,
     "wof:placetype":"locality",

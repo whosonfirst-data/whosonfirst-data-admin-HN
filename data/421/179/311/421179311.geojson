@@ -13,19 +13,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u7d0d\u99ac\u897f\u683c"
-    ],
-    "name:dut_x_preferred":[
-        "Namasig\u00fce"
-    ],
     "name:eng_x_preferred":[
         "Namasigue"
     ],
     "name:fra_x_preferred":[
-        "Namasig\u00fce"
-    ],
-    "name:fre_x_preferred":[
         "Namasig\u00fce"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +90,7 @@
         }
     ],
     "wof:id":421179311,
-    "wof:lastmodified":1514446636,
+    "wof:lastmodified":1561749471,
     "wof:name":"Namasig\u00fce",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

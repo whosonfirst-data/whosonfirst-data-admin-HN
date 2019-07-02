@@ -37,14 +37,11 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09be\u09ae\u09c7\u09a8\u09cd\u09a4\u09c1"
     ],
-    "name:chi_x_preferred":[
-        "\u574e\u5e15\u9580\u6258"
-    ],
     "name:dan_x_preferred":[
         "Campamento"
     ],
-    "name:dut_x_preferred":[
-        "Campamento"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03b1\u03bc\u03ad\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Campamento"
@@ -52,11 +49,8 @@
     "name:fin_x_preferred":[
         "Campamento"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Campamento"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03c0\u03b1\u03bc\u03ad\u03bd\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aae\u0acd\u0aaa\u0ac7\u0aae\u0ac7\u0aa8\u0acd\u0a9f\u0acb"
@@ -88,10 +82,13 @@
     "name:mar_x_preferred":[
         "\u0915\u0945\u0902\u092a\u0945\u092e\u0947\u0928\u094d\u091f\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Campamento"
     ],
     "name:nan_x_preferred":[
+        "Campamento"
+    ],
+    "name:nld_x_preferred":[
         "Campamento"
     ],
     "name:nob_x_preferred":[
@@ -135,6 +132,9 @@
     ],
     "name:vie_x_preferred":[
         "Campamento"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5e15\u9580\u6258"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -195,7 +195,7 @@
         }
     ],
     "wof:id":421191669,
-    "wof:lastmodified":1555037078,
+    "wof:lastmodified":1561749457,
     "wof:name":"Campamento",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

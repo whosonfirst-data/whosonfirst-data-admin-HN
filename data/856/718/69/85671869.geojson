@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u062c\u0632\u0631 \u0627\u0644\u062e\u0644\u064a\u062c"
     ],
-    "name:baq_x_preferred":[
-        "Islas de la Bah\u00eda"
-    ],
     "name:bel_x_preferred":[
         "\u0410\u0441\u0442\u0440\u0430\u0432\u044b \u0406\u0441\u043b\u0430\u0441-\u0434\u044d-\u043b\u0430-\u0411\u0430\u0456\u044f"
     ],
@@ -45,17 +42,17 @@
     "name:cat_x_preferred":[
         "Illes de la Badia"
     ],
-    "name:chi_x_preferred":[
-        "\u6d77\u7063\u7fa4\u5cf6\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Islas de la Bah\u00eda"
     ],
     "name:dan_x_preferred":[
         "Bay Islands Department"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Islas de la Bah\u00eda"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u039c\u03c0\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bay Islands"
@@ -66,23 +63,20 @@
     "name:est_x_preferred":[
         "Bah\u00eda saared"
     ],
+    "name:eus_x_preferred":[
+        "Islas de la Bah\u00eda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u0644\u0627\u0633 \u062f\u0644\u0627 \u0628\u0627\u0647\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Islas de la Bah\u00eda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "d\u00e9partement des Islas de la Bah\u00eda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10e1\u10da\u10d0\u10e1-\u10d3\u10d4-\u10da\u10d0-\u10d1\u10d0\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Islas de la Bah\u00eda"
     ],
     "name:glg_x_preferred":[
         "Departamento de Islas de la Bah\u00eda"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b7\u03c3\u03b9\u03ac \u039c\u03c0\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7 \u0a86\u0aaf\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -108,6 +102,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc7 \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d8\u10e1\u10da\u10d0\u10e1-\u10d3\u10d4-\u10da\u10d0-\u10d1\u10d0\u10d8\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc774\uc2ac\ub77c\uc2a4\ub370\ub77c\ubc14\uc774\uc544 \uc8fc"
     ],
@@ -120,14 +117,14 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u094d\u0932\u093e\u0938 \u0926\u0947 \u0932\u093e \u092c\u093e\u0939\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bay Islands Department"
+    ],
+    "name:nld_x_preferred":[
+        "Islas de la Bah\u00eda"
     ],
     "name:nob_x_preferred":[
         "Bay Islands department"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u06cc\u0633\u0644\u0627\u0633 \u062f\u0644\u0627 \u0628\u0627\u0647\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Wyspy Bahia"
@@ -144,7 +141,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbd\u0db4\u0dd4 \u0daf\u0dd6\u0db4\u0dad\u0dca \u0daf\u0dd9\u0db4\u0dcf\u0dbb\u0dca\u0dad\u0db8\u0dda\u0db1\u0dca\u0dad\u0dd4\u0dc0"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Islas de la Bah\u00eda"
     ],
     "name:spa_x_colloquial":[
@@ -184,6 +181,9 @@
         "Islas de la Bah\u00eda"
     ],
     "name:yue_x_preferred":[
+        "\u6d77\u7063\u7fa4\u5cf6\u7701"
+    ],
+    "name:zho_x_preferred":[
         "\u6d77\u7063\u7fa4\u5cf6\u7701"
     ],
     "ne:abbrev":"",
@@ -309,7 +309,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553550631,
+    "wof:lastmodified":1561749379,
     "wof:name":"Islas de la Bah\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"region",

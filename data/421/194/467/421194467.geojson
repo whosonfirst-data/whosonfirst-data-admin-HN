@@ -13,19 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u5df4\u8036\u897f\u7d04"
-    ],
-    "name:dut_x_preferred":[
-        "Vallecillo"
-    ],
     "name:eng_x_preferred":[
         "Vallecillo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Vallecillo"
     ],
     "name:ita_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:nld_x_preferred":[
         "Vallecillo"
     ],
     "name:pol_x_preferred":[
@@ -36,6 +33,9 @@
     ],
     "name:swe_x_preferred":[
         "Vallecillo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8036\u897f\u7d04"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421194467,
-    "wof:lastmodified":1553816382,
+    "wof:lastmodified":1561749444,
     "wof:name":"Vallecillo",
     "wof:parent_id":421188527,
     "wof:placetype":"locality",

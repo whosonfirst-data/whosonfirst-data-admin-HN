@@ -20,14 +20,11 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be \u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u099e\u09cd\u099c\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u57c3\u65af\u4f69\u862d\u85a9"
-    ],
     "name:dan_x_preferred":[
         "La Esperanza"
     ],
-    "name:dut_x_preferred":[
-        "La Esperanza"
+    "name:ell_x_preferred":[
+        "\u039b\u03b1 \u0395\u03c3\u03c0\u03b5\u03c1\u03ac\u03bd\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "La Esperanza"
@@ -37,12 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "La Esperanza"
-    ],
-    "name:fre_x_preferred":[
-        "La Esperanza"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b1 \u0395\u03c3\u03c0\u03b5\u03c1\u03ac\u03bd\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe \u0a8f\u0ab8\u0acd\u0aaa\u0ac7\u0ab0\u0abe\u0aa8\u0acd\u0a9d\u0abe"
@@ -74,7 +65,7 @@
     "name:mar_x_preferred":[
         "\u0932\u093e \u090f\u0938\u094d\u092a\u0947\u0930\u093e\u0902\u091d\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "La Esperanza"
     ],
     "name:nan_x_preferred":[
@@ -277,7 +268,7 @@
         }
     ],
     "wof:id":421177187,
-    "wof:lastmodified":1527716481,
+    "wof:lastmodified":1561749466,
     "wof:name":"La Esperanza",
     "wof:parent_id":421170699,
     "wof:placetype":"locality",

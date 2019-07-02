@@ -16,23 +16,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0646\u0644\u064a \u0634 \u0628\u0627\u0631\u0627\u064a\u0633\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0534\u0561\u0576\u056c\u056b"
-    ],
     "name:ben_x_preferred":[
         "\u09a1\u09cd\u09af\u09be\u09a8\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0414\u0430\u043d\u043b\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u4e39\u5229"
-    ],
     "name:dan_x_preferred":[
         "Danli"
     ],
-    "name:dut_x_preferred":[
-        "Danl\u00ed"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b1\u03bd\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Danl\u00ed"
@@ -43,17 +37,14 @@
     "name:fra_x_preferred":[
         "Danl\u00ed"
     ],
-    "name:fre_x_preferred":[
-        "Danl\u00ed"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b1\u03bd\u03bb\u03af"
-    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0aa8\u0ab2\u0ac0"
     ],
     "name:hin_x_preferred":[
         "\u0921\u0947\u0928\u0932\u093f"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0576\u056c\u056b"
     ],
     "name:ind_x_preferred":[
         "Danl\u00ed"
@@ -79,7 +70,7 @@
     "name:mar_x_preferred":[
         "\u0921\u0945\u0928\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Danli"
     ],
     "name:nan_x_preferred":[
@@ -129,6 +120,9 @@
     ],
     "name:vie_x_preferred":[
         "Danli"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e39\u5229"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -181,7 +175,7 @@
         }
     ],
     "wof:id":421182511,
-    "wof:lastmodified":1527726449,
+    "wof:lastmodified":1561749475,
     "wof:name":"Danl\u00ed",
     "wof:parent_id":421203561,
     "wof:placetype":"locality",

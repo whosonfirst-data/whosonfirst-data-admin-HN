@@ -13,11 +13,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8056\u80e1\u5b89\u897f\u8a17"
-    ],
     "name:eng_x_preferred":[
         "San Juancito"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u80e1\u5b89\u897f\u8a17"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421176259,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1561749479,
     "wof:name":"San Juancito",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

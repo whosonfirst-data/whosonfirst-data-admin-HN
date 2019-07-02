@@ -19,14 +19,11 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u0987\u09ae\u09be\u0995\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u74dc\u4f0a\u99ac\u5361"
-    ],
     "name:dan_x_preferred":[
         "Guaimaca"
     ],
-    "name:dut_x_preferred":[
-        "Guaimaca"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03b1\u03ca\u03bc\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Guaimaca"
@@ -34,11 +31,8 @@
     "name:fin_x_preferred":[
         "Guaimaca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Guaimaca"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03b1\u03ca\u03bc\u03ac\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0aaf\u0ac1\u0aae\u0abe\u0a95\u0abe"
@@ -70,10 +64,13 @@
     "name:mar_x_preferred":[
         "\u0917\u094d\u092f\u0941\u092e\u093e\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Guaimaca"
     ],
     "name:nan_x_preferred":[
+        "Guaimaca"
+    ],
+    "name:nld_x_preferred":[
         "Guaimaca"
     ],
     "name:nob_x_preferred":[
@@ -117,6 +114,9 @@
     ],
     "name:vie_x_preferred":[
         "Guaimaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u4f0a\u99ac\u5361"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -168,7 +168,7 @@
         }
     ],
     "wof:id":421179357,
-    "wof:lastmodified":1553816368,
+    "wof:lastmodified":1561749470,
     "wof:name":"Guaimaca",
     "wof:parent_id":421188483,
     "wof:placetype":"locality",

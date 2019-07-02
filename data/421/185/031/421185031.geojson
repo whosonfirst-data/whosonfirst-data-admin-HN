@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u8c9d\u502b"
-    ],
-    "name:dut_x_preferred":[
-        "Bel\u00e9n"
-    ],
     "name:eng_x_preferred":[
         "Belen"
     ],
@@ -44,7 +38,7 @@
         "Belen",
         "Bel\u00e9n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bel\u00e9n"
     ],
     "name:ita_x_preferred":[
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":421185031,
-    "wof:lastmodified":1554488952,
+    "wof:lastmodified":1561749480,
     "wof:name":"Belen",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

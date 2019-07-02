@@ -31,12 +31,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:chi_x_preferred":[
-        "\u85a9\u62c9\u99ac"
-    ],
-    "name:dut_x_preferred":[
-        "Salam\u00e1"
-    ],
     "name:eng_x_preferred":[
         "Salam\u00e1"
     ],
@@ -44,7 +38,7 @@
         "Salama",
         "Salam\u00e1"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Salam\u00e1"
     ],
     "name:ita_x_preferred":[
@@ -131,7 +125,7 @@
         }
     ],
     "wof:id":421182959,
-    "wof:lastmodified":1554488891,
+    "wof:lastmodified":1561749476,
     "wof:name":"Salama",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

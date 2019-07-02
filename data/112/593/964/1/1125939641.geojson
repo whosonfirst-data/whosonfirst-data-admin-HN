@@ -31,17 +31,14 @@
     "name:cat_x_preferred":[
         "Choluteca"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u76e7\u7279\u5361"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Choluteca"
     ],
     "name:dan_x_preferred":[
         "Choluteca"
     ],
-    "name:dut_x_preferred":[
-        "Choluteca"
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03bb\u03bf\u03c5\u03c4\u03ad\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Choluteca"
@@ -49,11 +46,8 @@
     "name:fin_x_preferred":[
         "Choluteca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Choluteca"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03bb\u03bf\u03c5\u03c4\u03ad\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab2\u0ac2\u0a9f\u0ac7\u0a95\u0abe"
@@ -91,13 +85,16 @@
     "name:mar_x_preferred":[
         "\u091a\u094b\u0932\u0942\u091f\u0947\u0915\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Choluteca"
     ],
     "name:nah_x_preferred":[
         "Chol\u014dlt\u0113capan"
     ],
     "name:nan_x_preferred":[
+        "Choluteca"
+    ],
+    "name:nld_x_preferred":[
         "Choluteca"
     ],
     "name:nob_x_preferred":[
@@ -109,7 +106,7 @@
     "name:por_x_preferred":[
         "Choluteca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Choluteca"
     ],
     "name:rus_x_preferred":[
@@ -118,7 +115,7 @@
     "name:sin_x_preferred":[
         "\u0da0\u0ddd\u0dbd\u0dd4\u0da7\u0dd9\u0d9a\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Choluteca"
     ],
     "name:spa_x_preferred":[
@@ -153,6 +150,9 @@
     ],
     "name:war_x_preferred":[
         "Choluteca"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u76e7\u7279\u5361"
     ],
     "qs_pg:aaroncc":"HN",
     "qs_pg:gn_country":"HN",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":1125939641,
-    "wof:lastmodified":1514445028,
+    "wof:lastmodified":1561749482,
     "wof:name":"Ciudad Choluteca",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

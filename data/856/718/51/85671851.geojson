@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368,
-    "geom:area_square_m":4381385991.537213,
+    "geom:area_square_m":4381385991.536224,
     "geom:bbox":"-87.8020401001,15.420624733,-86.3620147705,15.9284915924",
     "geom:latitude":15.664172,
     "geom:longitude":-87.135032,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0623\u062a\u0644\u0627\u0646\u062a\u064a\u062f\u0627"
     ],
-    "name:baq_x_preferred":[
-        "Atl\u00e1ntida"
-    ],
     "name:ben_x_preferred":[
         "\u0986\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09bf\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -40,17 +37,17 @@
     "name:cat_x_preferred":[
         "Departament d'Atl\u00e1ntida"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u7279\u862d\u8482\u9054\u7701"
-    ],
     "name:dan_x_preferred":[
         "Atl\u00e1ntida Department"
     ],
     "name:deu_x_preferred":[
         "Departamento Atl\u00e1ntida"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Atl\u00e1ntida"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03bb\u03b1\u03bd\u03c4\u03af\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Atl\u00e1ntida"
@@ -70,20 +67,11 @@
     "name:fra_x_preferred":[
         "D\u00e9partement d'Atl\u00e1ntida"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "d\u00e9partement d'Atl\u00e1ntida"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e2\u10da\u10d0\u10dc\u10e2\u10d8\u10d3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Atl\u00e1ntida"
     ],
     "name:glg_x_preferred":[
         "Departamento de Atl\u00e1ntida"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03bb\u03b1\u03bd\u03c4\u03af\u03b4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0a9f\u0ab2\u0abe\u0aa8\u0acd\u0a9f\u0abf\u0aa1\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -109,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c85\u0c9f\u0ccd\u0cb2\u0cbe\u0c82\u0c9f\u0cbf\u0ca1\u0cbe \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e2\u10da\u10d0\u10dc\u10e2\u10d8\u10d3\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\ud2c0\ub780\ud2f0\ub2e4 \uc8fc"
     ],
@@ -121,7 +112,7 @@
     "name:mar_x_preferred":[
         "\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0921\u093e \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Atlantida Department"
     ],
     "name:nah_x_preferred":[
@@ -130,11 +121,11 @@
     "name:nan_x_preferred":[
         "Atl\u00e1ntida Ko\u0101n"
     ],
+    "name:nld_x_preferred":[
+        "Atl\u00e1ntida"
+    ],
     "name:nob_x_preferred":[
         "Atlantida department"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u062a\u0644\u0627\u0646\u062a\u06cc\u062f\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0679\u0644\u0627\u0646\u0679\u06cc\u0688\u0627"
@@ -148,7 +139,7 @@
     "name:que_x_preferred":[
         "Atl\u00e1ntida"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Atl\u00e1ntida"
     ],
     "name:rus_x_preferred":[
@@ -193,6 +184,9 @@
     ],
     "name:war_x_preferred":[
         "Atl\u00e1ntida"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7279\u862d\u8482\u9054\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"HND",
@@ -317,7 +311,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1553814772,
+    "wof:lastmodified":1561749382,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
