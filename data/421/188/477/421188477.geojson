@@ -31,11 +31,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yorito"
+    ],
     "name:eng_x_preferred":[
         "Yorito"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Yorito"
+    ],
+    "name:ita_x_preferred":[
+        "Yorito"
+    ],
+    "name:nld_x_preferred":[
+        "Yorito"
+    ],
+    "name:por_x_preferred":[
+        "Yorito"
+    ],
+    "name:spa_x_preferred":[
+        "Yorito"
+    ],
+    "name:swe_x_preferred":[
+        "Yorito"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0631\u0679\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d04\u91cc\u6258"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":421188477,
-    "wof:lastmodified":1554488968,
+    "wof:lastmodified":1563575192,
     "wof:name":"Yorito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

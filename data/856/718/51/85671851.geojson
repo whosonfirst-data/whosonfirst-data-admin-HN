@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Departament d'Atl\u00e1ntida"
     ],
+    "name:cat_x_variant":[
+        "departament d'Atl\u00e1ntida"
+    ],
     "name:dan_x_preferred":[
         "Atl\u00e1ntida Department"
     ],
@@ -52,8 +55,14 @@
     "name:eng_x_preferred":[
         "Atl\u00e1ntida"
     ],
+    "name:eng_x_variant":[
+        "Atl\u00e1ntida Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Atl\u00e1ntida"
+    ],
+    "name:epo_x_variant":[
+        "Atl\u00e1ntida"
     ],
     "name:eus_x_preferred":[
         "Atl\u00e1ntida"
@@ -68,7 +77,11 @@
         "D\u00e9partement d'Atl\u00e1ntida"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement d'Atl\u00e1ntida"
+        "d\u00e9partement d'Atl\u00e1ntida",
+        "Atl\u00e1ntida"
+    ],
+    "name:frr_x_preferred":[
+        "Atl\u00e1ntida"
     ],
     "name:glg_x_preferred":[
         "Departamento de Atl\u00e1ntida"
@@ -102,6 +115,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc544\ud2c0\ub780\ud2f0\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ud2c0\ub780\ud2f0\ub2e4\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Atl\u00e1ntida"
     ],
     "name:lav_x_preferred":[
         "Atlant\u012bdas departaments"
@@ -166,6 +185,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e15\u0e25\u0e31\u0e19\u0e15\u0e35\u0e14\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e15\u0e25\u0e31\u0e19\u0e15\u0e34\u0e14\u0e32"
     ],
     "name:tur_x_preferred":[
         "Atl\u00e1ntida Departman\u0131"
@@ -311,7 +333,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749382,
+    "wof:lastmodified":1563573740,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

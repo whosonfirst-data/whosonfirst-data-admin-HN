@@ -38,7 +38,13 @@
         "Concepcion Del Norte",
         "Concepci\u00f3n del Norte"
     ],
+    "name:fra_x_preferred":[
+        "Chinda"
+    ],
     "name:ita_x_preferred":[
+        "Chinda"
+    ],
+    "name:nan_x_preferred":[
         "Chinda"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +118,7 @@
         }
     ],
     "wof:id":421193297,
-    "wof:lastmodified":1554489009,
+    "wof:lastmodified":1563575127,
     "wof:name":"Chinda",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

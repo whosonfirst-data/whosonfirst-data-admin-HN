@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u0438\u0442\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Olanchito"
+    ],
     "name:dan_x_preferred":[
         "Olanchito"
     ],
@@ -174,7 +177,7 @@
         }
     ],
     "wof:id":421202841,
-    "wof:lastmodified":1561749449,
+    "wof:lastmodified":1563575159,
     "wof:name":"Olanchito",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

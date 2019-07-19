@@ -16,11 +16,20 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0643\u0648\u0627\u060c \u0643\u0648\u0644\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0648\u0643\u0648\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09cb\u0995\u09c1\u09af\u09bc\u09be"
     ],
+    "name:ben_x_variant":[
+        "\u09a4\u09cb\u0995\u09c1\u09af\u09bc\u09be "
+    ],
     "name:bul_x_preferred":[
         "\u0422\u043e\u043a\u043e\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Tocoa"
     ],
     "name:dan_x_preferred":[
         "Tocoa"
@@ -118,6 +127,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0648\u06a9\u0648\u0627 \u060c \u06a9\u0648\u0644\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u0648\u06a9\u0648\u0627 "
+    ],
     "name:vie_x_preferred":[
         "Tocoa"
     ],
@@ -175,7 +187,7 @@
         }
     ],
     "wof:id":421201747,
-    "wof:lastmodified":1561749461,
+    "wof:lastmodified":1563575300,
     "wof:name":"Tocoa",
     "wof:parent_id":421182985,
     "wof:placetype":"locality",

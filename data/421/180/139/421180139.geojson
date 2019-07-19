@@ -25,6 +25,9 @@
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30c8"
     ],
+    "name:nan_x_preferred":[
+        "Manto"
+    ],
     "name:nld_x_preferred":[
         "Manto"
     ],
@@ -32,6 +35,9 @@
         "Manto"
     ],
     "name:spa_x_preferred":[
+        "Manto"
+    ],
+    "name:swe_x_preferred":[
         "Manto"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":421180139,
-    "wof:lastmodified":1561749450,
+    "wof:lastmodified":1563575173,
     "wof:name":"Manto",
     "wof:parent_id":421182939,
     "wof:placetype":"locality",

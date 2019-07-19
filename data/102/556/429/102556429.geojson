@@ -12,8 +12,14 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Celaque Airport"
+    ],
     "name:eng_x_variant":[
         "GAC"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Celaque"
     ],
     "oa:elevation_ft":"2995",
     "oa:type":"small_airport",
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":102556429,
-    "wof:lastmodified":1543851472,
+    "wof:lastmodified":1563573417,
     "wof:name":"Gracias Airport",
     "wof:parent_id":85671915,
     "wof:placetype":"campus",

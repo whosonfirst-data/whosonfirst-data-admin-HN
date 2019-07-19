@@ -38,6 +38,9 @@
         "Minas De Oro",
         "Minas de Oro"
     ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7d0d\u65af\u5fb7\u5967\u7f85"
+    ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":3604796,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188501,
-    "wof:lastmodified":1554488974,
+    "wof:lastmodified":1563575207,
     "wof:name":"Minas de Oro",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

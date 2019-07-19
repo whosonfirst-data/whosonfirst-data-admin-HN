@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09af\u09bc\u09c7\u09b0\u09cd\u09a4\u09cb \u09b2\u09c7\u09ae\u09cd\u09aa\u09bf\u09b0\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Puerto Lempira"
+    ],
     "name:dan_x_preferred":[
         "Puerto Lempira"
     ],
@@ -88,6 +91,9 @@
     "name:por_x_preferred":[
         "Puerto Lempira"
     ],
+    "name:que_x_preferred":[
+        "Puerto Lempira"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0443\u044d\u0440\u0442\u043e-\u041b\u0435\u043c\u043f\u0438\u0440\u0430"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1b\u0e2d\u0e23\u0e4c\u0e42\u0e15 \u0e40\u0e25\u0e21\u0e1e\u0e34\u0e23\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e1b\u0e39\u0e40\u0e2d\u0e23\u0e4c\u0e42\u0e15\u0e40\u0e25\u0e21\u0e1b\u0e34\u0e23\u0e32"
     ],
     "name:tur_x_preferred":[
         "Puerto Lempira"
@@ -180,7 +189,7 @@
         }
     ],
     "wof:id":421186495,
-    "wof:lastmodified":1561749454,
+    "wof:lastmodified":1563575233,
     "wof:name":"Puerto Lempira",
     "wof:parent_id":421181809,
     "wof:placetype":"locality",

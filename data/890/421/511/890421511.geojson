@@ -43,6 +43,9 @@
     "name:unk_x_variant":[
         "Concepci\u00f3n de Mar\u00eda"
     ],
+    "name:zho_x_preferred":[
+        "\u5eb7\u585e\u666e\u897f\u7fc1\u5fb7\u746a\u5229\u4e9e"
+    ],
     "qs:name":"Concepci\u00f3n de Mar\u00eda",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890421511,
-    "wof:lastmodified":1554489060,
+    "wof:lastmodified":1563575445,
     "wof:name":"Concepcion de Maria",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

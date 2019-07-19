@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0627\u0648\u0645\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Nacaome"
+    ],
     "name:eng_x_preferred":[
         "Nacaome"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:swe_x_preferred":[
         "Nacaome"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e32\u0e01\u0e32\u0e42\u0e2d\u0e40\u0e21"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043a\u0430\u043e\u043c\u0435"
@@ -208,7 +214,7 @@
         }
     ],
     "wof:id":1141906363,
-    "wof:lastmodified":1561749508,
+    "wof:lastmodified":1563576186,
     "wof:name":"Nacaome",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

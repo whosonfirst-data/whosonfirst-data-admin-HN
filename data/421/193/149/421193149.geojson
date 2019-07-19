@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Choluteca"
     ],
+    "name:ceb_x_preferred":[
+        "Ciudad Choluteca"
+    ],
     "name:ces_x_preferred":[
         "Choluteca"
     ],
@@ -101,6 +104,9 @@
     "name:por_x_preferred":[
         "Choluteca"
     ],
+    "name:que_x_preferred":[
+        "Choluteca"
+    ],
     "name:ron_x_preferred":[
         "Choluteca"
     ],
@@ -127,6 +133,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e0a\u0e25\u0e39\u0e40\u0e15\u0e04\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e42\u0e0a\u0e25\u0e39\u0e40\u0e15\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Choluteca"
@@ -285,7 +294,7 @@
         }
     ],
     "wof:id":421193149,
-    "wof:lastmodified":1561749446,
+    "wof:lastmodified":1563575128,
     "wof:name":"Choluteca",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

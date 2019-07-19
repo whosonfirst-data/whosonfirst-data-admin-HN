@@ -57,6 +57,9 @@
     "name:eng_x_preferred":[
         "Bay Islands"
     ],
+    "name:eng_x_variant":[
+        "Bay Islands Department"
+    ],
     "name:epo_x_preferred":[
         "Islas de la Bah\u00eda"
     ],
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749379,
+    "wof:lastmodified":1563573735,
     "wof:name":"Islas de la Bah\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"region",

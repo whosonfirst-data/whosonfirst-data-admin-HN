@@ -37,6 +37,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c7\u09ae\u09cd\u09aa\u09be\u09ae\u09c7\u09a8\u09cd\u09a4\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Campamento"
+    ],
     "name:dan_x_preferred":[
         "Campamento"
     ],
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":421191669,
-    "wof:lastmodified":1561749457,
+    "wof:lastmodified":1563575262,
     "wof:name":"Campamento",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

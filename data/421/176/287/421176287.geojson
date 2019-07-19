@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ajuterique"
+    ],
     "name:eng_x_preferred":[
         "Ajuterique"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421176287,
-    "wof:lastmodified":1561749478,
+    "wof:lastmodified":1563575407,
     "wof:name":"Ajuterique",
     "wof:parent_id":421191079,
     "wof:placetype":"locality",

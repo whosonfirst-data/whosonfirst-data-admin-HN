@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09cd\u09af\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09cb\u0981\u09b8\u09be\u0981 \u09a6\u09c7 \u0995\u09cb\u09aa\u09cd\u09af\u09be\u0981\u09a8"
     ],
+    "name:ben_x_variant":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09b0\u09cb\u09b8\u09be \u09a6\u09c7 \u0995\u09cb\u09aa\u09be\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u043e\u0441\u0430 \u0434\u0435 \u041a\u043e\u043f\u0430\u043d"
     ],
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":421169091,
-    "wof:lastmodified":1561749447,
+    "wof:lastmodified":1563575134,
     "wof:name":"Santa Rosa de Cop\u00e1n",
     "wof:parent_id":1108701725,
     "wof:placetype":"locality",

@@ -18,6 +18,9 @@
     "name:unk_x_variant":[
         "Ojo de Agua"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u970d\u65af\u5fb7\u963f\u74dc"
+    ],
     "qs:name":"Ojos de Agua",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890441907,
-    "wof:lastmodified":1527727225,
+    "wof:lastmodified":1563575426,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":421182895,
     "wof:placetype":"locality",

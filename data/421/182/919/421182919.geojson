@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jacaleapa"
+    ],
     "name:eng_x_preferred":[
         "Jacaleapa"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Jacaleapa"
+    ],
+    "name:ita_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:nan_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:nld_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:pol_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:por_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:spa_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:swe_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0644\u06cc\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5361\u840a\u963f\u5e15"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421182919,
-    "wof:lastmodified":1554488837,
+    "wof:lastmodified":1563575401,
     "wof:name":"Jacaleapa",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

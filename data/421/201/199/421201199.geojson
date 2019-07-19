@@ -17,8 +17,17 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u062a\u064a\u0643\u0627\u0644\u0628\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Juticalpa"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u099f\u09bf\u0995\u09be\u09b2\u09cd\u09aa\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Juticalpa"
+    ],
+    "name:cym_x_preferred":[
+        "Juticalpa"
     ],
     "name:dan_x_preferred":[
         "Juticalpa"
@@ -107,6 +116,9 @@
     "name:tha_x_preferred":[
         "\u0e0c\u0e39\u0e15\u0e34\u0e01\u0e32\u0e25\u0e1b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2e\u0e39\u0e15\u0e34\u0e01\u0e31\u0e25\u0e1b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Juticalpa"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u062a\u06cc\u06a9\u0627\u0644\u067e\u0627\u060c \u0627\u0648\u0644\u0627\u0646\u0686\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u062e\u0648\u062a\u06cc\u06a9\u0627\u0644\u067e\u0627"
     ],
     "name:vie_x_preferred":[
         "Juticalpa"
@@ -268,7 +283,7 @@
         }
     ],
     "wof:id":421201199,
-    "wof:lastmodified":1561749461,
+    "wof:lastmodified":1563575302,
     "wof:name":"Juticalpa",
     "wof:parent_id":1108701673,
     "wof:placetype":"locality",

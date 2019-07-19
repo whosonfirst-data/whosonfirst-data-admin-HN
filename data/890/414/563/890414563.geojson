@@ -40,6 +40,9 @@
         "La Campa",
         "San Marcos de Caiqu\u00edn"
     ],
+    "name:zho_x_preferred":[
+        "\u8056\u99ac\u79d1\u65af\u5fb7\u51f1\u91d1"
+    ],
     "qs:name":"San Marcos de Caiquin",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":890414563,
-    "wof:lastmodified":1554489057,
+    "wof:lastmodified":1563575425,
     "wof:name":"Caiquin",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

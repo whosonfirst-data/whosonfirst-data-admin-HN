@@ -15,8 +15,50 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:bul_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:deu_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:eng_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:fra_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:ina_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:ita_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:lat_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:nld_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:por_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:rus_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:spa_x_preferred":[
+        "Guacamaya"
+    ],
+    "name:ukr_x_preferred":[
+        "Guacamaya"
+    ],
     "name:unk_x_variant":[
         "Guacamayas"
+    ],
+    "name:vie_x_preferred":[
+        "Guacamaya"
     ],
     "qs:name":"Guacamaya",
     "qs:photos_9r":0,
@@ -50,7 +92,7 @@
         }
     ],
     "wof:id":890435071,
-    "wof:lastmodified":1527793046,
+    "wof:lastmodified":1563575476,
     "wof:name":"Guacamaya",
     "wof:parent_id":421203405,
     "wof:placetype":"locality",

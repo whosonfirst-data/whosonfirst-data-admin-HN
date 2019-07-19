@@ -34,6 +34,9 @@
     "name:zho_x_preferred":[
         "\u5967\u970d\u65af\u5fb7\u963f\u74dc"
     ],
+    "name:zho_x_variant":[
+        "\u8056\u8d6b\u7f85\u5c3c\u83ab"
+    ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3604265,
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":421179307,
-    "wof:lastmodified":1561749469,
+    "wof:lastmodified":1563575334,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":421188781,
     "wof:placetype":"locality",

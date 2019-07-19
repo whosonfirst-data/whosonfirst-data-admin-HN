@@ -31,13 +31,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Piraera"
+    ],
     "name:eng_x_preferred":[
         "Piraera"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Piraera"
     ],
     "name:ita_x_preferred":[
+        "Piraera"
+    ],
+    "name:nld_x_preferred":[
+        "Piraera"
+    ],
+    "name:nob_x_preferred":[
         "Piraera"
     ],
     "name:nor_x_preferred":[
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":421194963,
-    "wof:lastmodified":1554489020,
+    "wof:lastmodified":1563575110,
     "wof:name":"Piraera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

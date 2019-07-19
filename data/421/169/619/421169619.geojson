@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Bonito Oriental"
     ],
+    "name:ceb_x_preferred":[
+        "Bonito Oriental"
+    ],
     "name:deu_x_preferred":[
         "Bonito Oriental"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:swe_x_preferred":[
         "Bonito Oriental"
+    ],
+    "name:war_x_preferred":[
+        "El Rosario"
     ],
     "name:zho_x_preferred":[
         "\u6771\u535a\u5c3c\u6258"
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":421169619,
-    "wof:lastmodified":1561749446,
+    "wof:lastmodified":1563575133,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

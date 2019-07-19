@@ -31,14 +31,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Trojes"
+    ],
     "name:eng_x_preferred":[
         "Trojes"
     ],
     "name:eng_x_variant":[
-        "Catacamas",
+        "Catacamas"
+    ],
+    "name:fra_x_preferred":[
         "Trojes"
     ],
     "name:ita_x_preferred":[
+        "Trojes"
+    ],
+    "name:nan_x_preferred":[
         "Trojes"
     ],
     "name:nld_x_preferred":[
@@ -119,7 +127,7 @@
         }
     ],
     "wof:id":421188529,
-    "wof:lastmodified":1554488983,
+    "wof:lastmodified":1563575202,
     "wof:name":"Trojes",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ajuterique"
+    ],
     "name:eng_x_preferred":[
         "Ajuterique"
     ],
-    "name:eng_x_variant":[
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u0648\u062a\u0631\u06cc\u06a9"
+    ],
+    "name:fra_x_preferred":[
         "Ajuterique"
+    ],
+    "name:ita_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:nan_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:nld_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:pol_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:por_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:spa_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:swe_x_preferred":[
+        "Ajuterique"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u80e1\u7279\u91cc\u514b"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421191079,
-    "wof:lastmodified":1554488992,
+    "wof:lastmodified":1563575258,
     "wof:name":"Ajuterique",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

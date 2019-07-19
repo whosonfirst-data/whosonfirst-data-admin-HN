@@ -31,8 +31,65 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:eng_x_variant":[
+    "name:bre_x_preferred":[
         "Guanaja"
+    ],
+    "name:cat_x_preferred":[
+        "Guanaja"
+    ],
+    "name:ceb_x_preferred":[
+        "Guanaja"
+    ],
+    "name:deu_x_preferred":[
+        "Guanaja"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03bd\u03ac\u03c7\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Guanaja"
+    ],
+    "name:fin_x_preferred":[
+        "Guanaja"
+    ],
+    "name:fra_x_preferred":[
+        "Guanaja"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d0\u05e0\u05d7\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Guanaja"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30a2\u30ca\u30cf\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc544\ub098\uc57c\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Guanacha"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0928\u093e\u0939\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Guanaja"
+    ],
+    "name:pol_x_preferred":[
+        "Guanaja"
+    ],
+    "name:por_x_preferred":[
+        "Guanaja"
+    ],
+    "name:spa_x_preferred":[
+        "Guanaja"
+    ],
+    "name:swe_x_preferred":[
+        "Guanaja"
+    ],
+    "name:zho_x_preferred":[
+        "\u74dc\u7d0d\u54c8\u5cf6"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -83,7 +140,7 @@
         }
     ],
     "wof:id":421188765,
-    "wof:lastmodified":1554488980,
+    "wof:lastmodified":1563575190,
     "wof:name":"Guanaja",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

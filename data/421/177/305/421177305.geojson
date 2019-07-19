@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430 \u041b\u0438\u043c\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "La Lima"
+    ],
     "name:eng_x_preferred":[
         "La Lima"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":421177305,
-    "wof:lastmodified":1561749466,
+    "wof:lastmodified":1563575322,
     "wof:name":"La Lima",
     "wof:parent_id":421204279,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:unk_x_variant":[
         "Valle de \u00c1ngeles"
     ],
+    "name:zho_x_preferred":[
+        "\u5b89\u8d6b\u840a\u65af\u93ae"
+    ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":3600424,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421204281,
-    "wof:lastmodified":1554489050,
+    "wof:lastmodified":1563575138,
     "wof:name":"Valle de Angeles",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

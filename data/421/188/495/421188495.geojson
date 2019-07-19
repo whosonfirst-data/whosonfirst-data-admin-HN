@@ -31,11 +31,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Labor"
+    ],
     "name:eng_x_preferred":[
         "La Labor"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "La Labor"
+    ],
+    "name:ita_x_preferred":[
+        "La Labor"
+    ],
+    "name:nan_x_preferred":[
+        "La Labor"
+    ],
+    "name:nld_x_preferred":[
+        "La Labor"
+    ],
+    "name:por_x_preferred":[
+        "La Labor"
+    ],
+    "name:spa_x_preferred":[
+        "La Labor"
+    ],
+    "name:swe_x_preferred":[
+        "La Labor"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u62c9\u6c83\u723e"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":421188495,
-    "wof:lastmodified":1554488968,
+    "wof:lastmodified":1563575212,
     "wof:name":"La Labor",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

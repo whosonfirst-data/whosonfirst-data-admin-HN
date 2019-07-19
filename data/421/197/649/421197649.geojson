@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Orica"
+    ],
     "name:deu_x_preferred":[
         "Orica"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421197649,
-    "wof:lastmodified":1561749459,
+    "wof:lastmodified":1563575287,
     "wof:name":"Orica",
     "wof:parent_id":421191361,
     "wof:placetype":"locality",

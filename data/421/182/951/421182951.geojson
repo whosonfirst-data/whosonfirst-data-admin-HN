@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pespire"
+    ],
     "name:eng_x_preferred":[
         "Pespire"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Pespire"
+    ],
+    "name:ita_x_preferred":[
+        "Pespire"
+    ],
+    "name:lit_x_preferred":[
+        "Pespir\u0117"
+    ],
+    "name:nan_x_preferred":[
+        "Pespire"
+    ],
+    "name:nld_x_preferred":[
+        "Pespire"
+    ],
+    "name:pol_x_preferred":[
+        "Pespire"
+    ],
+    "name:por_x_preferred":[
+        "Pespire"
+    ],
+    "name:spa_x_preferred":[
+        "Pespire"
+    ],
+    "name:swe_x_preferred":[
+        "Pespire"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u65af\u76ae\u96f7"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421182951,
-    "wof:lastmodified":1554488859,
+    "wof:lastmodified":1563575390,
     "wof:name":"Pespire",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

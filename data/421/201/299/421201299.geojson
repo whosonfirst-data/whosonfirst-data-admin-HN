@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ojojona"
+    ],
     "name:eng_x_preferred":[
         "Ojojona"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421201299,
-    "wof:lastmodified":1561749461,
+    "wof:lastmodified":1563575304,
     "wof:name":"Ojojona",
     "wof:parent_id":421205119,
     "wof:placetype":"locality",

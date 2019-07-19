@@ -34,10 +34,13 @@
     "name:eng_x_preferred":[
         "San Buenaventura"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "San Buenaventura"
     ],
     "name:ita_x_preferred":[
+        "San Buenaventura"
+    ],
+    "name:nan_x_preferred":[
         "San Buenaventura"
     ],
     "name:nld_x_preferred":[
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421193299,
-    "wof:lastmodified":1554489009,
+    "wof:lastmodified":1563575128,
     "wof:name":"San Buenaventura",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

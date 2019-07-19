@@ -22,6 +22,9 @@
     "name:ita_x_preferred":[
         "La Libertad"
     ],
+    "name:nan_x_preferred":[
+        "La Libertad"
+    ],
     "name:nld_x_preferred":[
         "La Libertad"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421179339,
-    "wof:lastmodified":1561749469,
+    "wof:lastmodified":1563575336,
     "wof:name":"La Libertad",
     "wof:parent_id":421182925,
     "wof:placetype":"locality",
