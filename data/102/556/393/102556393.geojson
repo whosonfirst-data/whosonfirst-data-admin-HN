@@ -12,6 +12,18 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Esperanza"
+    ],
+    "name:eng_x_preferred":[
+        "La Esperanza Airport"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy La Esperanza"
+    ],
+    "name:swe_x_preferred":[
+        "La Esperanza"
+    ],
     "oa:elevation_ft":"5475",
     "oa:type":"small_airport",
     "src:geom":"wikidata",
@@ -45,7 +57,7 @@
         }
     ],
     "wof:id":102556393,
-    "wof:lastmodified":1545013169,
+    "wof:lastmodified":1563573417,
     "wof:name":"La Esperanza Airport",
     "wof:parent_id":85671899,
     "wof:placetype":"campus",

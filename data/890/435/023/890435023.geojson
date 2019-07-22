@@ -24,6 +24,9 @@
     "name:ita_x_preferred":[
         "San Manuel"
     ],
+    "name:nan_x_preferred":[
+        "San Manuel"
+    ],
     "name:nld_x_preferred":[
         "San Manuel"
     ],
@@ -40,6 +43,9 @@
         "San Manuel"
     ],
     "name:spa_x_preferred":[
+        "San Manuel"
+    ],
+    "name:swe_x_preferred":[
         "San Manuel"
     ],
     "name:unk_x_variant":[
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":890435023,
-    "wof:lastmodified":1561749482,
+    "wof:lastmodified":1563575475,
     "wof:name":"San Manuel",
     "wof:parent_id":421182961,
     "wof:placetype":"locality",

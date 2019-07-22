@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09af\u09bc\u09be\u0987\u09ae\u09be\u0995\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Guaimaca"
+    ],
     "name:dan_x_preferred":[
         "Guaimaca"
     ],
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":421179357,
-    "wof:lastmodified":1561749470,
+    "wof:lastmodified":1563575345,
     "wof:name":"Guaimaca",
     "wof:parent_id":421188483,
     "wof:placetype":"locality",

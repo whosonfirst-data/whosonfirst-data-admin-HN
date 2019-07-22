@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Langue"
+    ],
+    "name:dan_x_preferred":[
+        "Langue"
+    ],
     "name:eng_x_preferred":[
         "Langue"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Langue"
+    ],
+    "name:ita_x_preferred":[
+        "Langue"
+    ],
+    "name:nan_x_preferred":[
+        "Langue"
+    ],
+    "name:nld_x_preferred":[
+        "Langue"
+    ],
+    "name:por_x_preferred":[
+        "Langue"
+    ],
+    "name:spa_x_preferred":[
+        "Langue"
+    ],
+    "name:swe_x_preferred":[
+        "Langue"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u06af\u0648\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u862d\u683c"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421182583,
-    "wof:lastmodified":1554488826,
+    "wof:lastmodified":1563575404,
     "wof:name":"Langue",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

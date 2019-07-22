@@ -69,6 +69,9 @@
     "name:cdo_x_preferred":[
         "Tegucigalpa"
     ],
+    "name:ceb_x_preferred":[
+        "Tegucigalpa"
+    ],
     "name:ces_x_preferred":[
         "Tegucigalpa"
     ],
@@ -126,6 +129,9 @@
     "name:glg_x_preferred":[
         "Tegucigalpa"
     ],
+    "name:gsw_x_preferred":[
+        "Tegucigalpa"
+    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0a97\u0ac1\u0ab8\u0abf\u0a97\u0ab2\u0acd\u0aaa\u0abe"
     ],
@@ -162,6 +168,9 @@
     "name:ile_x_preferred":[
         "Tegucigalpa"
     ],
+    "name:ina_x_preferred":[
+        "Tegucigalpa"
+    ],
     "name:ind_x_preferred":[
         "Tegucigalpa"
     ],
@@ -183,6 +192,9 @@
     "name:kat_x_preferred":[
         "\u10e2\u10d4\u10d2\u10e3\u10e1\u10d8\u10d2\u10d0\u10da\u10de\u10d0"
     ],
+    "name:kik_x_preferred":[
+        "Tegucigalpa"
+    ],
     "name:kir_x_preferred":[
         "\u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043b\u044c\u043f\u0430"
     ],
@@ -197,6 +209,9 @@
     ],
     "name:lav_x_preferred":[
         "Tegusigalpa"
+    ],
+    "name:lfn_x_preferred":[
+        "Tegucigalpa"
     ],
     "name:lij_x_preferred":[
         "Tegucigalpa"
@@ -231,6 +246,9 @@
     "name:nah_x_preferred":[
         "Teuctzincalpan"
     ],
+    "name:nah_x_variant":[
+        "Te\u014dcuitlapan"
+    ],
     "name:nan_x_preferred":[
         "Tegucigalpa"
     ],
@@ -258,6 +276,9 @@
     "name:olo_x_preferred":[
         "Tegusigal\u2019pa"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043b\u044c\u043f\u00e6"
+    ],
     "name:pan_x_preferred":[
         "\u0a24\u0a47\u0a17\u0a42\u0a38\u0a40\u0a17\u0a3e\u0a32\u0a2a\u0a3e"
     ],
@@ -272,6 +293,9 @@
     ],
     "name:por_x_preferred":[
         "Tegucigalpa"
+    ],
+    "name:pus_x_preferred":[
+        "\u062a\u06ab\u0648\u0633\u06cc\u06ab\u0627\u0644\u067e\u0627"
     ],
     "name:que_x_preferred":[
         "Tegucigalpa"
@@ -324,11 +348,17 @@
     "name:swe_x_preferred":[
         "Tegucigalpa"
     ],
+    "name:szl_x_preferred":[
+        "Tegucigalpa"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bc6\u0b95\u0bc1\u0b9a\u0bbf\u0b95\u0bb2\u0bcd\u0baa\u0bbe"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c17\u0c42\u0c38\u0c3f\u0c17\u0c32\u0c4d\u0c2a\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043b\u043f\u0430"
     ],
     "name:tgl_x_preferred":[
         "Tegucigalpa"
@@ -372,6 +402,9 @@
     "name:yid_x_preferred":[
         "\u05d8\u05e2\u05d2\u05d5\u05e1\u05d9\u05d2\u05d0\u05dc\u05e4\u05e2"
     ],
+    "name:yid_x_variant":[
+        "\u05d8\u05e2\u05d2\u05d5\u05e1\u05d9\u05d2\u05d0\u05b7\u05dc\u05e4\u05e2"
+    ],
     "name:yor_x_preferred":[
         "Tegucigalpa"
     ],
@@ -383,6 +416,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5fb7\u53e4\u65af\u52a0\u5df4"
+    ],
+    "name:zho_x_variant":[
+        "\u7279\u53e4\u897f\u52a0\u5c14\u5df4"
     ],
     "name:zho_yue_x_preferred":[
         "\u7279\u53e4\u897f\u52a0\u723e\u5df4"
@@ -535,7 +571,7 @@
         }
     ],
     "wof:id":421173057,
-    "wof:lastmodified":1561749451,
+    "wof:lastmodified":1563575183,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

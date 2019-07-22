@@ -31,11 +31,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Petoa"
+    ],
     "name:eng_x_preferred":[
         "Petoa"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Petoa"
+    ],
+    "name:ita_x_preferred":[
+        "Petoa"
+    ],
+    "name:nan_x_preferred":[
+        "Petoa"
+    ],
+    "name:nld_x_preferred":[
+        "Petoa"
+    ],
+    "name:por_x_preferred":[
+        "Petoa"
+    ],
+    "name:spa_x_preferred":[
+        "Petoa"
+    ],
+    "name:swe_x_preferred":[
+        "Petoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f69\u6258\u963f"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":421182953,
-    "wof:lastmodified":1554488856,
+    "wof:lastmodified":1563575362,
     "wof:name":"Petoa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "Comayagua"
     ],
+    "name:eng_x_variant":[
+        "Comayagua Department"
+    ],
     "name:epo_x_preferred":[
         "Comayagua"
     ],
@@ -54,6 +57,12 @@
     ],
     "name:fra_x_preferred":[
         "d\u00e9partement de Comayagua"
+    ],
+    "name:fra_x_variant":[
+        "Comayagua"
+    ],
+    "name:frr_x_preferred":[
+        "Comayagua"
     ],
     "name:glg_x_preferred":[
         "Departamento de Comayagua"
@@ -76,8 +85,17 @@
     "name:kor_x_preferred":[
         "\ucf54\ub9c8\uc57c\uacfc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ub9c8\uc57c\uacfc\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Comayagua"
+    ],
     "name:lit_x_preferred":[
         "Komajagvos departamentas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u092e\u093e\u092f\u093e\u0917\u0941\u0906 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
     "name:nan_x_preferred":[
         "Comayagua Ko\u0101n"
@@ -114,6 +132,9 @@
     ],
     "name:swe_x_preferred":[
         "Departamento de Comayagua"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e42\u0e01\u0e21\u0e32\u0e22\u0e32\u0e01\u0e31\u0e27"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u044f\u0433\u0443\u0430"
@@ -256,7 +277,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749393,
+    "wof:lastmodified":1563573759,
     "wof:name":"Comayagua",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

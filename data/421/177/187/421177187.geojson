@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0644\u0627 \u0627\u0633\u0628\u064a\u0631\u0627\u0646\u0632\u0627\u060c \u0647\u0646\u062f\u0648\u0631\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0627 \u0627\u0633\u0628\u064a\u0631\u0627\u0646\u0632\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u098f\u09b8\u09cd\u09aa\u09c7\u09b0\u09be\u099e\u09cd\u099c\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "La Esperanza"
     ],
     "name:dan_x_preferred":[
         "La Esperanza"
@@ -28,6 +34,9 @@
     ],
     "name:eng_x_preferred":[
         "La Esperanza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0627\u0633\u067e\u0631\u0627\u0646\u0632\u0627"
     ],
     "name:fin_x_preferred":[
         "La Esperanza"
@@ -83,6 +92,9 @@
     "name:por_x_preferred":[
         "La Esperanza"
     ],
+    "name:que_x_preferred":[
+        "La Esperanza"
+    ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u042d\u0441\u043f\u0435\u0440\u0430\u043d\u0441\u0430"
     ],
@@ -104,6 +116,9 @@
     "name:tha_x_preferred":[
         "\u0e25\u0e32 \u0e40\u0e2d\u0e2a\u0e40\u0e1b\u0e2d\u0e23\u0e31\u0e19\u0e0b\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e25\u0e32\u0e40\u0e2d\u0e2a\u0e40\u0e1b\u0e23\u0e31\u0e19\u0e0b\u0e32"
+    ],
     "name:tur_x_preferred":[
         "La Esperanza"
     ],
@@ -115,6 +130,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0627\u0633\u067e\u06cc\u0631\u0627\u0646\u0632\u0627\u060c \u06c1\u0648\u0646\u062f\u0648\u0631\u0627\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0627\u0633\u067e\u06cc\u0631\u0627\u0646\u0632\u0627"
     ],
     "name:vie_x_preferred":[
         "La Esperanza"
@@ -268,7 +286,7 @@
         }
     ],
     "wof:id":421177187,
-    "wof:lastmodified":1561749466,
+    "wof:lastmodified":1563575320,
     "wof:name":"La Esperanza",
     "wof:parent_id":421170699,
     "wof:placetype":"locality",

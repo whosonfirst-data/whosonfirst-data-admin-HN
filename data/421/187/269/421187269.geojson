@@ -22,6 +22,9 @@
     "name:ita_x_preferred":[
         "Yamaranguila"
     ],
+    "name:nan_x_preferred":[
+        "Yamaranguila"
+    ],
     "name:nld_x_preferred":[
         "Yamaranguila"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421187269,
-    "wof:lastmodified":1561749450,
+    "wof:lastmodified":1563575178,
     "wof:name":"Yamaranguila",
     "wof:parent_id":421181669,
     "wof:placetype":"locality",

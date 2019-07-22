@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Bonito Oriental"
     ],
+    "name:ceb_x_preferred":[
+        "Bonito Oriental"
+    ],
     "name:deu_x_preferred":[
         "Bonito Oriental"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421167763,
-    "wof:lastmodified":1561749446,
+    "wof:lastmodified":1563575129,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":421169619,
     "wof:placetype":"locality",

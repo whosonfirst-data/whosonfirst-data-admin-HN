@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sambo Creek"
+    ],
     "name:eng_x_preferred":[
         "Sambo Creek"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":421179295,
-    "wof:lastmodified":1561749470,
+    "wof:lastmodified":1563575340,
     "wof:name":"Sambo Creek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

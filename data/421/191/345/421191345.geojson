@@ -31,14 +31,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Concepci\u00f3n del Sur"
+    ],
     "name:eng_x_preferred":[
         "Concepci\u00f3n del Norte"
     ],
     "name:eng_x_variant":[
         "Concepcion Del Norte",
-        "Concepci\u00f3n del Norte"
+        "Concepci\u00f3n del Sur"
+    ],
+    "name:fra_x_preferred":[
+        "Concepci\u00f3n del Sur"
     ],
     "name:ita_x_preferred":[
+        "Concepci\u00f3n del Sur"
+    ],
+    "name:nan_x_preferred":[
         "Concepci\u00f3n del Sur"
     ],
     "name:nld_x_preferred":[
@@ -119,7 +128,7 @@
         }
     ],
     "wof:id":421191345,
-    "wof:lastmodified":1554488995,
+    "wof:lastmodified":1563575277,
     "wof:name":"Concepcion del Norte",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

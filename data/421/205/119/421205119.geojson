@@ -31,11 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Ojojona"
+    ],
     "name:eng_x_preferred":[
         "Ojojona"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Ojojona"
+    ],
+    "name:ita_x_preferred":[
+        "Ojojona"
+    ],
+    "name:lit_x_preferred":[
+        "Ochochona"
+    ],
+    "name:nan_x_preferred":[
+        "Ojojona"
+    ],
+    "name:nld_x_preferred":[
+        "Ojojona"
+    ],
+    "name:pol_x_preferred":[
+        "Ojojona"
+    ],
+    "name:por_x_preferred":[
+        "Ojojona"
+    ],
+    "name:spa_x_preferred":[
+        "Ojojona"
+    ],
+    "name:swe_x_preferred":[
+        "Ojojona"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u970d\u970d\u7d0d"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +126,7 @@
         }
     ],
     "wof:id":421205119,
-    "wof:lastmodified":1554489053,
+    "wof:lastmodified":1563575162,
     "wof:name":"Ojojona",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

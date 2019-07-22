@@ -31,13 +31,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Dolores"
+    ],
     "name:eng_x_preferred":[
         "Dolores Merendon"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Dolores Merendon"
     ],
     "name:ita_x_preferred":[
+        "Dolores Merend\u00f3n"
+    ],
+    "name:nan_x_preferred":[
         "Dolores Merend\u00f3n"
     ],
     "name:nld_x_preferred":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421182897,
-    "wof:lastmodified":1554488855,
+    "wof:lastmodified":1563575397,
     "wof:name":"Dolores Merendon",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

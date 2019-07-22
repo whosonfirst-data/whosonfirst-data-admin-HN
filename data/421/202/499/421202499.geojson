@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d \u0425\u0443\u0430\u043d \u0434\u0435 \u041e\u043f\u043e\u0430"
+    ],
     "name:eng_x_preferred":[
         "San Juan de Opoa"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202499,
-    "wof:lastmodified":1554489036,
+    "wof:lastmodified":1563575158,
     "wof:name":"San Juan de Opoa",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

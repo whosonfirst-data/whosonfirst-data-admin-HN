@@ -31,13 +31,19 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tex\u00edguat"
+    ],
     "name:eng_x_preferred":[
         "Texiguat"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Texiguat"
     ],
     "name:ita_x_preferred":[
+        "Texiguat"
+    ],
+    "name:nan_x_preferred":[
         "Texiguat"
     ],
     "name:nld_x_preferred":[
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421182983,
-    "wof:lastmodified":1554488895,
+    "wof:lastmodified":1563575370,
     "wof:name":"Texigua",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

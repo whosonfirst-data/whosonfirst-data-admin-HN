@@ -22,6 +22,9 @@
     "name:ita_x_preferred":[
         "Vallecillo"
     ],
+    "name:nan_x_preferred":[
+        "Vallecillo"
+    ],
     "name:nld_x_preferred":[
         "Vallecillo"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421194467,
-    "wof:lastmodified":1561749444,
+    "wof:lastmodified":1563575115,
     "wof:name":"Vallecillo",
     "wof:parent_id":421188527,
     "wof:placetype":"locality",

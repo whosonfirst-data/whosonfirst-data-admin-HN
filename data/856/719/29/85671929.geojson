@@ -38,6 +38,9 @@
     "name:cat_x_preferred":[
         "Departament d'El Para\u00edso"
     ],
+    "name:cat_x_variant":[
+        "departament d'El Para\u00edso"
+    ],
     "name:dan_x_preferred":[
         "El Para\u00edso Department"
     ],
@@ -50,8 +53,14 @@
     "name:eng_x_preferred":[
         "El Para\u00edso"
     ],
+    "name:eng_x_variant":[
+        "El Para\u00edso Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento El Para\u00edso"
+    ],
+    "name:epo_x_variant":[
+        "El Para\u00edso"
     ],
     "name:eus_x_preferred":[
         "El Para\u00edso"
@@ -66,7 +75,11 @@
         "D\u00e9partement d'El Para\u00edso"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement d'El Para\u00edso"
+        "d\u00e9partement d'El Para\u00edso",
+        "El Para\u00edso"
+    ],
+    "name:frr_x_preferred":[
+        "El Para\u00edso"
     ],
     "name:glg_x_preferred":[
         "Departamento de El Para\u00edso"
@@ -100,6 +113,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ud30c\ub77c\uc774\uc18c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d8\ud30c\ub77c\uc774\uc18c\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "El Para\u00edso"
     ],
     "name:lav_x_preferred":[
         "Elparaiso departaments"
@@ -154,6 +173,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e25\u0e1b\u0e32\u0e44\u0e23\u0e42\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e25\u0e1b\u0e32\u0e23\u0e32\u0e2d\u0e34\u0e42\u0e0b"
     ],
     "name:tur_x_preferred":[
         "El Paraiso Departman\u0131"
@@ -300,7 +322,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749365,
+    "wof:lastmodified":1563573712,
     "wof:name":"El Para\u00edso",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

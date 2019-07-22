@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0438\u043b\u044f\u043d\u0443\u0435\u0432\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Villanueva"
+    ],
     "name:eng_x_preferred":[
         "Villanueva"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421176243,
-    "wof:lastmodified":1561749479,
+    "wof:lastmodified":1563575410,
     "wof:name":"Villanueva",
     "wof:parent_id":421184465,
     "wof:placetype":"locality",

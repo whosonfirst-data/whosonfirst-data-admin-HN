@@ -34,10 +34,13 @@
     "name:eng_x_preferred":[
         "La Libertad"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "La Libertad"
     ],
     "name:ita_x_preferred":[
+        "La Libertad"
+    ],
+    "name:nan_x_preferred":[
         "La Libertad"
     ],
     "name:nld_x_preferred":[
@@ -57,6 +60,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688\u060c \u0641\u0631\u0627\u0646\u0633\u0633\u06a9\u0648 \u0645\u0648\u0631\u0627\u0632\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0627 \u0644\u06cc\u0628\u06cc\u0631\u062a\u0627\u0688"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5229\u4f2f\u5854\u5fb7"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":421194949,
-    "wof:lastmodified":1554489018,
+    "wof:lastmodified":1563575113,
     "wof:name":"La Libertad",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

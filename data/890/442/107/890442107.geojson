@@ -19,8 +19,14 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0631\u0648\u060c \u0647\u0646\u062f\u0648\u0631\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u064a\u0648\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09af\u09bc\u09cb\u09b0\u09cb"
+    ],
+    "name:ceb_x_preferred":[
+        "Yoro"
     ],
     "name:dan_x_preferred":[
         "Yoro"
@@ -42,6 +48,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092f\u094b\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Yoro"
     ],
     "name:ind_x_preferred":[
         "Yoro"
@@ -85,6 +94,9 @@
     "name:por_x_preferred":[
         "Yoro"
     ],
+    "name:que_x_preferred":[
+        "Yoro"
+    ],
     "name:rus_x_preferred":[
         "\u0419\u043e\u0440\u043e"
     ],
@@ -114,6 +126,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0631\u0648\u060c \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0631\u0648"
     ],
     "name:vie_x_preferred":[
         "Yoro"
@@ -251,7 +266,7 @@
         }
     ],
     "wof:id":890442107,
-    "wof:lastmodified":1561749482,
+    "wof:lastmodified":1563575473,
     "wof:name":"Yoro",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

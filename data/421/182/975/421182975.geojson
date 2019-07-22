@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Santiago Puringla"
+    ],
     "name:eng_x_preferred":[
         "Santiago de Puringla"
     ],
@@ -41,6 +44,9 @@
     "name:ita_x_preferred":[
         "Santiago de Puringla"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30c6\u30a3\u30a2\u30fc\u30b4\u30fb\u30c7\u30fb\u30d7\u30ea\u30f3\u30b0\u30e9"
+    ],
     "name:nld_x_preferred":[
         "Santiago de Puringla"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:spa_x_preferred":[
         "Santiago de Puringla"
+    ],
+    "name:swe_x_preferred":[
+        "Santiago Puringla"
     ],
     "name:zho_x_preferred":[
         "\u8056\u5730\u4e9e\u54e5\u5fb7\u666e\u6797\u683c\u62c9"
@@ -112,7 +121,7 @@
         }
     ],
     "wof:id":421182975,
-    "wof:lastmodified":1554488898,
+    "wof:lastmodified":1563575405,
     "wof:name":"Santiago de Puringla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

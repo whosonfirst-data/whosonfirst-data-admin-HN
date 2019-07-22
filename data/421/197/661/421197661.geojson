@@ -16,6 +16,12 @@
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
+    "name:cat_x_preferred":[
+        "El Progreso"
+    ],
+    "name:ceb_x_preferred":[
+        "El Progreso"
+    ],
     "name:ell_x_preferred":[
         "\u0395\u03bb \u03a0\u03c1\u03bf\u03b3\u03ba\u03c1\u03ad\u03c3\u03bf"
     ],
@@ -23,6 +29,9 @@
         "El Progreso"
     ],
     "name:fra_x_preferred":[
+        "El Progreso"
+    ],
+    "name:hun_x_preferred":[
         "El Progreso"
     ],
     "name:ita_x_preferred":[
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":421197661,
-    "wof:lastmodified":1561749459,
+    "wof:lastmodified":1563575286,
     "wof:name":"El Progreso",
     "wof:parent_id":421188755,
     "wof:placetype":"locality",

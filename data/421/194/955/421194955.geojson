@@ -34,10 +34,16 @@
     "name:eng_x_preferred":[
         "Las Lajas"
     ],
-    "name:eng_x_variant":[
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0633 \u0644\u0627\u062e\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Las Lajas"
     ],
     "name:ita_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:nan_x_preferred":[
         "Las Lajas"
     ],
     "name:nld_x_preferred":[
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":421194955,
-    "wof:lastmodified":1554489018,
+    "wof:lastmodified":1563575111,
     "wof:name":"Las Lajas",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

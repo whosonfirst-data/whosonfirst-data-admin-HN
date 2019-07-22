@@ -34,10 +34,13 @@
     "name:eng_x_preferred":[
         "Vallecillo"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Vallecillo"
     ],
     "name:ita_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:nan_x_preferred":[
         "Vallecillo"
     ],
     "name:nld_x_preferred":[
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421188527,
-    "wof:lastmodified":1554488976,
+    "wof:lastmodified":1563575201,
     "wof:name":"Vallecillo",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

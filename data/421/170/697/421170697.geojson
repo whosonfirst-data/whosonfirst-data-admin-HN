@@ -31,13 +31,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Iriona"
+    ],
     "name:eng_x_preferred":[
         "Iriona"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Iriona"
     ],
     "name:ita_x_preferred":[
+        "Iriona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30aa\u30ca"
+    ],
+    "name:nan_x_preferred":[
         "Iriona"
     ],
     "name:nld_x_preferred":[
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":421170697,
-    "wof:lastmodified":1554488758,
+    "wof:lastmodified":1563575317,
     "wof:name":"Iriona",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

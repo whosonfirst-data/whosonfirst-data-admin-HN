@@ -12,8 +12,20 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Erandique"
+    ],
+    "name:eng_x_preferred":[
+        "Erandique Airport"
+    ],
     "name:eng_x_variant":[
         "EDQ"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Erandique"
+    ],
+    "name:swe_x_preferred":[
+        "Erandique"
     ],
     "oa:elevation_ft":"4199",
     "oa:type":"small_airport",
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":102556401,
-    "wof:lastmodified":1545013169,
+    "wof:lastmodified":1563573416,
     "wof:name":"Erandique Airport",
     "wof:parent_id":85671915,
     "wof:placetype":"campus",

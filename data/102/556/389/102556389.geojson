@@ -12,8 +12,23 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yoro"
+    ],
+    "name:eng_x_preferred":[
+        "Yoro Airport"
+    ],
     "name:eng_x_variant":[
         "ORO"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Yoro"
+    ],
+    "name:ron_x_preferred":[
+        "Aeroportul Yoro"
+    ],
+    "name:swe_x_preferred":[
+        "Yoro"
     ],
     "oa:elevation_ft":"2215",
     "oa:type":"small_airport",
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":102556389,
-    "wof:lastmodified":1545013169,
+    "wof:lastmodified":1563573418,
     "wof:name":"Yoro Airport",
     "wof:parent_id":85671879,
     "wof:placetype":"campus",

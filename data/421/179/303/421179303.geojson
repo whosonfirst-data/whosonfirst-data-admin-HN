@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Oropol\u00ed"
+    ],
     "name:eng_x_preferred":[
         "Oropol\u00ed"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421179303,
-    "wof:lastmodified":1561749470,
+    "wof:lastmodified":1563575346,
     "wof:name":"Oropol\u00ed",
     "wof:parent_id":421182949,
     "wof:placetype":"locality",

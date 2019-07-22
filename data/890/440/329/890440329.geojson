@@ -15,6 +15,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "El Mochito mine"
+    ],
+    "name:fra_x_preferred":[
+        "mine El Mochito"
+    ],
     "name:unk_x_variant":[
         "Mochito"
     ],
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":890440329,
-    "wof:lastmodified":1527727110,
+    "wof:lastmodified":1563575420,
     "wof:name":"El Mochito",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Atima"
+    ],
     "name:eng_x_preferred":[
         "Atima"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421200041,
-    "wof:lastmodified":1561749460,
+    "wof:lastmodified":1563575295,
     "wof:name":"Atima",
     "wof:parent_id":421183297,
     "wof:placetype":"locality",

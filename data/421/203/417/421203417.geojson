@@ -31,12 +31,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Francisco del Valle"
+    ],
     "name:eng_x_preferred":[
         "San Francisco del Valle"
     ],
     "name:eng_x_variant":[
-        "San Francisco Del Valle",
+        "San Francisco Del Valle"
+    ],
+    "name:fra_x_preferred":[
         "San Francisco del Valle"
+    ],
+    "name:ita_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:nan_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:nld_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:por_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:spa_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:swe_x_preferred":[
+        "San Francisco del Valle"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5f17\u862d\u897f\u65af\u79d1\u5fb7\u723e\u5df4\u5217"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -97,7 +123,7 @@
         }
     ],
     "wof:id":421203417,
-    "wof:lastmodified":1554489041,
+    "wof:lastmodified":1563575154,
     "wof:name":"San Francisco",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

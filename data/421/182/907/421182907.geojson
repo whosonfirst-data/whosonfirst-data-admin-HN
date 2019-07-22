@@ -34,10 +34,13 @@
     "name:eng_x_preferred":[
         "El Triunfo"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "El Triunfo"
     ],
     "name:ita_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:nan_x_preferred":[
         "El Triunfo"
     ],
     "name:nld_x_preferred":[
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421182907,
-    "wof:lastmodified":1554488857,
+    "wof:lastmodified":1563575361,
     "wof:name":"El Triunfo",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

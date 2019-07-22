@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sensenti"
+    ],
     "name:eng_x_preferred":[
         "Sensenti"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":421180157,
-    "wof:lastmodified":1561749449,
+    "wof:lastmodified":1563575168,
     "wof:name":"Sensenti",
     "wof:parent_id":421182977,
     "wof:placetype":"locality",

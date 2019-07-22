@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u09b8\u09cd\u0995\u09be\u09b0\u09be\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Yuscar\u00e1n"
+    ],
     "name:dan_x_preferred":[
         "Yuscar\u00e1n"
     ],
@@ -86,6 +89,9 @@
     "name:por_x_preferred":[
         "Yuscar\u00e1n"
     ],
+    "name:que_x_preferred":[
+        "Yuscar\u00e1n"
+    ],
     "name:rus_x_preferred":[
         "\u042e\u0441\u043a\u0430\u0440\u0430\u043d"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e22\u0e38\u0e2a\u0e04\u0e32\u0e23\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e22\u0e38\u0e2a\u0e01\u0e32\u0e23\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Yuscaran"
@@ -244,7 +253,7 @@
         }
     ],
     "wof:id":1141906013,
-    "wof:lastmodified":1561749507,
+    "wof:lastmodified":1563576186,
     "wof:name":"Yuscaran",
     "wof:parent_id":421188533,
     "wof:placetype":"locality",

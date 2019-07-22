@@ -31,11 +31,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lepaera"
+    ],
     "name:eng_x_preferred":[
         "Lepaera"
     ],
-    "name:eng_x_variant":[
+    "name:fra_x_preferred":[
         "Lepaera"
+    ],
+    "name:ita_x_preferred":[
+        "Lepaera"
+    ],
+    "name:nan_x_preferred":[
+        "Lepaera"
+    ],
+    "name:nld_x_preferred":[
+        "Lepaera"
+    ],
+    "name:por_x_preferred":[
+        "Lepaera"
+    ],
+    "name:spa_x_preferred":[
+        "Lepaera"
+    ],
+    "name:swe_x_preferred":[
+        "Lepaera"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5e15\u57c3\u62c9"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +120,7 @@
         }
     ],
     "wof:id":421205531,
-    "wof:lastmodified":1554489054,
+    "wof:lastmodified":1563575163,
     "wof:name":"Lepaera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

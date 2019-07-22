@@ -52,8 +52,14 @@
     "name:eng_x_preferred":[
         "Intibuc\u00e1"
     ],
+    "name:eng_x_variant":[
+        "Intibuc\u00e1 Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Intibuc\u00e1"
+    ],
+    "name:epo_x_variant":[
+        "Intibuc\u00e1"
     ],
     "name:eus_x_preferred":[
         "Intibuc\u00e1"
@@ -68,7 +74,11 @@
         "D\u00e9partement d'Intibuc\u00e1"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement d'Intibuc\u00e1"
+        "d\u00e9partement d'Intibuc\u00e1",
+        "Intibuc\u00e1"
+    ],
+    "name:frr_x_preferred":[
+        "Intibuc\u00e1"
     ],
     "name:glg_x_preferred":[
         "Departamento de Intibuc\u00e1"
@@ -99,6 +109,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc778\ud2f0\ubd80\uce74 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc778\ud2f0\ubd80\uce74\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Intibuc\u00e1"
     ],
     "name:lav_x_preferred":[
         "Intibukas departaments"
@@ -156,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e34\u0e19\u0e17\u0e34\u0e1a\u0e39\u0e04\u0e32"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e19\u0e15\u0e34\u0e1a\u0e39\u0e01\u0e32"
     ],
     "name:tur_x_preferred":[
         "Intibuca Departman\u0131"
@@ -301,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749395,
+    "wof:lastmodified":1563573763,
     "wof:name":"Intibuc\u00e1",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

@@ -34,13 +34,16 @@
     "name:eng_x_preferred":[
         "San Francisco"
     ],
-    "name:eng_x_variant":[
-        "San Francisco"
-    ],
     "name:epo_x_preferred":[
         "San Francisco"
     ],
+    "name:fra_x_preferred":[
+        "San Francisco"
+    ],
     "name:ita_x_preferred":[
+        "San Francisco"
+    ],
+    "name:nan_x_preferred":[
         "San Francisco"
     ],
     "name:nld_x_preferred":[
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421203451,
-    "wof:lastmodified":1554489047,
+    "wof:lastmodified":1563575155,
     "wof:name":"San Francisco",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

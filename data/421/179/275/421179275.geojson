@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Tela"
     ],
+    "name:ceb_x_preferred":[
+        "Tela"
+    ],
     "name:deu_x_preferred":[
         "Tela"
     ],
@@ -59,6 +62,9 @@
         "Tela"
     ],
     "name:swe_x_preferred":[
+        "Tela"
+    ],
+    "name:szl_x_preferred":[
         "Tela"
     ],
     "name:ukr_x_preferred":[
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":421179275,
-    "wof:lastmodified":1561749469,
+    "wof:lastmodified":1563575339,
     "wof:name":"Tela",
     "wof:parent_id":421172435,
     "wof:placetype":"locality",

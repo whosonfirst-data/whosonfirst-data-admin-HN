@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Bel\u00e9n Gualcho"
+    ],
     "name:deu_x_preferred":[
         "Bel\u00e9n Gualcho"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":421173695,
-    "wof:lastmodified":1561749451,
+    "wof:lastmodified":1563575180,
     "wof:name":"Bel\u00e9n Gualcho",
     "wof:parent_id":421169617,
     "wof:placetype":"locality",

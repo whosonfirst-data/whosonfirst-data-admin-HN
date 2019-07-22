@@ -31,11 +31,116 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0644\u0627\u0646\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09be\u09b2\u09be\u0982\u0997\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Talanga"
+    ],
+    "name:dan_x_preferred":[
+        "Talanga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03bb\u03b1\u03bd\u03b3\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Talanga"
     ],
-    "name:eng_x_variant":[
+    "name:fin_x_preferred":[
         "Talanga"
+    ],
+    "name:fra_x_preferred":[
+        "Talanga"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0ab2\u0a82\u0a97\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u0932\u0901\u0917\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u056c\u0561\u0576\u0563\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Talanga"
+    ],
+    "name:ita_x_preferred":[
+        "Talanga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30e9\u30f3\u30ac"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cb2\u0cbe\u0c82\u0c97"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\ub791\uac00"
+    ],
+    "name:lav_x_preferred":[
+        "Talanga"
+    ],
+    "name:lit_x_preferred":[
+        "Talanga"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0932\u093e\u0902\u0917"
+    ],
+    "name:msa_x_preferred":[
+        "Talanga"
+    ],
+    "name:nan_x_preferred":[
+        "Talanga"
+    ],
+    "name:nld_x_preferred":[
+        "Talanga"
+    ],
+    "name:nob_x_preferred":[
+        "Talanga"
+    ],
+    "name:pol_x_preferred":[
+        "Talanga"
+    ],
+    "name:por_x_preferred":[
+        "Talanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043d\u0433\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dbd\u0db1\u0dca\u0d9c\u0dcf"
+    ],
+    "name:spa_x_preferred":[
+        "Talanga"
+    ],
+    "name:swe_x_preferred":[
+        "Talanga"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bb2\u0b99\u0bcd\u0b95\u0bcb"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c32\u0c3e\u0c02\u0c17"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e32\u0e25\u0e31\u0e07\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Talanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u043b\u0430\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0644\u0627\u0646\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Talanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u862d\u52a0"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -96,7 +201,7 @@
         }
     ],
     "wof:id":421172467,
-    "wof:lastmodified":1554488773,
+    "wof:lastmodified":1563575225,
     "wof:name":"Talanga",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

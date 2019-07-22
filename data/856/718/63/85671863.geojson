@@ -52,8 +52,14 @@
     "name:eng_x_preferred":[
         "Francisco Moraz\u00e1n"
     ],
+    "name:eng_x_variant":[
+        "Francisco Moraz\u00e1n Department"
+    ],
     "name:epo_x_preferred":[
         "Departemento Francisco Moraz\u00e1n"
+    ],
+    "name:epo_x_variant":[
+        "Francisco Moraz\u00e1n"
     ],
     "name:eus_x_preferred":[
         "Francisco Moraz\u00e1n"
@@ -68,7 +74,11 @@
         "D\u00e9partement de Francisco Moraz\u00e1n"
     ],
     "name:fra_x_variant":[
-        "d\u00e9partement de Francisco Moraz\u00e1n"
+        "d\u00e9partement de Francisco Moraz\u00e1n",
+        "Francisco Moraz\u00e1n"
+    ],
+    "name:frr_x_preferred":[
+        "Francisco Moraz\u00e1n"
     ],
     "name:glg_x_preferred":[
         "Departamento de Francisco Moraz\u00e1n"
@@ -99,6 +109,12 @@
     ],
     "name:kor_x_preferred":[
         "\ud504\ub780\uc2dc\uc2a4\ucf54\ubaa8\ub77c\uc0b0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud504\ub780\uc2dc\uc2a4\ucf54\ubaa8\ub77c\uc0b0\uc8fc"
+    ],
+    "name:lad_x_preferred":[
+        "Francisco Moraz\u00e1n"
     ],
     "name:lav_x_preferred":[
         "Fransiskomorasanas departaments"
@@ -159,6 +175,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1f\u0e23\u0e32\u0e19\u0e0b\u0e34\u0e2a\u0e42\u0e01\u0e21\u0e2d\u0e23\u0e32\u0e0b\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1f\u0e23\u0e31\u0e19\u0e0b\u0e34\u0e2a\u0e42\u0e01 \u0e42\u0e21\u0e23\u0e32\u0e0b\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
         "Francisco Moraz"
@@ -305,7 +324,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1561749397,
+    "wof:lastmodified":1563573766,
     "wof:name":"Francisco Moraz\u00e1n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
