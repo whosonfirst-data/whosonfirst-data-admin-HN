@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabanetas"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u0431\u0430\u043d\u0435\u0442\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Sabanetas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309731933,
-    "wof:lastmodified":1537036069,
+    "wof:lastmodified":1564151207,
     "wof:name":"Sabanetas",
     "wof:parent_id":421191601,
     "wof:placetype":"locality",

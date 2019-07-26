@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Monte Vista"
+    ],
+    "name:fin_x_preferred":[
+        "Monte Vista"
+    ],
     "name:und_x_variant":[
         "Monte Vista Bomba",
         "Monte Vista"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209713033,
-    "wof:lastmodified":1537625601,
+    "wof:lastmodified":1564150413,
     "wof:name":"Monte Vista",
     "wof:parent_id":421182961,
     "wof:placetype":"locality",

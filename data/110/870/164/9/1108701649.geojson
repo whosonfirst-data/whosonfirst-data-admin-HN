@@ -37,6 +37,9 @@
         "Brus Laguna",
         "Juan Francisco Bulnes"
     ],
+    "name:spa_x_preferred":[
+        "Batalla"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108701649,
-    "wof:lastmodified":1554489360,
+    "wof:lastmodified":1564150811,
     "wof:name":"Batalla",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

@@ -26,6 +26,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cuchillas"
+    ],
+    "name:spa_x_preferred":[
+        "Cuchillas"
+    ],
+    "name:swe_x_preferred":[
+        "Cuchillas"
+    ],
     "name:und_x_variant":[
         "Cuchilla",
         "Cuchillas"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1277152941,
-    "wof:lastmodified":1537625771,
+    "wof:lastmodified":1564150151,
     "wof:name":"Cuchillas",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

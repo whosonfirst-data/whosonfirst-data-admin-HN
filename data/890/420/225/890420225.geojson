@@ -15,6 +15,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Jardines"
+    ],
+    "name:swe_x_preferred":[
+        "Jardines"
+    ],
     "qs:name":"Jardines",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":890420225,
-    "wof:lastmodified":1527792811,
+    "wof:lastmodified":1564151386,
     "wof:name":"Jardines",
     "wof:parent_id":421179809,
     "wof:placetype":"locality",

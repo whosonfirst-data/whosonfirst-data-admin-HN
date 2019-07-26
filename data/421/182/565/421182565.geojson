@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Arada"
+    ],
     "name:deu_x_preferred":[
         "Arada"
     ],
@@ -40,11 +43,23 @@
     "name:eng_x_variant":[
         "Arada"
     ],
+    "name:fra_x_preferred":[
+        "Arada"
+    ],
+    "name:glg_x_preferred":[
+        "Arada"
+    ],
     "name:nld_x_preferred":[
         "Arada"
     ],
     "name:por_x_preferred":[
         "Arada"
+    ],
+    "name:swe_x_preferred":[
+        "Arada"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0430\u0434\u0430"
     ],
     "name:unk_x_variant":[
         "La Arada"
@@ -107,7 +122,7 @@
         }
     ],
     "wof:id":421182565,
-    "wof:lastmodified":1554488826,
+    "wof:lastmodified":1564151333,
     "wof:name":"Arada",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

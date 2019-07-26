@@ -25,6 +25,9 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Las Galeras"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1193037829,
-    "wof:lastmodified":1536379132,
+    "wof:lastmodified":1564150650,
     "wof:name":"Las Galeras",
     "wof:parent_id":421205119,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Melcher"
+    ],
+    "name:nds_x_preferred":[
+        "Melcher"
+    ],
     "name:und_x_variant":[
         "Melzer",
         "M\u00e9lcher"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1327039651,
-    "wof:lastmodified":1537625605,
+    "wof:lastmodified":1564149249,
     "wof:name":"Melcher",
     "wof:parent_id":421205117,
     "wof:placetype":"locality",

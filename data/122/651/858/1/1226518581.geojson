@@ -25,6 +25,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Juancho"
+    ],
+    "name:swe_x_preferred":[
+        "Juancho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1226518581,
-    "wof:lastmodified":1537035731,
+    "wof:lastmodified":1564151984,
     "wof:name":"Juancho",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

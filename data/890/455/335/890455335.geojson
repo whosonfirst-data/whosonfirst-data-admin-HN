@@ -15,6 +15,9 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Sabana Abajo"
+    ],
     "qs:name":"Sabana Abajo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890455335,
-    "wof:lastmodified":1505343662,
+    "wof:lastmodified":1564151360,
     "wof:name":"Sabana Abajo",
     "wof:parent_id":1108701673,
     "wof:placetype":"locality",

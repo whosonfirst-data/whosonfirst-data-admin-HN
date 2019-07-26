@@ -15,6 +15,24 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lagunas"
+    ],
+    "name:deu_x_preferred":[
+        "Lagunas"
+    ],
+    "name:por_x_preferred":[
+        "Lagunas"
+    ],
+    "name:spa_x_preferred":[
+        "Lagunas"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430\u0433\u0443\u043d\u0430\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Lagunas"
+    ],
     "qs:name":"Lagunas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":890455367,
-    "wof:lastmodified":1527734194,
+    "wof:lastmodified":1564151361,
     "wof:name":"Lagunas",
     "wof:parent_id":421183319,
     "wof:placetype":"locality",

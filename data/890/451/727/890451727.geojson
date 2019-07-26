@@ -15,6 +15,9 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Callejones"
+    ],
     "name:unk_x_variant":[
         "Collejones"
     ],
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890451727,
-    "wof:lastmodified":1505343641,
+    "wof:lastmodified":1564151389,
     "wof:name":"Callejones",
     "wof:parent_id":421182937,
     "wof:placetype":"locality",

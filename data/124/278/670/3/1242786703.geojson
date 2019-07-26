@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:spa_x_preferred":[
+        "Santa Anita"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u0430 \u0410\u043d\u0438\u0442\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Santa Anita"
+    ],
     "name:und_x_variant":[
         "Santanita",
         "Santa Anita"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1242786703,
-    "wof:lastmodified":1537625572,
+    "wof:lastmodified":1564151620,
     "wof:name":"Santa Anita",
     "wof:parent_id":421205245,
     "wof:placetype":"locality",

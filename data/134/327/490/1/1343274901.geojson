@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:nds_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Cuevas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Cuevas"
+    ],
     "name:und_x_variant":[
         "Las Dos Cuevas",
         "Las Cuevas"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1343274901,
-    "wof:lastmodified":1537625639,
+    "wof:lastmodified":1564149653,
     "wof:name":"Las Cuevas",
     "wof:parent_id":421181923,
     "wof:placetype":"locality",

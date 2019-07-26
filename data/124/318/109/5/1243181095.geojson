@@ -26,9 +26,36 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:fra_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:ita_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:nld_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:pol_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:por_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:spa_x_preferred":[
+        "Apacilagua"
+    ],
+    "name:swe_x_preferred":[
+        "Apacilagua"
+    ],
     "name:und_x_variant":[
         "Apasilagua",
         "Apacilagua"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5e15\u897f\u62c9\u74dc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":1243181095,
-    "wof:lastmodified":1537625794,
+    "wof:lastmodified":1564151660,
     "wof:name":"Apacilagua",
     "wof:parent_id":421193685,
     "wof:placetype":"locality",

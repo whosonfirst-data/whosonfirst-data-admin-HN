@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pital"
+    ],
+    "name:spa_x_preferred":[
+        "Pital"
+    ],
+    "name:swe_x_preferred":[
+        "Pital"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260153301,
-    "wof:lastmodified":1536888966,
+    "wof:lastmodified":1564150694,
     "wof:name":"Pital",
     "wof:parent_id":421170949,
     "wof:placetype":"locality",

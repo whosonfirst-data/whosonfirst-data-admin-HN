@@ -26,6 +26,30 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bos_x_preferred":[
+        "Pola\u010da"
+    ],
+    "name:deu_x_preferred":[
+        "Polaca"
+    ],
+    "name:fra_x_preferred":[
+        "Pola\u010da"
+    ],
+    "name:hrv_x_preferred":[
+        "Pola\u010da"
+    ],
+    "name:hun_x_preferred":[
+        "Pola\u010da"
+    ],
+    "name:por_x_preferred":[
+        "Polaca"
+    ],
+    "name:slv_x_preferred":[
+        "Pola\u010da"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043e\u043b\u0430\u0447\u0430"
+    ],
     "name:und_x_variant":[
         "Caserio Polaca",
         "Polaca"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343437509,
-    "wof:lastmodified":1537625590,
+    "wof:lastmodified":1564149700,
     "wof:name":"Polaca",
     "wof:parent_id":421194963,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Desmonte"
+    ],
+    "name:spa_x_preferred":[
+        "El Desmonte"
+    ],
     "name:und_x_variant":[
         "Desmonte",
         "El Desmonte"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226020767,
-    "wof:lastmodified":1537625742,
+    "wof:lastmodified":1564151977,
     "wof:name":"El Desmonte",
     "wof:parent_id":421183293,
     "wof:placetype":"locality",

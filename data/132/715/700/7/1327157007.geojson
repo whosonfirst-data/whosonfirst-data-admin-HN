@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "La Ruda"
+    ],
+    "name:fra_x_preferred":[
+        "La Ruda"
+    ],
+    "name:spa_x_preferred":[
+        "La Ruda Salska"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327157007,
-    "wof:lastmodified":1537075392,
+    "wof:lastmodified":1564149202,
     "wof:name":"La Ruda",
     "wof:parent_id":1108701725,
     "wof:placetype":"locality",

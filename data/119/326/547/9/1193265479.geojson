@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Tejar"
+    ],
+    "name:fra_x_preferred":[
+        "El Tejar"
+    ],
+    "name:ita_x_preferred":[
+        "El Tejar"
+    ],
+    "name:spa_x_preferred":[
+        "El Tejar"
+    ],
+    "name:swe_x_preferred":[
+        "El Tejar"
+    ],
     "name:und_x_variant":[
         "Tejar",
         "El Tejar"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1193265479,
-    "wof:lastmodified":1537625692,
+    "wof:lastmodified":1564150689,
     "wof:name":"El Tejar",
     "wof:parent_id":421182947,
     "wof:placetype":"locality",

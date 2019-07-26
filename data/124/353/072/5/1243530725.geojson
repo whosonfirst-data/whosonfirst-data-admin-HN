@@ -26,10 +26,19 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Lajas Blancas"
+    ],
+    "name:spa_x_preferred":[
+        "Lajas Blancas"
+    ],
     "name:und_x_variant":[
         "Laja Blanca",
         "Lajas",
         "Lajas Blancas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u54c8\u65af\u5e03\u862d\u5361\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243530725,
-    "wof:lastmodified":1537625654,
+    "wof:lastmodified":1564151431,
     "wof:name":"Lajas Blancas",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

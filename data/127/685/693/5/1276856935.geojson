@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miralda"
+    ],
+    "name:swe_x_preferred":[
+        "Miralda"
+    ],
+    "name:war_x_preferred":[
+        "Miralda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276856935,
-    "wof:lastmodified":1537068850,
+    "wof:lastmodified":1564150182,
     "wof:name":"Miralda",
     "wof:parent_id":421191361,
     "wof:placetype":"locality",

@@ -31,10 +31,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Tocoa"
+    ],
     "name:eng_x_preferred":[
         "Tocoa"
     ],
     "name:eng_x_variant":[
+        "Tocoa"
+    ],
+    "name:swe_x_preferred":[
         "Tocoa"
     ],
     "qs:gn_country":"HN",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421182985,
-    "wof:lastmodified":1554488936,
+    "wof:lastmodified":1564151329,
     "wof:name":"Tocoa",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

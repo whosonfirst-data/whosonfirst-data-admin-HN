@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Barrosa"
+    ],
+    "name:swe_x_preferred":[
+        "Barrosa"
+    ],
     "name:und_x_variant":[
         "San Jos\u00e9",
         "Barrosas",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343446491,
-    "wof:lastmodified":1537625789,
+    "wof:lastmodified":1564149695,
     "wof:name":"Barrosa",
     "wof:parent_id":421191677,
     "wof:placetype":"locality",

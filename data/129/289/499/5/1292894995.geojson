@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Los Horcones"
+    ],
+    "name:por_x_preferred":[
+        "Los horcones"
+    ],
     "name:und_x_variant":[
         "Horcones",
         "Los Horcones"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1292894995,
-    "wof:lastmodified":1537625616,
+    "wof:lastmodified":1564149769,
     "wof:name":"Los Horcones",
     "wof:parent_id":421182975,
     "wof:placetype":"locality",

@@ -25,6 +25,30 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sonoma"
+    ],
+    "name:deu_x_preferred":[
+        "Sonoma"
+    ],
+    "name:fra_x_preferred":[
+        "Sonoma"
+    ],
+    "name:kor_x_preferred":[
+        "\uc11c\ub178\ub9c8"
+    ],
+    "name:pol_x_preferred":[
+        "Sonoma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043d\u043e\u043c\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u043e\u043d\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Sonoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1243075303,
-    "wof:lastmodified":1536842458,
+    "wof:lastmodified":1564151408,
     "wof:name":"Sonoma",
     "wof:parent_id":421170697,
     "wof:placetype":"locality",

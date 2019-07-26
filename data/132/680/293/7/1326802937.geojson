@@ -26,9 +26,30 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:ita_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:nld_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:por_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:spa_x_preferred":[
+        "Macuelizo"
+    ],
     "name:und_x_variant":[
         "Macueliso",
         "Macuelizo"
+    ],
+    "name:vie_x_preferred":[
+        "Macuelizo"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u5eab\u57c3\u5229\u7d22"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1326802937,
-    "wof:lastmodified":1537625608,
+    "wof:lastmodified":1564149127,
     "wof:name":"Macuelizo",
     "wof:parent_id":421191345,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Minas"
+    ],
+    "name:deu_x_preferred":[
+        "Las Minas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Minas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Minas"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327104869,
-    "wof:lastmodified":1536656082,
+    "wof:lastmodified":1564149343,
     "wof:name":"Las Minas",
     "wof:parent_id":1108701673,
     "wof:placetype":"locality",

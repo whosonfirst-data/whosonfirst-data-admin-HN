@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Choluteca"
+    ],
     "name:ces_x_preferred":[
         "Choluteca"
     ],
@@ -56,6 +59,9 @@
         "Choluteca"
     ],
     "name:spa_x_preferred":[
+        "Choluteca"
+    ],
+    "name:swe_x_preferred":[
         "Choluteca"
     ],
     "qs:gn_country":"HN",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":421188769,
-    "wof:lastmodified":1554488990,
+    "wof:lastmodified":1564151264,
     "wof:name":"Choluteca",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

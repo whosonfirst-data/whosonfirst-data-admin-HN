@@ -58,6 +58,9 @@
     "name:eng_x_variant":[
         "Concordia"
     ],
+    "name:est_x_preferred":[
+        "Concordia"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0646\u06a9\u0648\u0631\u062f\u06cc\u0627"
     ],
@@ -73,6 +76,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e0\u05e7\u05d5\u05e8\u05d3\u05d9\u05d4"
     ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0576\u056f\u0578\u0580\u0564\u056b\u0561"
+    ],
     "name:ita_x_preferred":[
         "Concordia"
     ],
@@ -83,6 +89,9 @@
         "\ucf69\ucf54\ub974\ub514\uc544"
     ],
     "name:lat_x_preferred":[
+        "Concordia"
+    ],
+    "name:mlg_x_preferred":[
         "Concordia"
     ],
     "name:nld_x_preferred":[
@@ -131,6 +140,9 @@
         "Concordia"
     ],
     "name:vol_x_preferred":[
+        "Concordia"
+    ],
+    "name:war_x_preferred":[
         "Concordia"
     ],
     "qs:gn_country":"HN",
@@ -191,7 +203,7 @@
         }
     ],
     "wof:id":421191347,
-    "wof:lastmodified":1554488998,
+    "wof:lastmodified":1564151293,
     "wof:name":"Concordia",
     "wof:parent_id":85671877,
     "wof:placetype":"county",
