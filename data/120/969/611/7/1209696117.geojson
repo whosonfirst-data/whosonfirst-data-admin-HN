@@ -25,6 +25,33 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:deu_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:fra_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:ita_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:nld_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:pol_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:por_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:spa_x_preferred":[
+        "Potrerillos"
+    ],
+    "name:swe_x_preferred":[
+        "Potrerillos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -42,7 +69,7 @@
         }
     ],
     "wof:id":1209696117,
-    "wof:lastmodified":1536279069,
+    "wof:lastmodified":1564150480,
     "wof:name":"Potrerillos",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Cienega"
+    ],
+    "name:swe_x_preferred":[
+        "La Cienega"
+    ],
     "name:und_x_variant":[
         "La Cienaga",
         "La Ci\u00e9nega"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1193257583,
-    "wof:lastmodified":1537625663,
+    "wof:lastmodified":1564150647,
     "wof:name":"La Cienega",
     "wof:parent_id":421191093,
     "wof:placetype":"locality",

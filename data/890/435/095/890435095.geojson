@@ -15,6 +15,24 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "El Milagro"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da-\u10db\u10d8\u10da\u10d0\u10d2\u10e0\u10dd\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
+    "name:nor_x_preferred":[
+        "El Milagro"
+    ],
+    "name:por_x_preferred":[
+        "El Milagro"
+    ],
+    "name:que_x_preferred":[
+        "Achachilla distritu"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u7c73\u62c9\u683c\u7f85\u5340"
+    ],
     "qs:name":"El Milagro",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":890435095,
-    "wof:lastmodified":1527793052,
+    "wof:lastmodified":1564151393,
     "wof:name":"El Milagro",
     "wof:parent_id":421184465,
     "wof:placetype":"locality",

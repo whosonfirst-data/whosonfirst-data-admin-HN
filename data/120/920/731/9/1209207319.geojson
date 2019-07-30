@@ -25,6 +25,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Loma"
+    ],
+    "name:deu_x_preferred":[
+        "La Loma"
+    ],
+    "name:spa_x_preferred":[
+        "La Loma"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0430 \u041b\u043e\u043c\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "La Loma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +49,7 @@
         "gn:id":3607487
     },
     "wof:country":"HN",
-    "wof:geomhash":"f9ceddf2833d9b67c26e407515fb8042",
+    "wof:geomhash":"7b4c43431197804c67ef19202ce292fd",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209207319,
-    "wof:lastmodified":1536294411,
+    "wof:lastmodified":1564150515,
     "wof:name":"La Loma",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +68,9 @@
 },
   "bbox": [
     -87.88333,
-    15.683329999999998,
+    15.68333,
     -87.88333,
-    15.683329999999998
+    15.68333
 ],
   "geometry": {"coordinates":[-87.88333,15.68333],"type":"Point"}
 }

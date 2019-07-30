@@ -26,6 +26,24 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Villa Franca"
+    ],
+    "name:ceb_x_preferred":[
+        "Villa Franca"
+    ],
+    "name:eus_x_preferred":[
+        "Villa Franca"
+    ],
+    "name:ita_x_preferred":[
+        "Villa Franca"
+    ],
+    "name:por_x_preferred":[
+        "Villa Franca"
+    ],
+    "name:spa_x_preferred":[
+        "Villa Franca"
+    ],
     "name:und_x_variant":[
         "Villa France",
         "Villa Franca"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1243377457,
-    "wof:lastmodified":1537625558,
+    "wof:lastmodified":1564151434,
     "wof:name":"Villa Franca",
     "wof:parent_id":421172435,
     "wof:placetype":"locality",

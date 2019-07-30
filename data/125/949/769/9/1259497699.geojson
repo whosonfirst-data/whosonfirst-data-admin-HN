@@ -25,6 +25,90 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0644\u064a\u0646\u062f\u0631\u064a\u0633"
+    ],
+    "name:arg_x_preferred":[
+        "Colindres"
+    ],
+    "name:cat_x_preferred":[
+        "Colindres"
+    ],
+    "name:ceb_x_preferred":[
+        "Colindres"
+    ],
+    "name:epo_x_preferred":[
+        "Colindres"
+    ],
+    "name:eus_x_preferred":[
+        "Colindres"
+    ],
+    "name:fra_x_preferred":[
+        "Colindres"
+    ],
+    "name:glg_x_preferred":[
+        "Colindres"
+    ],
+    "name:hun_x_preferred":[
+        "Colindres"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u056c\u056b\u0576\u0564\u0580\u0565\u057d"
+    ],
+    "name:ina_x_preferred":[
+        "Colindres"
+    ],
+    "name:ita_x_preferred":[
+        "Colindres"
+    ],
+    "name:msa_x_preferred":[
+        "Colindres"
+    ],
+    "name:nld_x_preferred":[
+        "Colindres"
+    ],
+    "name:oci_x_preferred":[
+        "Colindres"
+    ],
+    "name:pam_x_preferred":[
+        "Colindres"
+    ],
+    "name:pol_x_preferred":[
+        "Colindres"
+    ],
+    "name:por_x_preferred":[
+        "Colindres"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043b\u0438\u043d\u0434\u0440\u0435\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Colindres"
+    ],
+    "name:sqi_x_preferred":[
+        "Colindres"
+    ],
+    "name:swe_x_preferred":[
+        "Colindres"
+    ],
+    "name:tur_x_preferred":[
+        "Colindres"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043b\u0456\u043d\u0434\u0440\u0435\u0441"
+    ],
+    "name:uzb_x_preferred":[
+        "Colindres"
+    ],
+    "name:vie_x_preferred":[
+        "Colindres"
+    ],
+    "name:war_x_preferred":[
+        "Colindres"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u6797\u5fb7\u96f7\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +132,7 @@
         }
     ],
     "wof:id":1259497699,
-    "wof:lastmodified":1536837277,
+    "wof:lastmodified":1564151808,
     "wof:name":"Colindres",
     "wof:parent_id":421182929,
     "wof:placetype":"locality",

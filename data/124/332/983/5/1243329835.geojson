@@ -25,6 +25,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Galvez"
+    ],
+    "name:swe_x_preferred":[
+        "Galvez"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243329835,
-    "wof:lastmodified":1536973353,
+    "wof:lastmodified":1564151574,
     "wof:name":"Galvez",
     "wof:parent_id":421183293,
     "wof:placetype":"locality",

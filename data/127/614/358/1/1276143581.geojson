@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Canta Gallo"
+    ],
+    "name:spa_x_preferred":[
+        "Canta Gallo"
+    ],
+    "name:zho_x_preferred":[
+        "\u574e\u5854\u52a0\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276143581,
-    "wof:lastmodified":1537031627,
+    "wof:lastmodified":1564150167,
     "wof:name":"Canta Gallo",
     "wof:parent_id":421188505,
     "wof:placetype":"locality",

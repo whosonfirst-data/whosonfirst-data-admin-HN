@@ -25,8 +25,29 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tomal\u00e1"
+    ],
+    "name:fra_x_preferred":[
+        "Tomal\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Tomal\u00e1"
+    ],
+    "name:por_x_preferred":[
+        "Tomal\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Tomal\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Tomal\u00e1"
+    ],
     "name:und_x_variant":[
         "Tomal\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u99ac\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1276527365,
-    "wof:lastmodified":1537625561,
+    "wof:lastmodified":1564150227,
     "wof:name":"Tomala",
     "wof:parent_id":421203423,
     "wof:placetype":"locality",

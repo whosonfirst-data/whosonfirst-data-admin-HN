@@ -25,6 +25,42 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u063a\u0648\u0627\u062a\u0628\u064a\u0643\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:fra_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:ita_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:lit_x_preferred":[
+        "Siguatepek\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:pol_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:por_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u0433\u0443\u0430\u0442\u0435\u043f\u0435\u043a\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:swe_x_preferred":[
+        "Siguatepeque"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u74dc\u7279\u4f69\u514b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1344236347,
-    "wof:lastmodified":1536619722,
+    "wof:lastmodified":1564149473,
     "wof:name":"Siguatepeque",
     "wof:parent_id":421182587,
     "wof:placetype":"locality",

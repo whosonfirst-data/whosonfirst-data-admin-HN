@@ -26,6 +26,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:ita_x_preferred":[
+        "Las Delicias"
+    ],
+    "name:swe_x_preferred":[
+        "Las Delicias"
+    ],
     "name:und_x_variant":[
         "Las Delicias del Jute",
         "Las Delicias"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1326696537,
-    "wof:lastmodified":1537625638,
+    "wof:lastmodified":1564149147,
     "wof:name":"Las Delicias",
     "wof:parent_id":421188755,
     "wof:placetype":"locality",

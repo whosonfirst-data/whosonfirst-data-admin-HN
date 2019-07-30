@@ -15,6 +15,45 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:ceb_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:deu_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05d2\u05d5\u05e1\u05d8\u05d9\u05df"
+    ],
+    "name:ilo_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:lit_x_preferred":[
+        "San Agustinas"
+    ],
+    "name:pol_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:por_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0410\u0433\u0443\u0441\u0442\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:spa_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:swe_x_preferred":[
+        "San Agust\u00edn"
+    ],
+    "name:vie_x_preferred":[
+        "San Agust\u00edn"
+    ],
     "qs:name":"San Agust\u00edn",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +86,7 @@
         }
     ],
     "wof:id":890453407,
-    "wof:lastmodified":1527736640,
+    "wof:lastmodified":1564151365,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:sco_x_preferred":[
+        "Tres Cerros"
+    ],
+    "name:spa_x_preferred":[
+        "Tres Cerros"
+    ],
     "name:und_x_variant":[
         "Tracerros",
         "Tres Cerros"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310398117,
-    "wof:lastmodified":1537625561,
+    "wof:lastmodified":1564150908,
     "wof:name":"Tres Cerros",
     "wof:parent_id":421184465,
     "wof:placetype":"locality",

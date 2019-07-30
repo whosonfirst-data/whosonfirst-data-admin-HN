@@ -25,6 +25,9 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Villa Vieja"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243145353,
-    "wof:lastmodified":1536742536,
+    "wof:lastmodified":1564151554,
     "wof:name":"Villa Vieja",
     "wof:parent_id":421191347,
     "wof:placetype":"locality",

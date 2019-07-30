@@ -25,6 +25,33 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03b5\u03bb\u03af\u03ba\u03b1"
+    ],
+    "name:est_x_preferred":[
+        "Telica"
+    ],
+    "name:fra_x_preferred":[
+        "Telica"
+    ],
+    "name:ita_x_preferred":[
+        "Telica"
+    ],
+    "name:spa_x_preferred":[
+        "Telica"
+    ],
+    "name:swe_x_preferred":[
+        "Telica"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0644\u06cc\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Telica"
+    ],
+    "name:zho_x_preferred":[
+        "\u7279\u5229\u5361"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1343344287,
-    "wof:lastmodified":1536914433,
+    "wof:lastmodified":1564149608,
     "wof:name":"Telica",
     "wof:parent_id":1108701673,
     "wof:placetype":"locality",

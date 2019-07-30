@@ -18,6 +18,9 @@
     "name:unk_x_variant":[
         "Nombre Jes\u00fas"
     ],
+    "name:zho_x_preferred":[
+        "\u8036\u7a4c\u8056\u540d\u93ae"
+    ],
     "qs:name":"Nombre de Jes\u00fas",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890435045,
-    "wof:lastmodified":1527793050,
+    "wof:lastmodified":1564151391,
     "wof:name":"Nombre de Jes\u00fas",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

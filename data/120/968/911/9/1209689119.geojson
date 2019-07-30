@@ -25,6 +25,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Divisaderos"
+    ],
+    "name:spa_x_preferred":[
+        "Divisaderos"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +40,7 @@
         "gn:id":3612851
     },
     "wof:country":"HN",
-    "wof:geomhash":"1f383133965b20da1ca71b9491de38d0",
+    "wof:geomhash":"3c0f5eb9dd8fe5044d18bcec41a120bf",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209689119,
-    "wof:lastmodified":1536279306,
+    "wof:lastmodified":1564150437,
     "wof:name":"Divisaderos",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     -86.2,
-    15.166670000000002,
+    15.16667,
     -86.2,
-    15.166670000000002
+    15.16667
 ],
   "geometry": {"coordinates":[-86.2,15.16667],"type":"Point"}
 }

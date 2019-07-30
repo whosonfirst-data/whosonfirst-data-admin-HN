@@ -25,6 +25,24 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carmelita"
+    ],
+    "name:fra_x_preferred":[
+        "Carmelita"
+    ],
+    "name:nds_x_preferred":[
+        "Carmelita"
+    ],
+    "name:por_x_preferred":[
+        "Carmelita"
+    ],
+    "name:spa_x_preferred":[
+        "Carmelita"
+    ],
+    "name:swe_x_preferred":[
+        "Carmelita"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1344024285,
-    "wof:lastmodified":1536928663,
+    "wof:lastmodified":1564149634,
     "wof:name":"Carmelita",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

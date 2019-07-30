@@ -25,6 +25,36 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:fra_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:ita_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:nld_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:pol_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:por_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:spa_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:swe_x_preferred":[
+        "Jacaleapa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06a9\u0644\u06cc\u067e\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5361\u840a\u963f\u5e15"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1309999259,
-    "wof:lastmodified":1536652193,
+    "wof:lastmodified":1564151149,
     "wof:name":"Jacaleapa",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Raton"
+    ],
+    "name:fra_x_preferred":[
+        "Raton"
+    ],
+    "name:por_x_preferred":[
+        "Raton"
+    ],
+    "name:spa_x_preferred":[
+        "Rat\u00f3n"
+    ],
+    "name:swe_x_preferred":[
+        "Raton"
+    ],
     "name:und_x_variant":[
         "Punta Rat\u00f3n",
         "Rat\u00f3n"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1293689807,
-    "wof:lastmodified":1537625586,
+    "wof:lastmodified":1564149847,
     "wof:name":"Raton",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

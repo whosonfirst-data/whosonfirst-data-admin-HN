@@ -26,6 +26,18 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ulan"
+    ],
+    "name:deu_x_preferred":[
+        "Ulan"
+    ],
+    "name:pol_x_preferred":[
+        "Ulan"
+    ],
+    "name:swe_x_preferred":[
+        "Ulan"
+    ],
     "name:und_x_variant":[
         "Olan",
         "Ul\u00e1n"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1293508605,
-    "wof:lastmodified":1537625560,
+    "wof:lastmodified":1564149837,
     "wof:name":"Ulan",
     "wof:parent_id":421182889,
     "wof:placetype":"locality",

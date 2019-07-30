@@ -26,6 +26,18 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Mto Monga"
+    ],
+    "name:swe_x_preferred":[
+        "Monga"
+    ],
     "name:und_x_variant":[
         "Manga",
         "Monga"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1327200177,
-    "wof:lastmodified":1537625602,
+    "wof:lastmodified":1564149375,
     "wof:name":"Monga",
     "wof:parent_id":1108701697,
     "wof:placetype":"locality",

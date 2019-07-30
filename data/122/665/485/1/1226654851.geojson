@@ -25,6 +25,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Palo Solo"
+    ],
+    "name:deu_x_preferred":[
+        "Palo Solo"
+    ],
+    "name:fra_x_preferred":[
+        "Palo Solo"
+    ],
+    "name:nor_x_preferred":[
+        "Palo Solo"
+    ],
+    "name:spa_x_preferred":[
+        "Palo Solo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1226654851,
-    "wof:lastmodified":1536845147,
+    "wof:lastmodified":1564152132,
     "wof:name":"Palo Solo",
     "wof:parent_id":890421511,
     "wof:placetype":"locality",

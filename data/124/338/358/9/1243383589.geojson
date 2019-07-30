@@ -26,10 +26,19 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Las Uvas"
+    ],
+    "name:spa_x_preferred":[
+        "Las Uvas"
+    ],
     "name:und_x_variant":[
         "Eluca",
         "El Uva",
         "Las Uvas"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u70cf\u74e6\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243383589,
-    "wof:lastmodified":1537625629,
+    "wof:lastmodified":1564151415,
     "wof:name":"Las Uvas",
     "wof:parent_id":421182935,
     "wof:placetype":"locality",

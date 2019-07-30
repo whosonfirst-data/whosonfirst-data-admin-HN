@@ -25,6 +25,27 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Carbonera"
+    ],
+    "name:ita_x_preferred":[
+        "Carbonera"
+    ],
+    "name:lat_x_preferred":[
+        "Carbonera"
+    ],
+    "name:lmo_x_preferred":[
+        "Carbonera"
+    ],
+    "name:spa_x_preferred":[
+        "Carbonera"
+    ],
+    "name:srp_x_preferred":[
+        "Carbonera"
+    ],
+    "name:swe_x_preferred":[
+        "Carbonera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1343249203,
-    "wof:lastmodified":1537049132,
+    "wof:lastmodified":1564149513,
     "wof:name":"Carbonera",
     "wof:parent_id":421182887,
     "wof:placetype":"locality",

@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Puente"
+    ],
+    "name:fra_x_preferred":[
+        "Puente"
+    ],
+    "name:glg_x_preferred":[
+        "Puente"
+    ],
+    "name:por_x_preferred":[
+        "Puente"
+    ],
+    "name:spa_x_preferred":[
+        "Puente"
+    ],
     "name:und_x_variant":[
         "Hacienda el Puente",
         "Puente"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1326835159,
-    "wof:lastmodified":1537625587,
+    "wof:lastmodified":1564149285,
     "wof:name":"Puente",
     "wof:parent_id":421194947,
     "wof:placetype":"locality",

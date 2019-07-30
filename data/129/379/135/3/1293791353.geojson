@@ -25,6 +25,18 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:deu_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:spa_x_preferred":[
+        "La Puntilla"
+    ],
+    "name:swe_x_preferred":[
+        "La Puntilla"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1293791353,
-    "wof:lastmodified":1536844930,
+    "wof:lastmodified":1564149778,
     "wof:name":"La Puntilla",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

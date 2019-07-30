@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
+    "name:ita_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
+    "name:spa_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
+    "name:swe_x_preferred":[
+        "Pe\u00f1a Blanca"
+    ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":3603856,
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":421179301,
-    "wof:lastmodified":1527717702,
+    "wof:lastmodified":1564151316,
     "wof:name":"Pe\u00f1a Blanca",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

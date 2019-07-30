@@ -25,6 +25,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Cacao"
+    ],
+    "name:ita_x_preferred":[
+        "El Cacao"
+    ],
+    "name:swe_x_preferred":[
+        "El Cacao"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1310710463,
-    "wof:lastmodified":1536618992,
+    "wof:lastmodified":1564150839,
     "wof:name":"El Cacao",
     "wof:parent_id":421185037,
     "wof:placetype":"locality",

@@ -26,6 +26,36 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "Cequia"
+    ],
+    "name:aym_x_preferred":[
+        "Larqa"
+    ],
+    "name:cat_x_preferred":[
+        "S\u00e9quia"
+    ],
+    "name:deu_x_preferred":[
+        "Acequia"
+    ],
+    "name:eus_x_preferred":[
+        "Areka"
+    ],
+    "name:ita_x_preferred":[
+        "Roggia"
+    ],
+    "name:lmo_x_preferred":[
+        "Ronsgia"
+    ],
+    "name:por_x_preferred":[
+        "Ac\u00e9quia"
+    ],
+    "name:que_x_preferred":[
+        "Rarqa"
+    ],
+    "name:spa_x_preferred":[
+        "Acequia"
+    ],
     "name:und_x_variant":[
         "La Acequilla",
         "Acequia"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1293671383,
-    "wof:lastmodified":1537625798,
+    "wof:lastmodified":1564149888,
     "wof:name":"Acequia",
     "wof:parent_id":890455339,
     "wof:placetype":"locality",

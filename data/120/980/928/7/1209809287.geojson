@@ -26,6 +26,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "El Leoncito"
+    ],
+    "name:fra_x_preferred":[
+        "El Leoncito"
+    ],
+    "name:ita_x_preferred":[
+        "El Leoncito"
+    ],
+    "name:spa_x_preferred":[
+        "El Leoncito"
+    ],
+    "name:swe_x_preferred":[
+        "El Leoncito"
+    ],
     "name:und_x_variant":[
         "Leoncito",
         "El Leoncito"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1209809287,
-    "wof:lastmodified":1537625728,
+    "wof:lastmodified":1564150536,
     "wof:name":"El Leoncito",
     "wof:parent_id":1108694791,
     "wof:placetype":"locality",

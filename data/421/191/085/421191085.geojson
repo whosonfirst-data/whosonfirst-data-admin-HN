@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Alianza"
+    ],
     "name:eng_x_preferred":[
         "Alianza"
     ],
@@ -41,6 +44,9 @@
         "Alianza"
     ],
     "name:spa_x_preferred":[
+        "Alianza"
+    ],
+    "name:swe_x_preferred":[
         "Alianza"
     ],
     "qs:gn_country":"HN",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421191085,
-    "wof:lastmodified":1554489005,
+    "wof:lastmodified":1564151288,
     "wof:name":"Alianza",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

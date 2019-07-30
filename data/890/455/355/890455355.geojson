@@ -15,6 +15,21 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:ita_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d8\u10d0\u10dc\u10dd-\u10da\u10d0\u10e0\u10d2\u10dd"
+    ],
+    "name:spa_x_preferred":[
+        "Llano Largo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5229\u4e9e\u8afe\u62c9\u723e\u6208"
+    ],
     "qs:name":"Llano Largo",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +62,7 @@
         }
     ],
     "wof:id":890455355,
-    "wof:lastmodified":1527734191,
+    "wof:lastmodified":1564151359,
     "wof:name":"Llano Largo",
     "wof:parent_id":421188495,
     "wof:placetype":"locality",

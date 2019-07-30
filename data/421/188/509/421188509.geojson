@@ -31,6 +31,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bre_x_preferred":[
+        "Naranjito"
+    ],
     "name:ceb_x_preferred":[
         "Naranjito"
     ],
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":421188509,
-    "wof:lastmodified":1554488969,
+    "wof:lastmodified":1564151267,
     "wof:name":"Naranjito",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

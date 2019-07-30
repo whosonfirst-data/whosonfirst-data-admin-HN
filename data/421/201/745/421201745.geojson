@@ -28,6 +28,12 @@
     "name:spa_x_preferred":[
         "Zambrano"
     ],
+    "name:srp_x_preferred":[
+        "\u0417\u0430\u043c\u0431\u0440\u0430\u043d\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0440\u0430\u043d\u043e"
+    ],
     "name:vie_x_preferred":[
         "Zambrano"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":421201745,
-    "wof:lastmodified":1527716442,
+    "wof:lastmodified":1564151303,
     "wof:name":"Zambrano",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

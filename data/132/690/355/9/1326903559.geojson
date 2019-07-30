@@ -26,6 +26,12 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Las Coloradas"
+    ],
+    "name:swe_x_preferred":[
+        "Las Coloradas"
+    ],
     "name:und_x_variant":[
         "Los Colorados",
         "Coloradas",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1326903559,
-    "wof:lastmodified":1537625640,
+    "wof:lastmodified":1564149295,
     "wof:name":"Las Coloradas",
     "wof:parent_id":421203413,
     "wof:placetype":"locality",

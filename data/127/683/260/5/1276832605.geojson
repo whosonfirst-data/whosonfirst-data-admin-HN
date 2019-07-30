@@ -28,6 +28,24 @@
     "name:eng_x_preferred":[
         "Victoria"
     ],
+    "name:fra_x_preferred":[
+        "Victoria"
+    ],
+    "name:ita_x_preferred":[
+        "Victoria"
+    ],
+    "name:por_x_preferred":[
+        "Victoria"
+    ],
+    "name:spa_x_preferred":[
+        "Victoria"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06a9\u0679\u0648\u0631\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u7dad\u591a\u5229\u4e9e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1276832605,
-    "wof:lastmodified":1537625558,
+    "wof:lastmodified":1564150214,
     "wof:name":"Victoria",
     "wof:parent_id":421191091,
     "wof:placetype":"locality",

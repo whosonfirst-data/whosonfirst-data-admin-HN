@@ -26,6 +26,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aguas Zarcas"
+    ],
+    "name:ita_x_preferred":[
+        "Aguas Zarcas"
+    ],
+    "name:spa_x_preferred":[
+        "Aguas Zarcas"
+    ],
     "name:und_x_variant":[
         "Agua Zarca",
         "Aguas Zarcas"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1243518091,
-    "wof:lastmodified":1537625796,
+    "wof:lastmodified":1564151583,
     "wof:name":"Aguas Zarcas",
     "wof:parent_id":1108701707,
     "wof:placetype":"locality",

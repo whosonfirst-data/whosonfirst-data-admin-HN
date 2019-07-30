@@ -26,6 +26,15 @@
     "iso:country":"HN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "El Chocolate"
+    ],
+    "name:fra_x_preferred":[
+        "El Chocolate"
+    ],
+    "name:spa_x_preferred":[
+        "El Chocolate"
+    ],
     "name:und_x_variant":[
         "Chocolate",
         "Chocolte",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1277140477,
-    "wof:lastmodified":1537625749,
+    "wof:lastmodified":1564150147,
     "wof:name":"El Chocolate",
     "wof:parent_id":421203403,
     "wof:placetype":"locality",
