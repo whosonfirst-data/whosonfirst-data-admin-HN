@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OC"
+    ],
     "lbl:latitude":14.511208,
     "lbl:longitude":-89.047161,
     "mps:latitude":14.511021,
@@ -304,16 +307,13 @@
         }
     ],
     "wof:id":85671919,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573717,
+    "wof:lastmodified":1565713838,
     "wof:name":"Ocotepeque",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CP"
+    ],
     "lbl:latitude":14.914223,
     "lbl:longitude":-88.924129,
     "mps:latitude":14.922602,
@@ -314,16 +317,13 @@
         }
     ],
     "wof:id":85671911,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573709,
+    "wof:lastmodified":1565713823,
     "wof:name":"Cop\u00e1n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

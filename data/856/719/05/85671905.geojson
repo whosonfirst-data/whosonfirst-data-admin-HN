@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":15.142586,
     "lbl:longitude":-88.380341,
     "mps:latitude":15.139431,
@@ -321,16 +324,13 @@
         }
     ],
     "wof:id":85671905,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573707,
+    "wof:lastmodified":1565713822,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

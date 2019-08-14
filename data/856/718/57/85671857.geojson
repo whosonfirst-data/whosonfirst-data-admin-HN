@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CL"
+    ],
     "lbl:latitude":15.640045,
     "lbl:longitude":-85.376573,
     "mps:latitude":15.636069,
@@ -311,16 +314,13 @@
         }
     ],
     "wof:id":85671857,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573732,
+    "wof:lastmodified":1565713867,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

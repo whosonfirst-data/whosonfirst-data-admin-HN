@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YO"
+    ],
     "lbl:latitude":15.194218,
     "lbl:longitude":-87.344657,
     "mps:latitude":15.193918,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85671879,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573770,
+    "wof:lastmodified":1565713956,
     "wof:name":"Yoro",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

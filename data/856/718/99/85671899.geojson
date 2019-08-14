@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IN"
+    ],
     "lbl:latitude":14.378932,
     "lbl:longitude":-88.205464,
     "mps:latitude":14.380508,
@@ -311,16 +314,13 @@
         }
     ],
     "wof:id":85671899,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573763,
+    "wof:lastmodified":1565713938,
     "wof:name":"Intibuc\u00e1",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

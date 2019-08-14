@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":13.291756,
     "lbl:longitude":-87.143016,
     "mps:latitude":13.274424,
@@ -310,16 +313,13 @@
         }
     ],
     "wof:id":85671923,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573724,
+    "wof:lastmodified":1565713851,
     "wof:name":"Choluteca",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

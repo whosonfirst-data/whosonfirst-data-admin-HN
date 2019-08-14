@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EP"
+    ],
     "lbl:latitude":14.094412,
     "lbl:longitude":-86.629602,
     "mps:latitude":14.083919,
@@ -313,16 +316,13 @@
         }
     ],
     "wof:id":85671929,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573712,
+    "wof:lastmodified":1565713826,
     "wof:name":"El Para\u00edso",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

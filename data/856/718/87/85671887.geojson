@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CM"
+    ],
     "lbl:latitude":14.694019,
     "lbl:longitude":-87.669796,
     "mps:latitude":14.690585,
@@ -268,16 +271,13 @@
         }
     ],
     "wof:id":85671887,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573759,
+    "wof:lastmodified":1565713930,
     "wof:name":"Comayagua",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

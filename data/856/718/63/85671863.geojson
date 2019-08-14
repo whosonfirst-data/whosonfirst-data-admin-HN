@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FM"
+    ],
     "lbl:latitude":14.415829,
     "lbl:longitude":-87.106979,
     "mps:latitude":14.453064,
@@ -315,16 +318,13 @@
         }
     ],
     "wof:id":85671863,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573766,
+    "wof:lastmodified":1565713943,
     "wof:name":"Francisco Moraz\u00e1n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

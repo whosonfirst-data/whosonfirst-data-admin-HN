@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IB"
+    ],
     "lbl:latitude":16.381996,
     "lbl:longitude":-86.410846,
     "mps:latitude":16.377985,
@@ -303,16 +306,13 @@
         }
     ],
     "wof:id":85671869,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573735,
+    "wof:lastmodified":1565713876,
     "wof:name":"Islas de la Bah\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AT"
+    ],
     "lbl:latitude":15.623241,
     "lbl:longitude":-87.244294,
     "mps:latitude":15.633083,
@@ -324,16 +327,13 @@
         }
     ],
     "wof:id":85671851,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573740,
+    "wof:lastmodified":1565713885,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

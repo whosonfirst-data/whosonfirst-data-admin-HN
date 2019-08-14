@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LE"
+    ],
     "lbl:latitude":14.259029,
     "lbl:longitude":-88.620709,
     "mps:latitude":14.261766,
@@ -301,16 +304,13 @@
         }
     ],
     "wof:id":85671915,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573729,
+    "wof:lastmodified":1565713861,
     "wof:name":"Lempira",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CR"
+    ],
     "lbl:latitude":15.519085,
     "lbl:longitude":-88.030364,
     "mps:latitude":15.528334,
@@ -320,16 +323,13 @@
         }
     ],
     "wof:id":85671893,
-    "wof:lang":[
-        "spa"
-    ],
     "wof:lang_x_official":[
         "spa"
     ],
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1563573756,
+    "wof:lastmodified":1565713919,
     "wof:name":"Cort\u00e9s",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
