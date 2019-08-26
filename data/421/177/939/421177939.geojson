@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.759496,
     "lbl:longitude":-88.340224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"El Nispero",
     "meso:gadm_hasc2":"HN.SB.EN",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.340224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El N\u00edspero"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "El N\u00edspero"
     ],
-    "name:unk_x_variant":[
-        "El N\u00edspero"
-    ],
     "name:zho_x_preferred":[
         "\u57c3\u723e\u5c3c\u65af\u4f69\u7f85"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3611147,
         "gp:id":26813642,
         "hasc:id":"HN.SB.EN",
-        "qs:id":14424,
+        "qs_pg:id":14424,
         "wd:id":"Q1823994",
         "wk:page":"El Nispero"
     },
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":421177939,
-    "wof:lastmodified":1563575320,
+    "wof:lastmodified":1566645982,
     "wof:name":"El Nispero",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

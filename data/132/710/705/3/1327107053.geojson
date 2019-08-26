@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.52,14.84667,-88.48,14.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cerr\u00f3n",
         "El Cerr\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327107053,
-    "wof:lastmodified":1537625752,
+    "wof:lastmodified":1566644701,
     "wof:name":"El Cerron",
     "wof:parent_id":421183297,
     "wof:placetype":"locality",

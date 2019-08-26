@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.960238,
     "lbl:longitude":-86.649744,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Paraiso",
     "meso:gadm_admin":"San Mat\u00edas",
     "meso:gadm_hasc2":"HN.EP.SM",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.649744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Mat\u00edas"
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "San Mat\u00edas"
     ],
-    "name:unk_x_variant":[
-        "San Mat\u00edas"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u8482\u4e9e\u65af"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +114,7 @@
         "gn:id":3601876,
         "gp:id":26813809,
         "hasc:id":"HN.EP.SM",
-        "qs:id":203661,
+        "qs_pg:id":203661,
         "wd:id":"Q2392501",
         "wk:page":"San Mat\u00edas, Honduras"
     },
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":421199965,
-    "wof:lastmodified":1563575290,
+    "wof:lastmodified":1566645949,
     "wof:name":"San Matias",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

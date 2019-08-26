@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.241639,
     "lbl:longitude":-88.241648,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Intibuca",
     "meso:gadm_admin":"Yamaranguila",
     "meso:gadm_hasc2":"HN.IN.YA",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.241648,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yamaranguila"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         "gn:id":3600255,
         "gp:id":26813876,
         "hasc:id":"HN.IN.YA",
-        "qs:id":499946,
+        "qs_pg:id":499946,
         "wd:id":"Q2394043"
     },
     "wof:country":"HN",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421181669,
-    "wof:lastmodified":1563575234,
+    "wof:lastmodified":1566645887,
     "wof:name":"Yamaranguila",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

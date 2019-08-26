@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-84.92,15.06333,-84.88,15.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292995189,
-    "wof:lastmodified":1536999025,
+    "wof:lastmodified":1566645083,
     "wof:name":"Sipul",
     "wof:parent_id":421177087,
     "wof:placetype":"locality",

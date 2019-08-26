@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.3682,
     "lbl:longitude":-87.692407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Lejaman\u00ed",
     "meso:gadm_hasc2":"HN.CM.LE",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.692407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lejaman\u00ed"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3606070,
         "gp:id":26813706,
         "hasc:id":"HN.CM.LE",
-        "qs:id":1103808,
+        "qs_pg:id":1103808,
         "wd:id":"Q2148930"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421188773,
-    "wof:lastmodified":1563575218,
+    "wof:lastmodified":1566645875,
     "wof:name":"Lejamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

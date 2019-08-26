@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.748592,
     "lbl:longitude":-87.493795,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"San Miguelito",
     "meso:gadm_hasc2":"HN.FM.SM",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.493795,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Miguelito"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3601858,
         "gp:id":26813811,
         "hasc:id":"HN.FM.SM",
-        "qs:id":62719,
+        "qs_pg:id":62719,
         "wd:id":"Q532321",
         "wk:page":"San Miguelito, Francisco Moraz\u00e1n"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421191365,
-    "wof:lastmodified":1563575254,
+    "wof:lastmodified":1566645915,
     "wof:name":"San Miguelito",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

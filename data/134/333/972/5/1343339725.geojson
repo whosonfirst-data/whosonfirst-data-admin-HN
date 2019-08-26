@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.55333,16.34667,-86.51333,16.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pimienta Point",
         "Punta Pimienta"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343339725,
-    "wof:lastmodified":1537625586,
+    "wof:lastmodified":1566644828,
     "wof:name":"Punta Pimienta",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

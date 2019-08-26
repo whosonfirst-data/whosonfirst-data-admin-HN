@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.20944,13.66083,-87.16944,13.70083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259704937,
-    "wof:lastmodified":1537034716,
+    "wof:lastmodified":1566646294,
     "wof:name":"Los Chorros",
     "wof:parent_id":421191385,
     "wof:placetype":"locality",

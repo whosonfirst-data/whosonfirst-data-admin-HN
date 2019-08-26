@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.45333,14.03,-88.41333,14.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cerro Colorado"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226021403,
-    "wof:lastmodified":1564151979,
+    "wof:lastmodified":1566646409,
     "wof:name":"Cerro Colorado",
     "wof:parent_id":421194963,
     "wof:placetype":"locality",

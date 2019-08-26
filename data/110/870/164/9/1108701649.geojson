@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.876562,
     "lbl:longitude":-84.918201,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gracias a Dios",
     "meso:gadm_admin":"Juan Francisco Bulnes",
     "meso:gadm_hasc2":"HN.GD.JF",
@@ -30,6 +32,7 @@
     "mps:longitude":-84.918201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Juan Francisco Bulnes"
     ],
@@ -41,7 +44,7 @@
         "Batalla"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108701649,
-    "wof:lastmodified":1564150811,
+    "wof:lastmodified":1566645563,
     "wof:name":"Batalla",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

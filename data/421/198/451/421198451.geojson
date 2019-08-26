@@ -10,10 +10,14 @@
     "geom:latitude":14.93333,
     "geom:longitude":-88.78333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.80333,14.91333,-88.76333,14.95333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Planes"
     ],
     "qs:gn_country":"HN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3601992,
         "gp:id":106982,
-        "qs:id":1201308
+        "qs_pg:id":1201308
     },
     "wof:country":"HN",
     "wof:created":1459009948,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421198451,
-    "wof:lastmodified":1505340755,
+    "wof:lastmodified":1566645913,
     "wof:name":"San Juan de Planes",
     "wof:parent_id":421199967,
     "wof:placetype":"locality",

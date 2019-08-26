@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.943941,
     "lbl:longitude":-88.800042,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"Trinidad",
     "meso:gadm_hasc2":"HN.SB.TR",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.800042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u064a\u0646\u064a\u062f\u0627\u062f"
@@ -272,7 +275,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -294,7 +297,7 @@
         "gn:id":3600610,
         "gp:id":26813860,
         "hasc:id":"HN.SB.TR",
-        "qs:id":203663
+        "qs_pg:id":203663
     },
     "wof:country":"HN",
     "wof:created":1459010006,
@@ -308,7 +311,7 @@
         }
     ],
     "wof:id":421199967,
-    "wof:lastmodified":1564151299,
+    "wof:lastmodified":1566645952,
     "wof:name":"Trinidad",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

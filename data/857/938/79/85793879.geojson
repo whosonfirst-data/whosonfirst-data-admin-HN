@@ -9,14 +9,16 @@
     "geom:bbox":"-87.206015,14.086821,-87.206015,14.086821",
     "geom:latitude":14.086821,
     "geom:longitude":-87.206015,
-    "gn:gn_country":"HN",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"HN",
+    "gn:fcode":"PPLX",
     "gn:latitude":14.08333,
     "gn:longitude":-87.2,
+    "gn:population":0,
     "iso:country":"HN",
+    "lbl:bbox":"-87.211015,14.081821,-87.201015,14.091821",
     "lbl:latitude":14.086821,
     "lbl:longitude":-87.206015,
+    "lbl:max_zoom":18.0,
     "mps:latitude":14.078641,
     "mps:longitude":-87.203766,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
         "\u0415\u043b \u041f\u0440\u0430\u0434\u043e"
     ],
     "name:swe_x_preferred":[
-        "El Prado"
-    ],
-    "name:unk_x_variant":[
         "El Prado"
     ],
     "qs:gn_adm0_cc":"HN",
@@ -91,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":72,
     "wof:belongsto":[
         85671863,
@@ -103,7 +102,6 @@
     "wof:concordances":{
         "gn:id":3610620,
         "gp:id":101169,
-        "qs:id":1082613,
         "qs_pg:id":1082613
     },
     "wof:country":"HN",
@@ -122,7 +120,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1564149705,
+    "wof:lastmodified":1566644878,
     "wof:name":"El Prado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

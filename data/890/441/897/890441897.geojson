@@ -11,11 +11,15 @@
     "geom:longitude":-87.75,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1040,
+    "gn:population":1040,
     "iso:country":"HN",
+    "lbl:bbox":"-87.77,14.31333,-87.73,14.35333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tepanguara"
     ],
     "qs:name":"Tepanguare",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3600906,
-        "qs:id":149233
+        "qs_pg:id":149233
     },
     "wof:country":"HN",
     "wof:created":1469052341,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890441897,
-    "wof:lastmodified":1505343585,
+    "wof:lastmodified":1566646060,
     "wof:name":"Tepanguare",
     "wof:parent_id":421188779,
     "wof:placetype":"locality",

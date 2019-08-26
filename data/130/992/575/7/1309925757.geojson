@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.58694,13.85111,-87.54694,13.89111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Milical",
         "Malica",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309925757,
-    "wof:lastmodified":1537625608,
+    "wof:lastmodified":1566645762,
     "wof:name":"Malicre",
     "wof:parent_id":421194945,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.556811,
     "lbl:longitude":-86.90357,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"Morolica",
     "meso:gadm_hasc2":"HN.CH.MO",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.90357,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Morolica"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3604577,
         "gp:id":26813728,
         "hasc:id":"HN.CH.MO",
-        "qs:id":511784,
+        "qs_pg:id":511784,
         "wd:id":"Q2358973"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421181923,
-    "wof:lastmodified":1563575236,
+    "wof:lastmodified":1566645889,
     "wof:name":"Morolica",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

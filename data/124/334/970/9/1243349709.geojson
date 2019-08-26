@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.85333,14.33,-88.81333,14.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malsincales",
         "Malcincales"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243349709,
-    "wof:lastmodified":1537625608,
+    "wof:lastmodified":1566646192,
     "wof:name":"Malcincales",
     "wof:parent_id":421193293,
     "wof:placetype":"locality",

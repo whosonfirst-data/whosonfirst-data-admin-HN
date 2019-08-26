@@ -11,11 +11,15 @@
     "geom:longitude":-87.28333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1399,
+    "gn:population":1399,
     "iso:country":"HN",
+    "lbl:bbox":"-87.30333,15.18,-87.26333,15.22",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Punta de Ocote"
     ],
     "qs:name":"Punta Ocote",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3603137,
         "gp:id":108123,
-        "qs:id":149271
+        "qs_pg:id":149271
     },
     "wof:country":"HN",
     "wof:created":1469052342,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890441905,
-    "wof:lastmodified":1505343585,
+    "wof:lastmodified":1566646060,
     "wof:name":"Punta Ocote",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

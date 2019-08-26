@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.275584,
     "lbl:longitude":-87.969111,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cortes",
     "meso:gadm_admin":"Pimienta",
     "meso:gadm_hasc2":"HN.CR.PI",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.969111,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pimienta"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3603657,
         "gp:id":26813747,
         "hasc:id":"HN.CR.PI",
-        "qs:id":62695,
+        "qs_pg:id":62695,
         "wd:id":"Q1644985",
         "wk:page":"Pimienta, Honduras"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421194961,
-    "wof:lastmodified":1563575114,
+    "wof:lastmodified":1566645792,
     "wof:name":"Pimienta",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

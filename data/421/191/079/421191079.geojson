@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.397644,
     "lbl:longitude":-87.715504,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Ajuterique",
     "meso:gadm_hasc2":"HN.CM.AJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.715504,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ajuterique"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3615280,
         "gp:id":26813586,
         "hasc:id":"HN.CM.AJ",
-        "qs:id":1130168,
+        "qs_pg:id":1130168,
         "wd:id":"Q762654"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191079,
-    "wof:lastmodified":1563575258,
+    "wof:lastmodified":1566645918,
     "wof:name":"Ajuterique",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":14.81667,
     "geom:longitude":-88.4,
     "iso:country":"HN",
+    "lbl:bbox":"-88.42,14.79667,-88.38,14.83667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "La Uni\u00f3n"
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3606171,
         "gp:id":103583,
-        "qs:id":149320,
+        "qs_pg:id":149320,
         "wd:id":"Q2604750",
         "wk:page":"La Uni\u00f3n, Lempira"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421179325,
-    "wof:lastmodified":1563575344,
+    "wof:lastmodified":1566645998,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":421182931,
     "wof:placetype":"locality",

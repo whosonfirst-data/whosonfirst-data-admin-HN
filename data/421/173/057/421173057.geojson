@@ -12,6 +12,8 @@
     "iso:country":"HN",
     "lbl:latitude":14.0818,
     "lbl:longitude":-87.20681,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -378,7 +380,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0435\u0433\u0443\u0441\u0456\u0433\u0430\u043b\u044c\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tegucigucigalpa"
     ],
     "name:urd_x_preferred":[
@@ -554,7 +556,7 @@
     "wof:concordances":{
         "gn:id":3600949,
         "gp:id":107681,
-        "qs:id":489209,
+        "qs_pg:id":489209,
         "wd:id":"Q3238",
         "wk:page":"Tegucigalpa"
     },
@@ -571,7 +573,7 @@
         }
     ],
     "wof:id":421173057,
-    "wof:lastmodified":1563575183,
+    "wof:lastmodified":1566645840,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

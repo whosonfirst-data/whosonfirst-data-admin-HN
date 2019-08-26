@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.059057,
     "lbl:longitude":-86.82976,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Mangulile",
     "meso:gadm_hasc2":"HN.OL.MG",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.82976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mangulile"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3605054,
         "gp:id":26813714,
         "hasc:id":"HN.OL.MG",
-        "qs:id":62684,
+        "qs_pg:id":62684,
         "wd:id":"Q2215530"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421203413,
-    "wof:lastmodified":1563575143,
+    "wof:lastmodified":1566645816,
     "wof:name":"Mangulile",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

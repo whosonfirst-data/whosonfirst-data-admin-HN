@@ -11,10 +11,14 @@
     "geom:longitude":-88.33333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1319,
+    "gn:population":1319,
     "iso:country":"HN",
+    "lbl:bbox":"-88.35333,15.31333,-88.31333,15.35333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Camalote"
     ],
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3614343,
-        "qs:id":149414,
+        "qs_pg:id":149414,
         "wk:page":"Camalote"
     },
     "wof:country":"HN",
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":890422103,
-    "wof:lastmodified":1564151347,
+    "wof:lastmodified":1566646057,
     "wof:name":"Camalote",
     "wof:parent_id":890455339,
     "wof:placetype":"locality",

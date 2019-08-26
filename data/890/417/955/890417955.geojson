@@ -11,10 +11,14 @@
     "geom:longitude":-87.15,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1559,
+    "gn:population":1559,
     "iso:country":"HN",
+    "lbl:bbox":"-87.17,15.08,-87.13,15.12",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ben_x_preferred":[
         "\u0986\u09af\u09bc\u09be\u09aa\u09cd\u09aa\u09be\u09a8"
     ],
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3614997,
         "gp:id":108123,
-        "qs:id":149424,
+        "qs_pg:id":149424,
         "wd:id":"Q2477202",
         "wk:page":"Ayyappan"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":890417955,
-    "wof:lastmodified":1563575446,
+    "wof:lastmodified":1566646072,
     "wof:name":"Ayapa",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.07,14.19667,-88.03,14.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Estanzuela",
         "La Estanzuela"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243531661,
-    "wof:lastmodified":1537625658,
+    "wof:lastmodified":1566646108,
     "wof:name":"La Estanzuela",
     "wof:parent_id":421183317,
     "wof:placetype":"locality",

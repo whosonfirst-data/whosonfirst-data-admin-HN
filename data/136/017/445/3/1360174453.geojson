@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-84.55333,15.39667,-84.51333,15.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Avas Duchan",
         "Avas Duepan",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360174453,
-    "wof:lastmodified":1537625796,
+    "wof:lastmodified":1566645722,
     "wof:name":"Ahuas Ducpan",
     "wof:parent_id":421177087,
     "wof:placetype":"locality",

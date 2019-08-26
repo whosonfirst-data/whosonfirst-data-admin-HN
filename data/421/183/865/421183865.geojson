@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.860001,
     "lbl:longitude":-88.843315,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"Dulce Nombre",
     "meso:gadm_hasc2":"HN.CP.DN",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.843315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dulce Nombre"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3612816,
         "gp:id":26813638,
         "hasc:id":"HN.CP.DN",
-        "qs:id":985585,
+        "qs_pg:id":985585,
         "wd:id":"Q2392425",
         "wk:page":"Dulce Nombre"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421183865,
-    "wof:lastmodified":1563575328,
+    "wof:lastmodified":1566645989,
     "wof:name":"Dulce Nombre",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

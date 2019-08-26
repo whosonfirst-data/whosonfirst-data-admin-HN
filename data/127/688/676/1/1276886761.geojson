@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.33389,13.19917,-87.29389,13.23917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276886761,
-    "wof:lastmodified":1537030536,
+    "wof:lastmodified":1566645152,
     "wof:name":"La Capota",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

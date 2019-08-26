@@ -10,10 +10,14 @@
     "geom:latitude":16.35,
     "geom:longitude":-86.43333,
     "iso:country":"HN",
+    "lbl:bbox":"-86.45333,16.33,-86.41333,16.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "French Harbour"
     ],
     "qs:gn_country":"HN",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3609667,
         "gp:id":101915,
-        "qs:id":149363
+        "qs_pg:id":149363
     },
     "wof:country":"HN",
     "wof:created":1459009213,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421179359,
-    "wof:lastmodified":1505340642,
+    "wof:lastmodified":1566645998,
     "wof:name":"French Harbor",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

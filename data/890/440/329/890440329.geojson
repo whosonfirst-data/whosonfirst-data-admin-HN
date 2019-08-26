@@ -11,17 +11,21 @@
     "geom:longitude":-88.08333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1950,
+    "gn:population":1950,
     "iso:country":"HN",
+    "lbl:bbox":"-88.10333,14.84667,-88.06333,14.88667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "El Mochito mine"
     ],
     "name:fra_x_preferred":[
         "mine El Mochito"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mochito"
     ],
     "qs:name":"El Mochito",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":3611267,
         "gp:id":104307,
-        "qs:id":279820,
+        "qs_pg:id":279820,
         "wd:id":"Q5351608",
         "wk:page":"El Mochito mine"
     },
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890440329,
-    "wof:lastmodified":1563575420,
+    "wof:lastmodified":1566646057,
     "wof:name":"El Mochito",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

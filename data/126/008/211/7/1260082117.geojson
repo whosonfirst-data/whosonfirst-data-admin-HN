@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-85.88667,15.89667,-85.84667,15.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Dereza"
     ],
@@ -51,8 +55,7 @@
         "\u0414\u0435\u0440\u0435\u0437\u0430"
     ],
     "name:und_x_variant":[
-        "Guaimoreto",
-        "Dereza"
+        "Guaimoreto"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1260082117,
-    "wof:lastmodified":1564150721,
+    "wof:lastmodified":1566645512,
     "wof:name":"Dereza",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

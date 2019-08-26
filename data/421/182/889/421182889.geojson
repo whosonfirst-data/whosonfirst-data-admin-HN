@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.577704,
     "lbl:longitude":-84.505864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gracias a Dios",
     "meso:gadm_admin":"Iriona",
     "meso:gadm_hasc2":"HN.CL.IR",
@@ -30,6 +32,7 @@
     "mps:longitude":-84.505864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Brus Laguna"
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         "gn:id":3614664,
         "gp:id":26813602,
         "hasc:id":"HN.GD.BL",
-        "qs:id":956664,
+        "qs_pg:id":956664,
         "wd:id":"Q2102693"
     },
     "wof:country":"HN",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421182889,
-    "wof:lastmodified":1563575365,
+    "wof:lastmodified":1566646010,
     "wof:name":"Brus Laguna",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

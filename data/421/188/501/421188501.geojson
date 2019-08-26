@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.851672,
     "lbl:longitude":-87.422241,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Minas de Oro",
     "meso:gadm_hasc2":"HN.CM.MO",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.422241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Minas de Oro"
@@ -63,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -85,7 +88,7 @@
         "gn:id":3604796,
         "gp:id":26813725,
         "hasc:id":"HN.CM.MO",
-        "qs:id":1097291,
+        "qs_pg:id":1097291,
         "wd:id":"Q2116913"
     },
     "wof:country":"HN",
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188501,
-    "wof:lastmodified":1563575207,
+    "wof:lastmodified":1566645860,
     "wof:name":"Minas de Oro",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

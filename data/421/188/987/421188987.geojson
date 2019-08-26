@@ -10,8 +10,12 @@
     "geom:latitude":15.06667,
     "geom:longitude":-87.28333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.30333,15.04667,-87.26333,15.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yorito"
@@ -35,9 +39,6 @@
         "Yorito"
     ],
     "name:swe_x_preferred":[
-        "Yorito"
-    ],
-    "name:unk_x_variant":[
         "Yorito"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3600199,
         "gp:id":108123,
-        "qs:id":34639,
+        "qs_pg:id":34639,
         "wd:id":"Q1647584",
         "wk:page":"Yorito"
     },
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":421188987,
-    "wof:lastmodified":1563575217,
+    "wof:lastmodified":1566645874,
     "wof:name":"Yoro",
     "wof:parent_id":421188477,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":16.01667,
     "geom:longitude":-85.96667,
     "iso:country":"HN",
+    "lbl:bbox":"-85.98667,15.99667,-85.94667,16.03667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Puerto Castilla"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Puerto Castilla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Puerto Castillo"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3603167,
         "gp:id":106175,
-        "qs:id":149272,
+        "qs_pg:id":149272,
         "wd:id":"Q2058947",
         "wk:page":"Puerto Castilla, Honduras"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421197647,
-    "wof:lastmodified":1563575287,
+    "wof:lastmodified":1566645948,
     "wof:name":"Puerto Castilla",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

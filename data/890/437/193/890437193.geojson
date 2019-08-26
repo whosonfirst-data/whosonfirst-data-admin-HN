@@ -11,11 +11,15 @@
     "geom:longitude":-89.2,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1224,
+    "gn:population":1224,
     "iso:country":"HN",
+    "lbl:bbox":"-89.22,14.39667,-89.18,14.43667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Los Estanquillos"
     ],
     "qs:name":"Santa Luc\u00eda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3601563,
         "gp:id":105445,
-        "qs:id":1045626
+        "qs_pg:id":1045626
     },
     "wof:country":"HN",
     "wof:created":1469052142,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890437193,
-    "wof:lastmodified":1505343558,
+    "wof:lastmodified":1566646062,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":890429335,
     "wof:placetype":"locality",

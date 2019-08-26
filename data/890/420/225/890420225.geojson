@@ -11,10 +11,14 @@
     "geom:longitude":-87.98333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":953,
+    "gn:population":953,
     "iso:country":"HN",
+    "lbl:bbox":"-88.00333,14.68,-87.96333,14.72",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jardines"
     ],
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":3608728,
         "gp:id":107671,
-        "qs:id":96072,
+        "qs_pg:id":96072,
         "wk:page":"Jardines"
     },
     "wof:country":"HN",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890420225,
-    "wof:lastmodified":1564151386,
+    "wof:lastmodified":1566646082,
     "wof:name":"Jardines",
     "wof:parent_id":421179809,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-83.790578,
     "gn:country":"HN",
     "gn:fcode":"PPLA",
-    "gn:pop":4856,
+    "gn:population":4856,
     "iso:country":"HN",
+    "lbl:bbox":"-83.810578,15.242822,-83.770578,15.282822",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0648\u064a\u0631\u062a\u0648 \u0644\u0645\u0628\u064a\u0631\u0627"
@@ -169,12 +173,12 @@
     "wof:concordances":{
         "gn:id":3603157,
         "gp:id":106183,
-        "qs:id":1072184,
+        "qs_pg:id":1072184,
         "wd:id":"Q2075665",
         "wk:page":"Puerto Lempira"
     },
     "wof:concordances_alt":{
-        "qs:id":274445
+        "qs_pg:id":274445
     },
     "wof:country":"HN",
     "wof:created":1459009482,
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":421186495,
-    "wof:lastmodified":1563575233,
+    "wof:lastmodified":1566645887,
     "wof:name":"Puerto Lempira",
     "wof:parent_id":421181809,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-89.01667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":910,
+    "gn:population":910,
     "iso:country":"HN",
+    "lbl:bbox":"-89.03667,14.44667,-88.99667,14.48667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Llano Largo"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3605907,
         "gp:id":103062,
-        "qs:id":96060,
+        "qs_pg:id":96060,
         "wk:page":"Llano Largo"
     },
     "wof:country":"HN",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890455355,
-    "wof:lastmodified":1564151359,
+    "wof:lastmodified":1566646066,
     "wof:name":"Llano Largo",
     "wof:parent_id":421188495,
     "wof:placetype":"locality",

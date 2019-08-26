@@ -11,10 +11,14 @@
     "geom:longitude":-88.61667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1039,
+    "gn:population":1039,
     "iso:country":"HN",
+    "lbl:bbox":"-88.63667,15.04667,-88.59667,15.08667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"El Corozal",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3611995,
-        "qs:id":1045692
+        "qs_pg:id":1045692
     },
     "wof:country":"HN",
     "wof:created":1469052210,
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890438807,
-    "wof:lastmodified":1505343567,
+    "wof:lastmodified":1566646068,
     "wof:name":"El Corozal",
     "wof:parent_id":421190809,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-88.05,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1684,
+    "gn:population":1684,
     "iso:country":"HN",
+    "lbl:bbox":"-88.07,14.88,-88.03,14.92",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Los Naranjos"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3605436,
         "gp:id":107144,
-        "qs:id":149309,
+        "qs_pg:id":149309,
         "wk:page":"Los Naranjos"
     },
     "wof:country":"HN",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890435051,
-    "wof:lastmodified":1564151394,
+    "wof:lastmodified":1566646089,
     "wof:name":"Los Naranjos",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

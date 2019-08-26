@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.905342,
     "lbl:longitude":-86.431693,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Manto",
     "meso:gadm_hasc2":"HN.OL.MT",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.431693,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Manto"
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -123,7 +126,7 @@
         "gn:id":3605043,
         "gp:id":26813715,
         "hasc:id":"HN.OL.MT",
-        "qs:id":956686
+        "qs_pg:id":956686
     },
     "wof:country":"HN",
     "wof:created":1459009352,
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421182939,
-    "wof:lastmodified":1564151326,
+    "wof:lastmodified":1566646008,
     "wof:name":"Manto",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-88.68333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1424,
+    "gn:population":1424,
     "iso:country":"HN",
+    "lbl:bbox":"-88.70333,15.13,-88.66333,15.17",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Los Tangos",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3605258,
         "gp:id":105432,
-        "qs:id":149307
+        "qs_pg:id":149307
     },
     "wof:country":"HN",
     "wof:created":1469052342,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890441911,
-    "wof:lastmodified":1505343585,
+    "wof:lastmodified":1566646060,
     "wof:name":"Los Tangos",
     "wof:parent_id":1108701677,
     "wof:placetype":"locality",

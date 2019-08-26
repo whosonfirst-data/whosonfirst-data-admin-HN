@@ -11,8 +11,11 @@
     "geom:longitude":-87.12778,
     "gn:country":"HN",
     "gn:fcode":"PPLA",
-    "gn:pop":15774,
+    "gn:population":15774,
     "iso:country":"HN",
+    "lbl:bbox":"-87.14778,15.1175,-87.10778,15.1575",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -249,7 +252,7 @@
     "wof:concordances":{
         "gn:id":3600195,
         "gp:id":108123,
-        "qs:id":274443,
+        "qs_pg:id":274443,
         "wd:id":"Q2561180",
         "wk:page":"Yoro"
     },
@@ -266,7 +269,7 @@
         }
     ],
     "wof:id":890442107,
-    "wof:lastmodified":1563575473,
+    "wof:lastmodified":1566646084,
     "wof:name":"Yoro",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

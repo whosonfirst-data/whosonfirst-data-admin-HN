@@ -11,11 +11,15 @@
     "geom:longitude":-86.81667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":979,
+    "gn:population":979,
     "iso:country":"HN",
+    "lbl:bbox":"-86.83667,15.59667,-86.79667,15.63667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Pueblo Viejo"
     ],
     "qs:name":"La Colorada",
@@ -34,7 +38,7 @@
     "wof:concordances":{
         "gn:id":3608155,
         "gp:id":102638,
-        "qs:id":96071,
+        "qs_pg:id":96071,
         "wk:page":"La Colorada (municipality)"
     },
     "wof:country":"HN",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890453419,
-    "wof:lastmodified":1527736642,
+    "wof:lastmodified":1566646070,
     "wof:name":"La Colorada",
     "wof:parent_id":421172427,
     "wof:placetype":"locality",

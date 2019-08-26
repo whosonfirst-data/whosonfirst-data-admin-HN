@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.284285,
     "lbl:longitude":-87.844658,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"El Progreso",
     "meso:gadm_hasc2":"HN.YO.EP",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.844658,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
@@ -110,7 +113,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -131,7 +134,7 @@
         "gn:id":3610615,
         "gp:id":26813647,
         "hasc:id":"HN.YO.EP",
-        "qs:id":1103785,
+        "qs_pg:id":1103785,
         "wd:id":"Q2277161",
         "wk:page":"El Progreso"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":421188755,
-    "wof:lastmodified":1563575187,
+    "wof:lastmodified":1566645841,
     "wof:name":"El Progreso",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

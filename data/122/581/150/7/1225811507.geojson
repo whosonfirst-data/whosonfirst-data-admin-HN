@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.37,15.04667,-87.33,15.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1225811507,
-    "wof:lastmodified":1564152026,
+    "wof:lastmodified":1566646435,
     "wof:name":"La Esperanza",
     "wof:parent_id":421188477,
     "wof:placetype":"locality",

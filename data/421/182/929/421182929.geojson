@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.578087,
     "lbl:longitude":-87.137699,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Atlantida",
     "meso:gadm_admin":"La Masica",
     "meso:gadm_hasc2":"HN.AT.LM",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.137699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Masica"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3607421,
         "gp:id":26813691,
         "hasc:id":"HN.AT.LM",
-        "qs:id":956681,
+        "qs_pg:id":956681,
         "wd:id":"Q2358954",
         "wk:page":"La Masica"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182929,
-    "wof:lastmodified":1563575399,
+    "wof:lastmodified":1566646042,
     "wof:name":"La Masica",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-87.06667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1552,
+    "gn:population":1552,
     "iso:country":"HN",
+    "lbl:bbox":"-87.08667,15.33,-87.04667,15.37",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Larosa"
     ],
@@ -670,7 +674,7 @@
     "wof:concordances":{
         "gn:id":3607053,
         "gp:id":101684,
-        "qs:id":149329,
+        "qs_pg:id":149329,
         "wd:id":"Q6489756",
         "wk:page":"Larosa"
     },
@@ -687,7 +691,7 @@
         }
     ],
     "wof:id":890435055,
-    "wof:lastmodified":1563575477,
+    "wof:lastmodified":1566646086,
     "wof:name":"La Rosa",
     "wof:parent_id":421191673,
     "wof:placetype":"locality",

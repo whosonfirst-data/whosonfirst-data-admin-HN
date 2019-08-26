@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.34923,
     "lbl:longitude":-86.82376,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Arenal",
     "meso:gadm_hasc2":"HN.YO.AR",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.82376,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Arenal"
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -129,7 +132,7 @@
         "gn:id":3615092,
         "gp:id":26813594,
         "hasc:id":"HN.YO.AR",
-        "qs:id":511772
+        "qs_pg:id":511772
     },
     "wof:country":"HN",
     "wof:created":1459009312,
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421181921,
-    "wof:lastmodified":1564151285,
+    "wof:lastmodified":1566645904,
     "wof:name":"Arenal",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

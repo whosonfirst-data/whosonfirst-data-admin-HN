@@ -11,10 +11,14 @@
     "geom:longitude":-87.13083,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1172,
+    "gn:population":1172,
     "iso:country":"HN",
+    "lbl:bbox":"-87.15083,13.13417,-87.11083,13.17417",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"El Obraje",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3611133,
         "gp:id":105396,
-        "qs:id":149392
+        "qs_pg:id":149392
     },
     "wof:country":"HN",
     "wof:created":1469052051,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890435093,
-    "wof:lastmodified":1505343545,
+    "wof:lastmodified":1566646089,
     "wof:name":"El Obraje",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

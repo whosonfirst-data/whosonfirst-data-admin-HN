@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.02,14.93,-86.98,14.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Puerto",
         "Monta\u00f1a El Puerto"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293475475,
-    "wof:lastmodified":1537625602,
+    "wof:lastmodified":1566645028,
     "wof:name":"Montana El Puerto",
     "wof:parent_id":421191361,
     "wof:placetype":"locality",

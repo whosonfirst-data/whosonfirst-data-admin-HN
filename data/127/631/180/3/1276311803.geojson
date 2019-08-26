@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-89.10333,14.39667,-89.06333,14.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276311803,
-    "wof:lastmodified":1536807315,
+    "wof:lastmodified":1566645275,
     "wof:name":"Los Cedros",
     "wof:parent_id":421169621,
     "wof:placetype":"locality",

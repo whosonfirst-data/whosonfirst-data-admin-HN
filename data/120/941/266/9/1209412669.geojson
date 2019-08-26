@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.13667,15.06333,-88.09667,15.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +38,7 @@
         "gn:id":3606087
     },
     "wof:country":"HN",
-    "wof:geomhash":"aa3c07c61251cea44b9ad09b52bb3cb1",
+    "wof:geomhash":"ccdfda6aabf1b6421bd2d25e08550dd1",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209412669,
-    "wof:lastmodified":1536287788,
+    "wof:lastmodified":1566645336,
     "wof:name":"La Zacatera",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.11667,
-    15.083329999999998,
+    15.08333,
     -88.11667,
-    15.083329999999998
+    15.08333
 ],
   "geometry": {"coordinates":[-88.11667,15.08333],"type":"Point"}
 }

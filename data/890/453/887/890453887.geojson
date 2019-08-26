@@ -11,11 +11,15 @@
     "geom:longitude":-88.86667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":876,
+    "gn:population":876,
     "iso:country":"HN",
+    "lbl:bbox":"-88.88667,14.38,-88.84667,14.42",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Granzal"
     ],
     "qs:name":"El Granzal",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3611759,
-        "qs:id":96084
+        "qs_pg:id":96084
     },
     "wof:country":"HN",
     "wof:created":1469052877,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890453887,
-    "wof:lastmodified":1505343653,
+    "wof:lastmodified":1566646069,
     "wof:name":"El Granzal",
     "wof:parent_id":421193293,
     "wof:placetype":"locality",

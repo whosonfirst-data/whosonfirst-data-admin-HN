@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":16.096195,
     "lbl:longitude":-86.936297,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Islas de la Bahia",
     "meso:gadm_admin":"Utila",
     "meso:gadm_hasc2":"HN.IB.UT",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.936297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0423\u0446\u0456\u043b\u0430"
@@ -122,7 +125,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"quattroshapes",
     "wd:wordcount":1172,
     "wof:belongsto":[
@@ -134,7 +137,7 @@
         "gn:id":3600485,
         "gp:id":26813863,
         "hasc:id":"HN.IB.UT",
-        "qs:id":224067,
+        "qs_pg:id":224067,
         "wd:id":"Q1572113"
     },
     "wof:country":"HN",
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421202525,
-    "wof:lastmodified":1563575160,
+    "wof:lastmodified":1566645827,
     "wof:name":"Utila",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

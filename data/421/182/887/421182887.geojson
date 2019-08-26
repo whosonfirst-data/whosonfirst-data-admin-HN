@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.984157,
     "lbl:longitude":-87.647425,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Aguaqueterique",
     "meso:gadm_hasc2":"HN.LP.AG",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.647425,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Aguanqueterique"
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -117,7 +120,7 @@
         "gn:id":3615353,
         "gp:id":26813584,
         "hasc:id":"HN.LP.AG",
-        "qs:id":956663,
+        "qs_pg:id":956663,
         "wd:id":"Q2394072"
     },
     "wof:country":"HN",
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421182887,
-    "wof:lastmodified":1563575367,
+    "wof:lastmodified":1566646013,
     "wof:name":"Aguanqueterique",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.33667,13.61333,-87.29667,13.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:kat_x_preferred":[
         "\u10e1\u10d4\u10e0\u10dd-\u10e1\u10d0\u10dc-\u10d0\u10dc\u10e2\u10dd\u10dc\u10d8\u10dd"
     ],
@@ -48,8 +52,7 @@
         "Cerro San Antonio"
     ],
     "name:und_x_variant":[
-        "San Antonio",
-        "Cerro San Antonio"
+        "San Antonio"
     ],
     "name:war_x_preferred":[
         "Cerro San Antonio"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1343467639,
-    "wof:lastmodified":1564149485,
+    "wof:lastmodified":1566644766,
     "wof:name":"Cerro San Antonio",
     "wof:parent_id":421198885,
     "wof:placetype":"locality",

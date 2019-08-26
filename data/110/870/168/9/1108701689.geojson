@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.885938,
     "lbl:longitude":-84.74832,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gracias a Dios",
     "meso:gadm_admin":"Brus Laguna",
     "meso:gadm_hasc2":"HN.GD.BL",
@@ -30,11 +32,12 @@
     "mps:longitude":-84.74832,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Brus Laguna"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632323,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1108701689,
-    "wof:lastmodified":1554489365,
+    "wof:lastmodified":1566645543,
     "wof:name":"Nueva Jerusalen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

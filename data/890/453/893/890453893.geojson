@@ -11,10 +11,14 @@
     "geom:longitude":-88.01667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":954,
+    "gn:population":954,
     "iso:country":"HN",
+    "lbl:bbox":"-88.03667,14.93,-87.99667,14.97",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"El Ed\u00e9n",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3611881,
         "gp:id":105735,
-        "qs:id":96086
+        "qs_pg:id":96086
     },
     "wof:country":"HN",
     "wof:created":1469052877,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890453893,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566646069,
     "wof:name":"El Ed\u00e9n",
     "wof:parent_id":421170711,
     "wof:placetype":"locality",

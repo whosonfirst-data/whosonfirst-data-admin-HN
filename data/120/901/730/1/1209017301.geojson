@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.32972,13.66639,-87.28972,13.70639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209017301,
-    "wof:lastmodified":1536300256,
+    "wof:lastmodified":1566645300,
     "wof:name":"Moramulca",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",

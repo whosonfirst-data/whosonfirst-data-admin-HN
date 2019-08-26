@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.268647,
     "lbl:longitude":-88.666736,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Nueva Frontera",
     "meso:gadm_hasc2":"HN.SB.NF",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.666736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nueva Frontera"
     ],
@@ -38,7 +41,7 @@
         "Nueva Frontera"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108701703,
-    "wof:lastmodified":1554489367,
+    "wof:lastmodified":1566645573,
     "wof:name":"San Jose de Tarros",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

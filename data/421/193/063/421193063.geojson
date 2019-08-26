@@ -10,8 +10,12 @@
     "geom:latitude":14.8,
     "geom:longitude":-87.76667,
     "iso:country":"HN",
+    "lbl:bbox":"-87.78667,14.78,-87.74667,14.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "El Rosario"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3610377,
         "gp:id":101378,
-        "qs:id":1116174,
+        "qs_pg:id":1116174,
         "wd:id":"Q5823190"
     },
     "wof:country":"HN",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421193063,
-    "wof:lastmodified":1563575122,
+    "wof:lastmodified":1566645798,
     "wof:name":"El Rosario",
     "wof:parent_id":421181805,
     "wof:placetype":"locality",

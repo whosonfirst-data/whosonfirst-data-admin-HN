@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.45028,13.08333,-87.41028,13.12333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Condega"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1344269973,
-    "wof:lastmodified":1564149613,
+    "wof:lastmodified":1566644828,
     "wof:name":"Condega",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

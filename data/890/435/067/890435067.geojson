@@ -11,10 +11,14 @@
     "geom:longitude":-85.96667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2364,
+    "gn:population":2364,
     "iso:country":"HN",
+    "lbl:bbox":"-85.98667,15.93,-85.94667,15.97",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Jeric\u00f3"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3608718,
         "gp:id":107901,
-        "qs:id":149354,
+        "qs_pg:id":149354,
         "wk:page":"Jeric\u00f3"
     },
     "wof:country":"HN",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890435067,
-    "wof:lastmodified":1564151394,
+    "wof:lastmodified":1566646089,
     "wof:name":"Jeric\u00f3",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

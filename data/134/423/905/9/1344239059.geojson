@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.22,15.13,-88.18,15.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Quebroditas",
         "Quebraditas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344239059,
-    "wof:lastmodified":1537625585,
+    "wof:lastmodified":1566644760,
     "wof:name":"Quebraditas",
     "wof:parent_id":1108701731,
     "wof:placetype":"locality",

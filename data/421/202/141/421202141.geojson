@@ -10,8 +10,12 @@
     "geom:latitude":14.15,
     "geom:longitude":-87.03333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.05333,14.13,-87.01333,14.17",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Valle de \u00c1ngeles"
@@ -73,10 +77,12 @@
     "wof:concordances":{
         "gn:id":3600421,
         "gp:id":107976,
-        "qs:id":219448,
-        "qs_pg:id":1045604,
+        "qs_pg:id":219448,
         "wd:id":"Q2393072",
         "wk:page":"Valle de \u00c1ngeles"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045604
     },
     "wof:country":"HN",
     "wof:created":1459010106,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421202141,
-    "wof:lastmodified":1561749449,
+    "wof:lastmodified":1566645828,
     "wof:name":"Valle de \u00c1ngeles",
     "wof:parent_id":421204281,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.49699,
     "lbl:longitude":-89.03454,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"La Labor",
     "meso:gadm_hasc2":"HN.OC.LL",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.03454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Labor"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3607645,
         "gp:id":26813687,
         "hasc:id":"HN.OC.LL",
-        "qs:id":1097277,
+        "qs_pg:id":1097277,
         "wd:id":"Q2393997"
     },
     "wof:country":"HN",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421188495,
-    "wof:lastmodified":1563575212,
+    "wof:lastmodified":1566645868,
     "wof:name":"La Labor",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

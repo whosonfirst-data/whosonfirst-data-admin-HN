@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.716562,
     "lbl:longitude":-87.423396,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"San Jos\u00e9",
     "meso:gadm_hasc2":"HN.CH.SJ",
@@ -30,12 +32,13 @@
     "mps:longitude":-87.423396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "San Jose",
         "San Jos\u00e9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191575,
         85632323,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108701663,
-    "wof:lastmodified":1554489359,
+    "wof:lastmodified":1566645549,
     "wof:name":"Coraycito",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

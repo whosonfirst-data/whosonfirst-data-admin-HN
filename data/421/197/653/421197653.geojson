@@ -10,8 +10,12 @@
     "geom:latitude":14.8,
     "geom:longitude":-87.35,
     "iso:country":"HN",
+    "lbl:bbox":"-87.37,14.78,-87.33,14.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Minas de Oro"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3604795,
         "gp:id":105223,
-        "qs:id":149302,
+        "qs_pg:id":149302,
         "wd:id":"Q2116913",
         "wk:page":"Minas de Oro"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421197653,
-    "wof:lastmodified":1561749460,
+    "wof:lastmodified":1566645949,
     "wof:name":"Minas de Oro",
     "wof:parent_id":421188501,
     "wof:placetype":"locality",

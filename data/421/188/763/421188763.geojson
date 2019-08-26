@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.75338,
     "lbl:longitude":-86.312126,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colon",
     "meso:gadm_admin":"Balfate",
     "meso:gadm_hasc2":"HN.CL.BA",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.312126,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0411\u0430\u043b\u0444\u0430\u0442\u0435"
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":3614905,
         "gp:id":26813598,
         "hasc:id":"HN.CL.BA",
-        "qs:id":1103796,
+        "qs_pg:id":1103796,
         "wd:id":"Q2358773",
         "wk:page":"Balfate"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421188763,
-    "wof:lastmodified":1563575186,
+    "wof:lastmodified":1566645841,
     "wof:name":"Balfate",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

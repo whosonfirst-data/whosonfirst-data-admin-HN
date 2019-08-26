@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.08667,15.03,-88.04667,15.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pi\u00f1ita",
         "Pe\u00f1itas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259505517,
-    "wof:lastmodified":1537625593,
+    "wof:lastmodified":1566646312,
     "wof:name":"Penitas",
     "wof:parent_id":421182917,
     "wof:placetype":"locality",

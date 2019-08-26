@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.97,13.79667,-86.93,13.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pacaya",
         "Pacayan",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293580847,
-    "wof:lastmodified":1537625596,
+    "wof:lastmodified":1566645059,
     "wof:name":"Pacayas",
     "wof:parent_id":421182915,
     "wof:placetype":"locality",

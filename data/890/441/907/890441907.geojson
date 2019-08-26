@@ -11,11 +11,15 @@
     "geom:longitude":-88.81667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1340,
+    "gn:population":1340,
     "iso:country":"HN",
+    "lbl:bbox":"-88.83667,14.68,-88.79667,14.72",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ojo de Agua"
     ],
     "name:zho_x_preferred":[
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3604263,
-        "qs:id":149289,
+        "qs_pg:id":149289,
         "wd:id":"Q3881323",
         "wk:page":"Ojos de Agua"
     },
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890441907,
-    "wof:lastmodified":1563575426,
+    "wof:lastmodified":1566646059,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":421182895,
     "wof:placetype":"locality",

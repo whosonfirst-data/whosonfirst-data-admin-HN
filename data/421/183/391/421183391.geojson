@@ -10,8 +10,12 @@
     "geom:latitude":13.20056,
     "geom:longitude":-87.37417,
     "iso:country":"HN",
+    "lbl:bbox":"-87.39417,13.18056,-87.35417,13.22056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ita_x_preferred":[
         "Monjar\u00e1s"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3604686,
         "gp:id":105279,
-        "qs:id":974892
+        "qs_pg:id":974892
     },
     "wof:country":"HN",
     "wof:created":1459009368,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421183391,
-    "wof:lastmodified":1564151315,
+    "wof:lastmodified":1566645986,
     "wof:name":"Monjar\u00e1s",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

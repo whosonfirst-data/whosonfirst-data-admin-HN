@@ -11,10 +11,14 @@
     "geom:longitude":-88.63333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":954,
+    "gn:population":954,
     "iso:country":"HN",
+    "lbl:bbox":"-88.65333,15.09667,-88.61333,15.13667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Reina"
     ],
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3607079,
-        "qs:id":96063,
+        "qs_pg:id":96063,
         "wk:page":"La Reina"
     },
     "wof:country":"HN",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890455361,
-    "wof:lastmodified":1564151360,
+    "wof:lastmodified":1566646066,
     "wof:name":"La Reina",
     "wof:parent_id":421190809,
     "wof:placetype":"locality",

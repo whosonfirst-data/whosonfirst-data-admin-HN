@@ -11,10 +11,14 @@
     "geom:longitude":-88.55,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1030,
+    "gn:population":1030,
     "iso:country":"HN",
+    "lbl:bbox":"-88.57,15.24667,-88.53,15.28667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Casa Quemada",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -33,8 +37,10 @@
     "wof:concordances":{
         "gn:id":3614012,
         "gp:id":107558,
-        "qs:id":1045709,
         "qs_pg:id":149411
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1045709
     },
     "wof:country":"HN",
     "wof:created":1469052190,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":890438351,
-    "wof:lastmodified":1505343564,
+    "wof:lastmodified":1566646068,
     "wof:name":"Casa Quemada",
     "wof:parent_id":421182937,
     "wof:placetype":"locality",

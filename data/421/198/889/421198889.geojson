@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.722194,
     "lbl:longitude":-88.049138,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"San Jos\u00e9 de Comayagua",
     "meso:gadm_hasc2":"HN.CM.SC",
@@ -30,15 +32,13 @@
     "mps:longitude":-88.049138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Jos\u00e9 de Comayagua"
     ],
     "name:eng_x_variant":[
         "San Jose De Comayagua",
-        "San Jos\u00e9 de Comayagua"
-    ],
-    "name:unk_x_variant":[
         "San Jos\u00e9 de Comayagua"
     ],
     "qs:gn_country":"HN",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -85,7 +85,7 @@
         "gn:id":3602095,
         "gp:id":26813788,
         "hasc:id":"HN.CM.SC",
-        "qs:id":186320,
+        "qs_pg:id":186320,
         "wd:id":"Q2296196"
     },
     "wof:country":"HN",
@@ -100,7 +100,7 @@
         }
     ],
     "wof:id":421198889,
-    "wof:lastmodified":1554489024,
+    "wof:lastmodified":1566645907,
     "wof:name":"San Jose de Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

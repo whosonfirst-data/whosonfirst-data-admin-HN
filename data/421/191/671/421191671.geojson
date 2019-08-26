@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.934123,
     "lbl:longitude":-87.104672,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Marale",
     "meso:gadm_hasc2":"HN.FM.ML",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.104672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Marale"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3605019,
         "gp:id":26813718,
         "hasc:id":"HN.FM.ML",
-        "qs:id":1150581,
+        "qs_pg:id":1150581,
         "wd:id":"Q2315619",
         "wk:page":"Marale"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421191671,
-    "wof:lastmodified":1563575273,
+    "wof:lastmodified":1566645939,
     "wof:name":"Marale",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

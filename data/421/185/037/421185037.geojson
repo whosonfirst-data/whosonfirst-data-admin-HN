@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.31953,
     "lbl:longitude":-87.007338,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"El Corpus",
     "meso:gadm_hasc2":"HN.CH.EC",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.007338,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Corpus"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3611988,
         "gp:id":26813640,
         "hasc:id":"HN.CH.EC",
-        "qs:id":1017007,
+        "qs_pg:id":1017007,
         "wd:id":"Q2311788",
         "wk:page":"El Corpus"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421185037,
-    "wof:lastmodified":1563575417,
+    "wof:lastmodified":1566646054,
     "wof:name":"El Corpus",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

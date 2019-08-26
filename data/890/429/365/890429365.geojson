@@ -11,11 +11,15 @@
     "geom:longitude":-87.23167,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":973,
+    "gn:population":973,
     "iso:country":"HN",
+    "lbl:bbox":"-87.25167,13.41528,-87.21167,13.45528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Agua Caliente"
     ],
     "qs:name":"Agua Caliente de Linaca",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3615439,
-        "qs:id":96097
+        "qs_pg:id":96097
     },
     "wof:country":"HN",
     "wof:created":1469051811,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890429365,
-    "wof:lastmodified":1505343512,
+    "wof:lastmodified":1566646075,
     "wof:name":"Agua Caliente de Linaca",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.75,
     "geom:longitude":-87.61667,
     "iso:country":"HN",
+    "lbl:bbox":"-87.63667,14.73,-87.59667,14.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Libertad"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3607540,
         "gp:id":103158,
-        "qs:id":149335,
+        "qs_pg:id":149335,
         "wd:id":"Q1986477"
     },
     "wof:country":"HN",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421179339,
-    "wof:lastmodified":1563575336,
+    "wof:lastmodified":1566645996,
     "wof:name":"La Libertad",
     "wof:parent_id":421182925,
     "wof:placetype":"locality",

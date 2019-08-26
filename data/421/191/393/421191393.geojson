@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.954148,
     "lbl:longitude":-86.795246,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Yoc\u00f3n",
     "meso:gadm_hasc2":"HN.OL.YO",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.795246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yoc\u00f3n"
@@ -58,9 +61,6 @@
     "name:spa_x_preferred":[
         "Yoc\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Yoc\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u7d04\u5b54"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3600213,
         "gp:id":26813879,
         "hasc:id":"HN.OL.YO",
-        "qs:id":62757,
+        "qs_pg:id":62757,
         "wd:id":"Q2394940"
     },
     "wof:country":"HN",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421191393,
-    "wof:lastmodified":1563575271,
+    "wof:lastmodified":1566645935,
     "wof:name":"Yocon",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

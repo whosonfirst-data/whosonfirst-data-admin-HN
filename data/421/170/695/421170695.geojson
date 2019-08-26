@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.677821,
     "lbl:longitude":-86.907863,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Atlantida",
     "meso:gadm_admin":"El Porvenir",
     "meso:gadm_hasc2":"HN.AT.EP",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.907863,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "El Porvenir"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         "gn:id":3610697,
         "gp:id":26813646,
         "hasc:id":"HN.AT.EP",
-        "qs:id":1195464
+        "qs_pg:id":1195464
     },
     "wof:country":"HN",
     "wof:created":1459008864,
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421170695,
-    "wof:lastmodified":1564151308,
+    "wof:lastmodified":1566645968,
     "wof:name":"El Porvenir",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

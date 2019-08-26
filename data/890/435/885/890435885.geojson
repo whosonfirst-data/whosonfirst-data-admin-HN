@@ -11,10 +11,14 @@
     "geom:longitude":-87.16667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1121,
+    "gn:population":1121,
     "iso:country":"HN",
+    "lbl:bbox":"-87.18667,14.01333,-87.14667,14.05333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Tabl\u00f3n"
     ],
@@ -36,7 +40,7 @@
     "name:tgl_x_preferred":[
         "El Tabl\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tablon"
     ],
     "name:war_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3610232,
         "gp:id":107681,
-        "qs:id":149370,
+        "qs_pg:id":149370,
         "wk:page":"El Tabl\u00f3n"
     },
     "wof:country":"HN",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890435885,
-    "wof:lastmodified":1564151393,
+    "wof:lastmodified":1566646088,
     "wof:name":"El Tabl\u00f3n",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

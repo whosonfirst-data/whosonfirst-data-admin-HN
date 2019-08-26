@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.32,15.56333,-87.28,15.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mata de Quineo",
         "Mata de Guineo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276887905,
-    "wof:lastmodified":1537625606,
+    "wof:lastmodified":1566645152,
     "wof:name":"Mata de Guineo",
     "wof:parent_id":421198883,
     "wof:placetype":"locality",

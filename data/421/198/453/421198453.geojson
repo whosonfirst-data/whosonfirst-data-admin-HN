@@ -10,8 +10,12 @@
     "geom:latitude":14.73333,
     "geom:longitude":-88.03333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.05333,14.71333,-88.01333,14.75333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Jos\u00e9 de Comayagua"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "San Jos\u00e9 de Comayagua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jos\u00e9 Comayagua"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3602094,
         "gp:id":106915,
-        "qs:id":1201309,
+        "qs_pg:id":1201309,
         "wd:id":"Q2296196",
         "wk:page":"San Jos\u00e9 de Comayagua"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421198453,
-    "wof:lastmodified":1561749455,
+    "wof:lastmodified":1566645911,
     "wof:name":"San Jos\u00e9 de Comayagua",
     "wof:parent_id":421198889,
     "wof:placetype":"locality",

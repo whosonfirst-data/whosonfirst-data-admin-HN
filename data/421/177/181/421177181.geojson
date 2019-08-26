@@ -10,8 +10,12 @@
     "geom:latitude":13.46639,
     "geom:longitude":-87.51528,
     "iso:country":"HN",
+    "lbl:bbox":"-87.53528,13.44639,-87.49528,13.48639",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3610046,
         "gp:id":101655,
-        "qs:id":1116181
+        "qs_pg:id":1116181
     },
     "wof:country":"HN",
     "wof:created":1459009135,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421177181,
-    "wof:lastmodified":1505340632,
+    "wof:lastmodified":1566645983,
     "wof:name":"El Tular",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

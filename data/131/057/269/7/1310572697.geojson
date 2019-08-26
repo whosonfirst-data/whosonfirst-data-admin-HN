@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.54639,13.51333,-87.50639,13.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "La Mesa"
     ],
@@ -60,8 +64,7 @@
         "La Mesa"
     ],
     "name:und_x_variant":[
-        "Las Mesas",
-        "La Mesa"
+        "Las Mesas"
     ],
     "name:vie_x_preferred":[
         "La Mesa"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1310572697,
-    "wof:lastmodified":1564150985,
+    "wof:lastmodified":1566645663,
     "wof:name":"La Mesa",
     "wof:parent_id":421181807,
     "wof:placetype":"locality",

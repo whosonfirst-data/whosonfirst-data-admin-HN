@@ -11,10 +11,14 @@
     "geom:longitude":-88.3,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":989,
+    "gn:population":989,
     "iso:country":"HN",
+    "lbl:bbox":"-88.32,14.89667,-88.28,14.93667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Macholoa",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3605203,
         "gp:id":107231,
-        "qs:id":96058
+        "qs_pg:id":96058
     },
     "wof:country":"HN",
     "wof:created":1469052853,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890453417,
-    "wof:lastmodified":1505343651,
+    "wof:lastmodified":1566646070,
     "wof:name":"Macholoa",
     "wof:parent_id":421170949,
     "wof:placetype":"locality",

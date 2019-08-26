@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.291431,
     "lbl:longitude":-84.358431,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gracias a Dios",
     "meso:gadm_admin":"Ahuas",
     "meso:gadm_hasc2":"HN.GD.AH",
@@ -30,6 +32,7 @@
     "mps:longitude":-84.358431,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0410\u0445\u0443\u0430\u0441"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         "gn:id":8062437,
         "gp:id":26813585,
         "hasc:id":"HN.GD.AH",
-        "qs:id":919265,
+        "qs_pg:id":919265,
         "wd:id":"Q2393126",
         "wk:page":"Ahuas"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421193573,
-    "wof:lastmodified":1563575123,
+    "wof:lastmodified":1566645798,
     "wof:name":"Ahuas",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

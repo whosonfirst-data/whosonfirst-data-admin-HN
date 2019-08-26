@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.646031,
     "lbl:longitude":-87.931616,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cortes",
     "meso:gadm_admin":"Choloma",
     "meso:gadm_hasc2":"HN.CR.CH",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.931616,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0644\u0648\u0645\u0627"
@@ -176,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -197,7 +200,7 @@
         "gn:id":3613536,
         "gp:id":26813616,
         "hasc:id":"HN.CR.CH",
-        "qs:id":1017006,
+        "qs_pg:id":1017006,
         "wd:id":"Q998218",
         "wk:page":"Choloma"
     },
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421185035,
-    "wof:lastmodified":1563575418,
+    "wof:lastmodified":1566646055,
     "wof:name":"Choloma",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

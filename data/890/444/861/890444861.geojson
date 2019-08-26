@@ -11,11 +11,15 @@
     "geom:longitude":-88.0,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":4183,
+    "gn:population":4183,
     "iso:country":"HN",
+    "lbl:bbox":"-88.02,15.61333,-87.98,15.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Jutosa"
     ],
     "qs:name":"La Jutosa",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3607647,
         "gp:id":98951,
-        "qs:id":1045673
+        "qs_pg:id":1045673
     },
     "wof:country":"HN",
     "wof:created":1469052484,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444861,
-    "wof:lastmodified":1505343601,
+    "wof:lastmodified":1566646073,
     "wof:name":"La Jutosa",
     "wof:parent_id":421185035,
     "wof:placetype":"locality",

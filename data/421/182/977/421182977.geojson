@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.501319,
     "lbl:longitude":-88.926401,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"Sensenti",
     "meso:gadm_hasc2":"HN.OC.SE",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.926401,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sensenti"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3601368,
         "gp:id":26813841,
         "hasc:id":"HN.OC.SE",
-        "qs:id":956705,
+        "qs_pg:id":956705,
         "wd:id":"Q582892"
     },
     "wof:country":"HN",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421182977,
-    "wof:lastmodified":1563575370,
+    "wof:lastmodified":1566646014,
     "wof:name":"Senseti",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

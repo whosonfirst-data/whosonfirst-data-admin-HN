@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.513588,
     "lbl:longitude":-88.014175,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Intibuca",
     "meso:gadm_admin":"Jes\u00fas de Otoro",
     "meso:gadm_hasc2":"HN.IN.JO",
@@ -30,15 +32,13 @@
     "mps:longitude":-88.014175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Jes\u00fas de Otoro"
     ],
     "name:eng_x_variant":[
         "Jesus De Otoro",
-        "Jes\u00fas de Otoro"
-    ],
-    "name:unk_x_variant":[
         "Jes\u00fas de Otoro"
     ],
     "name:zho_x_preferred":[
@@ -66,7 +66,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -88,7 +88,7 @@
         "gn:id":3608716,
         "gp:id":26813676,
         "hasc:id":"HN.IN.JO",
-        "qs:id":956678,
+        "qs_pg:id":956678,
         "wd:id":"Q2105288"
     },
     "wof:country":"HN",
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":421182921,
-    "wof:lastmodified":1563575403,
+    "wof:lastmodified":1566646045,
     "wof:name":"Jesus de Otoro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

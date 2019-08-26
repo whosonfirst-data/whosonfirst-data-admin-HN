@@ -10,8 +10,12 @@
     "geom:latitude":15.16667,
     "geom:longitude":-87.28333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.30333,15.14667,-87.26333,15.18667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430"
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":3601517,
         "gp:id":107367,
-        "qs:id":1009542
+        "qs_pg:id":1009542
     },
     "wof:country":"HN",
     "wof:created":1459009421,
@@ -124,7 +128,7 @@
         }
     ],
     "wof:id":421184767,
-    "wof:lastmodified":1564151305,
+    "wof:lastmodified":1566645960,
     "wof:name":"Santa Rita",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

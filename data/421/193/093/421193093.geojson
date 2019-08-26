@@ -10,8 +10,12 @@
     "geom:latitude":14.0,
     "geom:longitude":-88.38333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.40333,13.98,-88.36333,14.02",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Camasca"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Camasca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Villa de Camasca"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3614328,
         "gp:id":98513,
-        "qs:id":1201213,
+        "qs_pg:id":1201213,
         "wd:id":"Q2393269",
         "wk:page":"Camasca"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421193093,
-    "wof:lastmodified":1563575128,
+    "wof:lastmodified":1566645803,
     "wof:name":"Camasca",
     "wof:parent_id":421191341,
     "wof:placetype":"locality",

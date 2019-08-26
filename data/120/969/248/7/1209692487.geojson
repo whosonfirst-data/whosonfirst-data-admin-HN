@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.73667,14.16333,-88.69667,14.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +38,7 @@
         "gn:id":3610733
     },
     "wof:country":"HN",
-    "wof:geomhash":"b9aa0e0f4741bcb6337a629054cc8cda",
+    "wof:geomhash":"c45563ba7822db77b9c09055989db6b3",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209692487,
-    "wof:lastmodified":1536279191,
+    "wof:lastmodified":1566645385,
     "wof:name":"El Portillo",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.71667,
-    14.183329999999998,
+    14.18333,
     -88.71667,
-    14.183329999999998
+    14.18333
 ],
   "geometry": {"coordinates":[-88.71666999999999,14.18333],"type":"Point"}
 }

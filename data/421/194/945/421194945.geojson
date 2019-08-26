@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.825773,
     "lbl:longitude":-87.575568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Curar\u00e9n",
     "meso:gadm_hasc2":"HN.FM.CU",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.575568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Curar\u00e9n"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3612967,
         "gp:id":26813631,
         "hasc:id":"HN.FM.CU",
-        "qs:id":62642,
+        "qs_pg:id":62642,
         "wd:id":"Q2392548"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194945,
-    "wof:lastmodified":1563575116,
+    "wof:lastmodified":1566645793,
     "wof:name":"Curaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

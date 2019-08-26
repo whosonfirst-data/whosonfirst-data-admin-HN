@@ -10,8 +10,12 @@
     "geom:latitude":15.48333,
     "geom:longitude":-86.3,
     "iso:country":"HN",
+    "lbl:bbox":"-86.32,15.46333,-86.28,15.50333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3611572,
         "gp:id":101849,
-        "qs:id":1201239
+        "qs_pg:id":1201239
     },
     "wof:country":"HN",
     "wof:created":1459009150,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421177569,
-    "wof:lastmodified":1505340633,
+    "wof:lastmodified":1566645982,
     "wof:name":"El\u00edxir",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

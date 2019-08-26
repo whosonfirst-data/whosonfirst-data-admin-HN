@@ -11,17 +11,21 @@
     "geom:longitude":-88.5,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2980,
+    "gn:population":2980,
     "iso:country":"HN",
+    "lbl:bbox":"-88.52,15.28,-88.48,15.32",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ita_x_preferred":[
         "El Ciruelo"
     ],
     "name:spa_x_preferred":[
         "El Ciruelo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciruelo"
     ],
     "name:zho_x_preferred":[
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3612064,
         "gp:id":105008,
-        "qs:id":1045693,
+        "qs_pg:id":1045693,
         "wk:page":"El Ciruelo"
     },
     "wof:country":"HN",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890438809,
-    "wof:lastmodified":1564151364,
+    "wof:lastmodified":1566646068,
     "wof:name":"El Ciruelo",
     "wof:parent_id":421182937,
     "wof:placetype":"locality",

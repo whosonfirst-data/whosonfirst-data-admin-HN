@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.59361,13.95139,-87.55361,13.99139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209906889,
-    "wof:lastmodified":1536382971,
+    "wof:lastmodified":1566645316,
     "wof:name":"Concepcion del Espino",
     "wof:parent_id":421170707,
     "wof:placetype":"locality",

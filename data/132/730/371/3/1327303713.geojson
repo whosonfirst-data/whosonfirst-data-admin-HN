@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.20333,14.84667,-88.16333,14.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bancos",
         "Los Bancos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327303713,
-    "wof:lastmodified":1537625621,
+    "wof:lastmodified":1566644572,
     "wof:name":"Los Bancos",
     "wof:parent_id":421170949,
     "wof:placetype":"locality",

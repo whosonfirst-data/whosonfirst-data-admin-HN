@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.97,15.63,-87.93,15.67",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hicaca",
         "La Hicaya",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293093739,
-    "wof:lastmodified":1537625655,
+    "wof:lastmodified":1566644980,
     "wof:name":"La Hicaca",
     "wof:parent_id":421185035,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.65,
     "geom:longitude":-87.03333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.05333,14.63,-87.01333,14.67",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Ignacio"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "San Ignacio"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Ignasio"
     ],
     "name:zho_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":3602257,
         "gp:id":106791,
-        "qs:id":1201302,
+        "qs_pg:id":1201302,
         "wd:id":"Q925890"
     },
     "wof:country":"HN",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421180277,
-    "wof:lastmodified":1563575174,
+    "wof:lastmodified":1566645837,
     "wof:name":"San Ignacio",
     "wof:parent_id":421191677,
     "wof:placetype":"locality",

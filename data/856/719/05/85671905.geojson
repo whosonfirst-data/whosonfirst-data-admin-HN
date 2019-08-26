@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":15.142586,
     "lbl:longitude":-88.380341,
+    "lbl:min_zoom":8.0,
     "mps:latitude":15.139431,
     "mps:longitude":-88.380819,
     "mz:hierarchy_label":1,
@@ -178,7 +179,7 @@
         "Departamento de Santa B\u00e1rbara"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe  \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bbe  \u0ba4\u0bc1\u0bb1\u0bc8"
+        "\u0b9a\u0bbe\u0ba3\u0bcd\u0b9f\u0bbe \u0baa\u0bbe\u0bb0\u0bcd\u0baa\u0bb0\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c02\u0c1f\u0c3e \u0c2c\u0c3e\u0c30\u0c4d\u0c2c\u0c30\u0c3e \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
@@ -194,9 +195,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430-\u0411\u0430\u0440\u0431\u0430\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Departamento de Santa B\u00e1rbara"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0646\u062a\u0627 \u0628\u0691\u0628\u0691\u0627 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
@@ -282,9 +280,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-07-28",
+    "src:population_date":"2001-07-28",
     "statoids:area_km":"5,115",
     "statoids:area_mi":"1,975",
     "statoids:as_of_date":"2001-07-28",
@@ -309,7 +307,7 @@
         "gp:id":2345638,
         "hasc:id":"HN.SB",
         "iso:id":"HN-SB",
-        "qs:id":507449,
+        "qs_pg:id":507449,
         "unlc:id":"HN-SB",
         "wd:id":"Q591139",
         "wk:page":"Santa B\u00e1rbara Department, Honduras"
@@ -330,11 +328,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565713822,
+    "wof:lastmodified":1566644880,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":342054,
     "wof:population_rank":10,

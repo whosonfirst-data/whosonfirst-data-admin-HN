@@ -11,10 +11,14 @@
     "geom:longitude":-85.76667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2014,
+    "gn:population":2014,
     "iso:country":"HN",
+    "lbl:bbox":"-85.78667,15.61333,-85.74667,15.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Esperanza"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "La Esperanza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Esperanz"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +73,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3607948,
-        "qs:id":149341,
+        "qs_pg:id":149341,
         "wk:page":"La Esperanza"
     },
     "wof:country":"HN",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":890441913,
-    "wof:lastmodified":1564151350,
+    "wof:lastmodified":1566646059,
     "wof:name":"La Esperanza",
     "wof:parent_id":421169619,
     "wof:placetype":"locality",

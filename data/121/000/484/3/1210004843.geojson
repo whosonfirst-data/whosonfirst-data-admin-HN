@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.63667,16.26333,-86.59667,16.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mangro Bigh",
         "Mangrove Bight"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1210004843,
-    "wof:lastmodified":1537625607,
+    "wof:lastmodified":1566645438,
     "wof:name":"Mangrove Bight",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

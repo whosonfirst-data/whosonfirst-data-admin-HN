@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.48667,14.89667,-87.44667,14.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Casitas",
         "Las Casitas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326530363,
-    "wof:lastmodified":1537625641,
+    "wof:lastmodified":1566644689,
     "wof:name":"Las Casitas",
     "wof:parent_id":421188501,
     "wof:placetype":"locality",

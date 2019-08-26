@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.87,14.26333,-87.83,14.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "San Miguel"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1276420929,
-    "wof:lastmodified":1564150077,
+    "wof:lastmodified":1566645162,
     "wof:name":"San Miguel",
     "wof:parent_id":421188519,
     "wof:placetype":"locality",

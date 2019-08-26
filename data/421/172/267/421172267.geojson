@@ -10,8 +10,12 @@
     "geom:latitude":15.08333,
     "geom:longitude":-86.38333,
     "iso:country":"HN",
+    "lbl:bbox":"-86.40333,15.06333,-86.36333,15.10333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Guata"
@@ -42,9 +46,6 @@
     ],
     "name:swe_x_preferred":[
         "La Guata"
-    ],
-    "name:unk_x_variant":[
-        "Guata"
     ],
     "name:zho_x_preferred":[
         "\u74dc\u5854"
@@ -79,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3607830,
         "gp:id":102965,
-        "qs:id":149336,
+        "qs_pg:id":149336,
         "wd:id":"Q2394928",
         "wk:page":"Guata"
     },
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":421172267,
-    "wof:lastmodified":1563575221,
+    "wof:lastmodified":1566645878,
     "wof:name":"La Guata",
     "wof:parent_id":421199915,
     "wof:placetype":"locality",

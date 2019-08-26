@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.95333,14.04667,-86.91333,14.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Censo",
         "El Censo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326922037,
-    "wof:lastmodified":1537625753,
+    "wof:lastmodified":1566644604,
     "wof:name":"El Censo",
     "wof:parent_id":890455353,
     "wof:placetype":"locality",

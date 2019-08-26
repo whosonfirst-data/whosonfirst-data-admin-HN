@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.247177,
     "lbl:longitude":-87.853197,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"San Pedro de Tutule",
     "meso:gadm_hasc2":"HN.LP.ST",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.853197,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Pedro de Tutule"
@@ -40,9 +43,6 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30da\u30c9\u30ed\u30fb\u30c7\u30fb\u30c8\u30a5\u30c8\u30a5\u30fc\u30ec"
-    ],
-    "name:unk_x_variant":[
-        "San Pedro de Tutule"
     ],
     "name:zho_x_preferred":[
         "\u8056\u4f69\u5fb7\u7f85\u5fb7\u5716\u5716\u840a"
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -91,7 +91,7 @@
         "gn:id":3601785,
         "gp:id":26813814,
         "hasc:id":"HN.LP.ST",
-        "qs:id":1097318,
+        "qs_pg:id":1097318,
         "wd:id":"Q2201661"
     },
     "wof:country":"HN",
@@ -106,7 +106,7 @@
         }
     ],
     "wof:id":421188519,
-    "wof:lastmodified":1563575198,
+    "wof:lastmodified":1566645852,
     "wof:name":"San Pedro Tutule",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

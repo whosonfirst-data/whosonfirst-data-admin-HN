@@ -11,10 +11,14 @@
     "geom:longitude":-88.1,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1258,
+    "gn:population":1258,
     "iso:country":"HN",
+    "lbl:bbox":"-88.12,14.69667,-88.08,14.73667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Azacualpa"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3614975,
         "gp:id":107144,
-        "qs:id":149423,
+        "qs_pg:id":149423,
         "wd:id":"Q935031",
         "wk:page":"Azacualpa"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890435103,
-    "wof:lastmodified":1563575475,
+    "wof:lastmodified":1566646085,
     "wof:name":"Azacualpa",
     "wof:parent_id":421188521,
     "wof:placetype":"locality",

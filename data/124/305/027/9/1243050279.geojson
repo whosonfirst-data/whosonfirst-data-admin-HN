@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.60333,15.01333,-88.56333,15.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Laguna",
         "La Laguna"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243050279,
-    "wof:lastmodified":1537625653,
+    "wof:lastmodified":1566646199,
     "wof:name":"La Laguna",
     "wof:parent_id":421190809,
     "wof:placetype":"locality",

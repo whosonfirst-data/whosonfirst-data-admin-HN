@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.614527,
     "lbl:longitude":-87.147209,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Paraiso",
     "meso:gadm_admin":"Soledad",
     "meso:gadm_hasc2":"HN.EP.SO",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.147209,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Soledad"
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         "gn:id":3601239,
         "gp:id":26813845,
         "hasc:id":"HN.EP.SO",
-        "qs:id":62738,
+        "qs_pg:id":62738,
         "wd:id":"Q2392467",
         "wk:page":"Soledad, El Para\u00edso"
     },
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421191385,
-    "wof:lastmodified":1563575265,
+    "wof:lastmodified":1566645929,
     "wof:name":"Soledad",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

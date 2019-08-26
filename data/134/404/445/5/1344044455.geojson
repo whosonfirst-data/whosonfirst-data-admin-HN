@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.90333,14.16333,-87.86333,14.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Lindero",
         "San Marcos de Linderos",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344044455,
-    "wof:lastmodified":1537625625,
+    "wof:lastmodified":1566644848,
     "wof:name":"Linderos",
     "wof:parent_id":421191343,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.768624,
     "lbl:longitude":-87.455156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"San Luis",
     "meso:gadm_hasc2":"HN.CM.SL",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.455156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Luis"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "San Luis"
     ],
-    "name:unk_x_variant":[
-        "San Luis"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u8def\u6613"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3601943,
         "gp:id":26813800,
         "hasc:id":"HN.CM.SL",
-        "qs:id":892473,
+        "qs_pg:id":892473,
         "wd:id":"Q1643719",
         "wk:page":"San Luis, Comayagua"
     },
@@ -124,8 +124,8 @@
         }
     ],
     "wof:id":421200721,
-    "wof:lastmodified":1563575298,
-    "wof:name":"San  Luis",
+    "wof:lastmodified":1566645954,
+    "wof:name":"San Luis",
     "wof:parent_id":85671887,
     "wof:placetype":"county",
     "wof:placetype_local":"municipality",

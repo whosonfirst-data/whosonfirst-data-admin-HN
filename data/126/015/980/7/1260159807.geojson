@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-89.25333,14.56333,-89.21333,14.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Obraje",
         "El Obraje"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260159807,
-    "wof:lastmodified":1537625719,
+    "wof:lastmodified":1566645498,
     "wof:name":"El Obraje",
     "wof:parent_id":421183301,
     "wof:placetype":"locality",

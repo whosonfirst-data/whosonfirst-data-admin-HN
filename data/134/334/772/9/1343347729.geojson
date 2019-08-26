@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.78667,14.16333,-88.74667,14.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Las Cuevas"
     ],
@@ -42,8 +46,7 @@
         "Las Cuevas"
     ],
     "name:und_x_variant":[
-        "Cueva",
-        "Las Cuevas"
+        "Cueva"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1343347729,
-    "wof:lastmodified":1564149608,
+    "wof:lastmodified":1566644826,
     "wof:name":"Las Cuevas",
     "wof:parent_id":421183303,
     "wof:placetype":"locality",

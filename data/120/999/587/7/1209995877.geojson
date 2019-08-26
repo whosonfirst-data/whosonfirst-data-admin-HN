@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.53667,14.64667,-88.49667,14.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Esquingual",
         "Lesquingual",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209995877,
-    "wof:lastmodified":1537625681,
+    "wof:lastmodified":1566645322,
     "wof:name":"Esquingual",
     "wof:parent_id":421183319,
     "wof:placetype":"locality",

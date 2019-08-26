@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.807812,
     "lbl:longitude":-87.251762,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Sabanagrande",
     "meso:gadm_hasc2":"HN.FM.SG",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.251762,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sabanagrande"
@@ -74,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -96,7 +99,7 @@
         "gn:id":3602682,
         "gp:id":26813758,
         "hasc:id":"HN.FM.SG",
-        "qs:id":956696
+        "qs_pg:id":956696
     },
     "wof:country":"HN",
     "wof:created":1459009353,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421182957,
-    "wof:lastmodified":1554488866,
+    "wof:lastmodified":1566646031,
     "wof:name":"Sabanagrande",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

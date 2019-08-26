@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.25333,15.16333,-88.21333,15.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +38,7 @@
         "gn:id":3605127
     },
     "wof:country":"HN",
-    "wof:geomhash":"eaa7bbab1c6d1397cb26c0e10937df82",
+    "wof:geomhash":"a18e5cb411fc5728c6f14ac9f75738ff",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209585305,
-    "wof:lastmodified":1536282656,
+    "wof:lastmodified":1566645379,
     "wof:name":"Malcotal",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.23333000000002,
-    15.183329999999998,
+    15.18333,
     -88.23333000000002,
-    15.183329999999998
+    15.18333
 ],
   "geometry": {"coordinates":[-88.23333000000002,15.18333],"type":"Point"}
 }

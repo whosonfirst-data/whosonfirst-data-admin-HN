@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.340395,
     "lbl:longitude":-88.527861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"Santa Cruz",
     "meso:gadm_hasc2":"HN.LE.SC",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.527861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:arg_x_preferred":[
         "Santa Cruz"
@@ -200,7 +203,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -221,7 +224,7 @@
         "gn:id":3601674,
         "gp:id":26813827,
         "hasc:id":"HN.LE.SC",
-        "qs:id":956701
+        "qs_pg:id":956701
     },
     "wof:country":"HN",
     "wof:created":1459009353,
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421182969,
-    "wof:lastmodified":1564151332,
+    "wof:lastmodified":1566646036,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

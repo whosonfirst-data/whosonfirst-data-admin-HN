@@ -10,8 +10,12 @@
     "geom:latitude":13.63333,
     "geom:longitude":-86.81667,
     "iso:country":"HN",
+    "lbl:bbox":"-86.83667,13.61333,-86.79667,13.65333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Duyure"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3612801,
         "gp:id":99356,
-        "qs:id":149403,
+        "qs_pg:id":149403,
         "wd:id":"Q2090091",
         "wk:page":"Duyure"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421179367,
-    "wof:lastmodified":1563575348,
+    "wof:lastmodified":1566645999,
     "wof:name":"Duyure",
     "wof:parent_id":421182903,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-88.58333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1444,
+    "gn:population":1444,
     "iso:country":"HN",
+    "lbl:bbox":"-88.60333,14.78,-88.56333,14.82",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Libertad"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430-\u041b\u0456\u0431\u0435\u0440\u0442\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "La Liberdad"
     ],
     "name:war_x_preferred":[
@@ -96,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3607538,
-        "qs:id":149334,
+        "qs_pg:id":149334,
         "wk:page":"La Libertad"
     },
     "wof:country":"HN",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890430671,
-    "wof:lastmodified":1564151353,
+    "wof:lastmodified":1566646061,
     "wof:name":"La Libertad",
     "wof:parent_id":421205531,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.93667,14.13,-87.89667,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muye",
         "Muy\u00e9n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226829243,
-    "wof:lastmodified":1537625599,
+    "wof:lastmodified":1566646455,
     "wof:name":"Muyen",
     "wof:parent_id":421182947,
     "wof:placetype":"locality",

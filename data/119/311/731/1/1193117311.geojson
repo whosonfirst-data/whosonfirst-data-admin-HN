@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.82,14.21333,-87.78,14.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Limas",
         "Las Limas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193117311,
-    "wof:lastmodified":1537625634,
+    "wof:lastmodified":1566645485,
     "wof:name":"Las Limas",
     "wof:parent_id":1108701679,
     "wof:placetype":"locality",

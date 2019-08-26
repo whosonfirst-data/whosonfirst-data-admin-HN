@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.40333,15.08,-86.36333,15.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "San Diego"
     ],
@@ -396,7 +400,7 @@
         }
     ],
     "wof:id":1293459965,
-    "wof:lastmodified":1564149968,
+    "wof:lastmodified":1566645104,
     "wof:name":"San Diego",
     "wof:parent_id":421199915,
     "wof:placetype":"locality",

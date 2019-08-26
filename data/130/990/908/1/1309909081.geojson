@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.22028,13.52139,-87.18028,13.56139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1309909081,
-    "wof:lastmodified":1536782689,
+    "wof:lastmodified":1566645739,
     "wof:name":"Las Arenillas",
     "wof:parent_id":421205245,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.551652,
     "lbl:longitude":-87.064569,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Paraiso",
     "meso:gadm_admin":"Liure",
     "meso:gadm_hasc2":"HN.EP.LI",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.064569,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Liure"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3605951,
         "gp:id":26813710,
         "hasc:id":"HN.EP.LI",
-        "qs:id":1097293,
+        "qs_pg:id":1097293,
         "wd:id":"Q1948279"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188505,
-    "wof:lastmodified":1563575189,
+    "wof:lastmodified":1566645843,
     "wof:name":"Liure",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

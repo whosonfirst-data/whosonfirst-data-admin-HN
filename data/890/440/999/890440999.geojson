@@ -11,10 +11,14 @@
     "geom:longitude":-88.5,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1050,
+    "gn:population":1050,
     "iso:country":"HN",
+    "lbl:bbox":"-88.52,14.81333,-88.48,14.85333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Berl\u00edn"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3614789,
-        "qs:id":149418,
+        "qs_pg:id":149418,
         "wd:id":"Q582242",
         "wk:page":"Berl\u00edn"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890440999,
-    "wof:lastmodified":1563575419,
+    "wof:lastmodified":1566646056,
     "wof:name":"Berl\u00edn",
     "wof:parent_id":421183297,
     "wof:placetype":"locality",

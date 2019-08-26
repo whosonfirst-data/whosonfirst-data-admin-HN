@@ -10,8 +10,12 @@
     "geom:latitude":15.05,
     "geom:longitude":-88.73333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.75333,15.03,-88.71333,15.07",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041b\u0430 \u0415\u043d\u0442\u0440\u0430\u0434\u0430"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3607986,
         "gp:id":102842,
-        "qs:id":149343,
+        "qs_pg:id":149343,
         "wd:id":"Q3626200",
         "wk:page":"La Entrada"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421193811,
-    "wof:lastmodified":1563575119,
+    "wof:lastmodified":1566645795,
     "wof:name":"La Entrada",
     "wof:parent_id":1108701677,
     "wof:placetype":"locality",

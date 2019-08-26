@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.30333,14.33,-88.26333,14.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zacatal",
         "El Tabl\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327222763,
-    "wof:lastmodified":1537625693,
+    "wof:lastmodified":1566644617,
     "wof:name":"El Tablon",
     "wof:parent_id":421181669,
     "wof:placetype":"locality",

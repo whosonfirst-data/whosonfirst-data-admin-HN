@@ -11,11 +11,15 @@
     "geom:longitude":-88.88333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1038,
+    "gn:population":1038,
     "iso:country":"HN",
+    "lbl:bbox":"-88.90333,15.01333,-88.86333,15.05333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ocotona"
     ],
     "qs:name":"El Ocot\u00f3n",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3611069,
         "gp:id":106617,
-        "qs:id":149389
+        "qs_pg:id":149389
     },
     "wof:country":"HN",
     "wof:created":1469051336,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890420385,
-    "wof:lastmodified":1505343457,
+    "wof:lastmodified":1566646081,
     "wof:name":"El Ocot\u00f3n",
     "wof:parent_id":421193695,
     "wof:placetype":"locality",

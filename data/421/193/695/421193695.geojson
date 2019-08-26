@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.054011,
     "lbl:longitude":-88.89314,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"San Antonio",
     "meso:gadm_hasc2":"HN.CP.SA",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.89314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Antonio"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3602522,
         "gp:id":26813768,
         "hasc:id":"HN.CP.SA",
-        "qs:id":62707,
+        "qs_pg:id":62707,
         "wd:id":"Q2314026",
         "wk:page":"San Antonio, Cop\u00e1n"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421193695,
-    "wof:lastmodified":1563575123,
+    "wof:lastmodified":1566645798,
     "wof:name":"San Antonio",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

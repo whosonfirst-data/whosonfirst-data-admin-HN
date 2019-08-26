@@ -11,10 +11,14 @@
     "geom:longitude":-88.96667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":962,
+    "gn:population":962,
     "iso:country":"HN",
+    "lbl:bbox":"-88.98667,14.49667,-88.94667,14.53667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "San Antonio"
     ],
@@ -402,7 +406,7 @@
     "wof:concordances":{
         "gn:id":3602488,
         "gp:id":56125893,
-        "qs:id":96039,
+        "qs_pg:id":96039,
         "wd:id":"Q975",
         "wk:page":"San Antonio"
     },
@@ -419,7 +423,7 @@
         }
     ],
     "wof:id":890420223,
-    "wof:lastmodified":1563575470,
+    "wof:lastmodified":1566646082,
     "wof:name":"San Antonio",
     "wof:parent_id":421182977,
     "wof:placetype":"locality",

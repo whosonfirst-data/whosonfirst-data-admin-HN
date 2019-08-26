@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.937457,
     "lbl:longitude":-88.369814,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Intibuca",
     "meso:gadm_admin":"Magdalena",
     "meso:gadm_hasc2":"HN.IN.MD",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.369814,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Magdalena"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3605180,
         "gp:id":26813713,
         "hasc:id":"HN.IN.MD",
-        "qs:id":62683,
+        "qs_pg:id":62683,
         "wd:id":"Q2393454",
         "wk:page":"Magdalena, Intibuc\u00e1"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421203409,
-    "wof:lastmodified":1563575147,
+    "wof:lastmodified":1566645819,
     "wof:name":"Magdalena",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

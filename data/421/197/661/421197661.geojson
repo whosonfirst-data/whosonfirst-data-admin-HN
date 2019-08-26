@@ -10,8 +10,12 @@
     "geom:latitude":15.4,
     "geom:longitude":-87.8,
     "iso:country":"HN",
+    "lbl:bbox":"-87.82,15.38,-87.78,15.42",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0415\u043b \u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
@@ -64,7 +68,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Progreso"
     ],
     "name:war_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3610613,
         "gp:id":101172,
-        "qs:id":149381,
+        "qs_pg:id":149381,
         "wd:id":"Q2277161"
     },
     "wof:country":"HN",
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":421197661,
-    "wof:lastmodified":1563575286,
+    "wof:lastmodified":1566645947,
     "wof:name":"El Progreso",
     "wof:parent_id":421188755,
     "wof:placetype":"locality",

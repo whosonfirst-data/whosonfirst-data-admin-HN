@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.069714,
     "lbl:longitude":-87.786042,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Guajiquiro",
     "meso:gadm_hasc2":"HN.LP.GU",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.786042,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Guajiquiro"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         "gn:id":3609396,
         "gp:id":26813660,
         "hasc:id":"HN.LP.GU",
-        "qs:id":1097274,
+        "qs_pg:id":1097274,
         "wd:id":"Q2160059"
     },
     "wof:country":"HN",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421188487,
-    "wof:lastmodified":1563575211,
+    "wof:lastmodified":1566645867,
     "wof:name":"Guajiquiro",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":-83.63333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":925,
+    "gn:population":925,
     "iso:country":"HN",
+    "lbl:bbox":"-83.65333,14.99667,-83.61333,15.03667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Tikiraya",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3600754,
         "gp:id":106183,
-        "qs:id":96026
+        "qs_pg:id":96026
     },
     "wof:country":"HN",
     "wof:created":1469052943,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890455327,
-    "wof:lastmodified":1505343662,
+    "wof:lastmodified":1566646067,
     "wof:name":"Tikiraya",
     "wof:parent_id":421181809,
     "wof:placetype":"locality",

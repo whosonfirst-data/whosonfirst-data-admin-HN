@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.694019,
     "lbl:longitude":-87.669796,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.690585,
     "mps:longitude":-87.668008,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043c\u0430\u044f\u0433\u0443\u0430"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Comayagua"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0645\u0627\u06cc\u0627\u063a\u0648\u0627 \u0645\u062d\u06a9\u0645\u06c1"
     ],
@@ -229,9 +227,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-07-28",
+    "src:population_date":"2001-07-28",
     "statoids:area_km":"5,196",
     "statoids:area_mi":"2,006",
     "statoids:as_of_date":"2001-07-28",
@@ -256,7 +254,7 @@
         "gp:id":2345626,
         "hasc:id":"HN.CM",
         "iso:id":"HN-CM",
-        "qs:id":890073,
+        "qs_pg:id":890073,
         "unlc:id":"HN-CM",
         "wd:id":"Q823443",
         "wk:page":"Comayagua Department"
@@ -277,11 +275,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565713930,
+    "wof:lastmodified":1566644933,
     "wof:name":"Comayagua",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":352881,
     "wof:population_rank":10,

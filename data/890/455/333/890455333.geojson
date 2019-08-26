@@ -11,10 +11,14 @@
     "geom:longitude":-89.0,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":914,
+    "gn:population":914,
     "iso:country":"HN",
+    "lbl:bbox":"-89.02,14.36333,-88.98,14.40333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u099f\u09c7\u09b0\u09c7\u09b8\u09be"
     ],
@@ -87,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3601479,
-        "qs:id":96028,
+        "qs_pg:id":96028,
         "wk:page":"Santa Teresa"
     },
     "wof:country":"HN",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890455333,
-    "wof:lastmodified":1564151361,
+    "wof:lastmodified":1566646067,
     "wof:name":"Santa Teresa",
     "wof:parent_id":421203417,
     "wof:placetype":"locality",

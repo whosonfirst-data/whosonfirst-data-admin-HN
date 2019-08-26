@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.80333,15.78,-87.76333,15.82",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Meroa",
         "Meroa Finca"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226356481,
-    "wof:lastmodified":1537625604,
+    "wof:lastmodified":1566646424,
     "wof:name":"Meroa Finca",
     "wof:parent_id":421172435,
     "wof:placetype":"locality",

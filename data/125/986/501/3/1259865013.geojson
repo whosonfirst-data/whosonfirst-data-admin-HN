@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.25278,13.75056,-87.21278,13.79056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Infiernitos",
         "Infiernito",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259865013,
-    "wof:lastmodified":1537625616,
+    "wof:lastmodified":1566646357,
     "wof:name":"Los Infiernitos",
     "wof:parent_id":421182957,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.986609,
     "lbl:longitude":-87.079924,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Tatumbla",
     "meso:gadm_hasc2":"HN.FM.TT",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.079924,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0422\u0430\u0442\u0443\u043c\u0431\u043b\u0430"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3600972,
         "gp:id":26813851,
         "hasc:id":"HN.FM.TT",
-        "qs:id":209959,
+        "qs_pg:id":209959,
         "wd:id":"Q2137406",
         "wk:page":"Tatumbla"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421201047,
-    "wof:lastmodified":1563575300,
+    "wof:lastmodified":1566645955,
     "wof:name":"Tatumbla",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

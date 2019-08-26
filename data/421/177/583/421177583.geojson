@@ -10,8 +10,12 @@
     "geom:latitude":15.3,
     "geom:longitude":-88.66667,
     "iso:country":"HN",
+    "lbl:bbox":"-88.68667,15.28,-88.64667,15.32",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3600629,
         "gp:id":107877,
-        "qs:id":1201333
+        "qs_pg:id":1201333
     },
     "wof:country":"HN",
     "wof:created":1459009151,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421177583,
-    "wof:lastmodified":1505340633,
+    "wof:lastmodified":1566645984,
     "wof:name":"Tras Cerros",
     "wof:parent_id":1108701703,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":14.88333,
     "geom:longitude":-88.73333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.75333,14.86333,-88.71333,14.90333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quezailica"
@@ -25,7 +29,7 @@
     "name:swe_x_preferred":[
         "Quezailica"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quesailica"
     ],
     "qs:gn_country":"HN",
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":3602984,
         "gp:id":106320,
-        "qs:id":149266,
+        "qs_pg:id":149266,
         "wd:id":"Q25268607"
     },
     "wof:country":"HN",
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421197643,
-    "wof:lastmodified":1563575284,
+    "wof:lastmodified":1566645947,
     "wof:name":"Quezailica",
     "wof:parent_id":1108701725,
     "wof:placetype":"locality",

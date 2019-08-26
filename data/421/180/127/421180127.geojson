@@ -10,8 +10,12 @@
     "geom:latitude":14.6,
     "geom:longitude":-87.11667,
     "iso:country":"HN",
+    "lbl:bbox":"-87.13667,14.58,-87.09667,14.62",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Cedros"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Cedros"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cerros"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":3613906,
         "gp:id":98748,
-        "qs:id":1116171,
+        "qs_pg:id":1116171,
         "wd:id":"Q748590"
     },
     "wof:country":"HN",
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421180127,
-    "wof:lastmodified":1563575172,
+    "wof:lastmodified":1566645837,
     "wof:name":"Cedros",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

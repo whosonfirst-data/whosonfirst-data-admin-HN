@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.230655,
     "lbl:longitude":-87.959552,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"San Jos\u00e9",
     "meso:gadm_hasc2":"HN.CH.SJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.959552,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -38,7 +41,7 @@
         "San Jos\u00e9"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108701705,
-    "wof:lastmodified":1554489370,
+    "wof:lastmodified":1566645573,
     "wof:name":"San Jose",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

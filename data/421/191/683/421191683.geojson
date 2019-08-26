@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.249152,
     "lbl:longitude":-88.740617,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"Tomal\u00e1",
     "meso:gadm_hasc2":"HN.LE.TO",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.740617,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tomal\u00e1"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Tomal\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Tomal\u00e1"
-    ],
     "name:zho_x_preferred":[
         "\u6258\u99ac\u62c9"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3600687,
         "gp:id":26813857,
         "hasc:id":"HN.LE.TO",
-        "qs:id":1150588,
+        "qs_pg:id":1150588,
         "wd:id":"Q1645799"
     },
     "wof:country":"HN",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421191683,
-    "wof:lastmodified":1563575274,
+    "wof:lastmodified":1566645940,
     "wof:name":"Tomala",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

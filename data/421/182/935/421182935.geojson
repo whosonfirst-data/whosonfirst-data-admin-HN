@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.733214,
     "lbl:longitude":-87.326325,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"La Venta",
     "meso:gadm_hasc2":"HN.FM.LV",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.326325,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Venta"
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":3606124,
         "gp:id":26813697,
         "hasc:id":"HN.FM.LV",
-        "qs:id":956684,
+        "qs_pg:id":956684,
         "wd:id":"Q628829",
         "wk:page":"La Venta, Francisco Moraz\u00e1n"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421182935,
-    "wof:lastmodified":1563575386,
+    "wof:lastmodified":1566646033,
     "wof:name":"La Venta",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

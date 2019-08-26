@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":14.848491,
     "lbl:longitude":-85.846597,
+    "lbl:min_zoom":8.0,
     "mps:latitude":14.850412,
     "mps:longitude":-85.848348,
     "mz:hierarchy_label":1,
@@ -178,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u043e"
     ],
-    "name:unk_x_variant":[
-        "Departamento de Olancho"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0644\u0627\u0646\u0686\u0648 \u0688\u06cc\u067e\u0627\u0631\u0679\u0645\u0646\u0679"
     ],
@@ -265,9 +263,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-07-28",
+    "src:population_date":"2001-07-28",
     "statoids:area_km":"24,351",
     "statoids:area_mi":"9,402",
     "statoids:as_of_date":"2001-07-28",
@@ -292,7 +290,7 @@
         "gp:id":2345637,
         "hasc:id":"HN.OL",
         "iso:id":"HN-OL",
-        "qs:id":242273,
+        "qs_pg:id":242273,
         "unlc:id":"HN-OL",
         "wd:id":"Q867089",
         "wk:page":"Olancho Department"
@@ -313,11 +311,10 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1565714005,
+    "wof:lastmodified":1566644961,
     "wof:name":"Olancho",
     "wof:parent_id":85632323,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":419561,
     "wof:population_rank":10,

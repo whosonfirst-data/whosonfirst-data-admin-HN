@@ -11,10 +11,14 @@
     "geom:longitude":-87.11667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":938,
+    "gn:population":938,
     "iso:country":"HN",
+    "lbl:bbox":"-87.13667,13.18,-87.09667,13.22",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "San Agust\u00edn"
     ],
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3602549,
         "gp:id":105396,
-        "qs:id":96040,
+        "qs_pg:id":96040,
         "wk:page":"San Agust\u00edn"
     },
     "wof:country":"HN",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890453407,
-    "wof:lastmodified":1564151365,
+    "wof:lastmodified":1566646069,
     "wof:name":"San Agust\u00edn",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

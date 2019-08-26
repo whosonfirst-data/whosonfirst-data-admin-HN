@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.78621,
     "lbl:longitude":-87.471591,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Alubar\u00e9n",
     "meso:gadm_hasc2":"HN.FM.AL",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.471591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Alubar\u00e9n"
@@ -70,9 +73,6 @@
     "name:swe_x_preferred":[
         "Alubar\u00e9n"
     ],
-    "name:unk_x_variant":[
-        "Alubar\u00e9n"
-    ],
     "name:zho_x_preferred":[
         "\u963f\u76e7\u74e6\u502b"
     ],
@@ -98,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -120,7 +120,7 @@
         "gn:id":3615227,
         "gp:id":26813589,
         "hasc:id":"HN.FM.AL",
-        "qs:id":62619,
+        "qs_pg:id":62619,
         "wd:id":"Q676725"
     },
     "wof:country":"HN",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":421193683,
-    "wof:lastmodified":1563575126,
+    "wof:lastmodified":1566645801,
     "wof:name":"Alubaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

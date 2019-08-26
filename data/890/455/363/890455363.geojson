@@ -11,11 +11,15 @@
     "geom:longitude":-88.56667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":888,
+    "gn:population":888,
     "iso:country":"HN",
+    "lbl:bbox":"-88.58667,14.79667,-88.54667,14.83667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Laguna del Pedernal"
     ],
     "qs:name":"La Laguna del Pedernal",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3607565,
-        "qs:id":96064
+        "qs_pg:id":96064
     },
     "wof:country":"HN",
     "wof:created":1469052944,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890455363,
-    "wof:lastmodified":1505343663,
+    "wof:lastmodified":1566646066,
     "wof:name":"La Laguna del Pedernal",
     "wof:parent_id":421205531,
     "wof:placetype":"locality",

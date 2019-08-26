@@ -10,8 +10,12 @@
     "geom:latitude":14.98333,
     "geom:longitude":-88.33333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.35333,14.96333,-88.31333,15.00333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nuevo Celilac"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Nuevo Celilac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuliapa"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3604376,
         "gp:id":105450,
-        "qs:id":282152,
+        "qs_pg:id":282152,
         "wd:id":"Q1846407",
         "wk:page":"Nuevo Celilac"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421197485,
-    "wof:lastmodified":1563575284,
+    "wof:lastmodified":1566645947,
     "wof:name":"Nuevo Celilac",
     "wof:parent_id":421191357,
     "wof:placetype":"locality",

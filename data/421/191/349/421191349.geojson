@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.816779,
     "lbl:longitude":-86.82105,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Guayape",
     "meso:gadm_hasc2":"HN.OL.GY",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.82105,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Guayape"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3609153,
         "gp:id":26813668,
         "hasc:id":"HN.OL.GY",
-        "qs:id":62660,
+        "qs_pg:id":62660,
         "wd:id":"Q2394969"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191349,
-    "wof:lastmodified":1563575266,
+    "wof:lastmodified":1566645930,
     "wof:name":"Guayape",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

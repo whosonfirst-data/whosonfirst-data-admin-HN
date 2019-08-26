@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.95333,14.13,-87.91333,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tierra Colorada"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225825411,
-    "wof:lastmodified":1564152151,
+    "wof:lastmodified":1566646507,
     "wof:name":"Tierra Colorada",
     "wof:parent_id":421182947,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.560404,
     "lbl:longitude":-87.308405,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"Pespire",
     "meso:gadm_hasc2":"HN.CH.PE",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.308405,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pespire"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3603806,
         "gp:id":26813745,
         "hasc:id":"HN.CH.PE",
-        "qs:id":956693,
+        "qs_pg:id":956693,
         "wd:id":"Q2602771"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182951,
-    "wof:lastmodified":1563575390,
+    "wof:lastmodified":1566646037,
     "wof:name":"Pespire",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

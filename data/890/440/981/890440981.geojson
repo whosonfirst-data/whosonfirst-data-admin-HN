@@ -11,10 +11,14 @@
     "geom:longitude":-85.91667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1271,
+    "gn:population":1271,
     "iso:country":"HN",
+    "lbl:bbox":"-85.93667,15.68,-85.89667,15.72",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Taujica",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3600969,
         "gp:id":106232,
-        "qs:id":149238
+        "qs_pg:id":149238
     },
     "wof:country":"HN",
     "wof:created":1469052304,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890440981,
-    "wof:lastmodified":1505343579,
+    "wof:lastmodified":1566646057,
     "wof:name":"Taujica",
     "wof:parent_id":421182985,
     "wof:placetype":"locality",

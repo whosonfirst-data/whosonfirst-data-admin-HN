@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.796403,
     "lbl:longitude":-86.645134,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Salam\u00e1",
     "meso:gadm_hasc2":"HN.OL.SA",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.645134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Salam\u00e1"
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Salam\u00e1"
     ],
-    "name:unk_x_variant":[
-        "Salam\u00e1"
-    ],
     "name:zho_x_preferred":[
         "\u85a9\u62c9\u99ac"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +114,7 @@
         "gn:id":3602604,
         "gp:id":26813759,
         "hasc:id":"HN.OL.SA",
-        "qs:id":956697,
+        "qs_pg:id":956697,
         "wd:id":"Q2394865",
         "wk:page":"Salam\u00e1, Olancho"
     },
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":421182959,
-    "wof:lastmodified":1563575385,
+    "wof:lastmodified":1566646032,
     "wof:name":"Salama",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

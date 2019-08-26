@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.187888,
     "lbl:longitude":-86.107594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"Gualaco",
     "meso:gadm_hasc2":"HN.OL.GL",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.107594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gualaco"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3609390,
         "gp:id":26813661,
         "hasc:id":"HN.OL.GL",
-        "qs:id":1097275,
+        "qs_pg:id":1097275,
         "wd:id":"Q2394350"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188491,
-    "wof:lastmodified":1563575197,
+    "wof:lastmodified":1566645850,
     "wof:name":"Gualaco",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

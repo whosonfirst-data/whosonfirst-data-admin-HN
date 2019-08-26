@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.643252,
     "lbl:longitude":-87.634392,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Valle",
     "meso:gadm_admin":"Langue",
     "meso:gadm_hasc2":"HN.VA.LA",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.634392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Langue"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3607295,
         "gp:id":26813701,
         "hasc:id":"HN.VA.LA",
-        "qs:id":919277,
+        "qs_pg:id":919277,
         "wd:id":"Q2395542"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182583,
-    "wof:lastmodified":1563575404,
+    "wof:lastmodified":1566646046,
     "wof:name":"Langue",
     "wof:parent_id":85671883,
     "wof:placetype":"county",
