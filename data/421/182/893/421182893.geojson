@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.05881,
     "lbl:longitude":-88.556853,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"Candelaria",
     "meso:gadm_hasc2":"HN.LE.CA",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.556853,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Candelaria"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3614239,
         "gp:id":26813607,
         "hasc:id":"HN.LE.CA",
-        "qs:id":956665,
+        "qs_pg:id":956665,
         "wd:id":"Q2261478",
         "wk:page":"Candelaria, Lempira"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182893,
-    "wof:lastmodified":1563575369,
+    "wof:lastmodified":1566646014,
     "wof:name":"Candelaria",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

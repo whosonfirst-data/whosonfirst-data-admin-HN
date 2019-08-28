@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.12528,13.20306,-87.08528,13.24306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360093897,
-    "wof:lastmodified":1536933628,
+    "wof:lastmodified":1566645699,
     "wof:name":"Tipurin",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

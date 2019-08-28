@@ -10,8 +10,12 @@
     "geom:latitude":14.25,
     "geom:longitude":-87.85,
     "iso:country":"HN",
+    "lbl:bbox":"-87.87,14.23,-87.83,14.27",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Pedro de Tutule"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "San Pedro de Tutule"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Pedro Tutule"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3601784,
         "gp:id":107142,
-        "qs:id":214216,
+        "qs_pg:id":214216,
         "wd:id":"Q2201661",
         "wk:page":"San Pedro de Tutule"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421179843,
-    "wof:lastmodified":1561749469,
+    "wof:lastmodified":1566645997,
     "wof:name":"San Pedro de Tutule",
     "wof:parent_id":421188519,
     "wof:placetype":"locality",

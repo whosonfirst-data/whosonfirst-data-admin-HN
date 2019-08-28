@@ -11,11 +11,15 @@
     "geom:longitude":-85.7,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1071,
+    "gn:population":1071,
     "iso:country":"HN",
+    "lbl:bbox":"-85.72,14.91333,-85.68,14.95333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "R\u00edo Tinto"
     ],
     "qs:name":"San Jos\u00e9 de R\u00edo Tinto",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3602066,
         "gp:id":106934,
-        "qs:id":1045637
+        "qs_pg:id":1045637
     },
     "wof:country":"HN",
     "wof:created":1469052484,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890444849,
-    "wof:lastmodified":1505343601,
+    "wof:lastmodified":1566646074,
     "wof:name":"San Jos\u00e9 de R\u00edo Tinto",
     "wof:parent_id":421170691,
     "wof:placetype":"locality",

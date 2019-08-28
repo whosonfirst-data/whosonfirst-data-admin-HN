@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.38667,13.66333,-87.34667,13.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Portillo Pac\u00f3n",
         "Portillo El Pac\u00f3n"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242983759,
-    "wof:lastmodified":1537625589,
+    "wof:lastmodified":1566646220,
     "wof:name":"Portillo El Pacon",
     "wof:parent_id":421182951,
     "wof:placetype":"locality",

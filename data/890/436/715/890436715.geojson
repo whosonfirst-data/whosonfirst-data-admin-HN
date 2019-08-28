@@ -11,10 +11,14 @@
     "geom:longitude":-87.13639,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2381,
+    "gn:population":2381,
     "iso:country":"HN",
+    "lbl:bbox":"-87.15639,13.15667,-87.11639,13.19667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "San Jer\u00f3nimo"
     ],
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3602205,
         "gp:id":105396,
-        "qs:id":1045645,
+        "qs_pg:id":1045645,
         "wk:page":"San Jer\u00f3nimo"
     },
     "wof:country":"HN",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890436715,
-    "wof:lastmodified":1564151362,
+    "wof:lastmodified":1566646068,
     "wof:name":"San Jer\u00f3nimo",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

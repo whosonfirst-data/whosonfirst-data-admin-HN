@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.89423,
     "lbl:longitude":-86.936952,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Paraiso",
     "meso:gadm_admin":"Guinope",
     "meso:gadm_hasc2":"HN.EP.GU",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.936952,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "G\u00fcinope"
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "G\u00fcinope"
     ],
-    "name:unk_x_variant":[
-        "G\u00fcinope"
-    ],
     "name:zho_x_preferred":[
         "\u5409\u8afe\u4f69"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +111,7 @@
         "gn:id":3609113,
         "gp:id":26813669,
         "hasc:id":"HN.EP.GU",
-        "qs:id":956675,
+        "qs_pg:id":956675,
         "wd:id":"Q732437"
     },
     "wof:country":"HN",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421182915,
-    "wof:lastmodified":1563575374,
+    "wof:lastmodified":1566646019,
     "wof:name":"Guinope",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

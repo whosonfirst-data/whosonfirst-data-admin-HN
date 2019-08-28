@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.02667,13.43778,-86.98667,13.47778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "El Cerro"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1344165963,
-    "wof:lastmodified":1564149622,
+    "wof:lastmodified":1566644835,
     "wof:name":"El Cerro",
     "wof:parent_id":421193685,
     "wof:placetype":"locality",

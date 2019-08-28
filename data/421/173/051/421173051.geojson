@@ -10,8 +10,12 @@
     "geom:latitude":14.6,
     "geom:longitude":-87.83333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.85333,14.58,-87.81333,14.62",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Siguatepeque"
@@ -65,7 +69,7 @@
     "wof:concordances":{
         "gn:id":3601311,
         "gp:id":107478,
-        "qs:id":489211,
+        "qs_pg:id":489211,
         "wd:id":"Q14837828",
         "wk:page":"Siguatepeque, Comayagua"
     },
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421173051,
-    "wof:lastmodified":1563575183,
+    "wof:lastmodified":1566645840,
     "wof:name":"Siguatepeque",
     "wof:parent_id":421188781,
     "wof:placetype":"locality",

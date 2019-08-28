@@ -10,8 +10,12 @@
     "geom:latitude":14.48333,
     "geom:longitude":-89.0,
     "iso:country":"HN",
+    "lbl:bbox":"-89.02,14.46333,-88.98,14.50333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "La Labor"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3607644,
         "gp:id":103062,
-        "qs:id":214199,
+        "qs_pg:id":214199,
         "wd:id":"Q2393997",
         "wk:page":"La Labor"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421201733,
-    "wof:lastmodified":1563575301,
+    "wof:lastmodified":1566645956,
     "wof:name":"La Labor",
     "wof:parent_id":421188495,
     "wof:placetype":"locality",

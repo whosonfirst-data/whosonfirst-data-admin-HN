@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.370114,
     "lbl:longitude":-88.576786,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Azacualpa",
     "meso:gadm_hasc2":"HN.SB.AZ",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.576786,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Azacualpa"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3614991,
         "gp:id":26813597,
         "hasc:id":"HN.SB.AZ",
-        "qs:id":971542,
+        "qs_pg:id":971542,
         "wd:id":"Q935031"
     },
     "wof:country":"HN",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421183299,
-    "wof:lastmodified":1563575330,
+    "wof:lastmodified":1566645990,
     "wof:name":"Azacualpa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.212915,
     "lbl:longitude":-84.787736,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gracias a Dios",
     "meso:gadm_admin":"Brus Laguna",
     "meso:gadm_hasc2":"HN.GD.BL",
@@ -30,6 +32,7 @@
     "mps:longitude":-84.787736,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Wampusirpi"
@@ -92,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +117,7 @@
         "gn:id":3600295,
         "gp:id":26813875,
         "hasc:id":"HN.GD.WA",
-        "qs:id":1097331,
+        "qs_pg:id":1097331,
         "wd:id":"Q2604385",
         "wk:page":"Wampusirpi"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421177087,
-    "wof:lastmodified":1563575323,
+    "wof:lastmodified":1566645984,
     "wof:name":"Wampusirpi",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

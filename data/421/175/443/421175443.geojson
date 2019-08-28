@@ -10,8 +10,12 @@
     "geom:latitude":14.7,
     "geom:longitude":-87.96667,
     "iso:country":"HN",
+    "lbl:bbox":"-87.98667,14.68,-87.94667,14.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taulab\u00e9"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3600966,
         "gp:id":107671,
-        "qs:id":965910,
+        "qs_pg:id":965910,
         "wd:id":"Q1643763"
     },
     "wof:country":"HN",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421175443,
-    "wof:lastmodified":1563575245,
+    "wof:lastmodified":1566645907,
     "wof:name":"Taulab\u00e9",
     "wof:parent_id":421179809,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-84.53667,14.58,-84.49667,14.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bucbuc",
         "Bukbuk"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225940923,
-    "wof:lastmodified":1537625788,
+    "wof:lastmodified":1566646360,
     "wof:name":"Bukbuk",
     "wof:parent_id":1108693673,
     "wof:placetype":"locality",

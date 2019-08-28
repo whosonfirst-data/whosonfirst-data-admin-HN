@@ -11,11 +11,15 @@
     "geom:longitude":-86.68333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1250,
+    "gn:population":1250,
     "iso:country":"HN",
+    "lbl:bbox":"-86.70333,15.33,-86.66333,15.37",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Nombre Jes\u00fas"
     ],
     "name:zho_x_preferred":[
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":3604414,
         "gp:id":105533,
-        "qs:id":149296,
+        "qs_pg:id":149296,
         "wk:page":"Nombre de Jes\u00fas"
     },
     "wof:country":"HN",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890435045,
-    "wof:lastmodified":1564151391,
+    "wof:lastmodified":1566646087,
     "wof:name":"Nombre de Jes\u00fas",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

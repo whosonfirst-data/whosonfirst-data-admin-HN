@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.244803,
     "lbl:longitude":-87.625586,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"San Sebasti\u00e1n",
     "meso:gadm_hasc2":"HN.CM.SS",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.625586,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Sebasti\u00e1n"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "San Sebasti\u00e1n"
     ],
-    "name:unk_x_variant":[
-        "San Sebasti\u00e1n"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u585e\u74e6\u65af\u8482\u5b89"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3601742,
         "gp:id":26813820,
         "hasc:id":"HN.CM.SS",
-        "qs:id":1097320,
+        "qs_pg:id":1097320,
         "wd:id":"Q2167734",
         "wk:page":"San Sebasti\u00e1n, Comayagua"
     },
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":421188523,
-    "wof:lastmodified":1563575218,
+    "wof:lastmodified":1566645876,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

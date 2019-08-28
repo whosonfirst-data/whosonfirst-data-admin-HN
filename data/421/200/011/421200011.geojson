@@ -10,10 +10,14 @@
     "geom:latitude":15.66667,
     "geom:longitude":-88.2,
     "iso:country":"HN",
+    "lbl:bbox":"-88.22,15.64667,-88.18,15.68667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cuaymel"
     ],
     "qs:gn_country":"HN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3612929,
         "gp:id":99291,
-        "qs:id":1253153
+        "qs_pg:id":1253153
     },
     "wof:country":"HN",
     "wof:created":1459010008,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421200011,
-    "wof:lastmodified":1505340766,
+    "wof:lastmodified":1566645954,
     "wof:name":"Cuyamel",
     "wof:parent_id":421172429,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.404537,
     "lbl:longitude":-86.832883,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"San Marcos de Col\u00f3n",
     "meso:gadm_hasc2":"HN.CH.SM",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.832883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Marcos de Col\u00f3n"
@@ -62,9 +65,6 @@
     "name:spa_x_preferred":[
         "San Marcos de Col\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "San Marcos de Col\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u8056\u99ac\u723e\u79d1\u65af\u5fb7\u79d1\u9686"
     ],
@@ -90,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -112,7 +112,7 @@
         "gn:id":3601889,
         "gp:id":26813805,
         "hasc:id":"HN.CH.SM",
-        "qs:id":14457,
+        "qs_pg:id":14457,
         "wd:id":"Q2552667"
     },
     "wof:country":"HN",
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421177943,
-    "wof:lastmodified":1554488782,
+    "wof:lastmodified":1566645985,
     "wof:name":"San Marcos de Colon",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

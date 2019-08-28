@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.55333,13.98,-88.51333,14.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "San Pedro"
     ],
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":1343238493,
-    "wof:lastmodified":1564149524,
+    "wof:lastmodified":1566644785,
     "wof:name":"San Pedro",
     "wof:parent_id":1108701733,
     "wof:placetype":"locality",

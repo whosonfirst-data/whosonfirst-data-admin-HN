@@ -11,8 +11,11 @@
     "geom:longitude":-87.6375,
     "gn:country":"HN",
     "gn:fcode":"PPLA",
-    "gn:pop":58784,
+    "gn:population":58784,
     "iso:country":"HN",
+    "lbl:bbox":"-87.6575,14.43139,-87.6175,14.47139",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -274,10 +277,12 @@
     "wof:concordances":{
         "gn:id":3613321,
         "gp:id":99069,
-        "qs:id":274448,
         "qs_pg:id":238284,
         "wd:id":"Q679169",
         "wk:page":"Comayagua"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":274448
     },
     "wof:country":"HN",
     "wof:created":1469052350,
@@ -292,7 +297,7 @@
         }
     ],
     "wof:id":890442111,
-    "wof:lastmodified":1563575473,
+    "wof:lastmodified":1566646084,
     "wof:name":"Comayagua",
     "wof:parent_id":421205113,
     "wof:placetype":"locality",

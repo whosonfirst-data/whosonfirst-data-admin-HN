@@ -10,8 +10,12 @@
     "geom:latitude":14.8,
     "geom:longitude":-88.2,
     "iso:country":"HN",
+    "lbl:bbox":"-88.22,14.78,-88.18,14.82",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ceguaca"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3613900,
         "gp:id":98754,
-        "qs:id":1116170,
+        "qs_pg:id":1116170,
         "wd:id":"Q2394615",
         "wk:page":"Ceguaca"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421180125,
-    "wof:lastmodified":1563575177,
+    "wof:lastmodified":1566645838,
     "wof:name":"Ceguaca",
     "wof:parent_id":1108701717,
     "wof:placetype":"locality",

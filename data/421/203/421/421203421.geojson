@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.567078,
     "lbl:longitude":-88.115988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Intibuca",
     "meso:gadm_admin":"San Isidro",
     "meso:gadm_hasc2":"HN.CH.SI",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.115988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Isidro"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         "gn:id":3602249,
         "gp:id":26813784,
         "hasc:id":"HN.IN.SI",
-        "qs:id":62714,
+        "qs_pg:id":62714,
         "wd:id":"Q1646042",
         "wk:page":"San Isidro, Intibuc\u00e1"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421203421,
-    "wof:lastmodified":1563575151,
+    "wof:lastmodified":1566645822,
     "wof:name":"San Isidro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

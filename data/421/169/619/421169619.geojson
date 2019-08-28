@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.704292,
     "lbl:longitude":-85.746962,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colon",
     "meso:gadm_admin":"Bonito Oriental",
     "meso:gadm_hasc2":"HN.CL.BO",
@@ -30,6 +32,7 @@
     "mps:longitude":-85.746962,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bonito Oriental"
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         "gn:id":8062523,
         "gp:id":26813601,
         "hasc:id":"HN.CL.BO",
-        "qs:id":223169,
+        "qs_pg:id":223169,
         "wd:id":"Q22089",
         "wk:page":"Bonito Oriental"
     },
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421169619,
-    "wof:lastmodified":1563575133,
+    "wof:lastmodified":1566645806,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

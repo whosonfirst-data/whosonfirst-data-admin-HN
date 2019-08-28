@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.23611,13.74111,-87.19611,13.78111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293290135,
-    "wof:lastmodified":1537068565,
+    "wof:lastmodified":1566645099,
     "wof:name":"La Laguneta",
     "wof:parent_id":421182957,
     "wof:placetype":"locality",

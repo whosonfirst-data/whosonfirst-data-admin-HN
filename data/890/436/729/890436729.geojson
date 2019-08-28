@@ -11,10 +11,14 @@
     "geom:longitude":-88.56667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2502,
+    "gn:population":2502,
     "iso:country":"HN",
+    "lbl:bbox":"-88.58667,15.23,-88.54667,15.27",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0421\u0443\u043b\u0430"
     ],
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":3601162,
         "gp:id":107558,
-        "qs:id":1045623,
+        "qs_pg:id":1045623,
         "wk:page":"Sula"
     },
     "wof:country":"HN",
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":890436729,
-    "wof:lastmodified":1564151363,
+    "wof:lastmodified":1566646068,
     "wof:name":"Sula",
     "wof:parent_id":421182937,
     "wof:placetype":"locality",

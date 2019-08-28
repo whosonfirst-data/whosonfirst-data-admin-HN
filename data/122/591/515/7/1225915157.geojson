@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.80333,14.41333,-88.76333,14.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuyal",
         "Tullal"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225915157,
-    "wof:lastmodified":1537625561,
+    "wof:lastmodified":1566646441,
     "wof:name":"Tullal",
     "wof:parent_id":421169617,
     "wof:placetype":"locality",

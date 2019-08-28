@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.458127,
     "lbl:longitude":-87.017612,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"Apacilagua",
     "meso:gadm_hasc2":"HN.CH.AP",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.017612,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Apacilagua"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3615162,
         "gp:id":26813591,
         "hasc:id":"HN.CH.AP",
-        "qs:id":62620,
+        "qs_pg:id":62620,
         "wd:id":"Q2360971",
         "wk:page":"Apacilagua"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421193685,
-    "wof:lastmodified":1563575125,
+    "wof:lastmodified":1566645800,
     "wof:name":"Apacilagua",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.67,14.13,-88.63,14.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gualsixce",
         "Gualcile",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243242919,
-    "wof:lastmodified":1537625679,
+    "wof:lastmodified":1566646169,
     "wof:name":"Gualcixce",
     "wof:parent_id":421188513,
     "wof:placetype":"locality",

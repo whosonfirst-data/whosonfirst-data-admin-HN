@@ -10,8 +10,12 @@
     "geom:latitude":15.74765,
     "geom:longitude":-85.73559,
     "iso:country":"HN",
+    "lbl:bbox":"-85.75559,15.72765,-85.71559,15.76765",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Bonito Oriental"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3614705,
         "gp:id":98310,
-        "qs:id":149417,
+        "qs_pg:id":149417,
         "wd:id":"Q22089"
     },
     "wof:country":"HN",
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421167763,
-    "wof:lastmodified":1563575129,
+    "wof:lastmodified":1566645803,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":421169619,
     "wof:placetype":"locality",

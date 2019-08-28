@@ -10,10 +10,14 @@
     "geom:latitude":15.03333,
     "geom:longitude":-88.11667,
     "iso:country":"HN",
+    "lbl:bbox":"-88.13667,15.01333,-88.09667,15.05333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Jos\u00e9"
     ],
     "qs:gn_country":"HN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3602069,
         "gp:id":106931,
-        "qs:id":888710
+        "qs_pg:id":888710
     },
     "wof:country":"HN",
     "wof:created":1459009768,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421193343,
-    "wof:lastmodified":1505340734,
+    "wof:lastmodified":1566645803,
     "wof:name":"San Jos\u00e9 de Oriente",
     "wof:parent_id":421182917,
     "wof:placetype":"locality",

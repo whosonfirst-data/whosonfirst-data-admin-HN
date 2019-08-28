@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.75917,13.41639,-87.71917,13.45639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "La Ceiba"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1293268511,
-    "wof:lastmodified":1564149996,
+    "wof:lastmodified":1566645120,
     "wof:name":"La Ceiba",
     "wof:parent_id":421191085,
     "wof:placetype":"locality",

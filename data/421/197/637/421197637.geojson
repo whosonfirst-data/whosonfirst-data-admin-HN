@@ -10,8 +10,12 @@
     "geom:latitude":14.83333,
     "geom:longitude":-86.53333,
     "iso:country":"HN",
+    "lbl:bbox":"-86.55333,14.81333,-86.51333,14.85333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Silca"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3601302,
         "gp:id":107482,
-        "qs:id":149241,
+        "qs_pg:id":149241,
         "wd:id":"Q2394989"
     },
     "wof:country":"HN",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421197637,
-    "wof:lastmodified":1563575289,
+    "wof:lastmodified":1566645948,
     "wof:name":"Silca",
     "wof:parent_id":421191383,
     "wof:placetype":"locality",

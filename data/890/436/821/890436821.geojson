@@ -11,11 +11,15 @@
     "geom:longitude":-88.88333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":916,
+    "gn:population":916,
     "iso:country":"HN",
+    "lbl:bbox":"-88.90333,14.63,-88.86333,14.67",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Los Arrollos"
     ],
     "qs:name":"Los Arroyos",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3605758,
         "gp:id":99247,
-        "qs:id":96059
+        "qs_pg:id":96059
     },
     "wof:country":"HN",
     "wof:created":1469052127,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436821,
-    "wof:lastmodified":1505343556,
+    "wof:lastmodified":1566646068,
     "wof:name":"Los Arroyos",
     "wof:parent_id":421182933,
     "wof:placetype":"locality",

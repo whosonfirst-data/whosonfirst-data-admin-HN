@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.85333,13.76333,-86.81333,13.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loma Verde",
         "La Loma Verde"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293484465,
-    "wof:lastmodified":1537625651,
+    "wof:lastmodified":1566645011,
     "wof:name":"La Loma Verde",
     "wof:parent_id":421182949,
     "wof:placetype":"locality",

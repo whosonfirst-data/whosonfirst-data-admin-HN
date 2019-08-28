@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.966352,
     "lbl:longitude":-88.647847,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Naranjito",
     "meso:gadm_hasc2":"HN.SB.NA",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.647847,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "Naranjito"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3604480,
         "gp:id":26813731,
         "hasc:id":"HN.SB.NA",
-        "qs:id":1097294
+        "qs_pg:id":1097294
     },
     "wof:country":"HN",
     "wof:created":1459009561,
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421188509,
-    "wof:lastmodified":1564151267,
+    "wof:lastmodified":1566645865,
     "wof:name":"Naranjito",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

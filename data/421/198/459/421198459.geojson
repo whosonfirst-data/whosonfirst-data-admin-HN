@@ -10,8 +10,12 @@
     "geom:latitude":15.0,
     "geom:longitude":-88.75,
     "iso:country":"HN",
+    "lbl:bbox":"-88.77,14.98,-88.73,15.02",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bre_x_preferred":[
         "San Nicol\u00e1s"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":3601833,
         "gp:id":107105,
-        "qs:id":1201318
+        "qs_pg:id":1201318
     },
     "wof:country":"HN",
     "wof:created":1459009949,
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421198459,
-    "wof:lastmodified":1564151287,
+    "wof:lastmodified":1566645914,
     "wof:name":"San Nicol\u00e1s",
     "wof:parent_id":421191367,
     "wof:placetype":"locality",

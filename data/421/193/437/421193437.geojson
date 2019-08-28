@@ -10,8 +10,12 @@
     "geom:latitude":13.80778,
     "geom:longitude":-87.25917,
     "iso:country":"HN",
+    "lbl:bbox":"-87.27917,13.78778,-87.23917,13.82778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sabanagrande"
@@ -46,7 +50,7 @@
     "name:swe_x_preferred":[
         "Sabanagrande"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sabanu Grande"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3602680,
         "gp:id":106550,
-        "qs:id":898493,
+        "qs_pg:id":898493,
         "wd:id":"Q2573365",
         "wk:page":"Sabanagrande, Honduras"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":421193437,
-    "wof:lastmodified":1563575121,
+    "wof:lastmodified":1566645797,
     "wof:name":"Sabanagrande",
     "wof:parent_id":421182957,
     "wof:placetype":"locality",

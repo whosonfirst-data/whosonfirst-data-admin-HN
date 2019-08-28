@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.55333,14.83,-86.51333,14.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pamuaya",
         "Panuaya"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276624991,
-    "wof:lastmodified":1537625595,
+    "wof:lastmodified":1566645260,
     "wof:name":"Panuaya",
     "wof:parent_id":421191383,
     "wof:placetype":"locality",

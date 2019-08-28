@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.20333,14.66333,-87.16333,14.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Montecitos",
         "Montecinos",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259581015,
-    "wof:lastmodified":1537625601,
+    "wof:lastmodified":1566646331,
     "wof:name":"Montecillos",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

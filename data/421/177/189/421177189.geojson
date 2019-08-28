@@ -10,8 +10,12 @@
     "geom:latitude":14.78333,
     "geom:longitude":-88.58333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.60333,14.76333,-88.56333,14.80333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lepaera"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3606048,
         "gp:id":104341,
-        "qs:id":1116191,
+        "qs_pg:id":1116191,
         "wd:id":"Q777598",
         "wk:page":"Lepaera"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421177189,
-    "wof:lastmodified":1563575321,
+    "wof:lastmodified":1566645983,
     "wof:name":"Lepaera",
     "wof:parent_id":421205531,
     "wof:placetype":"locality",

@@ -9,17 +9,20 @@
     "geom:bbox":"-88.78333,14.75,-88.78333,14.75",
     "geom:latitude":14.75,
     "geom:longitude":-88.78333,
-    "gn:gn_country":"HN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":929,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
     "gn:population":929,
     "iso:country":"HN",
+    "lbl:bbox":"-88.80333,14.73,-88.76333,14.77",
     "lbl:latitude":14.75,
     "lbl:longitude":-88.78333,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Errumbo"
     ],
     "qs_pg:aaroncc":"HN",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":96088,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1126021649,
-    "wof:lastmodified":1509407265,
+    "wof:lastmodified":1566646092,
     "wof:name":"El Derrumbo",
     "wof:parent_id":1108701725,
     "wof:placetype":"locality",

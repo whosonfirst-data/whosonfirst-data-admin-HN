@@ -10,8 +10,12 @@
     "geom:latitude":15.28333,
     "geom:longitude":-86.96667,
     "iso:country":"HN",
+    "lbl:bbox":"-86.98667,15.26333,-86.94667,15.30333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Joc\u00f3n"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Joc\u00f3n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "El Jocon"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3608635,
         "gp:id":102378,
-        "qs:id":1116193,
+        "qs_pg:id":1116193,
         "wd:id":"Q2308179",
         "wk:page":"Joc\u00f3n"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421177191,
-    "wof:lastmodified":1563575321,
+    "wof:lastmodified":1566645983,
     "wof:name":"Joc\u00f3n",
     "wof:parent_id":421191673,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.75333,14.74667,-88.71333,14.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Delicias"
     ],
@@ -60,8 +64,7 @@
         "Delicias"
     ],
     "name:und_x_variant":[
-        "Deliceas",
-        "Delicias"
+        "Deliceas"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1327436295,
-    "wof:lastmodified":1564149329,
+    "wof:lastmodified":1566644693,
     "wof:name":"Delicias",
     "wof:parent_id":1108701725,
     "wof:placetype":"locality",

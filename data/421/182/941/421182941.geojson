@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.046242,
     "lbl:longitude":-88.622059,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"Mapulaca",
     "meso:gadm_hasc2":"HN.LE.MA",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.622059,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mapulaca"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         "gn:id":3605032,
         "gp:id":26813716,
         "hasc:id":"HN.LE.MA",
-        "qs:id":956687,
+        "qs_pg:id":956687,
         "wd:id":"Q1645810"
     },
     "wof:country":"HN",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":421182941,
-    "wof:lastmodified":1563575373,
+    "wof:lastmodified":1566646018,
     "wof:name":"Mapulaca",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

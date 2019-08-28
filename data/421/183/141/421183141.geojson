@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.957141,
     "lbl:longitude":-87.728104,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"San Juan",
     "meso:gadm_hasc2":"HN.IN.SJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.728104,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Juan"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3602063,
         "gp:id":26813796,
         "hasc:id":"HN.LP.SU",
-        "qs:id":62718,
+        "qs_pg:id":62718,
         "wd:id":"Q1645752",
         "wk:page":"San Juan, La Paz"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421183141,
-    "wof:lastmodified":1563575330,
+    "wof:lastmodified":1566645990,
     "wof:name":"San Juan",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

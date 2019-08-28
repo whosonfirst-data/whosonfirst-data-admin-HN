@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.118637,
     "lbl:longitude":-88.138889,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Concepci\u00f3n del Norte",
     "meso:gadm_hasc2":"HN.SB.CN",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.138889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Chinda"
@@ -81,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -103,7 +106,7 @@
         "gn:id":3613602,
         "gp:id":26813615,
         "hasc:id":"HN.SB.CH",
-        "qs:id":884751,
+        "qs_pg:id":884751,
         "wd:id":"Q2219807"
     },
     "wof:country":"HN",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421193297,
-    "wof:lastmodified":1563575127,
+    "wof:lastmodified":1566645803,
     "wof:name":"Chinda",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

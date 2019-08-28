@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.26194,13.97778,-87.22194,14.01778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Los Horcones"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "La Leonarda",
-        "Horcones",
-        "Los Horcones"
+        "Horcones"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226327879,
-    "wof:lastmodified":1564152013,
+    "wof:lastmodified":1566646427,
     "wof:name":"Los Horcones",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

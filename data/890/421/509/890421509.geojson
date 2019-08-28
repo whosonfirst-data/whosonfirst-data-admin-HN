@@ -11,10 +11,14 @@
     "geom:longitude":-86.68333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":949,
+    "gn:population":949,
     "iso:country":"HN",
+    "lbl:bbox":"-86.70333,15.44667,-86.66333,15.48667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Coyoles",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3613108,
         "gp:id":12524354,
-        "qs:id":96090
+        "qs_pg:id":96090
     },
     "wof:country":"HN",
     "wof:created":1469051395,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890421509,
-    "wof:lastmodified":1505343463,
+    "wof:lastmodified":1566646071,
     "wof:name":"Coyoles",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.90333,14.68,-87.86333,14.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La Cuchilla",
         "San Antonio de la Cuchilla"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327030381,
-    "wof:lastmodified":1537625580,
+    "wof:lastmodified":1566644648,
     "wof:name":"San Antonio de la Cuchilla",
     "wof:parent_id":421188781,
     "wof:placetype":"locality",

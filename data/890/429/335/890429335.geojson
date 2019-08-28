@@ -11,7 +11,7 @@
     "geom:longitude":-89.222847,
     "gn:country":"HN",
     "gn:fcode":"ADM2",
-    "gn:pop":15884,
+    "gn:population":15884,
     "iso:country":"HN",
     "label:eng_x_preferred_longname":[
         "Nueva Ocotepeque Municipality"
@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":14.426363,
     "lbl:longitude":-89.241977,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"Ocotepeque",
     "meso:gadm_hasc2":"HN.OC.OC",
@@ -33,6 +35,7 @@
     "mps:longitude":-89.241977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0648\u064a\u0641\u0627 \u0623\u0648\u0643\u0648\u062a\u0628\u064a\u0643"
     ],
@@ -149,7 +152,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -173,7 +176,7 @@
         "gn:id":3604385,
         "gp:id":26813735,
         "hasc:id":"HN.OC.OC",
-        "qs:id":96050,
+        "qs_pg:id":96050,
         "wd:id":"Q3307235",
         "wk:page":"Nueva Ocotepeque"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890429335,
-    "wof:lastmodified":1563575462,
+    "wof:lastmodified":1566646077,
     "wof:name":"Nueva Ocotepeque",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

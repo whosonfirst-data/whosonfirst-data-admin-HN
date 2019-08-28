@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.193537,
     "lbl:longitude":-87.811285,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Santa Rita",
     "meso:gadm_hasc2":"HN.CP.SR",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.811285,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bpy_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u099f\u09be \u09b0\u09bf\u099f\u09be"
@@ -134,7 +137,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -156,7 +159,7 @@
         "gn:id":3601530,
         "gp:id":26813834,
         "hasc:id":"HN.YO.SR",
-        "qs:id":956702
+        "qs_pg:id":956702
     },
     "wof:country":"HN",
     "wof:created":1459009353,
@@ -170,7 +173,7 @@
         }
     ],
     "wof:id":421182971,
-    "wof:lastmodified":1564151328,
+    "wof:lastmodified":1566646024,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

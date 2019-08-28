@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.131207,
     "lbl:longitude":-88.749858,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"La Jigua",
     "meso:gadm_hasc2":"HN.CP.LJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.749858,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "La Jigua"
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         "gn:id":3607680,
         "gp:id":26813686,
         "hasc:id":"HN.CP.LJ",
-        "qs:id":62662
+        "qs_pg:id":62662
     },
     "wof:country":"HN",
     "wof:created":1459009825,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421194947,
-    "wof:lastmodified":1554489019,
+    "wof:lastmodified":1566645791,
     "wof:name":"La Jigua",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":14.28333,
     "geom:longitude":-88.25,
     "iso:country":"HN",
+    "lbl:bbox":"-88.27,14.26333,-88.23,14.30333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Yamaranguila"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3600254,
         "gp:id":108090,
-        "qs:id":1082626,
+        "qs_pg:id":1082626,
         "wd:id":"Q2394043"
     },
     "wof:country":"HN",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421187269,
-    "wof:lastmodified":1563575178,
+    "wof:lastmodified":1566645839,
     "wof:name":"Yamaranguila",
     "wof:parent_id":421181669,
     "wof:placetype":"locality",

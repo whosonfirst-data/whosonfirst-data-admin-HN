@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.20556,13.39583,-87.16556,13.43583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tierra Colorada",
         "San Santo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293301511,
-    "wof:lastmodified":1537625798,
+    "wof:lastmodified":1566644984,
     "wof:name":"San Santo",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

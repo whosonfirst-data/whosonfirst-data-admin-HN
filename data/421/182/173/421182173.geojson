@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.252496,
     "lbl:longitude":-85.740047,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"San Esteban",
     "meso:gadm_hasc2":"HN.OL.SE",
@@ -30,6 +32,7 @@
     "mps:longitude":-85.740047,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Esteban"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3602357,
         "gp:id":26813770,
         "hasc:id":"HN.OL.SE",
-        "qs:id":892983,
+        "qs_pg:id":892983,
         "wd:id":"Q2394385",
         "wk:page":"San Esteban, Olancho"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182173,
-    "wof:lastmodified":1563575371,
+    "wof:lastmodified":1566646016,
     "wof:name":"San Esteban",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

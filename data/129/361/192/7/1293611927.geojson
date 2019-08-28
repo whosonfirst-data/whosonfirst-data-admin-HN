@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.02,15.26333,-87.98,15.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293611927,
-    "wof:lastmodified":1536604764,
+    "wof:lastmodified":1566645034,
     "wof:name":"El Modelo",
     "wof:parent_id":421194961,
     "wof:placetype":"locality",

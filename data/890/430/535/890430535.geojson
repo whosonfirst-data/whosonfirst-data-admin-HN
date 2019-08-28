@@ -11,10 +11,14 @@
     "geom:longitude":-87.96667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1079,
+    "gn:population":1079,
     "iso:country":"HN",
+    "lbl:bbox":"-87.98667,14.89667,-87.94667,14.93667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bre_x_preferred":[
         "Agua Azul"
     ],
@@ -30,7 +34,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0433\u0432\u0430 \u0410\u0441\u0443\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aserradero"
     ],
     "qs:name":"Agua Azul",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":3615557,
         "gp:id":107278,
-        "qs:id":149437,
+        "qs_pg:id":149437,
         "wk:page":"Agua Azul"
     },
     "wof:country":"HN",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890430535,
-    "wof:lastmodified":1564151351,
+    "wof:lastmodified":1566646061,
     "wof:name":"Agua Azul",
     "wof:parent_id":421170711,
     "wof:placetype":"locality",

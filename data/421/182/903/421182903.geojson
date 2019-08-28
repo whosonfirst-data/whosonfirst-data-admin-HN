@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.633757,
     "lbl:longitude":-86.79676,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"Duyure",
     "meso:gadm_hasc2":"HN.CH.DU",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.79676,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Duyure"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3612802,
         "gp:id":26813639,
         "hasc:id":"HN.CH.DU",
-        "qs:id":956670,
+        "qs_pg:id":956670,
         "wd:id":"Q2090091"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182903,
-    "wof:lastmodified":1563575387,
+    "wof:lastmodified":1566646034,
     "wof:name":"Duyure",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.344396,
     "lbl:longitude":-88.734348,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"San Sebastian",
     "meso:gadm_hasc2":"HN.LE.SS",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.734348,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Sebastian"
@@ -37,7 +40,7 @@
     "name:eng_x_variant":[
         "San Sebastian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Sebasti\u00e1n"
     ],
     "qs:gn_country":"HN",
@@ -62,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         "gn:id":3601741,
         "gp:id":26813819,
         "hasc:id":"HN.LE.SS",
-        "qs:id":981490
+        "qs_pg:id":981490
     },
     "wof:country":"HN",
     "wof:created":1459009071,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421175543,
-    "wof:lastmodified":1554488778,
+    "wof:lastmodified":1566645906,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

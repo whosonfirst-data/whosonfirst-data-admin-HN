@@ -10,8 +10,12 @@
     "geom:latitude":14.5,
     "geom:longitude":-88.48333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.50333,14.48,-88.46333,14.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Bel\u00e9n"
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":3614801,
         "gp:id":98278,
-        "qs:id":1007474,
+        "qs_pg:id":1007474,
         "wd:id":"Q2355084"
     },
     "wof:country":"HN",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":421184753,
-    "wof:lastmodified":1563575306,
+    "wof:lastmodified":1566645959,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":421185031,
     "wof:placetype":"locality",

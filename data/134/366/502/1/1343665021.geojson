@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.19778,13.15722,-87.15778,13.19722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343665021,
-    "wof:lastmodified":1536948772,
+    "wof:lastmodified":1566644803,
     "wof:name":"Hacienda Monte Libano",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

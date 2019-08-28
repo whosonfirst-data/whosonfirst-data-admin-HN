@@ -10,6 +10,9 @@
     "geom:latitude":15.91508,
     "geom:longitude":-85.950679,
     "iso:country":"HN",
+    "lbl:bbox":"-85.970679,15.89508,-85.930679,15.93508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -232,9 +235,11 @@
     "wof:concordances":{
         "gn:id":3600591,
         "gp:id":107901,
-        "qs:id":1072203,
-        "qs_pg:id":1152388,
+        "qs_pg:id":1072203,
         "wd:id":"Q992173"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1152388
     },
     "wof:country":"HN",
     "wof:created":1459009483,
@@ -249,7 +254,7 @@
         }
     ],
     "wof:id":421186499,
-    "wof:lastmodified":1563575232,
+    "wof:lastmodified":1566645885,
     "wof:name":"Trujillo",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

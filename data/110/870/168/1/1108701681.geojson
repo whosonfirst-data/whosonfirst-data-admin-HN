@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.103634,
     "lbl:longitude":-86.701521,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"La Uni\u00f3n",
     "meso:gadm_hasc2":"HN.CP.LU",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.701521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ace_x_preferred":[
         "Propinsi La Union"
     ],
@@ -143,7 +146,7 @@
         "\u62c9\u4e4c\u5c3c\u7fc1\u7701"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1108701681,
-    "wof:lastmodified":1564150788,
+    "wof:lastmodified":1566645543,
     "wof:name":"La Union",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

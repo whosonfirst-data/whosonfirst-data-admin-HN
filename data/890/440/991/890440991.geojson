@@ -11,11 +11,15 @@
     "geom:longitude":-87.39556,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1084,
+    "gn:population":1084,
     "iso:country":"HN",
+    "lbl:bbox":"-87.41556,13.30528,-87.37556,13.34528",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Las Conchas"
     ],
     "qs:name":"San Jos\u00e9 de Las Conchas",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3606901,
         "gp:id":105111,
-        "qs:id":149325
+        "qs_pg:id":149325
     },
     "wof:country":"HN",
     "wof:created":1469052305,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890440991,
-    "wof:lastmodified":1505343580,
+    "wof:lastmodified":1566646056,
     "wof:name":"San Jos\u00e9 de Las Conchas",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

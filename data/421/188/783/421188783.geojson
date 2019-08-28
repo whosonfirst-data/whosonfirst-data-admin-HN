@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.842349,
     "lbl:longitude":-85.91483,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colon",
     "meso:gadm_admin":"Trujillo",
     "meso:gadm_hasc2":"HN.CL.TR",
@@ -30,6 +32,7 @@
     "mps:longitude":-85.91483,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062a\u0631\u062c\u064a\u0644\u0629"
@@ -170,7 +173,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -192,7 +195,7 @@
         "gn:id":3600592,
         "gp:id":26813862,
         "hasc:id":"HN.CL.TR",
-        "qs:id":1103812
+        "qs_pg:id":1103812
     },
     "wof:country":"HN",
     "wof:created":1459009578,
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":421188783,
-    "wof:lastmodified":1564151259,
+    "wof:lastmodified":1566645857,
     "wof:name":"Trujillo",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

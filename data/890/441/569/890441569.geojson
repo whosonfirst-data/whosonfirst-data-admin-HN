@@ -11,10 +11,14 @@
     "geom:longitude":-87.2,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1314,
+    "gn:population":1314,
     "iso:country":"HN",
+    "lbl:bbox":"-87.22,15.08,-87.18,15.12",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "La Trinidad"
     ],
@@ -48,7 +52,7 @@
     "name:swe_x_preferred":[
         "La Trinidad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trinidad"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3606185,
         "gp:id":108123,
-        "qs:id":279818,
+        "qs_pg:id":279818,
         "wd:id":"Q350889",
         "wk:page":"La Trinidad"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890441569,
-    "wof:lastmodified":1563575426,
+    "wof:lastmodified":1566646059,
     "wof:name":"La Trinidad",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":-88.23333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1432,
+    "gn:population":1432,
     "iso:country":"HN",
+    "lbl:bbox":"-88.25333,14.93,-88.21333,14.97",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Gualjaco"
     ],
     "qs:name":"Gualjoco",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":3609342,
         "gp:id":107231,
-        "qs:id":149358
+        "qs_pg:id":149358
     },
     "wof:country":"HN",
     "wof:created":1469052050,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890435069,
-    "wof:lastmodified":1505343545,
+    "wof:lastmodified":1566646089,
     "wof:name":"Gualjoco",
     "wof:parent_id":421170949,
     "wof:placetype":"locality",

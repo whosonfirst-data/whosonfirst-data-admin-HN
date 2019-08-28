@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.556897,
     "lbl:longitude":-88.866982,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"Corqu\u00edn",
     "meso:gadm_hasc2":"HN.CP.CQ",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.866982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Corqu\u00edn"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3613172,
         "gp:id":26813629,
         "hasc:id":"HN.CP.CQ",
-        "qs:id":62641,
+        "qs_pg:id":62641,
         "wd:id":"Q1119909"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194943,
-    "wof:lastmodified":1563575117,
+    "wof:lastmodified":1566645794,
     "wof:name":"Corquin",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

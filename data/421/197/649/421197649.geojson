@@ -10,8 +10,12 @@
     "geom:latitude":14.7,
     "geom:longitude":-86.95,
     "iso:country":"HN",
+    "lbl:bbox":"-86.97,14.68,-86.93,14.72",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Orica"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3604203,
         "gp:id":105551,
-        "qs:id":149288,
+        "qs_pg:id":149288,
         "wd:id":"Q304913"
     },
     "wof:country":"HN",
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421197649,
-    "wof:lastmodified":1563575287,
+    "wof:lastmodified":1566645948,
     "wof:name":"Orica",
     "wof:parent_id":421191361,
     "wof:placetype":"locality",

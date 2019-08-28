@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.887203,
     "lbl:longitude":-88.783773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"Veracruz",
     "meso:gadm_hasc2":"HN.CP.VE",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.783773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Veracruz"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3600387,
         "gp:id":26813868,
         "hasc:id":"HN.CP.VE",
-        "qs:id":1097323,
+        "qs_pg:id":1097323,
         "wd:id":"Q2344760",
         "wk:page":"Veracruz, Cop\u00e1n"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421188531,
-    "wof:lastmodified":1563575209,
+    "wof:lastmodified":1566645865,
     "wof:name":"Veracruz",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

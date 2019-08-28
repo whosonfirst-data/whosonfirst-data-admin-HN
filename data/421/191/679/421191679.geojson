@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.646177,
     "lbl:longitude":-87.26013,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"San Isidro",
     "meso:gadm_hasc2":"HN.CH.SI",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.26013,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Isidro"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3602250,
         "gp:id":26813785,
         "hasc:id":"HN.CH.SI",
-        "qs:id":1150585,
+        "qs_pg:id":1150585,
         "wd:id":"Q585662",
         "wk:page":"San Isidro, Choluteca"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421191679,
-    "wof:lastmodified":1563575273,
+    "wof:lastmodified":1566645940,
     "wof:name":"San Isidro",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

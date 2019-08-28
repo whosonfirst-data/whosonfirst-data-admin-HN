@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.88667,14.01333,-87.84667,14.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "El Tejar"
     ],
@@ -42,8 +46,7 @@
         "El Tejar"
     ],
     "name:und_x_variant":[
-        "Tejar",
-        "El Tejar"
+        "Tejar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1193265479,
-    "wof:lastmodified":1564150689,
+    "wof:lastmodified":1566645493,
     "wof:name":"El Tejar",
     "wof:parent_id":421182947,
     "wof:placetype":"locality",

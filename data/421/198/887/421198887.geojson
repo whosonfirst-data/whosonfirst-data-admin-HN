@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.842054,
     "lbl:longitude":-86.141069,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Olancho",
     "meso:gadm_admin":"San Francisco de la Paz",
     "meso:gadm_hasc2":"HN.OL.SP",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.141069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Francisco de la Paz"
@@ -60,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -82,7 +85,7 @@
         "gn:id":3602282,
         "gp:id":26813774,
         "hasc:id":"HN.OL.SP",
-        "qs:id":186319,
+        "qs_pg:id":186319,
         "wd:id":"Q2395000"
     },
     "wof:country":"HN",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198887,
-    "wof:lastmodified":1554489025,
+    "wof:lastmodified":1566645908,
     "wof:name":"San Francisco de la Paz",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

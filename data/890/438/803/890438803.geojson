@@ -11,10 +11,14 @@
     "geom:longitude":-88.48333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1043,
+    "gn:population":1043,
     "iso:country":"HN",
+    "lbl:bbox":"-88.50333,14.73,-88.46333,14.77",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Taragual",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3600997,
         "gp:id":103005,
-        "qs:id":1045621
+        "qs_pg:id":1045621
     },
     "wof:country":"HN",
     "wof:created":1469052210,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890438803,
-    "wof:lastmodified":1505343567,
+    "wof:lastmodified":1566646068,
     "wof:name":"Taragual",
     "wof:parent_id":421183319,
     "wof:placetype":"locality",

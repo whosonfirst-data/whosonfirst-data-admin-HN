@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-83.74389,15.33594,-83.70389,15.37594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Kiaskira"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226034571,
-    "wof:lastmodified":1537625669,
+    "wof:lastmodified":1566646423,
     "wof:name":"Kiaskira",
     "wof:parent_id":421181809,
     "wof:placetype":"locality",

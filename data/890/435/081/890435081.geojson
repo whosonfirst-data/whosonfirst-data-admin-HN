@@ -11,10 +11,14 @@
     "geom:longitude":-87.66667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1389,
+    "gn:population":1389,
     "iso:country":"HN",
+    "lbl:bbox":"-87.68667,14.51333,-87.64667,14.55333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Sauce"
     ],
@@ -36,7 +40,7 @@
     "name:spa_x_preferred":[
         "El Sauce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sauce"
     ],
     "name:vie_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":3610318,
         "gp:id":99069,
-        "qs:id":149373,
+        "qs_pg:id":149373,
         "wd:id":"Q1155040",
         "wk:page":"El Sauce"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890435081,
-    "wof:lastmodified":1563575480,
+    "wof:lastmodified":1566646088,
     "wof:name":"El Sauce",
     "wof:parent_id":421205113,
     "wof:placetype":"locality",

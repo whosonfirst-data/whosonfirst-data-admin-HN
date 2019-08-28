@@ -10,8 +10,12 @@
     "geom:latitude":15.36667,
     "geom:longitude":-88.3,
     "iso:country":"HN",
+    "lbl:bbox":"-88.32,15.34667,-88.28,15.38667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Santa Cruz Barillas"
@@ -28,7 +32,7 @@
     "name:spa_x_preferred":[
         "Santa Cruz Barillas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Santa Cruz de la Mina"
     ],
     "name:zho_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":3601626,
         "gp:id":22722705,
-        "qs:id":55965
+        "qs_pg:id":55965
     },
     "wof:country":"HN",
     "wof:created":1459010144,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421203211,
-    "wof:lastmodified":1564151240,
+    "wof:lastmodified":1566645815,
     "wof:name":"Santa Cruz Barillas",
     "wof:parent_id":890455339,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.542011,
     "lbl:longitude":-89.12517,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"Dolores Merendon",
     "meso:gadm_hasc2":"HN.OC.DM",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.12517,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dolores"
@@ -58,9 +61,6 @@
     "name:swe_x_preferred":[
         "Dolores"
     ],
-    "name:unk_x_variant":[
-        "Dolores Merend\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u591a\u6d1b\u96f7\u65af\u6885\u502b\u6771"
     ],
@@ -86,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +108,7 @@
         "gn:id":3612833,
         "gp:id":26813634,
         "hasc:id":"HN.OC.DM",
-        "qs:id":956667,
+        "qs_pg:id":956667,
         "wd:id":"Q2138937"
     },
     "wof:country":"HN",
@@ -123,7 +123,7 @@
         }
     ],
     "wof:id":421182897,
-    "wof:lastmodified":1563575397,
+    "wof:lastmodified":1566646041,
     "wof:name":"Dolores Merendon",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

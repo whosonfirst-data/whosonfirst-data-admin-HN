@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.504225,
     "lbl:longitude":-87.140771,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Choluteca",
     "meso:gadm_admin":"Orocuina",
     "meso:gadm_hasc2":"HN.CH.OR",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.140771,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Orocuina"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":3604190,
         "gp:id":26813742,
         "hasc:id":"HN.CH.OR",
-        "qs:id":259849,
+        "qs_pg:id":259849,
         "wd:id":"Q2361001"
     },
     "wof:country":"HN",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421205245,
-    "wof:lastmodified":1563575161,
+    "wof:lastmodified":1566645828,
     "wof:name":"Orocuina",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

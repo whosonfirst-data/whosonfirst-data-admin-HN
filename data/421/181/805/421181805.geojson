@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.822245,
     "lbl:longitude":-87.796773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Me\u00e1mbar",
     "meso:gadm_hasc2":"HN.CM.ME",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.796773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Me\u00e1mbar"
@@ -64,9 +67,6 @@
     "name:swe_x_preferred":[
         "Me\u00e1mbar"
     ],
-    "name:unk_x_variant":[
-        "Me\u00e1mbar"
-    ],
     "name:zho_x_preferred":[
         "\u6885\u5b89\u5df4\u723e"
     ],
@@ -92,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -114,7 +114,7 @@
         "gn:id":3604895,
         "gp:id":26813722,
         "hasc:id":"HN.CM.ME",
-        "qs:id":504924,
+        "qs_pg:id":504924,
         "wd:id":"Q2098619"
     },
     "wof:country":"HN",
@@ -129,7 +129,7 @@
         }
     ],
     "wof:id":421181805,
-    "wof:lastmodified":1563575235,
+    "wof:lastmodified":1566645888,
     "wof:name":"Meambar",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

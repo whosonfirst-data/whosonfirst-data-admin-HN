@@ -10,8 +10,12 @@
     "geom:latitude":15.35,
     "geom:longitude":-88.4,
     "iso:country":"HN",
+    "lbl:bbox":"-88.42,15.33,-88.38,15.37",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Quimist\u00e1n"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Quimist\u00e1n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ouimistan"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3602952,
         "gp:id":106337,
-        "qs:id":149265,
+        "qs_pg:id":149265,
         "wd:id":"Q2394900",
         "wk:page":"Quimist\u00e1n"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421179299,
-    "wof:lastmodified":1563575352,
+    "wof:lastmodified":1566646001,
     "wof:name":"Quimist\u00e1n",
     "wof:parent_id":890455339,
     "wof:placetype":"locality",

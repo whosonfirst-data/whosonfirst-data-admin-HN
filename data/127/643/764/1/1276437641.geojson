@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.39611,13.80861,-87.35611,13.84861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "San Carlos"
     ],
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":1276437641,
-    "wof:lastmodified":1564150050,
+    "wof:lastmodified":1566645150,
     "wof:name":"San Carlos",
     "wof:parent_id":421191601,
     "wof:placetype":"locality",

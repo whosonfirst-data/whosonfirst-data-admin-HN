@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.747229,
     "lbl:longitude":-87.048423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"San Ignacio",
     "meso:gadm_hasc2":"HN.FM.SI",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.048423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Ignacio"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3602259,
         "gp:id":26813783,
         "hasc:id":"HN.FM.SI",
-        "qs:id":1150583,
+        "qs_pg:id":1150583,
         "wd:id":"Q925890",
         "wk:page":"San Ignacio, Francisco Moraz\u00e1n"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191677,
-    "wof:lastmodified":1563575274,
+    "wof:lastmodified":1566645940,
     "wof:name":"San Ignacio",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

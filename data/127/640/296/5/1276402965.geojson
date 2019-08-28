@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.63667,13.74667,-87.59667,13.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ca\u00f1averal"
     ],
@@ -45,8 +49,7 @@
         "Ca\u00f1averal"
     ],
     "name:und_x_variant":[
-        "Ca\u00f1obaral",
-        "Ca\u00f1averal"
+        "Ca\u00f1obaral"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1276402965,
-    "wof:lastmodified":1564150191,
+    "wof:lastmodified":1566645229,
     "wof:name":"Canaveral",
     "wof:parent_id":421194945,
     "wof:placetype":"locality",

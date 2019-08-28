@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.58778,13.72917,-87.54778,13.76917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mancicre",
         "Macansicre",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343381111,
-    "wof:lastmodified":1537625609,
+    "wof:lastmodified":1566644713,
     "wof:name":"Macancicre",
     "wof:parent_id":421194945,
     "wof:placetype":"locality",

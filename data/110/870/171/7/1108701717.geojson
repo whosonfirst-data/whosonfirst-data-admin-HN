@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.816605,
     "lbl:longitude":-88.203791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Ceguaca",
     "meso:gadm_hasc2":"HN.SB.CE",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.203791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ceguaca"
     ],
@@ -37,7 +40,7 @@
         "Ceguaca"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1108701717,
-    "wof:lastmodified":1554489367,
+    "wof:lastmodified":1566645575,
     "wof:name":"Santa Ana o Las Lomas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

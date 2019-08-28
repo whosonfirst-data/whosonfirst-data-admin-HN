@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.45083,13.93111,-87.41083,13.97111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cienegas",
         "La Cienega",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343352305,
-    "wof:lastmodified":1537625641,
+    "wof:lastmodified":1566644811,
     "wof:name":"Las Cienegas",
     "wof:parent_id":421205119,
     "wof:placetype":"locality",

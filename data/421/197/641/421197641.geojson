@@ -10,8 +10,12 @@
     "geom:latitude":14.63333,
     "geom:longitude":-86.1,
     "iso:country":"HN",
+    "lbl:bbox":"-86.12,14.61333,-86.08,14.65333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Francisco de Becerra"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "San Francisco de Becerra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Francisco Becerra"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3602287,
         "gp:id":106776,
-        "qs:id":149253,
+        "qs_pg:id":149253,
         "wd:id":"Q2394598",
         "wk:page":"San Francisco de Becerra"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421197641,
-    "wof:lastmodified":1561749459,
+    "wof:lastmodified":1566645948,
     "wof:name":"San Francisco de Becerra",
     "wof:parent_id":421193697,
     "wof:placetype":"locality",

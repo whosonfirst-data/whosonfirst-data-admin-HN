@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.020669,
     "lbl:longitude":-87.985063,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cortes",
     "meso:gadm_admin":"San Francisco de Yojoa",
     "meso:gadm_hasc2":"HN.CR.SF",
@@ -30,13 +32,13 @@
     "mps:longitude":-87.985063,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Francisco de Yojoa"
     ],
     "name:eng_x_variant":[
-        "San Francisco  De Yojoa",
-        "San Francisco de Yojoa"
+        "San Francisco De Yojoa"
     ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
@@ -60,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -82,7 +84,7 @@
         "gn:id":3602273,
         "gp:id":26813777,
         "hasc:id":"HN.CR.SF",
-        "qs:id":1311372,
+        "qs_pg:id":1311372,
         "wd:id":"Q1644762"
     },
     "wof:country":"HN",
@@ -97,7 +99,7 @@
         }
     ],
     "wof:id":421197119,
-    "wof:lastmodified":1554489022,
+    "wof:lastmodified":1566645948,
     "wof:name":"San Francisco de Yojoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

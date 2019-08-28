@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.262695,
     "lbl:longitude":-88.401164,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"San Marcos",
     "meso:gadm_hasc2":"HN.OC.SM",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.401164,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bre_x_preferred":[
         "San Marcos"
     ],
@@ -112,7 +115,7 @@
         "San Marcos"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108701709,
-    "wof:lastmodified":1564150812,
+    "wof:lastmodified":1566645565,
     "wof:name":"San Marcos",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

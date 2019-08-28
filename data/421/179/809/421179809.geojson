@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.701609,
     "lbl:longitude":-87.948527,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Taulabe",
     "meso:gadm_hasc2":"HN.CM.TA",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.948527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taulab\u00e9"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":8062524,
         "gp:id":26813852,
         "hasc:id":"HN.CM.TA",
-        "qs:id":466609,
+        "qs_pg:id":466609,
         "wd:id":"Q1643763",
         "wk:page":"Taulab\u00e9"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421179809,
-    "wof:lastmodified":1563575351,
+    "wof:lastmodified":1566646000,
     "wof:name":"Taulabe",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

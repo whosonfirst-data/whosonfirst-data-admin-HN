@@ -10,8 +10,12 @@
     "geom:latitude":14.45,
     "geom:longitude":-89.18333,
     "iso:country":"HN",
+    "lbl:bbox":"-89.20333,14.43,-89.16333,14.47",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sinuapa"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3601282,
         "gp:id":107490,
-        "qs:id":214211,
+        "qs_pg:id":214211,
         "wd:id":"Q2394150",
         "wk:page":"Sinuapa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421201743,
-    "wof:lastmodified":1563575305,
+    "wof:lastmodified":1566645959,
     "wof:name":"Sinuapa",
     "wof:parent_id":421169621,
     "wof:placetype":"locality",

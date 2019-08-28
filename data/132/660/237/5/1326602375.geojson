@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.10333,14.83,-88.06333,14.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mochito Mine",
         "Mocho",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326602375,
-    "wof:lastmodified":1537625602,
+    "wof:lastmodified":1566644600,
     "wof:name":"Mocho Arriba",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

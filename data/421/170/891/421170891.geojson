@@ -10,8 +10,12 @@
     "geom:latitude":15.16667,
     "geom:longitude":-88.13333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.15333,15.14667,-88.11333,15.18667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Concepci\u00f3n del Norte"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "Concepci\u00f3n del Norte"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Concepci\u00f3n Norte"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3613283,
         "gp:id":99097,
-        "qs:id":269699,
+        "qs_pg:id":269699,
         "wd:id":"Q2191325"
     },
     "wof:country":"HN",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421170891,
-    "wof:lastmodified":1563575318,
+    "wof:lastmodified":1566645976,
     "wof:name":"Concepci\u00f3n del Norte",
     "wof:parent_id":421191345,
     "wof:placetype":"locality",

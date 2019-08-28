@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":13.819345,
     "lbl:longitude":-86.818291,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Paraiso",
     "meso:gadm_admin":"Oropol\u00ed",
     "meso:gadm_hasc2":"HN.EP.OR",
@@ -30,15 +32,13 @@
     "mps:longitude":-86.818291,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Oropol\u00ed"
     ],
     "name:eng_x_variant":[
         "Oropoli",
-        "Oropol\u00ed"
-    ],
-    "name:unk_x_variant":[
         "Oropol\u00ed"
     ],
     "qs:gn_country":"HN",
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -84,7 +84,7 @@
         "gn:id":3604182,
         "gp:id":26813743,
         "hasc:id":"HN.EP.OR",
-        "qs:id":956692
+        "qs_pg:id":956692
     },
     "wof:country":"HN",
     "wof:created":1459009353,
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":421182949,
-    "wof:lastmodified":1554488869,
+    "wof:lastmodified":1566646026,
     "wof:name":"Oropoli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

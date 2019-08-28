@@ -10,10 +10,14 @@
     "geom:latitude":15.76667,
     "geom:longitude":-85.91667,
     "iso:country":"HN",
+    "lbl:bbox":"-85.93667,15.74667,-85.89667,15.78667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quebrada Arena"
     ],
     "qs:gn_country":"HN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3603097,
         "gp:id":106232,
-        "qs:id":1201295
+        "qs_pg:id":1201295
     },
     "wof:country":"HN",
     "wof:created":1459009250,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421180275,
-    "wof:lastmodified":1505340647,
+    "wof:lastmodified":1566645836,
     "wof:name":"Quebrada de Arena",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

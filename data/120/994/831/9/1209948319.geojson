@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.73667,14.89667,-88.69667,14.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San Jer\u00f3nimo",
         "Plan de San Jer\u00f3nimo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209948319,
-    "wof:lastmodified":1537625590,
+    "wof:lastmodified":1566645383,
     "wof:name":"Plan de San Jeronimo",
     "wof:parent_id":421198895,
     "wof:placetype":"locality",

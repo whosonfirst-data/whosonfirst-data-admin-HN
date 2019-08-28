@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.305821,
     "lbl:longitude":-86.954864,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Joc\u00f3n",
     "meso:gadm_hasc2":"HN.YO.JO",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.954864,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Joc\u00f3n"
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Joc\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Joc\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u970d\u5b54"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +111,7 @@
         "gn:id":3608636,
         "gp:id":26813677,
         "hasc:id":"HN.YO.JO",
-        "qs:id":1150582,
+        "qs_pg:id":1150582,
         "wd:id":"Q2308179"
     },
     "wof:country":"HN",
@@ -126,7 +126,7 @@
         }
     ],
     "wof:id":421191673,
-    "wof:lastmodified":1563575260,
+    "wof:lastmodified":1566645920,
     "wof:name":"Jocon",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":14.56667,
     "geom:longitude":-88.86667,
     "iso:country":"HN",
+    "lbl:bbox":"-88.88667,14.54667,-88.84667,14.58667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Corqu\u00edn"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Corqu\u00edn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Corguin"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3613171,
         "gp:id":99152,
-        "qs:id":1201221,
+        "qs_pg:id":1201221,
         "wd:id":"Q1119909",
         "wk:page":"Corqu\u00edn"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421194459,
-    "wof:lastmodified":1563575116,
+    "wof:lastmodified":1566645793,
     "wof:name":"Corqu\u00edn",
     "wof:parent_id":421194943,
     "wof:placetype":"locality",

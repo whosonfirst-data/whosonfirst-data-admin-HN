@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.633318,
     "lbl:longitude":-89.124317,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"Caba\u00f1as",
     "meso:gadm_hasc2":"HN.CP.CA",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.124317,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Jorge"
@@ -87,7 +90,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         "gn:id":3602165,
         "gp:id":26813786,
         "hasc:id":"HN.OC.SJ",
-        "qs:id":62716,
+        "qs_pg:id":62716,
         "wd:id":"Q1896807",
         "wk:page":"San Jorge, Ocotepeque"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421193701,
-    "wof:lastmodified":1563575118,
+    "wof:lastmodified":1566645795,
     "wof:name":"San Jorge",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

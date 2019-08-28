@@ -10,8 +10,12 @@
     "geom:latitude":15.08333,
     "geom:longitude":-88.38333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.40333,15.06333,-88.36333,15.10333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "San Luis"
@@ -40,7 +44,7 @@
     "name:swe_x_preferred":[
         "San Luis"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Luis Paj\u00f3n"
     ],
     "name:zho_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3601932,
         "gp:id":107025,
-        "qs:id":1116211,
+        "qs_pg:id":1116211,
         "wd:id":"Q2291129",
         "wk:page":"San Luis, Santa B\u00e1rbara"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421180149,
-    "wof:lastmodified":1563575177,
+    "wof:lastmodified":1566645838,
     "wof:name":"San Luis",
     "wof:parent_id":890420221,
     "wof:placetype":"locality",

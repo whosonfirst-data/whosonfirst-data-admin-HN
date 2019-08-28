@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.789601,
     "lbl:longitude":-85.549921,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Colon",
     "meso:gadm_admin":"Lim\u00f3n",
     "meso:gadm_hasc2":"HN.CL.LI",
@@ -30,6 +32,7 @@
     "mps:longitude":-85.549921,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lim\u00f3n"
@@ -67,9 +70,6 @@
     "name:swe_x_preferred":[
         "Lim\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Lim\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u5229\u8499"
     ],
@@ -95,7 +95,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -117,7 +117,7 @@
         "gn:id":3606014,
         "gp:id":26813709,
         "hasc:id":"HN.CL.LI",
-        "qs:id":1130172,
+        "qs_pg:id":1130172,
         "wd:id":"Q1643266",
         "wk:page":"Lim\u00f3n, Honduras"
     },
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":421191089,
-    "wof:lastmodified":1563575271,
+    "wof:lastmodified":1566645936,
     "wof:name":"Limon",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

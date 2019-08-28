@@ -10,6 +10,9 @@
     "geom:latitude":14.43333,
     "geom:longitude":-89.18333,
     "iso:country":"HN",
+    "lbl:bbox":"-89.20333,14.41333,-89.16333,14.45333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0435\u0432\u0430-\u041e\u043a\u043e\u0442\u0435\u043f\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ocotepeque"
     ],
     "name:urd_x_preferred":[
@@ -253,7 +256,7 @@
     "wof:concordances":{
         "gn:id":3604384,
         "gp:id":105445,
-        "qs:id":214206,
+        "qs_pg:id":214206,
         "wd:id":"Q3307235",
         "wk:page":"Nueva Ocotepeque"
     },
@@ -270,7 +273,7 @@
         }
     ],
     "wof:id":421201739,
-    "wof:lastmodified":1563575299,
+    "wof:lastmodified":1566645955,
     "wof:name":"Nueva Ocotepeque",
     "wof:parent_id":890429335,
     "wof:placetype":"locality",

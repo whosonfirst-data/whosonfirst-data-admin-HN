@@ -10,8 +10,12 @@
     "geom:latitude":13.28806,
     "geom:longitude":-87.30972,
     "iso:country":"HN",
+    "lbl:bbox":"-87.32972,13.26806,-87.28972,13.30806",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Marcovia"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3605000,
         "gp:id":105111,
-        "qs:id":149304,
+        "qs_pg:id":149304,
         "wd:id":"Q547593",
         "wk:page":"Marcovia"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421179315,
-    "wof:lastmodified":1563575342,
+    "wof:lastmodified":1566645998,
     "wof:name":"Marcovia",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

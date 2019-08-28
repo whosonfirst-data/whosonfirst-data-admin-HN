@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.473456,
     "lbl:longitude":-86.588759,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Olanchito",
     "meso:gadm_hasc2":"HN.YO.OL",
@@ -30,6 +32,7 @@
     "mps:longitude":-86.588759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u0438\u0442\u043e"
@@ -95,7 +98,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
         "gn:id":3604253,
         "gp:id":26813738,
         "hasc:id":"HN.YO.OL",
-        "qs:id":1310478
+        "qs_pg:id":1310478
     },
     "wof:country":"HN",
     "wof:created":1459010191,
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421204589,
-    "wof:lastmodified":1564151236,
+    "wof:lastmodified":1566645809,
     "wof:name":"Olanchito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

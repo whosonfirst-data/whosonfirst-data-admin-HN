@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.54071,
     "lbl:longitude":-89.202019,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"Concepci\u00f3n",
     "meso:gadm_hasc2":"HN.CP.CN",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.202019,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Concepci\u00f3n"
@@ -61,9 +64,6 @@
     "name:swe_x_preferred":[
         "Concepci\u00f3n"
     ],
-    "name:unk_x_variant":[
-        "Concepci\u00f3n"
-    ],
     "name:zho_x_preferred":[
         "\u5eb7\u585e\u666e\u897f\u7fc1"
     ],
@@ -89,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +111,7 @@
         "gn:id":3613300,
         "gp:id":26813624,
         "hasc:id":"HN.OC.CO",
-        "qs:id":971544,
+        "qs_pg:id":971544,
         "wd:id":"Q2066939",
         "wk:page":"Concepci\u00f3n, Ocotepeque"
     },
@@ -127,7 +127,7 @@
         }
     ],
     "wof:id":421183301,
-    "wof:lastmodified":1563575325,
+    "wof:lastmodified":1566645986,
     "wof:name":"Concepcion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

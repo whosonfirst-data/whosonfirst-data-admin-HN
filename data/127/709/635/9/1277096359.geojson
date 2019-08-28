@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.07,14.03,-87.03,14.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoya Grande",
         "Hoyo Grande",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277096359,
-    "wof:lastmodified":1537625655,
+    "wof:lastmodified":1566645138,
     "wof:name":"La Hoya Grande",
     "wof:parent_id":421184149,
     "wof:placetype":"locality",

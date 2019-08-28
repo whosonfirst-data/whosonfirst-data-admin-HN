@@ -10,10 +10,14 @@
     "geom:latitude":15.83333,
     "geom:longitude":-86.3,
     "iso:country":"HN",
+    "lbl:bbox":"-86.32,15.81333,-86.28,15.85333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Esteban"
     ],
     "qs:gn_country":"HN",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3602769,
         "gp:id":106461,
-        "qs:id":898494
+        "qs_pg:id":898494
     },
     "wof:country":"HN",
     "wof:created":1459009324,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":421182281,
-    "wof:lastmodified":1505340662,
+    "wof:lastmodified":1566646013,
     "wof:name":"R\u00edo Esteban",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

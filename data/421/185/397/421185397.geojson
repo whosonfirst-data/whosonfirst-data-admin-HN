@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.273467,
     "lbl:longitude":-87.251497,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Yoro",
     "meso:gadm_hasc2":"HN.YO.YO",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.251497,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yoro"
@@ -107,7 +110,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
         "gn:id":3600197,
         "gp:id":26813881,
         "hasc:id":"HN.YO.YO",
-        "qs:id":1024213
+        "qs_pg:id":1024213
     },
     "wof:country":"HN",
     "wof:created":1459009442,
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421185397,
-    "wof:lastmodified":1564151341,
+    "wof:lastmodified":1566646051,
     "wof:name":"Yoro",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

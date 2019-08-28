@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.77,14.86333,-86.73,14.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Guanacaste"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1209698693,
-    "wof:lastmodified":1564150480,
+    "wof:lastmodified":1566645384,
     "wof:name":"Guanacaste",
     "wof:parent_id":421203399,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.58667,14.91333,-88.54667,14.95333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Las Alegr\u00edas",
         "Alegr\u00edas"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276750049,
-    "wof:lastmodified":1537625795,
+    "wof:lastmodified":1566645149,
     "wof:name":"Alegrias",
     "wof:parent_id":421205531,
     "wof:placetype":"locality",

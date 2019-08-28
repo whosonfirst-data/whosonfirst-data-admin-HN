@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.614101,
     "lbl:longitude":-87.359289,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Atlantida",
     "meso:gadm_admin":"Arizona",
     "meso:gadm_hasc2":"HN.AT.AR",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.359289,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Arizona"
@@ -59,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -80,7 +83,7 @@
         "gn:id":8062522,
         "gp:id":26813595,
         "hasc:id":"HN.AT.AR",
-        "qs:id":186307
+        "qs_pg:id":186307
     },
     "wof:country":"HN",
     "wof:created":1459009964,
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421198883,
-    "wof:lastmodified":1554489026,
+    "wof:lastmodified":1566645911,
     "wof:name":"Harizona",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

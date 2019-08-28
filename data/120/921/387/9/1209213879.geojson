@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.82,14.64667,-88.78,14.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632323
@@ -34,7 +38,7 @@
         "gn:id":3600270
     },
     "wof:country":"HN",
-    "wof:geomhash":"405250ee13c5af0135db0c4223045b51",
+    "wof:geomhash":"74b3d3cc162fb3fca8091183573f932b",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209213879,
-    "wof:lastmodified":1536294199,
+    "wof:lastmodified":1566645422,
     "wof:name":"Yaguaconte",
     "wof:parent_id":85632323,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.8,
-    14.666670000000002,
+    14.66667,
     -88.8,
-    14.666670000000002
+    14.66667
 ],
   "geometry": {"coordinates":[-88.8,14.66667],"type":"Point"}
 }

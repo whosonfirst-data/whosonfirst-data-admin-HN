@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-84.98667,15.86333,-84.94667,15.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sugarlo",
         "Pil\u00f3n de Az\u00facar"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276855483,
-    "wof:lastmodified":1537625592,
+    "wof:lastmodified":1566645224,
     "wof:name":"Pilon de Azucar",
     "wof:parent_id":1108701649,
     "wof:placetype":"locality",

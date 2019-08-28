@@ -10,8 +10,12 @@
     "geom:latitude":15.03333,
     "geom:longitude":-88.83333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.85333,15.01333,-88.81333,15.05333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Florida"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3609681,
         "gp:id":101907,
-        "qs:id":1045684,
+        "qs_pg:id":1045684,
         "wd:id":"Q2392006",
         "wk:page":"Florida, Cop\u00e1n"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421183813,
-    "wof:lastmodified":1563575328,
+    "wof:lastmodified":1566645989,
     "wof:name":"Florida",
     "wof:parent_id":421188479,
     "wof:placetype":"locality",

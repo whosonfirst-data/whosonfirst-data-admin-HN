@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.35625,
     "lbl:longitude":-87.878154,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"La Paz",
     "meso:gadm_admin":"Santiago de Puringla",
     "meso:gadm_hasc2":"HN.LP.SP",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.878154,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Santiago Puringla"
@@ -84,7 +87,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -106,7 +109,7 @@
         "gn:id":3601463,
         "gp:id":26813840,
         "hasc:id":"HN.LP.SP",
-        "qs:id":956704,
+        "qs_pg:id":956704,
         "wd:id":"Q1930019"
     },
     "wof:country":"HN",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421182975,
-    "wof:lastmodified":1563575405,
+    "wof:lastmodified":1566646047,
     "wof:name":"Santiago de Puringla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

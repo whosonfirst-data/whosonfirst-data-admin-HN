@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.693727,
     "lbl:longitude":-89.107705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ocotepeque",
     "meso:gadm_admin":"San Fernando",
     "meso:gadm_hasc2":"HN.OC.SF",
@@ -30,6 +32,7 @@
     "mps:longitude":-89.107705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "San Fernando"
@@ -80,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -102,7 +105,7 @@
         "gn:id":3602340,
         "gp:id":26813771,
         "hasc:id":"HN.OC.SF",
-        "qs:id":919280,
+        "qs_pg:id":919280,
         "wd:id":"Q281256",
         "wk:page":"San Fernando, Ocotepeque"
     },
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421182589,
-    "wof:lastmodified":1563575380,
+    "wof:lastmodified":1566646027,
     "wof:name":"San Fernando",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

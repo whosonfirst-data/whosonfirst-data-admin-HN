@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.32,14.58,-87.28,14.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Piparo",
         "El Pipero"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276212165,
-    "wof:lastmodified":1537625710,
+    "wof:lastmodified":1566645155,
     "wof:name":"El Pipero",
     "wof:parent_id":1108701669,
     "wof:placetype":"locality",

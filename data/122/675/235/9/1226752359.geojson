@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.70333,14.98,-88.66333,15.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gualchoa",
         "El Modelo"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226752359,
-    "wof:lastmodified":1537625722,
+    "wof:lastmodified":1566646372,
     "wof:name":"El Modelo",
     "wof:parent_id":421191367,
     "wof:placetype":"locality",

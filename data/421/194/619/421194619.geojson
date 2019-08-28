@@ -10,8 +10,12 @@
     "geom:latitude":15.48333,
     "geom:longitude":-88.16667,
     "iso:country":"HN",
+    "lbl:bbox":"-88.18667,15.46333,-88.14667,15.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"HN",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":3607649,
         "gp:id":103056,
-        "qs:id":887557
+        "qs_pg:id":887557
     },
     "wof:country":"HN",
     "wof:created":1459009814,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421194619,
-    "wof:lastmodified":1500006219,
+    "wof:lastmodified":1566645790,
     "wof:name":"La Junta",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

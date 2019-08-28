@@ -10,8 +10,12 @@
     "geom:latitude":14.86667,
     "geom:longitude":-88.83333,
     "iso:country":"HN",
+    "lbl:bbox":"-88.85333,14.84667,-88.81333,14.88667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Dolores"
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":3612838,
         "gp:id":99330,
-        "qs:id":1201227,
+        "qs_pg:id":1201227,
         "wd:id":"Q2391992",
         "wk:page":"Dolores, Cop\u00e1n"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421177567,
-    "wof:lastmodified":1563575319,
+    "wof:lastmodified":1566645982,
     "wof:name":"Dolores",
     "wof:parent_id":421183865,
     "wof:placetype":"locality",

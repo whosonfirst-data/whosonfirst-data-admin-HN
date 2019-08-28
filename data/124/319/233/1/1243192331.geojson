@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.30278,13.97278,-87.26278,14.01278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Concepci\u00f3n del Rio Grande",
         "Concepci\u00f3n R\u00edo Grande",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243192331,
-    "wof:lastmodified":1537625773,
+    "wof:lastmodified":1566646251,
     "wof:name":"Concepcion de Rio Grande",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

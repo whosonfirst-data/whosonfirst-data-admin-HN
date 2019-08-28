@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.681251,
     "lbl:longitude":-87.383743,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Esqu\u00edas",
     "meso:gadm_hasc2":"HN.CM.ES",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.383743,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Esqu\u00edas"
@@ -89,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -111,7 +114,7 @@
         "gn:id":3609743,
         "gp:id":26813653,
         "hasc:id":"HN.CM.ES",
-        "qs:id":62653,
+        "qs_pg:id":62653,
         "wd:id":"Q2361049"
     },
     "wof:country":"HN",
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421203401,
-    "wof:lastmodified":1563575145,
+    "wof:lastmodified":1566645818,
     "wof:name":"Esquias",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

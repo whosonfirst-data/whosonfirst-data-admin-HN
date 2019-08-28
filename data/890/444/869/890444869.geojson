@@ -11,10 +11,14 @@
     "geom:longitude":-88.68333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2008,
+    "gn:population":2008,
     "iso:country":"HN",
+    "lbl:bbox":"-88.70333,15.08,-88.66333,15.12",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Chalmeca",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3613708,
         "gp:id":98890,
-        "qs:id":1045706
+        "qs_pg:id":1045706
     },
     "wof:country":"HN",
     "wof:created":1469052485,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890444869,
-    "wof:lastmodified":1505343601,
+    "wof:lastmodified":1566646074,
     "wof:name":"Chalmeca",
     "wof:parent_id":1108701677,
     "wof:placetype":"locality",

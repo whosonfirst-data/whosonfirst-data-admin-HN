@@ -11,11 +11,15 @@
     "geom:longitude":-85.28333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1188,
+    "gn:population":1188,
     "iso:country":"HN",
+    "lbl:bbox":"-85.30333,15.88,-85.26333,15.92",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Punta Piedras"
     ],
     "qs:name":"Punta Piedra",
@@ -31,7 +35,7 @@
     "wof:concordances":{
         "gn:id":3603136,
         "gp:id":12524358,
-        "qs:id":149270,
+        "qs_pg:id":149270,
         "wk:page":"Punta de Piedras"
     },
     "wof:country":"HN",
@@ -44,7 +48,7 @@
         }
     ],
     "wof:id":890430269,
-    "wof:lastmodified":1527729736,
+    "wof:lastmodified":1566646061,
     "wof:name":"Punta Piedra",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

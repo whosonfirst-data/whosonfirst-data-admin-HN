@@ -10,10 +10,14 @@
     "geom:latitude":15.58333,
     "geom:longitude":-87.23333,
     "iso:country":"HN",
+    "lbl:bbox":"-87.25333,15.56333,-87.21333,15.60333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "San Juan"
     ],
     "qs:gn_country":"HN",
@@ -47,7 +51,7 @@
     "wof:concordances":{
         "gn:id":3601984,
         "gp:id":106990,
-        "qs:id":1045634
+        "qs_pg:id":1045634
     },
     "wof:country":"HN",
     "wof:created":1459009102,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421176257,
-    "wof:lastmodified":1527726470,
+    "wof:lastmodified":1566646049,
     "wof:name":"San Juan Pueblo",
     "wof:parent_id":421170693,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.058752,
     "lbl:longitude":-88.117828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Ilama",
     "meso:gadm_hasc2":"HN.SB.IL",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.117828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ilama"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3608861,
         "gp:id":26813671,
         "hasc:id":"HN.SB.IL",
-        "qs:id":956676,
+        "qs_pg:id":956676,
         "wd:id":"Q2055833"
     },
     "wof:country":"HN",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421182917,
-    "wof:lastmodified":1563575403,
+    "wof:lastmodified":1566646046,
     "wof:name":"Ilama",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

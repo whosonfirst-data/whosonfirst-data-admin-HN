@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.07408,
     "lbl:longitude":-87.294415,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Yoro",
     "meso:gadm_admin":"Yorito",
     "meso:gadm_hasc2":"HN.YO.YT",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.294415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yorito"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3600200,
         "gp:id":26813880,
         "hasc:id":"HN.YO.YT",
-        "qs:id":1097332,
+        "qs_pg:id":1097332,
         "wd:id":"Q1647584"
     },
     "wof:country":"HN",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421188477,
-    "wof:lastmodified":1563575192,
+    "wof:lastmodified":1566645847,
     "wof:name":"Yorito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

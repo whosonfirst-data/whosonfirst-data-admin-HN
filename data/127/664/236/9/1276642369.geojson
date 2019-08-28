@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.62,14.46333,-88.58,14.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El C\u00edpres (2)",
         "El Cipr\u00e9s"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276642369,
-    "wof:lastmodified":1537625748,
+    "wof:lastmodified":1566645250,
     "wof:name":"El Cipres",
     "wof:parent_id":421182923,
     "wof:placetype":"locality",

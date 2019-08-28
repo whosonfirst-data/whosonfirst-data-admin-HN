@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.53687,
     "lbl:longitude":-86.856657,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Francisco Morazan",
     "meso:gadm_admin":"Guaimaca",
     "meso:gadm_hasc2":"HN.FM.GU",
@@ -30,14 +32,12 @@
     "mps:longitude":-86.856657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Guaimaca"
     ],
     "name:eng_x_variant":[
-        "Guaimaca"
-    ],
-    "name:unk_x_variant":[
         "Guaimaca"
     ],
     "qs:gn_country":"HN",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -83,7 +83,7 @@
         "gn:id":3609419,
         "gp:id":26813659,
         "hasc:id":"HN.FM.GU",
-        "qs:id":1097270
+        "qs_pg:id":1097270
     },
     "wof:country":"HN",
     "wof:created":1459009560,
@@ -97,7 +97,7 @@
         }
     ],
     "wof:id":421188483,
-    "wof:lastmodified":1554488970,
+    "wof:lastmodified":1566645847,
     "wof:name":"Guimaca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.33667,15.16333,-87.29667,15.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mataderos"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1327400233,
-    "wof:lastmodified":1564149198,
+    "wof:lastmodified":1566644624,
     "wof:name":"Mataderos",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

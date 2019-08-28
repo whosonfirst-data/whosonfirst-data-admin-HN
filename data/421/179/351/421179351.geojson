@@ -10,8 +10,12 @@
     "geom:latitude":14.01667,
     "geom:longitude":-86.66667,
     "iso:country":"HN",
+    "lbl:bbox":"-86.68667,13.99667,-86.64667,14.03667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Jacaleapa"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":3608798,
         "gp:id":102285,
-        "qs:id":149356,
+        "qs_pg:id":149356,
         "wd:id":"Q2209633",
         "wk:page":"Jacaleapa"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421179351,
-    "wof:lastmodified":1563575347,
+    "wof:lastmodified":1566645999,
     "wof:name":"Jacaleapa",
     "wof:parent_id":421182919,
     "wof:placetype":"locality",

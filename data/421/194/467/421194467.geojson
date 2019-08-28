@@ -10,8 +10,12 @@
     "geom:latitude":14.51667,
     "geom:longitude":-87.4,
     "iso:country":"HN",
+    "lbl:bbox":"-87.42,14.49667,-87.38,14.53667",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Vallecillo"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":3600450,
         "gp:id":107990,
-        "qs:id":1201344,
+        "qs_pg:id":1201344,
         "wd:id":"Q1645152"
     },
     "wof:country":"HN",
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421194467,
-    "wof:lastmodified":1563575115,
+    "wof:lastmodified":1566645793,
     "wof:name":"Vallecillo",
     "wof:parent_id":421188527,
     "wof:placetype":"locality",

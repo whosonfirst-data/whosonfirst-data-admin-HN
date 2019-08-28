@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-89.03667,14.29667,-88.99667,14.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0395\u03bb \u039a\u03bf\u03c1\u03ac\u03bb"
     ],
@@ -42,8 +46,7 @@
         "El Coral"
     ],
     "name:und_x_variant":[
-        "El Cosal",
-        "El Coral"
+        "El Cosal"
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u06a9\u0648\u0631\u0627\u0644"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1293171851,
-    "wof:lastmodified":1564149985,
+    "wof:lastmodified":1566645113,
     "wof:name":"El Coral",
     "wof:parent_id":1108701683,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-86.82,15.33,-86.78,15.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Santa Cruz"
     ],
@@ -156,8 +160,7 @@
         "\u0421\u0430\u043d\u0442\u0430-\u041a\u0440\u0443\u0441"
     ],
     "name:und_x_variant":[
-        "Santa Cruz Aldea",
-        "Santa Cruz"
+        "Santa Cruz Aldea"
     ],
     "name:vie_x_preferred":[
         "Santa Cruz"
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1293255489,
-    "wof:lastmodified":1564149824,
+    "wof:lastmodified":1566645034,
     "wof:name":"Santa Cruz",
     "wof:parent_id":421181921,
     "wof:placetype":"locality",

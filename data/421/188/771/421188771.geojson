@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.873729,
     "lbl:longitude":-88.044811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Las Vegas",
     "meso:gadm_hasc2":"HN.SB.LV",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.044811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Las Vegas"
@@ -452,7 +455,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -474,7 +477,7 @@
         "gn:id":8062439,
         "gp:id":26813704,
         "hasc:id":"HN.SB.LV",
-        "qs:id":1103807
+        "qs_pg:id":1103807
     },
     "wof:country":"HN",
     "wof:created":1459009578,
@@ -488,7 +491,7 @@
         }
     ],
     "wof:id":421188771,
-    "wof:lastmodified":1564151258,
+    "wof:lastmodified":1566645853,
     "wof:name":"Las Vegas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

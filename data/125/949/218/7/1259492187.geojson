@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.22833,13.44583,-87.18833,13.48583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Salazar"
     ],
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":1259492187,
-    "wof:lastmodified":1564151807,
+    "wof:lastmodified":1566646308,
     "wof:name":"Salazar",
     "wof:parent_id":421188769,
     "wof:placetype":"locality",

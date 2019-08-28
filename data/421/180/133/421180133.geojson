@@ -10,8 +10,12 @@
     "geom:latitude":14.11667,
     "geom:longitude":-86.86667,
     "iso:country":"HN",
+    "lbl:bbox":"-86.88667,14.09667,-86.84667,14.13667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Morocel\u00ed"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Morocel\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moroceh"
     ],
     "name:zho_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":3604579,
         "gp:id":105360,
-        "qs:id":1116200,
+        "qs_pg:id":1116200,
         "wd:id":"Q633411",
         "wk:page":"Morocel\u00ed"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":421180133,
-    "wof:lastmodified":1563575169,
+    "wof:lastmodified":1566645835,
     "wof:name":"Morocel\u00ed",
     "wof:parent_id":890455353,
     "wof:placetype":"locality",

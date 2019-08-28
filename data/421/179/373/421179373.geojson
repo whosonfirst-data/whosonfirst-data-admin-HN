@@ -10,10 +10,14 @@
     "geom:latitude":14.45,
     "geom:longitude":-87.26667,
     "iso:country":"HN",
+    "lbl:bbox":"-87.28667,14.43,-87.24667,14.47",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ingenio Agalteca"
     ],
     "qs:gn_country":"HN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":3615582,
         "gp:id":56125802,
-        "qs:id":149438
+        "qs_pg:id":149438
     },
     "wof:country":"HN",
     "wof:created":1459009213,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421179373,
-    "wof:lastmodified":1505340642,
+    "wof:lastmodified":1566646001,
     "wof:name":"Agalteca",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

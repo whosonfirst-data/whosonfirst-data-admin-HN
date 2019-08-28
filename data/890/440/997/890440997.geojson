@@ -11,11 +11,15 @@
     "geom:longitude":-85.78333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2855,
+    "gn:population":2855,
     "iso:country":"HN",
+    "lbl:bbox":"-85.80333,15.73,-85.76333,15.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Corocilo"
     ],
     "qs:name":"Corocito",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":3613189,
-        "qs:id":149407
+        "qs_pg:id":149407
     },
     "wof:country":"HN",
     "wof:created":1469052305,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890440997,
-    "wof:lastmodified":1505343580,
+    "wof:lastmodified":1566646056,
     "wof:name":"Corocito",
     "wof:parent_id":421169619,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":-84.48333,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":4067,
+    "gn:population":4067,
     "iso:country":"HN",
+    "lbl:bbox":"-84.50333,15.73,-84.46333,15.77",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -52,7 +55,7 @@
     "name:swe_x_preferred":[
         "Brus Laguna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brewers Lagoon"
     ],
     "name:zho_x_preferred":[
@@ -168,7 +171,7 @@
     "wof:concordances":{
         "gn:id":3614663,
         "gp:id":98325,
-        "qs:id":274449,
+        "qs_pg:id":274449,
         "wd:id":"Q2102693",
         "wk:page":"Brus Laguna"
     },
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890442113,
-    "wof:lastmodified":1563575474,
+    "wof:lastmodified":1566646084,
     "wof:name":"Brus Laguna",
     "wof:parent_id":421182889,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-88.88667,14.51333,-88.84667,14.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Los Pl\u00e1tanos",
         "El Plan de los Pl\u00e1tanos"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327332703,
-    "wof:lastmodified":1537625709,
+    "wof:lastmodified":1566644642,
     "wof:name":"El Plan de los Platanos",
     "wof:parent_id":421194943,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":15.208589,
     "lbl:longitude":-87.961069,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Cortes",
     "meso:gadm_admin":"Potrerillos",
     "meso:gadm_hasc2":"HN.CR.PO",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.961069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Potrerillos"
@@ -83,7 +86,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -105,7 +108,7 @@
         "gn:id":3603366,
         "gp:id":26813750,
         "hasc:id":"HN.CR.PO",
-        "qs:id":892471,
+        "qs_pg:id":892471,
         "wd:id":"Q1644959",
         "wk:page":"Potrerillos, Cort\u00e9s"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421194673,
-    "wof:lastmodified":1563575112,
+    "wof:lastmodified":1566645790,
     "wof:name":"Potrerillos",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

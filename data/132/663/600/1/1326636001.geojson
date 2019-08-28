@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.75333,14.53,-87.71333,14.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lioncito",
         "Leoncito"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326636001,
-    "wof:lastmodified":1537625625,
+    "wof:lastmodified":1566644679,
     "wof:name":"Leoncito",
     "wof:parent_id":421205113,
     "wof:placetype":"locality",

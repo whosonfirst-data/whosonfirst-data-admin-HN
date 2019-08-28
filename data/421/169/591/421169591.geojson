@@ -10,8 +10,12 @@
     "geom:latitude":15.1,
     "geom:longitude":-85.53333,
     "iso:country":"HN",
+    "lbl:bbox":"-85.55333,15.08,-85.51333,15.12",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dulce Nombre de Culm\u00ed"
@@ -37,7 +41,7 @@
     "name:swe_x_preferred":[
         "Dulce Nombre de Culm\u00ed"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ducle Nombre"
     ],
     "name:zho_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":3612810,
         "gp:id":99350,
-        "qs:id":214194,
+        "qs_pg:id":214194,
         "wd:id":"Q2248666",
         "wk:page":"Dulce Nombre de Culm\u00ed"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421169591,
-    "wof:lastmodified":1561749447,
+    "wof:lastmodified":1566645807,
     "wof:name":"Dulce Nombre de Culm\u00ed",
     "wof:parent_id":421199961,
     "wof:placetype":"locality",

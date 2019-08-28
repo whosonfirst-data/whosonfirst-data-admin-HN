@@ -11,10 +11,14 @@
     "geom:longitude":-85.96667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1055,
+    "gn:population":1055,
     "iso:country":"HN",
+    "lbl:bbox":"-85.98667,15.78,-85.94667,15.82",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "La Brea"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":3608377,
         "gp:id":106232,
-        "qs:id":149350,
+        "qs_pg:id":149350,
         "wk:page":"La Brea"
     },
     "wof:country":"HN",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890430681,
-    "wof:lastmodified":1564151351,
+    "wof:lastmodified":1566646061,
     "wof:name":"La Brea",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

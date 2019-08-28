@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.773503,
     "lbl:longitude":-88.788994,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Copan",
     "meso:gadm_admin":"Santa Rosa de Cop\u00e1n",
     "meso:gadm_hasc2":"HN.CP.SC",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.788994,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Santa Rosa de Cop\u00e1n"
     ],
@@ -38,7 +41,7 @@
         "Santa Rosa de Cop\u00e1n"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108701725,
-    "wof:lastmodified":1554489383,
+    "wof:lastmodified":1566645560,
     "wof:name":"Sta. Rosa de Copan",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

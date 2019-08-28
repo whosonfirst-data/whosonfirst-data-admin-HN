@@ -11,10 +11,14 @@
     "geom:longitude":-88.05,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":2989,
+    "gn:population":2989,
     "iso:country":"HN",
+    "lbl:bbox":"-88.07,15.48,-88.03,15.52",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Armenta",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +34,7 @@
     "wof:concordances":{
         "gn:id":3615065,
         "gp:id":106433,
-        "qs:id":149426
+        "qs_pg:id":149426
     },
     "wof:country":"HN",
     "wof:created":1469052055,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890435107,
-    "wof:lastmodified":1505343545,
+    "wof:lastmodified":1566646087,
     "wof:name":"Armenta",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

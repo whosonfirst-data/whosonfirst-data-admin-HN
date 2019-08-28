@@ -10,8 +10,12 @@
     "geom:latitude":14.36667,
     "geom:longitude":-87.7,
     "iso:country":"HN",
+    "lbl:bbox":"-87.72,14.34667,-87.68,14.38667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lejaman\u00ed"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":3606069,
         "gp:id":104336,
-        "qs:id":149314,
+        "qs_pg:id":149314,
         "wd:id":"Q2148930",
         "wk:page":"Lejaman\u00ed"
     },
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":421179321,
-    "wof:lastmodified":1563575356,
+    "wof:lastmodified":1566646002,
     "wof:name":"Lejaman\u00ed",
     "wof:parent_id":421188773,
     "wof:placetype":"locality",

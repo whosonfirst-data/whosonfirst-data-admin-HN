@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.11139,13.08778,-87.07139,13.12778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310414929,
-    "wof:lastmodified":1537045708,
+    "wof:lastmodified":1566645581,
     "wof:name":"Yoloran",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

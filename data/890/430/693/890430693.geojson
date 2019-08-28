@@ -11,10 +11,14 @@
     "geom:longitude":-87.11667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1325,
+    "gn:population":1325,
     "iso:country":"HN",
+    "lbl:bbox":"-87.13667,13.26333,-87.09667,13.30333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "El Puente"
     ],
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":3610610,
         "gp:id":107221,
-        "qs:id":149380,
+        "qs_pg:id":149380,
         "wk:page":"El Puente"
     },
     "wof:country":"HN",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890430693,
-    "wof:lastmodified":1564151352,
+    "wof:lastmodified":1566646061,
     "wof:name":"El Puente",
     "wof:parent_id":421200723,
     "wof:placetype":"locality",

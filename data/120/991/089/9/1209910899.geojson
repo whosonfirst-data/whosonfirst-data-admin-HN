@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
+    "lbl:bbox":"-87.135,13.54944,-87.095,13.58944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Las Casillas"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209910899,
-    "wof:lastmodified":1564150321,
+    "wof:lastmodified":1566645298,
     "wof:name":"Las Casillas",
     "wof:parent_id":421191385,
     "wof:placetype":"locality",

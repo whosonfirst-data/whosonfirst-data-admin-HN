@@ -9,17 +9,20 @@
     "geom:bbox":"-86.55,13.93333,-86.55,13.93333",
     "geom:latitude":13.93333,
     "geom:longitude":-86.55,
-    "gn:gn_country":"HN",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":909,
+    "gn:country":"HN",
+    "gn:fcode":"PPL",
     "gn:population":909,
     "iso:country":"HN",
+    "lbl:bbox":"-86.57,13.91333,-86.53,13.95333",
     "lbl:latitude":13.93333,
     "lbl:longitude":-86.55,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pescadero San Marcos"
     ],
     "qs_pg:aaroncc":"HN",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":96080,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125869089,
-    "wof:lastmodified":1509397180,
+    "wof:lastmodified":1566646092,
     "wof:name":"El Pescadero",
     "wof:parent_id":1108701667,
     "wof:placetype":"locality",

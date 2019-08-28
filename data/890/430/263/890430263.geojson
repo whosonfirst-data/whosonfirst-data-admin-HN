@@ -11,10 +11,14 @@
     "geom:longitude":-85.96667,
     "gn:country":"HN",
     "gn:fcode":"PPL",
-    "gn:pop":1737,
+    "gn:population":1737,
     "iso:country":"HN",
+    "lbl:bbox":"-85.98667,15.73,-85.94667,15.77",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u0627"
     ],
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":3602602,
         "gp:id":106232,
-        "qs:id":149263,
+        "qs_pg:id":149263,
         "wk:page":"Salam\u00e1"
     },
     "wof:country":"HN",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890430263,
-    "wof:lastmodified":1564151355,
+    "wof:lastmodified":1566646062,
     "wof:name":"Salam\u00e1",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

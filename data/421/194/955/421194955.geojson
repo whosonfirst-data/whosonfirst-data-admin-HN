@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.900999,
     "lbl:longitude":-87.619224,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Comayagua",
     "meso:gadm_admin":"Las Lajas",
     "meso:gadm_hasc2":"HN.CM.LJ",
@@ -30,6 +32,7 @@
     "mps:longitude":-87.619224,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Las Lajas"
@@ -86,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -108,7 +111,7 @@
         "gn:id":8062442,
         "gp:id":26813703,
         "hasc:id":"HN.CM.LJ",
-        "qs:id":62671,
+        "qs_pg:id":62671,
         "wd:id":"Q2360984",
         "wk:page":"Las Lajas, Honduras"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421194955,
-    "wof:lastmodified":1563575111,
+    "wof:lastmodified":1566645789,
     "wof:name":"Las Lajas",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

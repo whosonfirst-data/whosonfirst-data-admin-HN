@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.692266,
     "lbl:longitude":-88.375277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Lempira",
     "meso:gadm_admin":"San Rafael",
     "meso:gadm_hasc2":"HN.LE.SR",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.375277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "San Rafael"
     ],
@@ -56,7 +59,7 @@
         "\u8056\u62c9\u6590\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1108701715,
-    "wof:lastmodified":1561749435,
+    "wof:lastmodified":1566645576,
     "wof:name":"San Rafael",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

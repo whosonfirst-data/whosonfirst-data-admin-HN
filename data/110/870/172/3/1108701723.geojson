@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":14.754961,
     "lbl:longitude":-88.271526,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Santa Barbara",
     "meso:gadm_admin":"Santa Rita",
     "meso:gadm_hasc2":"HN.CP.SR",
@@ -30,6 +32,7 @@
     "mps:longitude":-88.271526,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0442\u0430 \u0420\u0438\u0442\u0430"
     ],
@@ -103,7 +106,7 @@
         "Santa Rita"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":1108701723,
-    "wof:lastmodified":1564150808,
+    "wof:lastmodified":1566645559,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671905,
     "wof:placetype":"county",
