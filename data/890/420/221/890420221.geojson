@@ -78,6 +78,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051324,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"822a3c57f5a63f9e5de46e2743e03ac3",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890420221,
-    "wof:lastmodified":1566646079,
+    "wof:lastmodified":1582319398,
     "wof:name":"San Jose de Colinas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

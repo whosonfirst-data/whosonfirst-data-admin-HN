@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010029,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d75b02c03b3e63434804c3ba75efd4f5",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421200543,
-    "wof:lastmodified":1566645953,
+    "wof:lastmodified":1582319346,
     "wof:name":"Caridad",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

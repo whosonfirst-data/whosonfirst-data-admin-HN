@@ -85,6 +85,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051395,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42690c201013914967742461cf288396",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890421511,
-    "wof:lastmodified":1566646071,
+    "wof:lastmodified":1582319397,
     "wof:name":"Concepcion de Maria",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

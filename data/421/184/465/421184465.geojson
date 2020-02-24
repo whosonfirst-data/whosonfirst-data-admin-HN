@@ -118,6 +118,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009411,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"886d99602a364eb9e35ae84f5f0cfa9b",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421184465,
-    "wof:lastmodified":1566645960,
+    "wof:lastmodified":1582319349,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

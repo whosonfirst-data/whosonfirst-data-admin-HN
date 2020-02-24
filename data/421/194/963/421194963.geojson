@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009826,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df2c0a6e1fecb6e47e5a2f6c95fb0d2a",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194963,
-    "wof:lastmodified":1566645788,
+    "wof:lastmodified":1582319262,
     "wof:name":"Piraera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

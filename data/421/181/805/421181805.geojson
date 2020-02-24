@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009307,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f00144569bd21dcc60b2c0356bf82a48",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421181805,
-    "wof:lastmodified":1566645888,
+    "wof:lastmodified":1582319313,
     "wof:name":"Meambar",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

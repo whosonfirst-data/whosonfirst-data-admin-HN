@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009701,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b3271601fa389adc0b2e8e6cc04704c1",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191671,
-    "wof:lastmodified":1566645939,
+    "wof:lastmodified":1582319340,
     "wof:name":"Marale",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -133,6 +133,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c76b41d38215b3a0c1af9424342ce117",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421188765,
-    "wof:lastmodified":1566645844,
+    "wof:lastmodified":1582319288,
     "wof:name":"Guanaja",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

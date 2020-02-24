@@ -294,6 +294,9 @@
         "wk:page":"Bay Islands Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f922f6f1372548e0cda1efc40a1fb4a2",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644907,
+    "wof:lastmodified":1582319202,
     "wof:name":"Islas de la Bah\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"region",

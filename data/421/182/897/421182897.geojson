@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14d3f6e5904fc7fc9e46a0b24c8f7262",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421182897,
-    "wof:lastmodified":1566646041,
+    "wof:lastmodified":1582319387,
     "wof:name":"Dolores Merendon",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

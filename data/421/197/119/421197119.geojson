@@ -89,6 +89,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009903,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2318e98c7f1c03cc2575fa69b28dc98f",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421197119,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1582319344,
     "wof:name":"San Francisco de Yojoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

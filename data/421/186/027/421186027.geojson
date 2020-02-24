@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009462,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5c83c3e40e516a35de0aff9b227a8abd",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421186027,
-    "wof:lastmodified":1566645885,
+    "wof:lastmodified":1582319311,
     "wof:name":"San Juan",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010191,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3949c6117e4d417e492ab6f434b97b1",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421204589,
-    "wof:lastmodified":1566645809,
+    "wof:lastmodified":1582319272,
     "wof:name":"Olanchito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

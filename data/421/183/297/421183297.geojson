@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009364,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9f84782f649b75472e766c198c5ae1e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421183297,
-    "wof:lastmodified":1566645990,
+    "wof:lastmodified":1582319364,
     "wof:name":"Atima",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

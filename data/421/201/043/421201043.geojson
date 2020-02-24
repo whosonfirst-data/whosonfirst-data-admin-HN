@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010049,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc0f93d4a917ff4b7e18eb1946ba9d47",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421201043,
-    "wof:lastmodified":1566645957,
+    "wof:lastmodified":1582319348,
     "wof:name":"El Negrito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6dffa4da4aa25cde6318e781b2d7894a",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188495,
-    "wof:lastmodified":1566645868,
+    "wof:lastmodified":1582319302,
     "wof:name":"La Labor",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

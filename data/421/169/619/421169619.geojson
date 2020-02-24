@@ -129,6 +129,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008817,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"75681495886c1c50a8900e358a4a3228",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421169619,
-    "wof:lastmodified":1566645806,
+    "wof:lastmodified":1582319270,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

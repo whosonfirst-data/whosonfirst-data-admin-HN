@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66dd18c8e8e00a9dcd24726738748f62",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421203409,
-    "wof:lastmodified":1566645819,
+    "wof:lastmodified":1582319278,
     "wof:name":"Magdalena",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

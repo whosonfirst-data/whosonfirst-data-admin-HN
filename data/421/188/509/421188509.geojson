@@ -115,6 +115,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ba6d7717644a9ce4d0e8b74f965414f5",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421188509,
-    "wof:lastmodified":1566645865,
+    "wof:lastmodified":1582319300,
     "wof:name":"Naranjito",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

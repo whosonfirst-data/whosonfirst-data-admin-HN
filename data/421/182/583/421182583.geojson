@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009335,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c797c1ded64a41dde68000b90806c74b",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182583,
-    "wof:lastmodified":1566646046,
+    "wof:lastmodified":1582319391,
     "wof:name":"Langue",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

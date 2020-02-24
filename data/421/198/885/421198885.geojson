@@ -112,6 +112,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009964,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b740d82901b394bf1a6f0ee37f0f79c",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421198885,
-    "wof:lastmodified":1566645913,
+    "wof:lastmodified":1582319327,
     "wof:name":"San Antonio de Flores",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

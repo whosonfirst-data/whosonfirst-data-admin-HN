@@ -312,6 +312,9 @@
         "wk:page":"Cort\u00e9s Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5875c4aba5e6793cafaf69c67176276b",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644930,
+    "wof:lastmodified":1582319217,
     "wof:name":"Cort\u00e9s",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

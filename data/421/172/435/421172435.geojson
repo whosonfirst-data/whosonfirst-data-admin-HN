@@ -129,6 +129,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008942,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d85e5e3e95ce60b41b0dc84153c7d77",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421172435,
-    "wof:lastmodified":1566645882,
+    "wof:lastmodified":1582319309,
     "wof:name":"Tela",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

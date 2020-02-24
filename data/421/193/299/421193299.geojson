@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009766,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e8effa0c010f99789ea8e03890746a7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421193299,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1582319269,
     "wof:name":"San Buenaventura",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

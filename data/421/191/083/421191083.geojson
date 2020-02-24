@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"df1819eab2e78521ab94ee0d67a2ae3e",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421191083,
-    "wof:lastmodified":1566645919,
+    "wof:lastmodified":1582319331,
     "wof:name":"Alauca",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

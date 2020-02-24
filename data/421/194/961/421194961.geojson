@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009826,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"70ddaf4f9b2b60b3bcc534fbc2f82eb9",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421194961,
-    "wof:lastmodified":1566645792,
+    "wof:lastmodified":1582319264,
     "wof:name":"Pimienta",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

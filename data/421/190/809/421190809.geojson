@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009669,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"51c2309f57b4768345c5faf9fd157f8b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421190809,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1582319344,
     "wof:name":"Proteccion",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

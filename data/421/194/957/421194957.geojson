@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10cc522aed4192fe49354265d7aab079",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421194957,
-    "wof:lastmodified":1566645792,
+    "wof:lastmodified":1582319264,
     "wof:name":"Lauterique",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

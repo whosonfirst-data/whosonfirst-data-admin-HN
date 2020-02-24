@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010029,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ee814ead551f656d79fdf31207d7ca52",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421200541,
-    "wof:lastmodified":1566645954,
+    "wof:lastmodified":1582319347,
     "wof:name":"Cane",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

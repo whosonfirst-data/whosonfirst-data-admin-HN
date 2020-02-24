@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010179,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0bc4b09b3476d5539019c5bad2c70789",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421204279,
-    "wof:lastmodified":1566645812,
+    "wof:lastmodified":1582319273,
     "wof:name":"La Lima",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

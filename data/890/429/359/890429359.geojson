@@ -631,6 +631,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051811,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2d636564dc4bcc465629c567eb1b9e88",
     "wof:hierarchy":[
         {
@@ -642,7 +645,7 @@
         }
     ],
     "wof:id":890429359,
-    "wof:lastmodified":1566646076,
+    "wof:lastmodified":1582319397,
     "wof:name":"Buenos Aires",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

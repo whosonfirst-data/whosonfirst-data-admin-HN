@@ -111,6 +111,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d4ce2e25a2c94a0775cfa27b105b07e",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421203421,
-    "wof:lastmodified":1566645822,
+    "wof:lastmodified":1582319279,
     "wof:name":"San Isidro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

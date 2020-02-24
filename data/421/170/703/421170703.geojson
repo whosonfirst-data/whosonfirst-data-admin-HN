@@ -104,6 +104,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008865,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f3b5b6b449fe64743586f27dc1262a07",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421170703,
-    "wof:lastmodified":1566645971,
+    "wof:lastmodified":1582319355,
     "wof:name":"Jose Santos Guardiola",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

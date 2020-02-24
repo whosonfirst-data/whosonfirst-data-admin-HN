@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5da27c17877915feb85230f220c41632",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421188505,
-    "wof:lastmodified":1566645843,
+    "wof:lastmodified":1582319288,
     "wof:name":"Liure",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

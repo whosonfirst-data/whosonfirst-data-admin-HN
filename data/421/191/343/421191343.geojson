@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f0d9ead4ef937194210902bd9544b6a9",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191343,
-    "wof:lastmodified":1566645945,
+    "wof:lastmodified":1582319343,
     "wof:name":"Chinacla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

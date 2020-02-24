@@ -154,6 +154,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a3527c91e8cec1ab43e12bc97890f4a",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421191375,
-    "wof:lastmodified":1566645944,
+    "wof:lastmodified":1582319343,
     "wof:name":"Santa Elena",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

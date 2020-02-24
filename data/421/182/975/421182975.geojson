@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"744258539bd1400111dba45cb016bc06",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182975,
-    "wof:lastmodified":1566646047,
+    "wof:lastmodified":1582319391,
     "wof:name":"Santiago de Puringla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

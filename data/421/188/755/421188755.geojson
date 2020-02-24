@@ -140,6 +140,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"921def41acc87a70d60091a524f97e0d",
     "wof:hierarchy":[
         {
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421188755,
-    "wof:lastmodified":1566645841,
+    "wof:lastmodified":1582319286,
     "wof:name":"El Progreso",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

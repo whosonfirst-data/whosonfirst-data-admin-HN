@@ -125,6 +125,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cbcf28481a0cb651d38db0c5bdd8e65b",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421193683,
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1582319268,
     "wof:name":"Alubaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

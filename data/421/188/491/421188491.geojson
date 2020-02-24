@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"16c142dfb40ce785c02f7857e339cdcb",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421188491,
-    "wof:lastmodified":1566645850,
+    "wof:lastmodified":1582319292,
     "wof:name":"Gualaco",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"232330e36e0bf043f75f7e18c3abd35e",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182983,
-    "wof:lastmodified":1566646015,
+    "wof:lastmodified":1582319374,
     "wof:name":"Texigua",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

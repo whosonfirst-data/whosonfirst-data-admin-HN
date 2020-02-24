@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db44cc2791628f6e90ffe293768639aa",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421181923,
-    "wof:lastmodified":1566645889,
+    "wof:lastmodified":1582319313,
     "wof:name":"Morolica",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

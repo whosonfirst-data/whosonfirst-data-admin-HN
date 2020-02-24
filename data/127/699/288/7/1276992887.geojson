@@ -51,6 +51,9 @@
         "gn:id":3612283
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "geonames"
+    ],
     "wof:geomhash":"a6506f660402773269151d3ab415a8ec",
     "wof:hierarchy":[
         {
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276992887,
-    "wof:lastmodified":1573586664,
+    "wof:lastmodified":1582319244,
     "wof:name":"El Cayo Sierra",
     "wof:parent_id":421182985,
     "wof:placetype":"locality",

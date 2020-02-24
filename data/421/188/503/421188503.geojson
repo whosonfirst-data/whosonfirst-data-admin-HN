@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9ee174f8f486c48c8abbc11a70251bb3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421188503,
-    "wof:lastmodified":1566645845,
+    "wof:lastmodified":1582319289,
     "wof:name":"Namasigue",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

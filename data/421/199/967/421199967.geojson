@@ -301,6 +301,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010006,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7250556064b17a41033f428c616cefe",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
         }
     ],
     "wof:id":421199967,
-    "wof:lastmodified":1566645952,
+    "wof:lastmodified":1582319346,
     "wof:name":"Trinidad",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

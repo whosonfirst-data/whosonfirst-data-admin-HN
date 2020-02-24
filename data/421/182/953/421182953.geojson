@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7fa66cb5ea69b28350996c830e9010b",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421182953,
-    "wof:lastmodified":1566646006,
+    "wof:lastmodified":1582319369,
     "wof:name":"Petoa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

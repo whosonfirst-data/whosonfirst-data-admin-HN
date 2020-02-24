@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009335,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c7e7de558510be2a9cf34efbaa37fdfa",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182581,
-    "wof:lastmodified":1566646020,
+    "wof:lastmodified":1582319377,
     "wof:name":"Lamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

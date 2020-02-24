@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e0918da691e949a6d33fac4147f6974",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421191379,
-    "wof:lastmodified":1566645927,
+    "wof:lastmodified":1582319335,
     "wof:name":"Santa Maria",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

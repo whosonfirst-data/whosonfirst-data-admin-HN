@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f0aff7ee122c8fb07813775975474b6",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421193697,
-    "wof:lastmodified":1566645802,
+    "wof:lastmodified":1582319269,
     "wof:name":"San Francisco de Becerra",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

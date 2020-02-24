@@ -303,6 +303,9 @@
         "wk:page":"Intibuc\u00e1 Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4fe1389d4559013919c6ebafb17f9abd",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644936,
+    "wof:lastmodified":1582319221,
     "wof:name":"Intibuc\u00e1",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

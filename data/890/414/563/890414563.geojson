@@ -81,6 +81,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051053,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd3bc3d76e9889cb92a817f3f263c025",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890414563,
-    "wof:lastmodified":1566646058,
+    "wof:lastmodified":1582319395,
     "wof:name":"Caiquin",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

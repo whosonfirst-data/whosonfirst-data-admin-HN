@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010170,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d2f005a9d73cf3dc81271505222df30b",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421203999,
-    "wof:lastmodified":1566645815,
+    "wof:lastmodified":1582319275,
     "wof:name":"Copan Ruinas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

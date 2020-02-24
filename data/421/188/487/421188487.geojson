@@ -110,6 +110,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f48a96e312b329e218d2aac858a61e6f",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421188487,
-    "wof:lastmodified":1566645867,
+    "wof:lastmodified":1582319301,
     "wof:name":"Guajiquiro",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

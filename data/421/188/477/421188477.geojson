@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009560,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"89a230dce1b41af80a8072f43998043a",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188477,
-    "wof:lastmodified":1566645847,
+    "wof:lastmodified":1582319290,
     "wof:name":"Yorito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

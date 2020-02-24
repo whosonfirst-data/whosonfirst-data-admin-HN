@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009964,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fdee0e843a95d114aa1f22363cb615ac",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421198881,
-    "wof:lastmodified":1566645908,
+    "wof:lastmodified":1582319325,
     "wof:name":"Cedros",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

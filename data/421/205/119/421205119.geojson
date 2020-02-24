@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010212,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53cc84126975db0d544c8713885ad4b5",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421205119,
-    "wof:lastmodified":1566645829,
+    "wof:lastmodified":1582319282,
     "wof:name":"Ojojona",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -111,6 +111,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009335,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b26b17f987888acfb031d5f475bd71d",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421182589,
-    "wof:lastmodified":1566646027,
+    "wof:lastmodified":1582319380,
     "wof:name":"San Fernando",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

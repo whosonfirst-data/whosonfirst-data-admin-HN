@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67c5f66dd763b000471f37499817d118",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421203423,
-    "wof:lastmodified":1566645817,
+    "wof:lastmodified":1582319277,
     "wof:name":"Tambla",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

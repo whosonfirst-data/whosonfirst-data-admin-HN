@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aef83004d923b05008f1e47998428440",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421194955,
-    "wof:lastmodified":1566645789,
+    "wof:lastmodified":1582319263,
     "wof:name":"Las Lajas",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

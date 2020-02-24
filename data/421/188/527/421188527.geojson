@@ -111,6 +111,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009565,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"67a60b63a4a8e68c3422728540d47623",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421188527,
-    "wof:lastmodified":1566645853,
+    "wof:lastmodified":1582319293,
     "wof:name":"Vallecillo",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

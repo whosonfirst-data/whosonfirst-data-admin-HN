@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ea139c8020e5ed983b8df6462a347c76",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182923,
-    "wof:lastmodified":1566646021,
+    "wof:lastmodified":1582319377,
     "wof:name":"La Campa",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

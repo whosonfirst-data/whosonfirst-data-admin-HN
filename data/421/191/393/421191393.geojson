@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82abeb8fd9885ae5b00aae3455cbb15e",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191393,
-    "wof:lastmodified":1566645935,
+    "wof:lastmodified":1582319339,
     "wof:name":"Yocon",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"147f91398f856ad9d7f0adbdbe78e31a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421188773,
-    "wof:lastmodified":1566645875,
+    "wof:lastmodified":1582319306,
     "wof:name":"Lejamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

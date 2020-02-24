@@ -131,6 +131,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008940,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"629039a9e23b0fde67a5b91d3e1db820",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":421172429,
-    "wof:lastmodified":1566645879,
+    "wof:lastmodified":1582319308,
     "wof:name":"Omoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

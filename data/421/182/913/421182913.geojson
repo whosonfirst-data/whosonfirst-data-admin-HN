@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"91f8ccef4134d972c36052f40d8283ca",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182913,
-    "wof:lastmodified":1566646028,
+    "wof:lastmodified":1582319381,
     "wof:name":"Esquipulas del Norte",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

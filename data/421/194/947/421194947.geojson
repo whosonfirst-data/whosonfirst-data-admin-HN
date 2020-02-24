@@ -87,6 +87,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dce60bcbd2f5177e60e639cba2b79858",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421194947,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1582319263,
     "wof:name":"La Jigua",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -148,6 +148,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009307,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1111ad8ee82d6892247a9da83aa2ecd5",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":421181807,
-    "wof:lastmodified":1566645891,
+    "wof:lastmodified":1582319314,
     "wof:name":"Nacaome",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

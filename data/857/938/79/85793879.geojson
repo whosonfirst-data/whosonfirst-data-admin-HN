@@ -105,6 +105,9 @@
         "qs_pg:id":1082613
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49ac28121b322a5dc1e8b7cf2c4ef923",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1566644878,
+    "wof:lastmodified":1582319176,
     "wof:name":"El Prado",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -96,6 +96,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009565,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3826a78692581c18440757d1eca36946",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421188519,
-    "wof:lastmodified":1566645852,
+    "wof:lastmodified":1582319293,
     "wof:name":"San Pedro Tutule",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

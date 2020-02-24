@@ -130,6 +130,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c463403ea3fb08bd10ca0ab8203c0fb0",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421182939,
-    "wof:lastmodified":1566646008,
+    "wof:lastmodified":1582319370,
     "wof:name":"Manto",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

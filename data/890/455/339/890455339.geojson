@@ -104,6 +104,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469052943,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c53d27cf4a86342fc350d59ce657f58",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890455339,
-    "wof:lastmodified":1566646065,
+    "wof:lastmodified":1582319396,
     "wof:name":"Quimistan",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

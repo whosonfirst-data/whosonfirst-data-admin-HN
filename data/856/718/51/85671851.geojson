@@ -316,6 +316,9 @@
         "wk:page":"Atl\u00e1ntida Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"46ca4a72a8750f852246f8686816d8e0",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644912,
+    "wof:lastmodified":1582319205,
     "wof:name":"Atl\u00e1ntida",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

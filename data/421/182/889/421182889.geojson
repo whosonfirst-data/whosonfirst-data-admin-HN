@@ -127,6 +127,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57204dd2b00ba1c8ecd73248486deeb7",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421182889,
-    "wof:lastmodified":1566646010,
+    "wof:lastmodified":1582319372,
     "wof:name":"Brus Laguna",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

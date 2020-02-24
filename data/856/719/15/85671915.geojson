@@ -296,6 +296,9 @@
         "wk:page":"Lempira Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9f1bf4254c7639d14a2e98fe7d3fb76e",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644902,
+    "wof:lastmodified":1582319196,
     "wof:name":"Lempira",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

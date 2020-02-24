@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009815,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ded262311d18fce306423bd59ab2763c",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421194673,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1582319263,
     "wof:name":"Potrerillos",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

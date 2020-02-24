@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009365,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a26a10d16177973dc59e2808b57ae6a8",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421183307,
-    "wof:lastmodified":1566645985,
+    "wof:lastmodified":1582319362,
     "wof:name":"Sonaguera",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

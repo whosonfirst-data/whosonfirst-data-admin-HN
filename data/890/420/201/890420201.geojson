@@ -101,6 +101,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051323,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0f2b9f399ad1ac8440c652c707b2d6e3",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890420201,
-    "wof:lastmodified":1566646083,
+    "wof:lastmodified":1582319399,
     "wof:name":"Santa Maria del Real",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

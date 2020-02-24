@@ -171,6 +171,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008929,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8ea1f85feecaf40defa0194b8034e733",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421172257,
-    "wof:lastmodified":1566645877,
+    "wof:lastmodified":1582319307,
     "wof:name":"Santa Ana",
     "wof:parent_id":421184595,
     "wof:placetype":"locality",

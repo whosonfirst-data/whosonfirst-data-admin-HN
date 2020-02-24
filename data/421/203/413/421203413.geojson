@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1316eef8be5b398b79373024ae9449ea",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421203413,
-    "wof:lastmodified":1566645816,
+    "wof:lastmodified":1582319276,
     "wof:name":"Mangulile",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

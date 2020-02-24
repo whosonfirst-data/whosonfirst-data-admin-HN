@@ -104,6 +104,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051811,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"202f386c9697b90db98ad12526dcb9c3",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":890429347,
-    "wof:lastmodified":1566646076,
+    "wof:lastmodified":1582319397,
     "wof:name":"La Encarnacion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

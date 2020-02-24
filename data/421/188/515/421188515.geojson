@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009565,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5679be734fb6491af3c8d277b15bc429",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421188515,
-    "wof:lastmodified":1566645876,
+    "wof:lastmodified":1582319306,
     "wof:name":"San Antonio de Cortes",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009132,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db3937fc200933cd2171002fff98fe9c",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421177087,
-    "wof:lastmodified":1566645984,
+    "wof:lastmodified":1582319361,
     "wof:name":"Wampusirpi",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009364,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7cce5115d097f4eeef1d418236197c4d",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421183299,
-    "wof:lastmodified":1566645990,
+    "wof:lastmodified":1582319364,
     "wof:name":"Azacualpa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

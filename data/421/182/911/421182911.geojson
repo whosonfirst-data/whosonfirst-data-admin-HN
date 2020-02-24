@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b026a7d970795554028b3c5a60dfcb47",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182911,
-    "wof:lastmodified":1566646041,
+    "wof:lastmodified":1582319388,
     "wof:name":"Erandique",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -299,6 +299,9 @@
         "wk:page":"La Paz Department (Honduras)"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60d57d9562136c78e6d9fa702c0c9507",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644893,
+    "wof:lastmodified":1582319189,
     "wof:name":"La Paz",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

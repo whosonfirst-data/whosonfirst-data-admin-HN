@@ -89,6 +89,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009408,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79cf5297047a67aad5a9e09f84663e8c",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421184345,
-    "wof:lastmodified":1566645962,
+    "wof:lastmodified":1582319350,
     "wof:name":"Concepcion",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

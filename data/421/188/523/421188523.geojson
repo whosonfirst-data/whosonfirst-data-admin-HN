@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009565,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60dca7b13d182033a9ca8ba5ed4b81d7",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421188523,
-    "wof:lastmodified":1566645876,
+    "wof:lastmodified":1582319306,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

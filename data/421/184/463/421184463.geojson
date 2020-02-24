@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009411,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"284cd7044870423779a4c2469ccbc547",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421184463,
-    "wof:lastmodified":1566645960,
+    "wof:lastmodified":1582319349,
     "wof:name":"Villa de San Francisco",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

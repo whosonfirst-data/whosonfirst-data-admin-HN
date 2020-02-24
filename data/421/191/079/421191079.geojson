@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b5dfa455d84d80b13bc5b7633d70b976",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421191079,
-    "wof:lastmodified":1566645918,
+    "wof:lastmodified":1582319331,
     "wof:name":"Ajuterique",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

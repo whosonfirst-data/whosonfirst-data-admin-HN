@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009698,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d105a2cbcc4654152c3d94eee48e362b",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421191601,
-    "wof:lastmodified":1566645941,
+    "wof:lastmodified":1582319342,
     "wof:name":"Reitoca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

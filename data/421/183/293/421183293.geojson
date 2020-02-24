@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009364,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8a7b789089ad9c3d683fbb7d07a07435",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421183293,
-    "wof:lastmodified":1566645987,
+    "wof:lastmodified":1582319363,
     "wof:name":"Sulaco",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

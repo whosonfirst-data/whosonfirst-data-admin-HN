@@ -139,6 +139,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008864,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"419f6042e5f110410533bb6f64c98b80",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":421170699,
-    "wof:lastmodified":1566645973,
+    "wof:lastmodified":1582319356,
     "wof:name":"Intibuca",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

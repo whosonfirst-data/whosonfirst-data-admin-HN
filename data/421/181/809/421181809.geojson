@@ -147,6 +147,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009307,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"42c35cccf766975adfcf5e64790c113c",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":421181809,
-    "wof:lastmodified":1566645895,
+    "wof:lastmodified":1582319318,
     "wof:name":"Puerto Lempira",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

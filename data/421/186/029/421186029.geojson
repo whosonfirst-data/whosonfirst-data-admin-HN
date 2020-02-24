@@ -88,6 +88,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009462,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"57e05e897513a99ff1a0928f180cafe3",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421186029,
-    "wof:lastmodified":1566645886,
+    "wof:lastmodified":1582319311,
     "wof:name":"San Manuel de Colohete",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

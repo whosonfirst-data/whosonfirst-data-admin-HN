@@ -111,6 +111,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009766,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d71e068d981245d28925ffec555ee78b",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":421193297,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1582319269,
     "wof:name":"Chinda",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -122,6 +122,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b7decf0d5a0baed67e43cfc726dfcdbd",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421203403,
-    "wof:lastmodified":1566645824,
+    "wof:lastmodified":1582319280,
     "wof:name":"Goascoran",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

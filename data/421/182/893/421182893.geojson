@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9e696bfcab4c1a86e06b0c580d1fac88",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182893,
-    "wof:lastmodified":1566646014,
+    "wof:lastmodified":1582319374,
     "wof:name":"Candelaria",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

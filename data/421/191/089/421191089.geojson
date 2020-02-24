@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f9469359bd675abcf418685bb06f87d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421191089,
-    "wof:lastmodified":1566645936,
+    "wof:lastmodified":1582319339,
     "wof:name":"Limon",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

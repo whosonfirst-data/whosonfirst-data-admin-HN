@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6535b7887368453d2563e46735dbbbed",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421194943,
-    "wof:lastmodified":1566645794,
+    "wof:lastmodified":1582319264,
     "wof:name":"Corquin",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -126,6 +126,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"248318e0bcbe861e99e482bc60d46448",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":421188767,
-    "wof:lastmodified":1566645861,
+    "wof:lastmodified":1582319298,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

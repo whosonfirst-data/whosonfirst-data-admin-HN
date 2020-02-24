@@ -108,6 +108,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"80b3e79fe4f6d568658359523832c766",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":421193689,
-    "wof:lastmodified":1566645795,
+    "wof:lastmodified":1582319266,
     "wof:name":"Mercedes de Oriente",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

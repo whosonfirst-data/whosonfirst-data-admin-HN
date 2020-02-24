@@ -120,6 +120,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b366b170af52c03496203f1aa2ae462b",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421194949,
-    "wof:lastmodified":1566645792,
+    "wof:lastmodified":1582319264,
     "wof:name":"La Libertad",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

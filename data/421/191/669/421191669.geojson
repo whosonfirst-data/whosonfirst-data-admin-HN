@@ -191,6 +191,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009701,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"10436e0f3777d7aab0f8abc5c7cfe459",
     "wof:hierarchy":[
         {
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421191669,
-    "wof:lastmodified":1566645926,
+    "wof:lastmodified":1582319335,
     "wof:name":"Campamento",
     "wof:parent_id":85671877,
     "wof:placetype":"county",
