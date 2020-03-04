@@ -135,6 +135,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009442,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"302d2c4f496d9bc58fffaf22ca34381a",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":421185397,
-    "wof:lastmodified":1566646051,
+    "wof:lastmodified":1582319392,
     "wof:name":"Yoro",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

@@ -115,6 +115,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78028cf777014b0a172fe2274d178f60",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421191087,
-    "wof:lastmodified":1566645937,
+    "wof:lastmodified":1582319340,
     "wof:name":"Morazan",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

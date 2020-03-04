@@ -87,6 +87,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009560,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d60ce904e276e138d55e456a49ea13f",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188483,
-    "wof:lastmodified":1566645847,
+    "wof:lastmodified":1582319290,
     "wof:name":"Guimaca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

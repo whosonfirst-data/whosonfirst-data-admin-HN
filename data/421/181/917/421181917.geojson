@@ -110,6 +110,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5748db080e27833c41ba1264c2aef88d",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421181917,
-    "wof:lastmodified":1566645905,
+    "wof:lastmodified":1582319324,
     "wof:name":"Talgua",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

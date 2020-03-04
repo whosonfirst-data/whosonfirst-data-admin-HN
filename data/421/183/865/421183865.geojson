@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009389,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9472394bc056dc42307abfd5aaa1848",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421183865,
-    "wof:lastmodified":1566645989,
+    "wof:lastmodified":1582319364,
     "wof:name":"Dulce Nombre",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

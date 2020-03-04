@@ -86,6 +86,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010106,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"723111e417d868a9fc5ed74cc80a5c8f",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421202141,
-    "wof:lastmodified":1566645828,
+    "wof:lastmodified":1582319282,
     "wof:name":"Valle de \u00c1ngeles",
     "wof:parent_id":421204281,
     "wof:placetype":"locality",

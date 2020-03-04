@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e576f1e4a73eaf446ab7729727a81778",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191353,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1582319329,
     "wof:name":"Humuya",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

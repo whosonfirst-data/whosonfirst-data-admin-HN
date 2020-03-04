@@ -138,6 +138,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009577,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"47eafcf3356e25af5646e62d785c6d1b",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421188757,
-    "wof:lastmodified":1566645865,
+    "wof:lastmodified":1582319300,
     "wof:name":"Gracias",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

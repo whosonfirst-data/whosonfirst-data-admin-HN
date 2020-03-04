@@ -118,6 +118,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d4f3af190d3d9f0a5e3d37becff54942",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421193701,
-    "wof:lastmodified":1566645795,
+    "wof:lastmodified":1582319265,
     "wof:name":"San Jorge",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010006,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6eb5456f13f14873a1172435c54a663",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421199961,
-    "wof:lastmodified":1566645951,
+    "wof:lastmodified":1582319345,
     "wof:name":"Dulce nombre de Culmi",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

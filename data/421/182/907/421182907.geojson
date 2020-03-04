@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"66af70012af0e5dc134342a2d55dc93b",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182907,
-    "wof:lastmodified":1566646004,
+    "wof:lastmodified":1582319369,
     "wof:name":"El Triunfo",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

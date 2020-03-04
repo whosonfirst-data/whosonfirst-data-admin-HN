@@ -124,6 +124,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b751c9089de4c69a5a68b0b78b73f75b",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421188497,
-    "wof:lastmodified":1566645849,
+    "wof:lastmodified":1582319291,
     "wof:name":"La Esperanza",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

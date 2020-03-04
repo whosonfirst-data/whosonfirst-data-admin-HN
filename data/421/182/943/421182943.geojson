@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f01359dcd8c82c599688c95350a2752",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182943,
-    "wof:lastmodified":1566646047,
+    "wof:lastmodified":1582319391,
     "wof:name":"Maraita",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

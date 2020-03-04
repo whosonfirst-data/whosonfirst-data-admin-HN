@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3be0788e62db658962bb593d0061965f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182937,
-    "wof:lastmodified":1566646009,
+    "wof:lastmodified":1582319371,
     "wof:name":"Macuelizo",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

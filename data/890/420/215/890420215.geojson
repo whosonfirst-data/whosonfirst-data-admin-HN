@@ -78,6 +78,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051324,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7731681b31b7739b2517341da51f3392",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":890420215,
-    "wof:lastmodified":1566646081,
+    "wof:lastmodified":1582319399,
     "wof:name":"San Marcos de Sierra",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

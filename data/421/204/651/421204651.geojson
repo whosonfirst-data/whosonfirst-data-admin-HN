@@ -98,6 +98,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010193,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c546d6b2497ef008f4c37f163355db5",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":421204651,
-    "wof:lastmodified":1566645809,
+    "wof:lastmodified":1582319271,
     "wof:name":"Potrerillos",
     "wof:parent_id":421194673,
     "wof:placetype":"locality",

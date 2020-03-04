@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cff1b44cb47b17cb8cc4a13d17887796",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421188511,
-    "wof:lastmodified":1566645857,
+    "wof:lastmodified":1582319295,
     "wof:name":"San Agustin",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"715d1a173131afd1b00e75dc82e2dd3d",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191373,
-    "wof:lastmodified":1566645944,
+    "wof:lastmodified":1582319343,
     "wof:name":"San Vicente Centenario",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

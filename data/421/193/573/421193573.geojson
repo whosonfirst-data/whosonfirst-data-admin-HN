@@ -129,6 +129,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009775,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8639bb89cbdf0fbdbeb7a04ab1fe0a73",
     "wof:hierarchy":[
         {
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421193573,
-    "wof:lastmodified":1566645798,
+    "wof:lastmodified":1582319267,
     "wof:name":"Ahuas",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

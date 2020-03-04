@@ -136,6 +136,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3527d2a482d671d719aafaa09e7bbc2d",
     "wof:hierarchy":[
         {
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":421181921,
-    "wof:lastmodified":1566645904,
+    "wof:lastmodified":1582319323,
     "wof:name":"Arenal",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

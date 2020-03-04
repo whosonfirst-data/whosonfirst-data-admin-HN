@@ -107,6 +107,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469052943,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"abca2a9059946624b42bd1f6af29cb36",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":890455353,
-    "wof:lastmodified":1566646063,
+    "wof:lastmodified":1582319395,
     "wof:name":"Moroceli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

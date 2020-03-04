@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"462754e27632444c31e508ba84e57c69",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421202501,
-    "wof:lastmodified":1566645826,
+    "wof:lastmodified":1582319281,
     "wof:name":"San Juan de Flores",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

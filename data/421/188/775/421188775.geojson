@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03729ed76c936a25c3ea4c137b9891c3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421188775,
-    "wof:lastmodified":1566645869,
+    "wof:lastmodified":1582319303,
     "wof:name":"Marcovia",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

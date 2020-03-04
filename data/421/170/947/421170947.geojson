@@ -120,6 +120,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008875,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2fe7df46c053198f905ad38aca723405",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421170947,
-    "wof:lastmodified":1566645970,
+    "wof:lastmodified":1582319354,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

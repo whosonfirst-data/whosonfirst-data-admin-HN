@@ -93,6 +93,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010120,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"340709895a013cf76cc53475afcd0aa7",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421202499,
-    "wof:lastmodified":1566645825,
+    "wof:lastmodified":1582319281,
     "wof:name":"San Juan de Opoa",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

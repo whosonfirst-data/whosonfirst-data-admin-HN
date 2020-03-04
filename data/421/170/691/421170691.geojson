@@ -132,6 +132,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008864,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb5744c5c60b48d77737106f7c152abf",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":421170691,
-    "wof:lastmodified":1566645976,
+    "wof:lastmodified":1582319358,
     "wof:name":"Catacamas",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

@@ -225,6 +225,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008865,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9920099a2ad5fd6c56693da20ce67408",
     "wof:hierarchy":[
         {
@@ -235,7 +238,7 @@
         }
     ],
     "wof:id":421170709,
-    "wof:lastmodified":1566645963,
+    "wof:lastmodified":1582319351,
     "wof:name":"San Pedro Sula",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

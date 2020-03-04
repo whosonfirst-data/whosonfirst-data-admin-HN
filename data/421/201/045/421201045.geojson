@@ -193,6 +193,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010050,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23e61c526edf241ab807d79f75b892a2",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         }
     ],
     "wof:id":421201045,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1582319347,
     "wof:name":"San Luis",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

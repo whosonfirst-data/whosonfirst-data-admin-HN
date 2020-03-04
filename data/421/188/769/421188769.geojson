@@ -115,6 +115,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53a908d1f1d17f09833d8dbaeef46307",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421188769,
-    "wof:lastmodified":1566645861,
+    "wof:lastmodified":1582319298,
     "wof:name":"Choluteca",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

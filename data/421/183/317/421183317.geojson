@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009365,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5263621f3d6dd14630dd61022df8c749",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421183317,
-    "wof:lastmodified":1566645991,
+    "wof:lastmodified":1582319365,
     "wof:name":"Marcala",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

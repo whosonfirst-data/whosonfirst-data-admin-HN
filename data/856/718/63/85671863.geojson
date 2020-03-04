@@ -310,6 +310,9 @@
         "wk:page":"Francisco Moraz\u00e1n Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e80c85f024fd9dbf1718ab3a7c7c19a0",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644940,
+    "wof:lastmodified":1582319223,
     "wof:name":"Francisco Moraz\u00e1n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

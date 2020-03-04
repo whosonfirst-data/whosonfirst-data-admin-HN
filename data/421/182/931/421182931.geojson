@@ -194,6 +194,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"013a4908a54c6726c4cbab212bd8e3b7",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421182931,
-    "wof:lastmodified":1566646003,
+    "wof:lastmodified":1582319368,
     "wof:name":"La Union",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

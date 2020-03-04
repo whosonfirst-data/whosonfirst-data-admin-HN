@@ -206,6 +206,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009430,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"979b3ce6aa0cac94883a035d08c91244",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421185035,
-    "wof:lastmodified":1566646055,
+    "wof:lastmodified":1582319394,
     "wof:name":"Choloma",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009402,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d9962044220aa4261ae3d1e99418b21",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421184149,
-    "wof:lastmodified":1566645962,
+    "wof:lastmodified":1582319350,
     "wof:name":"San Antonio de Oriente",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

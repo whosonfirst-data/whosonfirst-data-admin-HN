@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"72258120e38d87ac03fcdcc2f00e8025",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421182977,
-    "wof:lastmodified":1566646014,
+    "wof:lastmodified":1582319374,
     "wof:name":"Senseti",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

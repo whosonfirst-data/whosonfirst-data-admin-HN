@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010216,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d219eb09c392d4032bdb4a78f61861f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421205245,
-    "wof:lastmodified":1566645828,
+    "wof:lastmodified":1582319282,
     "wof:name":"Orocuina",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

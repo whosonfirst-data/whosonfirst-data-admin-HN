@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009354,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad3fb5085455310b17d10df9898c0ed3",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182979,
-    "wof:lastmodified":1566646017,
+    "wof:lastmodified":1582319375,
     "wof:name":"Teupasenti",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

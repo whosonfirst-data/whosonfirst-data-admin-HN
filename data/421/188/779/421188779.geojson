@@ -481,6 +481,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"29ad9025f76e7ecfa2eb627b28f4c0ee",
     "wof:hierarchy":[
         {
@@ -491,7 +494,7 @@
         }
     ],
     "wof:id":421188779,
-    "wof:lastmodified":1566645859,
+    "wof:lastmodified":1582319296,
     "wof:name":"La Paz",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009165,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d41e57fbf2b6420b036c8fd052e78f7",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421177943,
-    "wof:lastmodified":1566645985,
+    "wof:lastmodified":1582319361,
     "wof:name":"San Marcos de Colon",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

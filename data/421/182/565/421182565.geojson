@@ -115,6 +115,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009334,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db84abc594a033cf356991f2f3782f7a",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421182565,
-    "wof:lastmodified":1566646038,
+    "wof:lastmodified":1582319386,
     "wof:name":"Arada",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

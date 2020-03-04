@@ -88,6 +88,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78adc43668dd024234e418616439a70c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421182949,
-    "wof:lastmodified":1566646026,
+    "wof:lastmodified":1582319379,
     "wof:name":"Oropoli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

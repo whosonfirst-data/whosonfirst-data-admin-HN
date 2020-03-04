@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1984bb9cafac331410ebf01d6450f04b",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191349,
-    "wof:lastmodified":1566645930,
+    "wof:lastmodified":1582319337,
     "wof:name":"Guayape",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

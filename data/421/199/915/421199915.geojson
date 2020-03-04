@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010005,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2006681a04a0b07cb70f19d44e4a13f7",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421199915,
-    "wof:lastmodified":1566645950,
+    "wof:lastmodified":1582319345,
     "wof:name":"Guata",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

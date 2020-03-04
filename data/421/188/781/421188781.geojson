@@ -197,6 +197,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ebb5e2df9ef5960f064c5f97af0a7472",
     "wof:hierarchy":[
         {
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":421188781,
-    "wof:lastmodified":1566645873,
+    "wof:lastmodified":1582319305,
     "wof:name":"Siguatepeque",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

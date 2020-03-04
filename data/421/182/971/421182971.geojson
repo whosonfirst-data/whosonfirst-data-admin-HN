@@ -163,6 +163,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d94a3def2e39337387f41bcf4a2467b",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":421182971,
-    "wof:lastmodified":1566646024,
+    "wof:lastmodified":1582319378,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

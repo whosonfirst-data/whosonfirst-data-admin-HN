@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e301596ed70ebd2ef13a6c7d8dcf78a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182947,
-    "wof:lastmodified":1566646022,
+    "wof:lastmodified":1582319378,
     "wof:name":"Opatoro",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

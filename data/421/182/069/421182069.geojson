@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009317,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"38a095d2c4238300b24e429d8d483212",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421182069,
-    "wof:lastmodified":1566646040,
+    "wof:lastmodified":1582319387,
     "wof:name":"San Lucas",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

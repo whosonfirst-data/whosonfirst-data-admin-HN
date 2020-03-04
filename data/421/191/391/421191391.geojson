@@ -122,6 +122,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4329c4b52e4448d611da218bc9aa5192",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":421191391,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1582319329,
     "wof:name":"Yauyupe",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

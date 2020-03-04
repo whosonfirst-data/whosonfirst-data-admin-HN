@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"978537a02d6a87a4552f015e228a696e",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421203425,
-    "wof:lastmodified":1566645815,
+    "wof:lastmodified":1582319276,
     "wof:name":"Vado Ancho",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

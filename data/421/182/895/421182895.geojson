@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69dbd642cb8d9d8a9669ecbb78767d25",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182895,
-    "wof:lastmodified":1566646013,
+    "wof:lastmodified":1582319373,
     "wof:name":"Cacuyagua",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

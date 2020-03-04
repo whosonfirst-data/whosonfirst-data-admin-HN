@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009312,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"20063373d3ff6a0cb99342630c3c85ed",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421181925,
-    "wof:lastmodified":1566645890,
+    "wof:lastmodified":1582319314,
     "wof:name":"Nueva Armenia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -120,6 +120,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009334,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2490770b45ab279bec7a24041c35daee",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":421182579,
-    "wof:lastmodified":1566646044,
+    "wof:lastmodified":1582319390,
     "wof:name":"La Virtud",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

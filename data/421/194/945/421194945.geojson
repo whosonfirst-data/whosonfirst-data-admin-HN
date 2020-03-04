@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009825,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fda2988215a22f7a4d550b074c12bde6",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421194945,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1582319264,
     "wof:name":"Curaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

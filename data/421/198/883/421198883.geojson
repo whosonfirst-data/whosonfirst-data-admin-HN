@@ -87,6 +87,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009964,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"620c6754e52792db3ce9a1b833117563",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198883,
-    "wof:lastmodified":1566645911,
+    "wof:lastmodified":1582319326,
     "wof:name":"Harizona",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

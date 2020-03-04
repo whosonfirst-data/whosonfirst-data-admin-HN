@@ -242,7 +242,8 @@
     "qs:woe_id":101942,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "naturalearth"
     ],
     "wd:elevation":800.0,
     "wd:latitude":14.583333,
@@ -264,6 +265,10 @@
     },
     "wof:country":"HN",
     "wof:created":1459009096,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "naturalearth"
+    ],
     "wof:geomhash":"ff0ed3644dee33468c6d4513b7a009d1",
     "wof:hierarchy":[
         {
@@ -275,7 +280,7 @@
         }
     ],
     "wof:id":421176121,
-    "wof:lastmodified":1561749479,
+    "wof:lastmodified":1582319392,
     "wof:name":"Gracias",
     "wof:parent_id":421188757,
     "wof:placetype":"locality",

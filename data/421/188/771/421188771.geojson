@@ -481,6 +481,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8702804b38c116a1a2c7fe6767a4ddc",
     "wof:hierarchy":[
         {
@@ -491,7 +494,7 @@
         }
     ],
     "wof:id":421188771,
-    "wof:lastmodified":1566645853,
+    "wof:lastmodified":1582319293,
     "wof:name":"Las Vegas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

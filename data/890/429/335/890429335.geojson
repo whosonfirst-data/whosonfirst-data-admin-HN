@@ -182,6 +182,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051810,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6868fb640a5934b979eb4f072f851eaa",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890429335,
-    "wof:lastmodified":1566646077,
+    "wof:lastmodified":1582319397,
     "wof:name":"Nueva Ocotepeque",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

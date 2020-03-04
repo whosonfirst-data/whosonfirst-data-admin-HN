@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009561,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"528c92504a46c3a9c4881584e21f587f",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421188513,
-    "wof:lastmodified":1566645874,
+    "wof:lastmodified":1582319305,
     "wof:name":"San Andres",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -308,6 +308,9 @@
         "wk:page":"El Para\u00edso Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"069a2f2fbde6e17d4822a81eb4878b88",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644883,
+    "wof:lastmodified":1582319184,
     "wof:name":"El Para\u00edso",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

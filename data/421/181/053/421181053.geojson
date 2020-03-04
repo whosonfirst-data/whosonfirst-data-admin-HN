@@ -99,6 +99,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009283,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"537df66fada2bc3f2fc93819df5b9fe4",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421181053,
-    "wof:lastmodified":1566645887,
+    "wof:lastmodified":1582319312,
     "wof:name":"El Porvenir",
     "wof:parent_id":421170695,
     "wof:placetype":"locality",

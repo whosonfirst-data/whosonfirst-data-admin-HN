@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009334,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4c8dd516b2fd87a583f912a8d20acb39",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182569,
-    "wof:lastmodified":1566646004,
+    "wof:lastmodified":1582319369,
     "wof:name":"Aramecina",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

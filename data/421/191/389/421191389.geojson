@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009690,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8d80be798c3ae32d2f410c5dd0069aa6",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191389,
-    "wof:lastmodified":1566645942,
+    "wof:lastmodified":1582319342,
     "wof:name":"Yarula",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

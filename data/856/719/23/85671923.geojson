@@ -302,6 +302,9 @@
         "wk:page":"Choluteca Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d09a0c6f6457ace145627af7ce5bb548",
     "wof:hierarchy":[
         {
@@ -317,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644896,
+    "wof:lastmodified":1582319192,
     "wof:name":"Choluteca",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

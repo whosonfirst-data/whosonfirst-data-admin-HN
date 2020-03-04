@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a52a3d56b1edc896bff1ab934d05484",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182951,
-    "wof:lastmodified":1566646037,
+    "wof:lastmodified":1582319385,
     "wof:name":"Pespire",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

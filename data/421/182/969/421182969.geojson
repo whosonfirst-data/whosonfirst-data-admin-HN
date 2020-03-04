@@ -228,6 +228,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009353,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ef23aba51e9680dc9e83ca9fc804dcbb",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421182969,
-    "wof:lastmodified":1566646036,
+    "wof:lastmodified":1582319385,
     "wof:name":"Santa Cruz",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

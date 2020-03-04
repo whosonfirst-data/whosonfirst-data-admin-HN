@@ -123,6 +123,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009578,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25cc687d6f3d28ecf8c1ff48e35cc9b2",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421188763,
-    "wof:lastmodified":1566645841,
+    "wof:lastmodified":1582319286,
     "wof:name":"Balfate",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

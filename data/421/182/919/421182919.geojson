@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff14ac087ccd4e22b7d164e809656178",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421182919,
-    "wof:lastmodified":1566646044,
+    "wof:lastmodified":1582319389,
     "wof:name":"Jacaleapa",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

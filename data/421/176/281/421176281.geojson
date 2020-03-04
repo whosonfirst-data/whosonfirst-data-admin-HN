@@ -79,6 +79,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009103,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1125b2e061ca897a2c09a558dd337c5d",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":421176281,
-    "wof:lastmodified":1566646048,
+    "wof:lastmodified":1582319391,
     "wof:name":"Cofrad\u00eda",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

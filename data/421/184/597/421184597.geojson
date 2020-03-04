@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009416,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c48e3001e63f0a1e48dfc7fb66e88e8a",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421184597,
-    "wof:lastmodified":1566645961,
+    "wof:lastmodified":1582319350,
     "wof:name":"Villa de San Antonio",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf3a4255eed5acf76c17d4004f39d076",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191361,
-    "wof:lastmodified":1566645932,
+    "wof:lastmodified":1582319338,
     "wof:name":"Orica",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

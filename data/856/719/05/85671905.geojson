@@ -313,6 +313,9 @@
         "wk:page":"Santa B\u00e1rbara Department, Honduras"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd637030334f7484e5b0626abaf39d8e",
     "wof:hierarchy":[
         {
@@ -328,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644880,
+    "wof:lastmodified":1582319181,
     "wof:name":"Santa B\u00e1rbara",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

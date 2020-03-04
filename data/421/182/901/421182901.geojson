@@ -154,6 +154,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"764d930dd4473257c3b298a856be6dd1",
     "wof:hierarchy":[
         {
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":421182901,
-    "wof:lastmodified":1566646007,
+    "wof:lastmodified":1582319370,
     "wof:name":"Dolores",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

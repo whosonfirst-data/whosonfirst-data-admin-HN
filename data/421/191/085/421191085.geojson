@@ -100,6 +100,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5d726ba8e3e899fae04589c4b06eaa78",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421191085,
-    "wof:lastmodified":1566645921,
+    "wof:lastmodified":1582319332,
     "wof:name":"Alianza",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

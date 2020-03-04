@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009321,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e05d5378d96f0b627b398a8a0faa69d3",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421182173,
-    "wof:lastmodified":1566646016,
+    "wof:lastmodified":1582319375,
     "wof:name":"San Esteban",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

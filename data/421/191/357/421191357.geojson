@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5dd4a937fc4de2a66d5474a1763fb252",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421191357,
-    "wof:lastmodified":1566645934,
+    "wof:lastmodified":1582319338,
     "wof:name":"Nuevo Celilac",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

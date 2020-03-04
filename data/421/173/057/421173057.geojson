@@ -562,6 +562,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008969,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e1e2d3248a9b1bfc39cccadfd03d76d",
     "wof:hierarchy":[
         {
@@ -573,7 +576,7 @@
         }
     ],
     "wof:id":421173057,
-    "wof:lastmodified":1566645840,
+    "wof:lastmodified":1582319285,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

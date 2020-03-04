@@ -44,6 +44,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469052190,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5638fd1e9544b631c63c93151529effb",
     "wof:hierarchy":[
         {
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890438351,
-    "wof:lastmodified":1566646068,
+    "wof:lastmodified":1582319396,
     "wof:name":"Casa Quemada",
     "wof:parent_id":421182937,
     "wof:placetype":"locality",

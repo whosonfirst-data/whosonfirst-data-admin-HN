@@ -93,6 +93,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"caba43facd348e1ab27adc3ce168fc6e",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421182921,
-    "wof:lastmodified":1566646045,
+    "wof:lastmodified":1582319390,
     "wof:name":"Jesus de Otoro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

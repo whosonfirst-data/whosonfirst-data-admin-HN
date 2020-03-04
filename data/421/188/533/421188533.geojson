@@ -206,6 +206,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009568,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"328a29aed6a0d7e4fcf9b6a05e5fedbb",
     "wof:hierarchy":[
         {
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421188533,
-    "wof:lastmodified":1566645843,
+    "wof:lastmodified":1582319287,
     "wof:name":"Yuscaran",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

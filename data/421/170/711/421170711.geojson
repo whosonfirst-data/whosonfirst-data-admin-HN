@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008865,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"69bed78ab67f8cb354646fd9b7043faf",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421170711,
-    "wof:lastmodified":1566645981,
+    "wof:lastmodified":1582319360,
     "wof:name":"Santa Cruz de Yojoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

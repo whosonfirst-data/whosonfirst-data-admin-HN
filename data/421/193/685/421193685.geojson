@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009779,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b735619ceb79d6b7dee9e94f53626db",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421193685,
-    "wof:lastmodified":1566645800,
+    "wof:lastmodified":1582319268,
     "wof:name":"Apacilagua",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

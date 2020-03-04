@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009352,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cbd5bd766fc9576536ff7ab717d75cb0",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421182915,
-    "wof:lastmodified":1566646019,
+    "wof:lastmodified":1582319376,
     "wof:name":"Guinope",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

@@ -88,6 +88,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010156,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d1605c4c4b5974d6058f60484d3838b3",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421203561,
-    "wof:lastmodified":1566645813,
+    "wof:lastmodified":1582319274,
     "wof:name":"Danli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

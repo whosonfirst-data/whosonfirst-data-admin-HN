@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010150,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2c80669726bcba8af0db0e652eb32245",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421203399,
-    "wof:lastmodified":1566645814,
+    "wof:lastmodified":1582319275,
     "wof:name":"El Rosario",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

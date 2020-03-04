@@ -101,6 +101,9 @@
     },
     "wof:country":"HN",
     "wof:created":1469051324,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"61e7188dfce1ac8e9817225579965320",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890420217,
-    "wof:lastmodified":1566646080,
+    "wof:lastmodified":1582319398,
     "wof:name":"San Juan Guarita",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

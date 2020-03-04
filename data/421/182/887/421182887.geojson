@@ -125,6 +125,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009351,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1a0a5251fb32d1d4280956c0f085f1fc",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":421182887,
-    "wof:lastmodified":1566646013,
+    "wof:lastmodified":1582319373,
     "wof:name":"Aguanqueterique",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

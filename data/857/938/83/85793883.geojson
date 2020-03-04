@@ -75,6 +75,9 @@
         "qs:id":974888
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4ebfe4d623c2dbe1bb6d126d0fb92064",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1582319176,
     "wof:name":"El Reparto",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

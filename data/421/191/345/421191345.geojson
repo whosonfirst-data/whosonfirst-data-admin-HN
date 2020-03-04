@@ -121,6 +121,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eddefe897660c0fab725b8f22dd6eb21",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421191345,
-    "wof:lastmodified":1566645943,
+    "wof:lastmodified":1582319342,
     "wof:name":"Concepcion del Norte",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

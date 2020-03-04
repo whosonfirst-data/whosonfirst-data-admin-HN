@@ -941,6 +941,11 @@
     },
     "wof:country":"HN",
     "wof:country_alpha3":"HND",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"958d653c62c34a412008660b85462393",
     "wof:hierarchy":[
         {
@@ -955,7 +960,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644879,
+    "wof:lastmodified":1582319180,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

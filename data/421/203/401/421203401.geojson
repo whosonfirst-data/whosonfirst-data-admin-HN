@@ -119,6 +119,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"db87cbfc49adc97729d37ac4f8fcce13",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":421203401,
-    "wof:lastmodified":1566645818,
+    "wof:lastmodified":1582319277,
     "wof:name":"Esquias",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

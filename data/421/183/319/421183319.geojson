@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009365,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"daacbd04422c48688f16bf1e7f1d5cbb",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421183319,
-    "wof:lastmodified":1566645992,
+    "wof:lastmodified":1582319365,
     "wof:name":"La Iguala",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

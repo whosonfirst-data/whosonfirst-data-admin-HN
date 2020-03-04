@@ -228,6 +228,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010212,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c084c6e784c560a08538193daf30de91",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":421205113,
-    "wof:lastmodified":1566645832,
+    "wof:lastmodified":1582319284,
     "wof:name":"Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

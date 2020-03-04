@@ -187,6 +187,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010003,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"327f1e73159eda4a0a7a5be09ae666ac",
     "wof:hierarchy":[
         {
@@ -197,7 +200,7 @@
         }
     ],
     "wof:id":421199873,
-    "wof:lastmodified":1566645950,
+    "wof:lastmodified":1582319345,
     "wof:name":"San Pedro",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

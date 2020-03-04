@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009365,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3388a0747aad9e087ab25cdee4cd93e4",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421183321,
-    "wof:lastmodified":1566645994,
+    "wof:lastmodified":1582319366,
     "wof:name":"San Jeronimo",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

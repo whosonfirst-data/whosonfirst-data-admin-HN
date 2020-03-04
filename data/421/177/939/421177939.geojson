@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009165,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"028583d200c4c9a521357d7640adcbcd",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421177939,
-    "wof:lastmodified":1566645982,
+    "wof:lastmodified":1582319361,
     "wof:name":"El Nispero",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

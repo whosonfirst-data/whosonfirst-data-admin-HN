@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008817,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0267435a353f0336c690f38f02455484",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421169621,
-    "wof:lastmodified":1566645805,
+    "wof:lastmodified":1582319270,
     "wof:name":"Sinuapa",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

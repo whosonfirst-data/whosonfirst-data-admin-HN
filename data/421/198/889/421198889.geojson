@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009964,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7bc3bcb0c4e15885665347614e4752c1",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421198889,
-    "wof:lastmodified":1566645907,
+    "wof:lastmodified":1582319325,
     "wof:name":"San Jose de Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

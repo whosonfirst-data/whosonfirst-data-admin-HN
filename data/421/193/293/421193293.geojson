@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009766,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49a99ebd17bc0204cc239d05aca33095",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421193293,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1582319266,
     "wof:name":"Cololaca",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

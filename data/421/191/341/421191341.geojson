@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d73b561e087c1fb3e6539a62eab05f57",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421191341,
-    "wof:lastmodified":1566645928,
+    "wof:lastmodified":1582319336,
     "wof:name":"Camasca",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

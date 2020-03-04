@@ -114,6 +114,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009679,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9d1cc394c0cd3e6a71e030d8652f5216",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":421191093,
-    "wof:lastmodified":1566645942,
+    "wof:lastmodified":1582319342,
     "wof:name":"Valladolid",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

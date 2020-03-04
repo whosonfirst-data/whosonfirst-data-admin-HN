@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b8d46bb872b3277c8a75a7177da297ec",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191365,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1582319329,
     "wof:name":"San Miguelito",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

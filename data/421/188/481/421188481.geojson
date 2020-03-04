@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009560,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af9e9768c645b8af2d9ae664fef5c28a",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421188481,
-    "wof:lastmodified":1566645866,
+    "wof:lastmodified":1582319301,
     "wof:name":"Fraternidad",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

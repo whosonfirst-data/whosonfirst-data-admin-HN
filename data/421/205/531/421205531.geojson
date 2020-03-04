@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010227,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ab6dcaf9a1462c6335c49c80e31e65fd",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421205531,
-    "wof:lastmodified":1566645831,
+    "wof:lastmodified":1582319283,
     "wof:name":"Lepaera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

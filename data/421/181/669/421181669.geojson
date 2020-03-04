@@ -110,6 +110,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009303,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf2af6b9a89155d21ec65f1cb0fe73b6",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":421181669,
-    "wof:lastmodified":1566645887,
+    "wof:lastmodified":1582319313,
     "wof:name":"Yamaranguila",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

@@ -116,6 +116,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cac4a610a1c9f1fca632e38139e7df9f",
     "wof:hierarchy":[
         {
@@ -126,7 +129,7 @@
         }
     ],
     "wof:id":421203417,
-    "wof:lastmodified":1566645822,
+    "wof:lastmodified":1582319279,
     "wof:name":"San Francisco",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

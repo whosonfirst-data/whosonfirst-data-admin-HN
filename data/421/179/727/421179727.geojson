@@ -73,6 +73,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009231,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7837c304fb900af2cdf69428114d2eaf",
     "wof:hierarchy":[
         {
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421179727,
-    "wof:lastmodified":1566646002,
+    "wof:lastmodified":1582319367,
     "wof:name":"San Miguel Guancapia",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

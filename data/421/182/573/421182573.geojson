@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009334,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82bb2a2448c416225f8265f8439dce46",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421182573,
-    "wof:lastmodified":1566646030,
+    "wof:lastmodified":1582319382,
     "wof:name":"Colomoncagua",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009689,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"004e5a15414aa425ed621eae122bb439",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421191363,
-    "wof:lastmodified":1566645917,
+    "wof:lastmodified":1582319330,
     "wof:name":"Patuca",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

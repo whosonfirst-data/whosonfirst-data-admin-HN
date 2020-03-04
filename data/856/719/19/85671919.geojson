@@ -296,6 +296,9 @@
         "wk:page":"Ocotepeque Department"
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fef4ee7b80bdb3416f105cb413a90110",
     "wof:hierarchy":[
         {
@@ -311,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1566644890,
+    "wof:lastmodified":1582319187,
     "wof:name":"Ocotepeque",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

@@ -117,6 +117,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009430,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd3b9ccc40f579e1308a1a718fa98d52",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":421185037,
-    "wof:lastmodified":1566646054,
+    "wof:lastmodified":1582319394,
     "wof:name":"El Corpus",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -157,6 +157,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459008941,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"240fc5c1f936d99bedc0bee4f38037e1",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421172431,
-    "wof:lastmodified":1566645878,
+    "wof:lastmodified":1582319307,
     "wof:name":"Roatan",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

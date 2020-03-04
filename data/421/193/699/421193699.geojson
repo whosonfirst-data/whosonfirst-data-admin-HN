@@ -90,6 +90,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009780,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"563291bcf4260dad3a98052f89a0222a",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421193699,
-    "wof:lastmodified":1566645801,
+    "wof:lastmodified":1582319268,
     "wof:name":"San Francisco de Ojuera",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

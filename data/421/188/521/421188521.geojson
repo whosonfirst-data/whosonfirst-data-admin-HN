@@ -113,6 +113,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459009565,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"71b4949fd6a73e19039d674f1b53b478",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":421188521,
-    "wof:lastmodified":1566645851,
+    "wof:lastmodified":1582319293,
     "wof:name":"San Pedro Zacapa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -100,6 +100,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010151,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93250bb03b5eea4db4ebf186977fd637",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421203405,
-    "wof:lastmodified":1566645824,
+    "wof:lastmodified":1582319280,
     "wof:name":"Gualala",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

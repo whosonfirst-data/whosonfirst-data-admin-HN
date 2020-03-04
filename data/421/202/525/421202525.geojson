@@ -142,6 +142,9 @@
     },
     "wof:country":"HN",
     "wof:created":1459010121,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3f33f4bd43035aa66991ebea23ca4bf7",
     "wof:hierarchy":[
         {
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":421202525,
-    "wof:lastmodified":1566645827,
+    "wof:lastmodified":1582319281,
     "wof:name":"Utila",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

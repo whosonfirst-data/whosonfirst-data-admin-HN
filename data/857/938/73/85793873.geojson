@@ -75,6 +75,9 @@
         "qs:id":222183
     },
     "wof:country":"HN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"472d26d3c242a3112292e831fc210c55",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "spa"
     ],
-    "wof:lastmodified":1534379334,
+    "wof:lastmodified":1582319176,
     "wof:name":"Buenos Aires",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
