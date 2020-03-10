@@ -918,9 +918,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Honduras",
-        "digitalenvoy:country_code":[
-            340
-        ],
+        "digitalenvoy:country_code":340,
         "fb:id":"en.honduras",
         "fifa:id":"HON",
         "fips:code":"HO",
@@ -963,7 +961,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1583529142,
+    "wof:lastmodified":1583797347,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
