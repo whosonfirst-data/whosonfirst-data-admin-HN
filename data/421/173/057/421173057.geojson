@@ -558,6 +558,7 @@
     "wof:concordances":{
         "gn:id":3600949,
         "gp:id":107681,
+        "ne:id":1159150583,
         "qs_pg:id":489209,
         "wd:id":"Q3238",
         "wk:page":"Tegucigalpa"
@@ -578,7 +579,8 @@
         }
     ],
     "wof:id":421173057,
-    "wof:lastmodified":1607390902,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",
