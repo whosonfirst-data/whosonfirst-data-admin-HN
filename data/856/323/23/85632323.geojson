@@ -1018,7 +1018,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1078,7 +1079,8 @@
         "meso",
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"1a87bd0cc5d7c0b8f8c09d093b0c29ee",
     "wof:hierarchy":[
@@ -1094,7 +1096,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1617828331,
+    "wof:lastmodified":1618362169,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
