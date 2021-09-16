@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.4375,14.23611111,-88.4375,14.23611111",
+    "geom:bbox":"-88.4375,14.236111,-88.4375,14.236111",
     "geom:latitude":14.236111,
     "geom:longitude":-88.4375,
     "iso:country":"HN",
@@ -20,7 +20,8 @@
         "Erandique Airport"
     ],
     "name:eng_x_variant":[
-        "EDQ"
+        "EDQ",
+        "MHGU"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Erandique"
@@ -52,7 +53,7 @@
         "wd:id":"Q25102041"
     },
     "wof:country":"HN",
-    "wof:geomhash":"585a33052e718a39313b17f3e9704cab",
+    "wof:geomhash":"e9b73c2bb4fd6f96a1d86c1c93c337c5",
     "wof:hierarchy":[
         {
             "campus_id":102556401,
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":102556401,
-    "wof:lastmodified":1566644712,
+    "wof:lastmodified":1631745320,
     "wof:name":"Erandique Airport",
     "wof:parent_id":85671915,
     "wof:placetype":"campus",
@@ -74,9 +75,9 @@
 },
   "bbox": [
     -88.4375,
-    14.23611111,
+    14.236111,
     -88.4375,
-    14.23611111
+    14.236111
 ],
-  "geometry": {"coordinates":[-88.4375,14.23611111],"type":"Point"}
+  "geometry": {"coordinates":[-88.4375,14.236111],"type":"Point"}
 }

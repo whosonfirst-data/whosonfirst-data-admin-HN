@@ -20,7 +20,8 @@
         "Yoro Airport"
     ],
     "name:eng_x_variant":[
-        "ORO"
+        "ORO",
+        "MHYR"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Yoro"
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":102556389,
-    "wof:lastmodified":1566644713,
+    "wof:lastmodified":1631745320,
     "wof:name":"Yoro Airport",
     "wof:parent_id":85671879,
     "wof:placetype":"campus",

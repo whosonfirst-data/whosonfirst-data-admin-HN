@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.6925,15.03333333,-86.6925,15.03333333",
+    "geom:bbox":"-86.6925,15.033333,-86.6925,15.033333",
     "geom:latitude":15.033333,
     "geom:longitude":-86.6925,
     "iso:country":"HN",
@@ -20,7 +20,8 @@
         "La Uni\u00f3n Airport"
     ],
     "name:eng_x_variant":[
-        "LUI"
+        "LUI",
+        "MHCR"
     ],
     "name:ron_x_preferred":[
         "Aeroportul La Uni\u00f3n"
@@ -51,7 +52,7 @@
         "wd:id":"Q25205426"
     },
     "wof:country":"HN",
-    "wof:geomhash":"63af6586efbb7e86d632f5a535fe56eb",
+    "wof:geomhash":"8bb1c48092b311365a10d1b1d906da9b",
     "wof:hierarchy":[
         {
             "campus_id":102556405,
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":102556405,
-    "wof:lastmodified":1566644713,
+    "wof:lastmodified":1631745320,
     "wof:name":"La Union Airport",
     "wof:parent_id":85671877,
     "wof:placetype":"campus",
@@ -73,9 +74,9 @@
 },
   "bbox": [
     -86.6925,
-    15.03333333,
+    15.033333,
     -86.6925,
-    15.03333333
+    15.033333
 ],
-  "geometry": {"coordinates":[-86.6925,15.03333333],"type":"Point"}
+  "geometry": {"coordinates":[-86.6925,15.033333],"type":"Point"}
 }

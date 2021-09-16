@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-88.59583333,14.57361111,-88.59583333,14.57361111",
+    "geom:bbox":"-88.595833,14.573611,-88.595833,14.573611",
     "geom:latitude":14.573611,
     "geom:longitude":-88.595833,
     "iso:country":"HN",
@@ -17,7 +17,8 @@
         "Celaque Airport"
     ],
     "name:eng_x_variant":[
-        "GAC"
+        "GAC",
+        "MHGS"
     ],
     "name:ron_x_preferred":[
         "Aeroportul Celaque"
@@ -45,7 +46,7 @@
         "wd:id":"Q22952121"
     },
     "wof:country":"HN",
-    "wof:geomhash":"acc78205ceddc97ed677b6b622c127aa",
+    "wof:geomhash":"b08f119356dd2173fc8d66ce0095235a",
     "wof:hierarchy":[
         {
             "campus_id":102556429,
@@ -54,7 +55,7 @@
         }
     ],
     "wof:id":102556429,
-    "wof:lastmodified":1566644713,
+    "wof:lastmodified":1631745320,
     "wof:name":"Gracias Airport",
     "wof:parent_id":85671915,
     "wof:placetype":"campus",
@@ -66,10 +67,10 @@
     ]
 },
   "bbox": [
-    -88.59583333,
-    14.57361111,
-    -88.59583333,
-    14.57361111
+    -88.595833,
+    14.573611,
+    -88.595833,
+    14.573611
 ],
-  "geometry": {"coordinates":[-88.59583333,14.57361111],"type":"Point"}
+  "geometry": {"coordinates":[-88.595833,14.573611],"type":"Point"}
 }
