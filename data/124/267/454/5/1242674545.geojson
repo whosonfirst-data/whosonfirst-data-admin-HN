@@ -36,6 +36,9 @@
     "name:deu_x_preferred":[
         "Las Tunas"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05e1 \u05d8\u05d5\u05e0\u05d0\u05e1"
+    ],
     "name:nld_x_preferred":[
         "Las Tunas"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1242674545,
-    "wof:lastmodified":1566646152,
+    "wof:lastmodified":1636495885,
     "wof:name":"Las Tunas",
     "wof:parent_id":421199965,
     "wof:placetype":"locality",

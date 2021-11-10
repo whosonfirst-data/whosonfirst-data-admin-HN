@@ -17,17 +17,47 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u064a\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b2\u09c1\u0987"
+    ],
     "name:ceb_x_preferred":[
         "San Luis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd \u039b\u03bf\u03c5\u03cc\u03c2"
     ],
     "name:eng_x_preferred":[
         "San Luis"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646 \u0644\u0648\u0626\u06cc\u0632"
+    ],
     "name:fra_x_preferred":[
+        "San Luis"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05dc\u05d5\u05d0\u05d9\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0948\u0928 \u0932\u0941\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "San Luis"
+    ],
+    "name:ind_x_preferred":[
         "San Luis"
     ],
     "name:ita_x_preferred":[
         "San Luis"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30eb\u30a4\u30b9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0b0 \ub8e8\uc774\uc2a4"
     ],
     "name:nan_x_preferred":[
         "San Luis"
@@ -38,14 +68,29 @@
     "name:por_x_preferred":[
         "San Luis"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0438\u0441"
+    ],
     "name:spa_x_preferred":[
         "San Luis"
     ],
     "name:swe_x_preferred":[
         "San Luis"
     ],
+    "name:tur_x_preferred":[
+        "San Luis"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u041b\u0443\u0457\u0441"
+    ],
     "name:und_x_variant":[
         "San Luis Paj\u00f3n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0644\u0648\u0626\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "San Luis"
     ],
     "name:zho_x_preferred":[
         "\u8056\u8def\u6613"
@@ -98,7 +143,7 @@
         }
     ],
     "wof:id":421180149,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1636495850,
     "wof:name":"San Luis",
     "wof:parent_id":890420221,
     "wof:placetype":"locality",

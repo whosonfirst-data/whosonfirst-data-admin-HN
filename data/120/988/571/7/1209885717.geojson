@@ -38,7 +38,16 @@
     "name:eus_x_preferred":[
         "Jutiapa"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u062a\u06cc\u067e\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Jutiapa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d8\u05d9\u05d0\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Jutiapa"
     ],
     "name:ind_x_preferred":[
@@ -83,7 +92,7 @@
         "gn:id":3608518
     },
     "wof:country":"HN",
-    "wof:geomhash":"13c41db5d1cd68fa2f5a3456a080b336",
+    "wof:geomhash":"6d173f9987641b11dd72d56296d58bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1209885717,
-    "wof:lastmodified":1566645431,
+    "wof:lastmodified":1636495815,
     "wof:name":"Jutiapa",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",
@@ -104,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.01666999999998,
+    -88.01667,
     14.83333,
-    -88.01666999999998,
+    -88.01667,
     14.83333
 ],
-  "geometry": {"coordinates":[-88.01666999999998,14.83333],"type":"Point"}
+  "geometry": {"coordinates":[-88.01667,14.83333],"type":"Point"}
 }

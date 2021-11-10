@@ -53,6 +53,9 @@
     "name:hin_x_preferred":[
         "\u0932\u0947 \u090f\u0938\u094d\u092a\u0947\u0930\u093e\u0902\u091c\u093e"
     ],
+    "name:hun_x_preferred":[
+        "La Esperanza"
+    ],
     "name:ind_x_preferred":[
         "La Esperanza"
     ],
@@ -289,7 +292,7 @@
         }
     ],
     "wof:id":421177187,
-    "wof:lastmodified":1566645983,
+    "wof:lastmodified":1636495868,
     "wof:name":"La Esperanza",
     "wof:parent_id":421170699,
     "wof:placetype":"locality",

@@ -119,6 +119,9 @@
         "Zamora"
     ],
     "name:ukr_x_preferred":[
+        "\u0417\u0430\u043c\u043e\u0440\u0430"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0430\u043c\u043e\u0440\u0430"
     ],
     "name:vie_x_preferred":[
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890444841,
-    "wof:lastmodified":1566646074,
+    "wof:lastmodified":1636495878,
     "wof:name":"Zamora",
     "wof:parent_id":421182985,
     "wof:placetype":"locality",

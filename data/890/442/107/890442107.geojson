@@ -49,6 +49,9 @@
     "name:guj_x_preferred":[
         "\u0aaf\u0acb\u0ab0\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u094b\u0930\u094b"
     ],
@@ -269,7 +272,7 @@
         }
     ],
     "wof:id":890442107,
-    "wof:lastmodified":1566646084,
+    "wof:lastmodified":1636495880,
     "wof:name":"Yoro",
     "wof:parent_id":421185397,
     "wof:placetype":"locality",

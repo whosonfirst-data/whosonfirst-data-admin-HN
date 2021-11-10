@@ -44,6 +44,9 @@
     "name:hrv_x_preferred":[
         "Guanacaste"
     ],
+    "name:hun_x_preferred":[
+        "Guanacaste"
+    ],
     "name:ita_x_preferred":[
         "Guanacaste"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1242766531,
-    "wof:lastmodified":1566646214,
+    "wof:lastmodified":1636495891,
     "wof:name":"Guanacaste",
     "wof:parent_id":1108695085,
     "wof:placetype":"locality",

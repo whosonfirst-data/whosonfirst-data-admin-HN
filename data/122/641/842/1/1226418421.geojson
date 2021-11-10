@@ -29,6 +29,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644 \u0643\u0627\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09b2 \u0995\u09be\u0987\u09df\u09cb"
+    ],
+    "name:deu_x_preferred":[
+        "El Cayo"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039a\u03ac\u03b3\u03b9\u03bf"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644 \u06a9\u0627\u06cc\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "El Cayo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc \u05e7\u05d0\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0932 \u0915\u093e\u092f\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "El Cayo"
+    ],
+    "name:ind_x_preferred":[
+        "El Cayo"
+    ],
+    "name:ita_x_preferred":[
+        "El Cayo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30ab\u30e8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d8 \uce74\uc694"
+    ],
+    "name:nld_x_preferred":[
+        "El Cayo"
+    ],
+    "name:pol_x_preferred":[
+        "El Cayo"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u041a\u0430\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo"
+    ],
+    "name:swe_x_preferred":[
+        "Cayo"
+    ],
+    "name:tur_x_preferred":[
+        "El Cayo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0430\u0439\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u06a9\u0627\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "El Cayo"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57c3\u5c14\u5361\u7ea6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u7d04"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +130,7 @@
         }
     ],
     "wof:id":1226418421,
-    "wof:lastmodified":1566646468,
+    "wof:lastmodified":1636495911,
     "wof:name":"El Cayo",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

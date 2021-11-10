@@ -63,6 +63,9 @@
     "name:hin_x_preferred":[
         "\u092c\u093e\u0924\u093e\u0906\u0928 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Bataan"
+    ],
     "name:ilo_x_preferred":[
         "Bataan"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1309678305,
-    "wof:lastmodified":1566645765,
+    "wof:lastmodified":1636495845,
     "wof:name":"Bataan",
     "wof:parent_id":421201043,
     "wof:placetype":"locality",

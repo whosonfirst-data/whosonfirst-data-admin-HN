@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "La Uni\u00f3n"
     ],
+    "name:hun_x_preferred":[
+        "La Union"
+    ],
     "name:ita_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1226819437,
-    "wof:lastmodified":1566646375,
+    "wof:lastmodified":1636495903,
     "wof:name":"La Union",
     "wof:parent_id":1108701681,
     "wof:placetype":"locality",

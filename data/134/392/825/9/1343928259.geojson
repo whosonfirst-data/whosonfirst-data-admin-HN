@@ -38,7 +38,16 @@
     "name:eus_x_preferred":[
         "Jutiapa"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u062a\u06cc\u067e\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Jutiapa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05d8\u05d9\u05d0\u05e4\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Jutiapa"
     ],
     "name:ind_x_preferred":[
@@ -94,7 +103,7 @@
         }
     ],
     "wof:id":1343928259,
-    "wof:lastmodified":1566644803,
+    "wof:lastmodified":1636495748,
     "wof:name":"Jutiapa",
     "wof:parent_id":421191349,
     "wof:placetype":"locality",

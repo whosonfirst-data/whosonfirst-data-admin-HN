@@ -171,6 +171,9 @@
         "\u0415\u043b\u044c\u0434\u043e\u0440\u0430\u0434\u043e"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u06cc\u0644 \u0688\u0648\u0631\u06cc\u0688\u0648"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u06cc\u0644 \u062f\u0648\u0631\u0627\u062f\u0648"
     ],
     "name:vie_x_preferred":[
@@ -191,7 +194,7 @@
         "gn:id":3611891
     },
     "wof:country":"HN",
-    "wof:geomhash":"28abe5fd676287ed9811a404d61da806",
+    "wof:geomhash":"3e2079300d34dad51919189d8d15a582",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1193267261,
-    "wof:lastmodified":1566645493,
+    "wof:lastmodified":1636495820,
     "wof:name":"El Dorado",
     "wof:parent_id":421182573,
     "wof:placetype":"locality",
@@ -212,10 +215,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.23333000000002,
+    -88.23333,
     14.0,
-    -88.23333000000002,
+    -88.23333,
     14.0
 ],
-  "geometry": {"coordinates":[-88.23333000000002,14.0],"type":"Point"}
+  "geometry": {"coordinates":[-88.23333,14.0],"type":"Point"}
 }

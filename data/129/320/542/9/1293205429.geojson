@@ -29,6 +29,33 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u062a\u0627\u062c\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09a4\u09be\u0997\u09c1\u09df\u09be"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03c4\u03b1\u03b3\u03bf\u03c5\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062a\u0627\u06af\u0648\u0627"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u091f\u093e\u0917\u0941\u0906"
+    ],
+    "name:ind_x_preferred":[
+        "Motagua"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ud0c0\uacfc"
+    ],
+    "name:tur_x_preferred":[
+        "Motagua"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0679\u0627\u06af\u0648\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -52,7 +79,7 @@
         }
     ],
     "wof:id":1293205429,
-    "wof:lastmodified":1566645086,
+    "wof:lastmodified":1636495786,
     "wof:name":"Motagua",
     "wof:parent_id":421191339,
     "wof:placetype":"locality",

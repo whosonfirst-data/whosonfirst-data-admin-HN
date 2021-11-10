@@ -86,6 +86,9 @@
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0ac7\u0ab8\u0abf\u0aaf\u0ab8 \u0a85 \u0aa1\u0abe\u0aaf\u0acb\u0ab8 \u0ab5\u0abf\u0aad\u0abe\u0a97"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d0\u05e1\u05d9\u05d0\u05e1 \u05d0 \u05d3\u05d9\u05d5\u05e1"
+    ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0930\u093e\u0938\u093f\u092f\u093e\u0938 \u0906 \u0926\u093f\u0913\u0938 \u0935\u093f\u092d\u093e\u0917"
     ],
@@ -317,7 +320,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1614894139,
+    "wof:lastmodified":1636495763,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

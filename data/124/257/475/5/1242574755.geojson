@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Carmelo"
     ],
+    "name:hun_x_preferred":[
+        "Carmelo"
+    ],
     "name:ita_x_preferred":[
         "Carmelo"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242574755,
-    "wof:lastmodified":1566646137,
+    "wof:lastmodified":1636495884,
     "wof:name":"Carmelo",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

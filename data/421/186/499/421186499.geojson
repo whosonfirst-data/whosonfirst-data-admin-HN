@@ -52,9 +52,18 @@
         "Trujillo"
     ],
     "name:heb_x_preferred":[
+        "\u05d8\u05e8\u05d5\u05d7\u05d9\u05dc\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05d8\u05e8\u05d5\u05d7\u05d9\u05d5"
     ],
+    "name:hin_x_preferred":[
+        "\u091f\u094d\u0930\u0942\u091c\u093f\u0932\u094b"
+    ],
     "name:hun_x_preferred":[
+        "Trujillo"
+    ],
+    "name:ind_x_preferred":[
         "Trujillo"
     ],
     "name:ita_x_preferred":[
@@ -99,11 +108,17 @@
     "name:tha_x_preferred":[
         "\u0e15\u0e23\u0e39\u0e2e\u0e34\u0e42\u0e22"
     ],
+    "name:tur_x_preferred":[
+        "Trujillo"
+    ],
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0456\u043b\u044c\u0439\u043e"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u0648\u062e\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Trujillo"
     ],
     "name:war_x_preferred":[
         "Trujillo"
@@ -259,7 +274,7 @@
         }
     ],
     "wof:id":421186499,
-    "wof:lastmodified":1582319311,
+    "wof:lastmodified":1636495855,
     "wof:name":"Trujillo",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

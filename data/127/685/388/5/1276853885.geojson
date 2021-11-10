@@ -60,6 +60,9 @@
     "name:heb_x_preferred":[
         "\u05d5\u05e8\u05d2\u05d0\u05e1"
     ],
+    "name:hun_x_preferred":[
+        "Vargas"
+    ],
     "name:ita_x_preferred":[
         "Vargas"
     ],
@@ -114,7 +117,7 @@
         "gn:id":3600407
     },
     "wof:country":"HN",
-    "wof:geomhash":"2fa69ea5172ded22e09346c14cf7a720",
+    "wof:geomhash":"6d3e84dc4da0ce9f2d8c1aae96e8231f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1276853885,
-    "wof:lastmodified":1566645224,
+    "wof:lastmodified":1636495799,
     "wof:name":"Vargas",
     "wof:parent_id":421188491,
     "wof:placetype":"locality",
@@ -135,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.98333000000002,
+    -85.98333,
     15.25,
-    -85.98333000000002,
+    -85.98333,
     15.25
 ],
-  "geometry": {"coordinates":[-85.98333000000002,15.25],"type":"Point"}
+  "geometry": {"coordinates":[-85.98333,15.25],"type":"Point"}
 }
