@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Arenal"
     ],
+    "name:eus_x_preferred":[
+        "Arenal"
+    ],
     "name:fra_x_preferred":[
         "Arenal"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421180181,
-    "wof:lastmodified":1566645837,
+    "wof:lastmodified":1690930256,
     "wof:name":"Arenal",
     "wof:parent_id":421181921,
     "wof:placetype":"locality",

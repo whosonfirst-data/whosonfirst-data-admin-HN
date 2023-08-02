@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Joc\u00f3n"
     ],
+    "name:eus_x_preferred":[
+        "Joc\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "Joc\u00f3n"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421177191,
-    "wof:lastmodified":1566645983,
+    "wof:lastmodified":1690930312,
     "wof:name":"Joc\u00f3n",
     "wof:parent_id":421191673,
     "wof:placetype":"locality",

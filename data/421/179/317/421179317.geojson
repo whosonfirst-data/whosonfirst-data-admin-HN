@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Mangulile"
     ],
+    "name:eus_x_preferred":[
+        "Mangulile"
+    ],
     "name:fra_x_preferred":[
         "Mangulile"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179317,
-    "wof:lastmodified":1566646001,
+    "wof:lastmodified":1690930325,
     "wof:name":"Mangulile",
     "wof:parent_id":421203413,
     "wof:placetype":"locality",

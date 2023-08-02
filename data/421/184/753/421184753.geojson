@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Bel\u00e9n"
     ],
+    "name:eus_x_preferred":[
+        "Bel\u00e9n"
+    ],
     "name:fra_x_preferred":[
         "Bel\u00e9n"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421184753,
-    "wof:lastmodified":1566645959,
+    "wof:lastmodified":1690930306,
     "wof:name":"Bel\u00e9n",
     "wof:parent_id":421185031,
     "wof:placetype":"locality",

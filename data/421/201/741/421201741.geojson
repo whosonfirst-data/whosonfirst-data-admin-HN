@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Protecci\u00f3n"
     ],
+    "name:eus_x_preferred":[
+        "Protecci\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "Protecci\u00f3n"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421201741,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1690930304,
     "wof:name":"Protecci\u00f3n",
     "wof:parent_id":421190809,
     "wof:placetype":"locality",

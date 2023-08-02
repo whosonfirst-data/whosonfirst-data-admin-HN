@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ceguaca"
     ],
+    "name:eus_x_preferred":[
+        "Ceguaca"
+    ],
     "name:fra_x_preferred":[
         "Ceguaca"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421180125,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1690930257,
     "wof:name":"Ceguaca",
     "wof:parent_id":1108701717,
     "wof:placetype":"locality",

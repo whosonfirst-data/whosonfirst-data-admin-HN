@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Encarnaci\u00f3n"
     ],
+    "name:eus_x_preferred":[
+        "La Encarnaci\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "La Encarnaci\u00f3n"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179341,
-    "wof:lastmodified":1566645997,
+    "wof:lastmodified":1690930320,
     "wof:name":"La Encarnaci\u00f3n",
     "wof:parent_id":890429347,
     "wof:placetype":"locality",

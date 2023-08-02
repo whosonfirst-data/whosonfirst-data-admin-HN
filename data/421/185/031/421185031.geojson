@@ -52,6 +52,9 @@
     "name:eng_x_variant":[
         "Bel\u00e9n"
     ],
+    "name:eus_x_preferred":[
+        "Bel\u00e9n"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0644\u0646"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421185031,
-    "wof:lastmodified":1636495876,
+    "wof:lastmodified":1690930347,
     "wof:name":"Belen",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

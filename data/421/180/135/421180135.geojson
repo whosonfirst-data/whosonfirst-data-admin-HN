@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Marale"
     ],
+    "name:eus_x_preferred":[
+        "Marale"
+    ],
     "name:fra_x_preferred":[
         "Marale"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421180135,
-    "wof:lastmodified":1566645835,
+    "wof:lastmodified":1690930253,
     "wof:name":"Marale",
     "wof:parent_id":421191671,
     "wof:placetype":"locality",

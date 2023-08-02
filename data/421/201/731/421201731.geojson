@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Dulce Nombre"
     ],
+    "name:eus_x_preferred":[
+        "Dulce Nombre"
+    ],
     "name:fra_x_preferred":[
         "Dulce Nombre"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421201731,
-    "wof:lastmodified":1566645955,
+    "wof:lastmodified":1690930303,
     "wof:name":"Dulce Nombre",
     "wof:parent_id":421183865,
     "wof:placetype":"locality",

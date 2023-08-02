@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631\u062a\u0648 \u0643\u0648\u0631\u062a\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631\u062a\u0648 \u0643\u0648\u0631\u062a\u064a\u0633"
+    ],
     "name:ast_x_preferred":[
         "Puertu Cort\u00e9s"
+    ],
+    "name:ast_x_variant":[
+        "Puerto Cort\u00e9s"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09cb\u09b0\u09cd\u09a4\u09cb \u0995\u09b0\u09cd\u099f\u09c7\u09b8"
@@ -53,6 +59,12 @@
     "name:epo_x_preferred":[
         "Puerto Cort\u00e9s"
     ],
+    "name:eus_x_preferred":[
+        "Puerto Cort\u00e9s"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0631\u062a\u0648 \u06a9\u0648\u0631\u062a\u0633"
+    ],
     "name:fin_x_preferred":[
         "Puerto Cort\u00e9s"
     ],
@@ -70,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Puerto Cort\u00e9s"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u0582\u0565\u0580\u057f\u0578-\u053f\u0578\u0580\u057f\u0565\u057d"
     ],
     "name:ind_x_preferred":[
         "Puerto Cort\u00e9s"
@@ -125,6 +140,9 @@
     "name:spa_x_preferred":[
         "Puerto Cort\u00e9s"
     ],
+    "name:srp_x_preferred":[
+        "\u041f\u0443\u0435\u0440\u0442\u043e \u041a\u043e\u0440\u0442\u0435\u0441"
+    ],
     "name:swe_x_preferred":[
         "Puerto Cort\u00e9s"
     ],
@@ -148,6 +166,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u06cc\u0631\u062a\u0648 \u06a9\u0648\u0631\u062a\u06cc\u0633"
+    ],
+    "name:vec_x_preferred":[
+        "Puerto Cort\u00e9s"
     ],
     "name:vie_x_preferred":[
         "Puerto Cortes"
@@ -198,7 +219,7 @@
         }
     ],
     "wof:id":421200865,
-    "wof:lastmodified":1566645954,
+    "wof:lastmodified":1690930302,
     "wof:name":"Puerto Cortez",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

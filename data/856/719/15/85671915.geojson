@@ -131,6 +131,9 @@
     "name:nan_x_preferred":[
         "Lempira Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento Lempira"
+    ],
     "name:nld_x_preferred":[
         "Lempira"
     ],
@@ -145,6 +148,9 @@
     ],
     "name:que_x_preferred":[
         "Lempira"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Lempira"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0435\u043c\u043f\u0438\u0440\u0430"
@@ -317,7 +323,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495761,
+    "wof:lastmodified":1690930197,
     "wof:name":"Lempira",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

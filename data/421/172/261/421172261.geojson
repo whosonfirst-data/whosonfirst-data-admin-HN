@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "San Mat\u00edas"
     ],
+    "name:eus_x_preferred":[
+        "San Mat\u00edas"
+    ],
     "name:fra_x_preferred":[
         "San Mat\u00edas"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421172261,
-    "wof:lastmodified":1566645878,
+    "wof:lastmodified":1690930271,
     "wof:name":"San Mat\u00edas",
     "wof:parent_id":421199965,
     "wof:placetype":"locality",

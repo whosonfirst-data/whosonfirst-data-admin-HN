@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Marcovia"
     ],
+    "name:eus_x_preferred":[
+        "Marcovia"
+    ],
     "name:fra_x_preferred":[
         "Marcovia"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179315,
-    "wof:lastmodified":1566645998,
+    "wof:lastmodified":1690930320,
     "wof:name":"Marcovia",
     "wof:parent_id":421188775,
     "wof:placetype":"locality",

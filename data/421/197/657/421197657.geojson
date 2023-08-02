@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Las Vegas"
     ],
+    "name:eus_x_preferred":[
+        "Las Vegas"
+    ],
     "name:fra_x_preferred":[
         "Las Vegas"
     ],
@@ -48,6 +51,9 @@
         "Las Vegas"
     ],
     "name:nld_x_preferred":[
+        "Las Vegas"
+    ],
+    "name:pol_x_preferred":[
         "Las Vegas"
     ],
     "name:por_x_preferred":[
@@ -123,7 +129,7 @@
         }
     ],
     "wof:id":421197657,
-    "wof:lastmodified":1636495864,
+    "wof:lastmodified":1690930298,
     "wof:name":"Las Vegas",
     "wof:parent_id":421188771,
     "wof:placetype":"locality",

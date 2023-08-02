@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Teupasenti"
     ],
+    "name:eus_x_preferred":[
+        "Teupasenti"
+    ],
     "name:fra_x_preferred":[
         "Teupasenti"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421197635,
-    "wof:lastmodified":1566645947,
+    "wof:lastmodified":1690930298,
     "wof:name":"Teupasenti",
     "wof:parent_id":421182979,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Texiguat"
     ],
+    "name:eus_x_preferred":[
+        "Texiguat"
+    ],
     "name:fra_x_preferred":[
         "Texiguat"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421179627,
-    "wof:lastmodified":1566645996,
+    "wof:lastmodified":1690930319,
     "wof:name":"Tex\u00edguat",
     "wof:parent_id":421182983,
     "wof:placetype":"locality",

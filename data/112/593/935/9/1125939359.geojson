@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "San Jos\u00e9 del Potrero"
     ],
+    "name:eus_x_preferred":[
+        "San Jos\u00e9 del Potrero"
+    ],
     "name:fra_x_preferred":[
         "San Jos\u00e9 del Potrero"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125939359,
-    "wof:lastmodified":1566646091,
+    "wof:lastmodified":1690930358,
     "wof:name":"San Jos\u00e9 del Potrero",
     "wof:parent_id":421198891,
     "wof:placetype":"locality",

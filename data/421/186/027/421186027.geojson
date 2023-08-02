@@ -34,13 +34,37 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8 \u09b9\u09c1\u09af\u09bc\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "San Juan"
+    ],
+    "name:ceb_x_preferred":[
+        "San Juan"
+    ],
+    "name:deu_x_preferred":[
+        "San Juan"
+    ],
     "name:eng_x_preferred":[
+        "San Juan"
+    ],
+    "name:epo_x_preferred":[
+        "San Juan"
+    ],
+    "name:eus_x_preferred":[
         "San Juan"
     ],
     "name:fra_x_preferred":[
         "San Juan"
     ],
     "name:ita_x_preferred":[
+        "San Juan"
+    ],
+    "name:lav_x_preferred":[
+        "San Juan"
+    ],
+    "name:lit_x_preferred":[
         "San Juan"
     ],
     "name:nan_x_preferred":[
@@ -142,7 +166,7 @@
         }
     ],
     "wof:id":421186027,
-    "wof:lastmodified":1636495855,
+    "wof:lastmodified":1690930275,
     "wof:name":"San Juan",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

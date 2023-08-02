@@ -45,6 +45,9 @@
     "name:eng_x_variant":[
         "San Antonio Municipality"
     ],
+    "name:eus_x_preferred":[
+        "San Antonio"
+    ],
     "name:fra_x_preferred":[
         "San Antonio"
     ],
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108701701,
-    "wof:lastmodified":1636495829,
+    "wof:lastmodified":1690930226,
     "wof:name":"San Antonio",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

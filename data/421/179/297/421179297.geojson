@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Salam\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Salam\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Salam\u00e1"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":421179297,
-    "wof:lastmodified":1566646001,
+    "wof:lastmodified":1690930324,
     "wof:name":"Salam\u00e1",
     "wof:parent_id":421182959,
     "wof:placetype":"locality",

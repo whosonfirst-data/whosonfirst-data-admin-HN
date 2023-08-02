@@ -137,6 +137,9 @@
     "name:nan_x_preferred":[
         "Yoro Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento Yoro"
+    ],
     "name:nld_x_preferred":[
         "Yoro"
     ],
@@ -151,6 +154,9 @@
     ],
     "name:que_x_preferred":[
         "Yoro suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Yoro"
     ],
     "name:rus_x_preferred":[
         "\u0419\u043e\u0440\u043e"
@@ -320,7 +326,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495768,
+    "wof:lastmodified":1690930213,
     "wof:name":"Yoro",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

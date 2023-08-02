@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062e\u0648\u062a\u064a\u0643\u0627\u0644\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062e\u0648\u062a\u064a\u0643\u0627\u0644\u0628\u0627"
+    ],
     "name:ast_x_preferred":[
         "Juticalpa"
     ],
@@ -35,16 +38,28 @@
     "name:dan_x_preferred":[
         "Juticalpa"
     ],
+    "name:deu_x_preferred":[
+        "Juticalpa"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03c5\u03c4\u03b9\u03ba\u03ac\u03bb\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Juticalpa"
     ],
+    "name:eus_x_preferred":[
+        "Juticalpa"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u062a\u06cc\u06a9\u0627\u0644\u067e\u0627"
+    ],
     "name:fin_x_preferred":[
         "Juticalpa"
     ],
     "name:fra_x_preferred":[
+        "Juticalpa"
+    ],
+    "name:gle_x_preferred":[
         "Juticalpa"
     ],
     "name:guj_x_preferred":[
@@ -292,7 +307,7 @@
         }
     ],
     "wof:id":421201199,
-    "wof:lastmodified":1636495866,
+    "wof:lastmodified":1690930304,
     "wof:name":"Juticalpa",
     "wof:parent_id":1108701673,
     "wof:placetype":"locality",

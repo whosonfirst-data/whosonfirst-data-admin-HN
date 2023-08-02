@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Namasigue"
     ],
+    "name:eus_x_preferred":[
+        "Namasigue"
+    ],
     "name:fra_x_preferred":[
         "Namasig\u00fce"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421179311,
-    "wof:lastmodified":1566646001,
+    "wof:lastmodified":1690930324,
     "wof:name":"Namasig\u00fce",
     "wof:parent_id":421188503,
     "wof:placetype":"locality",

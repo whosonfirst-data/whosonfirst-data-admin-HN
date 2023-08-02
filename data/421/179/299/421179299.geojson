@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Quimist\u00e1n"
     ],
+    "name:eus_x_preferred":[
+        "Quimist\u00e1n"
+    ],
     "name:fra_x_preferred":[
         "Quimist\u00e1n"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421179299,
-    "wof:lastmodified":1566646001,
+    "wof:lastmodified":1690930324,
     "wof:name":"Quimist\u00e1n",
     "wof:parent_id":890455339,
     "wof:placetype":"locality",

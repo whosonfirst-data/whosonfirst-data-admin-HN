@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Naranjito"
     ],
+    "name:eus_x_preferred":[
+        "Naranjito"
+    ],
     "name:fra_x_preferred":[
         "Naranjito"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421194431,
-    "wof:lastmodified":1566645791,
+    "wof:lastmodified":1690930231,
     "wof:name":"Naranjito",
     "wof:parent_id":421188509,
     "wof:placetype":"locality",

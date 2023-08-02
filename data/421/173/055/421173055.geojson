@@ -20,7 +20,13 @@
     "name:ceb_x_preferred":[
         "Intibuc\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "Intibuc\u00e1"
+    ],
     "name:eng_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:eus_x_preferred":[
         "Intibuc\u00e1"
     ],
     "name:fra_x_preferred":[
@@ -33,6 +39,9 @@
         "Intibuc\u00e1"
     ],
     "name:nld_x_preferred":[
+        "Intibuc\u00e1"
+    ],
+    "name:pol_x_preferred":[
         "Intibuc\u00e1"
     ],
     "name:por_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421173055,
-    "wof:lastmodified":1566645839,
+    "wof:lastmodified":1690930258,
     "wof:name":"Intibuc\u00e1",
     "wof:parent_id":421170699,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u043d\u043b\u0438"
     ],
+    "name:cat_x_preferred":[
+        "El Paraiso"
+    ],
     "name:ceb_x_preferred":[
         "Danl\u00ed"
     ],
@@ -45,6 +48,9 @@
         "\u039d\u03c4\u03b1\u03bd\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
+        "Danl\u00ed"
+    ],
+    "name:eus_x_preferred":[
         "Danl\u00ed"
     ],
     "name:fin_x_preferred":[
@@ -135,7 +141,8 @@
         "\u062f\u0627\u0646\u0644\u06cc \u060c \u0627\u0644 \u067e\u0627\u0631\u0627\u06cc\u0633\u0648"
     ],
     "name:urd_x_variant":[
-        "\u062f\u0627\u0646\u0644\u06cc"
+        "\u062f\u0627\u0646\u0644\u06cc",
+        "\u062f\u0627\u0646\u0644\u06cc "
     ],
     "name:vie_x_preferred":[
         "Danli"
@@ -170,8 +177,8 @@
     "wof:belongsto":[
         102191575,
         85632323,
-        421203561,
-        85671929
+        85671929,
+        421203561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -194,7 +201,7 @@
         }
     ],
     "wof:id":421182511,
-    "wof:lastmodified":1587163137,
+    "wof:lastmodified":1690930334,
     "wof:name":"Danl\u00ed",
     "wof:parent_id":421203561,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "La Jigua"
+    ],
     "name:eng_x_preferred":[
+        "La Jigua"
+    ],
+    "name:eus_x_preferred":[
         "La Jigua"
     ],
     "name:fra_x_preferred":[
@@ -39,6 +45,9 @@
         "La Jigua"
     ],
     "name:spa_x_preferred":[
+        "La Jigua"
+    ],
+    "name:swe_x_preferred":[
         "La Jigua"
     ],
     "name:und_x_variant":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421169249,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1690930242,
     "wof:name":"La Jigua",
     "wof:parent_id":421194947,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Concepci\u00f3n del Norte"
     ],
+    "name:eus_x_preferred":[
+        "Concepci\u00f3n del Norte"
+    ],
     "name:fra_x_preferred":[
         "Concepci\u00f3n del Norte"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421170891,
-    "wof:lastmodified":1566645976,
+    "wof:lastmodified":1690930310,
     "wof:name":"Concepci\u00f3n del Norte",
     "wof:parent_id":421191345,
     "wof:placetype":"locality",

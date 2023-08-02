@@ -26,11 +26,17 @@
     "name:epo_x_preferred":[
         "Arizona"
     ],
+    "name:eus_x_preferred":[
+        "Arizona"
+    ],
     "name:fra_x_preferred":[
         "Arizona"
     ],
     "name:ita_x_preferred":[
         "Arizona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30be\u30ca"
     ],
     "name:nan_x_preferred":[
         "Arizona"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":421179371,
-    "wof:lastmodified":1566645998,
+    "wof:lastmodified":1690930321,
     "wof:name":"Arizona",
     "wof:parent_id":421198883,
     "wof:placetype":"locality",

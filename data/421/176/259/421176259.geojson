@@ -29,6 +29,9 @@
     "name:spa_x_preferred":[
         "San Juancito"
     ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0425\u0443\u0430\u043d\u0441\u0456\u0442\u043e"
+    ],
     "name:zho_x_preferred":[
         "\u8056\u80e1\u5b89\u897f\u8a17"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421176259,
-    "wof:lastmodified":1566646049,
+    "wof:lastmodified":1690930345,
     "wof:name":"San Juancito",
     "wof:parent_id":1108701727,
     "wof:placetype":"locality",

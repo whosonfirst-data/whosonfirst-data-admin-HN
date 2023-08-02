@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "El Nispero"
     ],
+    "name:eng_x_variant":[
+        "El N\u00edspero"
+    ],
+    "name:eus_x_preferred":[
+        "El N\u00edspero"
+    ],
     "name:fra_x_preferred":[
         "El Nispero"
     ],
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421204645,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1690930243,
     "wof:name":"El N\u00edspero",
     "wof:parent_id":421177939,
     "wof:placetype":"locality",

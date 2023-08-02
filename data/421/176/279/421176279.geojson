@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "El Corpus"
     ],
+    "name:eus_x_preferred":[
+        "El Corpus"
+    ],
     "name:fra_x_preferred":[
         "El Corpus"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:swe_x_preferred":[
         "El Corpus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c \u041a\u043e\u0440\u043f\u0443\u0441"
     ],
     "name:und_x_variant":[
         "Corpus"
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":421176279,
-    "wof:lastmodified":1582319392,
+    "wof:lastmodified":1690930346,
     "wof:name":"El Corpus",
     "wof:parent_id":421185037,
     "wof:placetype":"locality",

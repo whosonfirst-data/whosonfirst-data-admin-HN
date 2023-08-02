@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Quebrada Seca River"
     ],
+    "name:gle_x_preferred":[
+        "Abhainn Quebrada Seca"
+    ],
     "qs:name":"Quebrada Seca",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":890441899,
-    "wof:lastmodified":1566646060,
+    "wof:lastmodified":1690930349,
     "wof:name":"Quebrada Seca",
     "wof:parent_id":421185035,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Morolica"
     ],
+    "name:eus_x_preferred":[
+        "Morolica"
+    ],
     "name:fra_x_preferred":[
         "Morolica"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:por_x_preferred":[
         "Morolica"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u043b\u0438\u043a\u0430"
     ],
     "name:spa_x_preferred":[
         "Morolica"
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421169253,
-    "wof:lastmodified":1566645808,
+    "wof:lastmodified":1690930242,
     "wof:name":"Morolica",
     "wof:parent_id":421181923,
     "wof:placetype":"locality",

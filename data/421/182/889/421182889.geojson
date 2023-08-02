@@ -55,6 +55,12 @@
     "name:eng_x_variant":[
         "Iriona"
     ],
+    "name:eus_x_preferred":[
+        "Brus Laguna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0648\u0633 \u0644\u0627\u06af\u0648\u0646\u0627"
+    ],
     "name:fra_x_preferred":[
         "Brus Laguna"
     ],
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":421182889,
-    "wof:lastmodified":1636495871,
+    "wof:lastmodified":1690930328,
     "wof:name":"Brus Laguna",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

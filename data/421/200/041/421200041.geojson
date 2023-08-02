@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Atima"
     ],
+    "name:eus_x_preferred":[
+        "Atima"
+    ],
     "name:fra_x_preferred":[
         "Atima"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421200041,
-    "wof:lastmodified":1566645953,
+    "wof:lastmodified":1690930301,
     "wof:name":"Atima",
     "wof:parent_id":421183297,
     "wof:placetype":"locality",

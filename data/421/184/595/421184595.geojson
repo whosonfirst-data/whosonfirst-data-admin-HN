@@ -52,6 +52,9 @@
     "name:eng_x_variant":[
         "Santa Ana Municipality"
     ],
+    "name:eus_x_preferred":[
+        "Santa Ana"
+    ],
     "name:fra_x_preferred":[
         "Santa Ana"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421184595,
-    "wof:lastmodified":1636495867,
+    "wof:lastmodified":1690930306,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

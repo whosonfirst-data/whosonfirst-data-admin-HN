@@ -26,10 +26,19 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u041b\u043e\u0440\u0435\u043d\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:deu_x_preferred":[
+        "San Lorenzo"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039b\u03bf\u03c1\u03ad\u03bd\u03c4\u03b6\u03bf"
     ],
     "name:eng_x_preferred":[
+        "San Lorenzo"
+    ],
+    "name:eus_x_preferred":[
         "San Lorenzo"
     ],
     "name:fas_x_preferred":[
@@ -147,7 +156,7 @@
         }
     ],
     "wof:id":421176255,
-    "wof:lastmodified":1636495875,
+    "wof:lastmodified":1690930346,
     "wof:name":"San Lorenzo",
     "wof:parent_id":1108701707,
     "wof:placetype":"locality",

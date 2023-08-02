@@ -16,6 +16,9 @@
     "name:ceb_x_preferred":[
         "La Ceiba Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Golos\u00f3n"
+    ],
     "name:eng_x_variant":[
         "LCE",
         "MHLC"
@@ -28,6 +31,9 @@
     ],
     "name:ind_x_preferred":[
         "Bandar Udara Internasional Golos\u00f3n"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto Internazionale Golos\u00f3n"
     ],
     "name:jpn_x_preferred":[
         "\u30b4\u30ed\u30bd\u30f3\u56fd\u969b\u7a7a\u6e2f"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":102556381,
-    "wof:lastmodified":1631745320,
+    "wof:lastmodified":1690930185,
     "wof:name":"Goloson International Airport",
     "wof:parent_id":85671851,
     "wof:placetype":"campus",

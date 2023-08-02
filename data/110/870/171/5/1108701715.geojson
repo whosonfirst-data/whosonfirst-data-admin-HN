@@ -39,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09b0\u09be\u09ab\u09be\u09df\u09c7\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "San Rafael"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a1\u03b1\u03c6\u03b1\u03ad\u03bb"
     ],
@@ -46,8 +49,10 @@
         "San Rafael"
     ],
     "name:eng_x_variant":[
-        "San Rafael",
         "San Rafael Municipality"
+    ],
+    "name:eus_x_preferred":[
+        "San Rafael"
     ],
     "name:fra_x_preferred":[
         "San Rafael"
@@ -85,7 +90,9 @@
     "name:spa_x_preferred":[
         "San Rafael"
     ],
-    "name:spa_x_variant":[],
+    "name:swe_x_preferred":[
+        "San Rafael"
+    ],
     "name:tur_x_preferred":[
         "San Rafael"
     ],
@@ -135,7 +142,7 @@
         }
     ],
     "wof:id":1108701715,
-    "wof:lastmodified":1636495830,
+    "wof:lastmodified":1690930226,
     "wof:name":"San Rafael",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09ad\u09be\u09b2 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Valle"
+    ],
     "name:bul_x_preferred":[
         "\u0412\u0430\u043b\u0435"
     ],
@@ -137,6 +140,9 @@
     "name:nan_x_preferred":[
         "Valle Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento Valle"
+    ],
     "name:nld_x_preferred":[
         "Valle"
     ],
@@ -151,6 +157,9 @@
     ],
     "name:que_x_preferred":[
         "Valle"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Valle"
     ],
     "name:rus_x_preferred":[
         "\u0412\u0430\u043b\u044c\u0435"
@@ -320,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495771,
+    "wof:lastmodified":1690930216,
     "wof:name":"Valle",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

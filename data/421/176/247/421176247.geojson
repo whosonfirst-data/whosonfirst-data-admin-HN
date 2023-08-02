@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Trinidad"
     ],
+    "name:eus_x_preferred":[
+        "Trinidad"
+    ],
     "name:fra_x_preferred":[
         "Trinidad"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":421176247,
-    "wof:lastmodified":1636495875,
+    "wof:lastmodified":1690930346,
     "wof:name":"Trinidad",
     "wof:parent_id":1108701731,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Guayape"
     ],
+    "name:eus_x_preferred":[
+        "Guayape"
+    ],
     "name:fra_x_preferred":[
         "Guayape"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421180265,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1690930257,
     "wof:name":"Guayape",
     "wof:parent_id":421191349,
     "wof:placetype":"locality",

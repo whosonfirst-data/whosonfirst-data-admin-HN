@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Guinope"
     ],
+    "name:eus_x_preferred":[
+        "G\u00fcinope"
+    ],
     "name:fra_x_preferred":[
         "G\u00fcinope"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421176767,
-    "wof:lastmodified":1566646049,
+    "wof:lastmodified":1690930346,
     "wof:name":"G\u00fcinope",
     "wof:parent_id":421182915,
     "wof:placetype":"locality",

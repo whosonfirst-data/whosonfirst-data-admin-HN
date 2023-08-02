@@ -46,6 +46,9 @@
     "name:epo_x_preferred":[
         "Jutiapa"
     ],
+    "name:eus_x_preferred":[
+        "Jutiapa"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0648\u062a\u06cc\u067e\u0627"
     ],
@@ -55,11 +58,17 @@
     "name:heb_x_preferred":[
         "\u05d7\u05d5\u05d8\u05d9\u05d0\u05e4\u05d4"
     ],
+    "name:heb_x_variant":[
+        "\u05d2'\u05d5\u05d8\u05d9\u05d0\u05e4\u05d4"
+    ],
     "name:hun_x_preferred":[
         "Jutiapa"
     ],
     "name:ita_x_preferred":[
         "Jutiapa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30c6\u30a3\u30a2\u30d1"
     ],
     "name:nan_x_preferred":[
         "Jutiapa"
@@ -72,6 +81,9 @@
     ],
     "name:por_x_preferred":[
         "Jutiapa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0442\u0438\u0430\u043f\u0430"
     ],
     "name:slv_x_preferred":[
         "Jutiapa"
@@ -148,7 +160,7 @@
         }
     ],
     "wof:id":421188767,
-    "wof:lastmodified":1636495853,
+    "wof:lastmodified":1690930266,
     "wof:name":"Jutiapa",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

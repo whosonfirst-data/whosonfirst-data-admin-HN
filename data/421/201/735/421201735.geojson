@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Erandique"
     ],
+    "name:eus_x_preferred":[
+        "Erandique"
+    ],
     "name:fra_x_preferred":[
         "Erandique"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421201735,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1690930304,
     "wof:name":"Erandique",
     "wof:parent_id":421182911,
     "wof:placetype":"locality",

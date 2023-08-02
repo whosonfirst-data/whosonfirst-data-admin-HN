@@ -29,6 +29,9 @@
     "name:jpn_x_preferred":[
         "\u30e4\u30eb\u30e1\u30e9"
     ],
+    "name:spa_x_preferred":[
+        "Yarumela"
+    ],
     "name:swe_x_preferred":[
         "Yarumela"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421179269,
-    "wof:lastmodified":1566645997,
+    "wof:lastmodified":1690930320,
     "wof:name":"Yarumela",
     "wof:parent_id":421184597,
     "wof:placetype":"locality",

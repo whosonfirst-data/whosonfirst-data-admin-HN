@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Cololaca"
     ],
+    "name:eus_x_preferred":[
+        "Cololaca"
+    ],
     "name:fra_x_preferred":[
         "Cololaca"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421174229,
-    "wof:lastmodified":1566645834,
+    "wof:lastmodified":1690930253,
     "wof:name":"Cololaca",
     "wof:parent_id":421193293,
     "wof:placetype":"locality",

@@ -34,7 +34,13 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Antonio"
+    ],
     "name:eng_x_preferred":[
+        "San Antonio"
+    ],
+    "name:eus_x_preferred":[
         "San Antonio"
     ],
     "name:fra_x_preferred":[
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":421193695,
-    "wof:lastmodified":1636495847,
+    "wof:lastmodified":1690930236,
     "wof:name":"San Antonio",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -17,10 +17,19 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "El Negrito"
+    ],
     "name:ceb_x_preferred":[
         "El Negrito"
     ],
+    "name:ell_x_preferred":[
+        "\u0395\u03bb \u039d\u03b5\u03b3\u03ba\u03c1\u03af\u03c4\u03bf"
+    ],
     "name:eng_x_preferred":[
+        "El Negrito"
+    ],
+    "name:eus_x_preferred":[
         "El Negrito"
     ],
     "name:fra_x_preferred":[
@@ -33,6 +42,9 @@
         "El Negrito"
     ],
     "name:nld_x_preferred":[
+        "El Negrito"
+    ],
+    "name:pol_x_preferred":[
         "El Negrito"
     ],
     "name:por_x_preferred":[
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":421179365,
-    "wof:lastmodified":1566645995,
+    "wof:lastmodified":1690930318,
     "wof:name":"El Negrito",
     "wof:parent_id":421201043,
     "wof:placetype":"locality",

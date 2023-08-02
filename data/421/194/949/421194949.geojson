@@ -37,6 +37,9 @@
     "name:eng_x_preferred":[
         "La Libertad"
     ],
+    "name:eus_x_preferred":[
+        "La Libertad"
+    ],
     "name:fra_x_preferred":[
         "La Libertad"
     ],
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421194949,
-    "wof:lastmodified":1636495847,
+    "wof:lastmodified":1690930231,
     "wof:name":"La Libertad",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

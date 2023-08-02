@@ -46,6 +46,9 @@
         "Santa Fe",
         "Santa Fe Municipality"
     ],
+    "name:eus_x_preferred":[
+        "Santa Fe"
+    ],
     "name:fra_x_preferred":[
         "Santa Fe"
     ],
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890420205,
-    "wof:lastmodified":1636495879,
+    "wof:lastmodified":1690930354,
     "wof:name":"Santa Fe",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

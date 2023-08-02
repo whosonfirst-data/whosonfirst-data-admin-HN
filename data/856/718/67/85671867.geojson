@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09be\u09b0\u09cd\u09b8\u09bf\u09af\u09bc\u09be\u09b8 \u0985\u09cd\u09af\u09be \u09a1\u09be\u09af\u09bc\u09cb\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Gracias a Dios"
+    ],
     "name:bul_x_preferred":[
         "\u0413\u0440\u0430\u0441\u0438\u0430\u0441 \u0430 \u0414\u0438\u043e\u0441"
     ],
@@ -137,6 +140,9 @@
     "name:nan_x_preferred":[
         "Gracias a Dios Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento Gracias a Dios"
+    ],
     "name:nld_x_preferred":[
         "Gracias a Dios"
     ],
@@ -150,6 +156,9 @@
         "Gracias a Dios"
     ],
     "name:que_x_preferred":[
+        "Gracias a Dios"
+    ],
+    "name:ron_x_preferred":[
         "Gracias a Dios"
     ],
     "name:rus_x_preferred":[
@@ -320,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495763,
+    "wof:lastmodified":1690930203,
     "wof:name":"Gracias a Dios",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

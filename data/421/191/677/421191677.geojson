@@ -40,6 +40,9 @@
     "name:eng_x_preferred":[
         "San Ignacio"
     ],
+    "name:eus_x_preferred":[
+        "San Ignacio"
+    ],
     "name:fra_x_preferred":[
         "San Ignacio"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":421191677,
-    "wof:lastmodified":1636495863,
+    "wof:lastmodified":1690930293,
     "wof:name":"San Ignacio",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

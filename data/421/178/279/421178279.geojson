@@ -26,6 +26,9 @@
     "name:nld_x_preferred":[
         "Chamelec\u00f3n"
     ],
+    "name:spa_x_preferred":[
+        "Chamelec\u00f3n"
+    ],
     "name:zho_x_preferred":[
         "\u67e5\u7f8e\u62c9\u5eb7"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":421178279,
-    "wof:lastmodified":1566646003,
+    "wof:lastmodified":1690930326,
     "wof:name":"Chamelec\u00f3n",
     "wof:parent_id":421170709,
     "wof:placetype":"locality",

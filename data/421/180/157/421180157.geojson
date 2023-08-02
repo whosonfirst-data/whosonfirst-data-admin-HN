@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Sensenti"
     ],
+    "name:eus_x_preferred":[
+        "Sensenti"
+    ],
     "name:fra_x_preferred":[
         "Sensenti"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421180157,
-    "wof:lastmodified":1566645835,
+    "wof:lastmodified":1690930254,
     "wof:name":"Sensenti",
     "wof:parent_id":421182977,
     "wof:placetype":"locality",

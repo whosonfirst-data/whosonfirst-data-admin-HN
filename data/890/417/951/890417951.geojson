@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:zho_x_preferred":[
+        "\u99ac\u5854\u5fb7\u666e\u62c9\u5854\u8afe\u5340"
+    ],
     "qs:name":"Mata de Pl\u00e1tano",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890417951,
-    "wof:lastmodified":1566646072,
+    "wof:lastmodified":1690930352,
     "wof:name":"Mata de Pl\u00e1tano",
     "wof:parent_id":1108701669,
     "wof:placetype":"locality",

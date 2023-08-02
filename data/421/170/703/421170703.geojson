@@ -34,12 +34,17 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Jos\u00e9 Santos Guardiola"
+    ],
     "name:deu_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
-    "name:eng_x_variant":[
-        "Jose Santos Guardiola",
+    "name:eng_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
+    ],
+    "name:eng_x_variant":[
+        "Jose Santos Guardiola"
     ],
     "name:fin_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
@@ -53,16 +58,25 @@
     "name:ita_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30bb\u30fb\u30b5\u30f3\u30c8\u30b9\u30fb\u30b0\u30a2\u30eb\u30c7\u30a3\u30aa\u30e9"
+    ],
     "name:nan_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
     "name:nld_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
+    "name:por_x_preferred":[
+        "Jos\u00e9 Santos Guardiola"
+    ],
     "name:slk_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
     "name:spa_x_preferred":[
+        "Jos\u00e9 Santos Guardiola"
+    ],
+    "name:swe_x_preferred":[
         "Jos\u00e9 Santos Guardiola"
     ],
     "name:ukr_x_preferred":[
@@ -120,7 +134,7 @@
         }
     ],
     "wof:id":421170703,
-    "wof:lastmodified":1627522177,
+    "wof:lastmodified":1690930309,
     "wof:name":"Jose Santos Guardiola",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

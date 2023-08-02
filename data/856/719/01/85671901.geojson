@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0644\u0627 \u0628\u0627\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u062f\u0627\u0631\u0629 \u0644\u0627 \u067e\u0627\u0632"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09aa\u09be\u099c \u09ac\u09bf\u09ad\u09be\u0997"
+    ],
+    "name:bre_x_preferred":[
+        "Departamant La Paz"
     ],
     "name:bul_x_preferred":[
         "\u041b\u0430 \u041f\u0430\u0441"
@@ -134,6 +140,9 @@
     "name:nan_x_preferred":[
         "La Paz Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento La Paz"
+    ],
     "name:nld_x_preferred":[
         "La Paz"
     ],
@@ -148,6 +157,9 @@
     ],
     "name:que_x_preferred":[
         "La Paz"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul La Paz"
     ],
     "name:rus_x_preferred":[
         "\u041b\u0430-\u041f\u0430\u0441"
@@ -326,7 +338,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495757,
+    "wof:lastmodified":1690930193,
     "wof:name":"La Paz",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

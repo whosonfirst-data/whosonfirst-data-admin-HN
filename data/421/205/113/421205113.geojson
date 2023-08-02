@@ -37,6 +37,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0627\u064a\u0627\u063a\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0645\u0627\u064a\u0627\u062c\u0648\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Comayagua"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09ae\u09c7\u09af\u09bc\u09be\u0997\u09cb\u09af\u09bc\u09be"
     ],
@@ -70,10 +76,19 @@
     "name:est_x_preferred":[
         "Comayagua"
     ],
+    "name:eus_x_preferred":[
+        "Comayagua"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u0627\u06cc\u0627\u06af\u0648\u0627"
+    ],
     "name:fin_x_preferred":[
         "Comayagua"
     ],
     "name:fra_x_preferred":[
+        "Comayagua"
+    ],
+    "name:gle_x_preferred":[
         "Comayagua"
     ],
     "name:guj_x_preferred":[
@@ -89,6 +104,9 @@
         "\u0915\u093e\u092e\u093e\u092f\u0917\u0941\u0939\u093e"
     ],
     "name:hun_x_preferred":[
+        "Comayagua"
+    ],
+    "name:ido_x_preferred":[
         "Comayagua"
     ],
     "name:ind_x_preferred":[
@@ -156,6 +174,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0bae\u0baf\u0b95\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u043e\u043c\u0430\u044f\u0433\u0432\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c2e\u0c3e\u0c2f\u0c3e\u0c17\u0c41\u0c35\u0c3e"
@@ -247,7 +268,7 @@
         }
     ],
     "wof:id":421205113,
-    "wof:lastmodified":1636495849,
+    "wof:lastmodified":1690930252,
     "wof:name":"Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

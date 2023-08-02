@@ -26,6 +26,9 @@
     "name:eng_x_variant":[
         "Jorge"
     ],
+    "name:eus_x_preferred":[
+        "Nuevo Celilac"
+    ],
     "name:fra_x_preferred":[
         "Nuevo Celilac"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421197485,
-    "wof:lastmodified":1566645947,
+    "wof:lastmodified":1690930297,
     "wof:name":"Nuevo Celilac",
     "wof:parent_id":421191357,
     "wof:placetype":"locality",

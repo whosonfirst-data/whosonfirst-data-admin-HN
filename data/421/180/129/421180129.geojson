@@ -17,10 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Cane"
+    ],
     "name:ceb_x_preferred":[
         "Cane"
     ],
+    "name:deu_x_preferred":[
+        "Cane"
+    ],
     "name:eng_x_preferred":[
+        "Cane"
+    ],
+    "name:epo_x_preferred":[
+        "Cane"
+    ],
+    "name:eus_x_preferred":[
         "Cane"
     ],
     "name:fra_x_preferred":[
@@ -31,6 +43,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30fc\u30cd"
+    ],
+    "name:lav_x_preferred":[
+        "Cane"
+    ],
+    "name:lit_x_preferred":[
+        "Cane"
     ],
     "name:nan_x_preferred":[
         "Cane"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":421180129,
-    "wof:lastmodified":1566645836,
+    "wof:lastmodified":1690930255,
     "wof:name":"Cane",
     "wof:parent_id":421200541,
     "wof:placetype":"locality",

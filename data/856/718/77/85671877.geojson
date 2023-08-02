@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09b2\u09be\u09a8\u0995\u09cb \u09ac\u09bf\u09ad\u09be\u0997"
     ],
+    "name:bre_x_preferred":[
+        "Departamant Olancho"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u043e"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:cat_x_variant":[
         "departament d'Olancho"
+    ],
+    "name:ces_x_preferred":[
+        "Olancho"
     ],
     "name:dan_x_preferred":[
         "Olancho"
@@ -140,6 +146,9 @@
     "name:nan_x_preferred":[
         "Olancho Ko\u0101n"
     ],
+    "name:nds_x_preferred":[
+        "Departamento Olancho"
+    ],
     "name:nld_x_preferred":[
         "Olancho"
     ],
@@ -154,6 +163,9 @@
     ],
     "name:que_x_preferred":[
         "Olancho suyu"
+    ],
+    "name:ron_x_preferred":[
+        "Departamentul Olancho"
     ],
     "name:rus_x_preferred":[
         "\u041e\u043b\u0430\u043d\u0447\u043e"
@@ -317,7 +329,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1636495774,
+    "wof:lastmodified":1690930220,
     "wof:name":"Olancho",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

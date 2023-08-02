@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Langue"
+    ],
     "name:ceb_x_preferred":[
         "Langue"
     ],
@@ -26,7 +29,13 @@
     "name:eng_x_preferred":[
         "Langue"
     ],
+    "name:eus_x_preferred":[
+        "Langue"
+    ],
     "name:fra_x_preferred":[
+        "Langue"
+    ],
+    "name:glg_x_preferred":[
         "Langue"
     ],
     "name:ita_x_preferred":[
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":421179335,
-    "wof:lastmodified":1566645999,
+    "wof:lastmodified":1690930322,
     "wof:name":"Langue",
     "wof:parent_id":421182583,
     "wof:placetype":"locality",

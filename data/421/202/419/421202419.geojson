@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Santa Luc\u00eda"
     ],
+    "name:eus_x_preferred":[
+        "Santa Luc\u00eda"
+    ],
     "name:fra_x_preferred":[
         "Santa Luc\u00eda"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421202419,
-    "wof:lastmodified":1566645826,
+    "wof:lastmodified":1690930250,
     "wof:name":"Santa Luc\u00eda",
     "wof:parent_id":421170947,
     "wof:placetype":"locality",
