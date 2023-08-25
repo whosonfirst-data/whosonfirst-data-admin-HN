@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0628\u0627\u0632"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0628\u0627\u0632"
+    ],
+    "name:ast_x_preferred":[
+        "La Paz"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09aa\u09be\u099c"
     ],
@@ -35,11 +41,23 @@
     "name:eng_x_preferred":[
         "La Paz"
     ],
+    "name:epo_x_preferred":[
+        "La-Pazo"
+    ],
+    "name:eus_x_preferred":[
+        "La Paz"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u067e\u0627\u0632"
+    ],
     "name:fra_x_preferred":[
         "La Paz"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d4 \u05e4\u05d6"
+    ],
+    "name:heb_x_variant":[
+        "\u05dc\u05d4 \u05e4\u05d0\u05e1"
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e \u092a\u093e\u091c\u093c"
@@ -261,7 +279,7 @@
         }
     ],
     "wof:id":421201309,
-    "wof:lastmodified":1636495866,
+    "wof:lastmodified":1690930303,
     "wof:name":"La Paz",
     "wof:parent_id":421188779,
     "wof:placetype":"locality",

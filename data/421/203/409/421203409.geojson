@@ -49,6 +49,9 @@
     "name:eng_x_preferred":[
         "Magdalena"
     ],
+    "name:eus_x_preferred":[
+        "Magdalena"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06af\u062f\u0627\u0644\u0646\u0627"
     ],
@@ -91,7 +94,6 @@
     "name:spa_x_preferred":[
         "Magdalena"
     ],
-    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Magdalena"
     ],
@@ -173,7 +175,7 @@
         }
     ],
     "wof:id":421203409,
-    "wof:lastmodified":1636495847,
+    "wof:lastmodified":1690930246,
     "wof:name":"Magdalena",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

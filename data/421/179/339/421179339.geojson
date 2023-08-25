@@ -23,10 +23,16 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be \u09b2\u09bf\u09ac\u09be\u09b0\u09cd\u099f\u09be\u09a6"
     ],
+    "name:ceb_x_preferred":[
+        "La Libertad"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1 \u039b\u03b9\u03bc\u03c0\u03b5\u03c1\u03c4\u03ac\u03b4"
     ],
     "name:eng_x_preferred":[
+        "La Libertad"
+    ],
+    "name:eus_x_preferred":[
         "La Libertad"
     ],
     "name:fas_x_preferred":[
@@ -135,7 +141,7 @@
         }
     ],
     "wof:id":421179339,
-    "wof:lastmodified":1636495869,
+    "wof:lastmodified":1690930318,
     "wof:name":"La Libertad",
     "wof:parent_id":421182925,
     "wof:placetype":"locality",

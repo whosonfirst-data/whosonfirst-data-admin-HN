@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "San Luis"
     ],
+    "name:eus_x_preferred":[
+        "San Luis"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u0646 \u0644\u0648\u0626\u06cc\u0632"
     ],
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":421180149,
-    "wof:lastmodified":1636495850,
+    "wof:lastmodified":1690930258,
     "wof:name":"San Luis",
     "wof:parent_id":890420221,
     "wof:placetype":"locality",

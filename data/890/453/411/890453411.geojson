@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Mercedes"
     ],
+    "name:eus_x_preferred":[
+        "Mercedes"
+    ],
     "name:fra_x_preferred":[
         "Mercedes"
     ],
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890453411,
-    "wof:lastmodified":1636495878,
+    "wof:lastmodified":1690930351,
     "wof:name":"Mercedes",
     "wof:parent_id":890429335,
     "wof:placetype":"locality",

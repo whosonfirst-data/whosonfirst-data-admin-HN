@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Laman\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Laman\u00ed"
+    ],
     "name:fra_x_preferred":[
         "Laman\u00ed"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179337,
-    "wof:lastmodified":1566645995,
+    "wof:lastmodified":1690930318,
     "wof:name":"Laman\u00ed",
     "wof:parent_id":421182581,
     "wof:placetype":"locality",

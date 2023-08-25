@@ -26,11 +26,17 @@
     "name:epo_x_preferred":[
         "Arizona"
     ],
+    "name:eus_x_preferred":[
+        "Arizona"
+    ],
     "name:fra_x_preferred":[
         "Arizona"
     ],
     "name:ita_x_preferred":[
         "Arizona"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ea\u30be\u30ca"
     ],
     "name:nan_x_preferred":[
         "Arizona"
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":421185281,
-    "wof:lastmodified":1566646053,
+    "wof:lastmodified":1690930347,
     "wof:name":"Mezapa",
     "wof:parent_id":421172435,
     "wof:placetype":"locality",

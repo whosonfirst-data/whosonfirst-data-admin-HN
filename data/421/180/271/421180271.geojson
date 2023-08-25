@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Reitoca"
     ],
+    "name:eus_x_preferred":[
+        "Reitoca"
+    ],
     "name:fra_x_preferred":[
         "Reitoca"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421180271,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1690930257,
     "wof:name":"Reitoca",
     "wof:parent_id":421191601,
     "wof:placetype":"locality",

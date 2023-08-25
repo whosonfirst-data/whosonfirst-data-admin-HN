@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Concepci\u00f3n del Sur"
     ],
+    "name:eus_x_preferred":[
+        "Concepci\u00f3n del Sur"
+    ],
     "name:fra_x_preferred":[
         "Concepci\u00f3n del Sur"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421194463,
-    "wof:lastmodified":1566645790,
+    "wof:lastmodified":1690930231,
     "wof:name":"Concepci\u00f3n del Sur",
     "wof:parent_id":1108701655,
     "wof:placetype":"locality",

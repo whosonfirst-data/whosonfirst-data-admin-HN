@@ -46,6 +46,9 @@
     "name:ita_x_preferred":[
         "Agua Caliente"
     ],
+    "name:nds_x_preferred":[
+        "Agua Caliente"
+    ],
     "name:nld_x_preferred":[
         "Agua Caliente"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":890435109,
-    "wof:lastmodified":1566646087,
+    "wof:lastmodified":1690930357,
     "wof:name":"Agua Caliente",
     "wof:parent_id":421182901,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Sabanagrande"
     ],
+    "name:eus_x_preferred":[
+        "Sabanagrande"
+    ],
     "name:fra_x_preferred":[
         "Sabanagrande"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":421193437,
-    "wof:lastmodified":1566645797,
+    "wof:lastmodified":1690930235,
     "wof:name":"Sabanagrande",
     "wof:parent_id":421182957,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Orica"
     ],
+    "name:eus_x_preferred":[
+        "Orica"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0631\u06cc\u06a9\u0627"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421197649,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1690930299,
     "wof:name":"Orica",
     "wof:parent_id":421191361,
     "wof:placetype":"locality",

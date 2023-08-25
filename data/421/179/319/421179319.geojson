@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Lucerna polska"
     ],
+    "name:eng_x_variant":[
+        "Lucerna"
+    ],
+    "name:eus_x_preferred":[
+        "Lucerna"
+    ],
     "name:fra_x_preferred":[
         "Lucerna"
     ],
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421179319,
-    "wof:lastmodified":1566646001,
+    "wof:lastmodified":1690930325,
     "wof:name":"Lucerna",
     "wof:parent_id":421188485,
     "wof:placetype":"locality",

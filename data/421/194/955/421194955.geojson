@@ -40,10 +40,16 @@
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b8 \u09b2\u09be\u099c\u09be\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "Las Lajas"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03c2 \u039b\u03ac\u03c7\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
+        "Las Lajas"
+    ],
+    "name:eus_x_preferred":[
         "Las Lajas"
     ],
     "name:fas_x_preferred":[
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":421194955,
-    "wof:lastmodified":1636495846,
+    "wof:lastmodified":1690930230,
     "wof:name":"Las Lajas",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

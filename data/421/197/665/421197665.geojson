@@ -17,13 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Aramecina"
+    ],
     "name:ceb_x_preferred":[
         "Aramecina"
     ],
     "name:eng_x_preferred":[
         "Aramecina"
     ],
+    "name:eus_x_preferred":[
+        "Aramecina"
+    ],
     "name:fra_x_preferred":[
+        "Aramecina"
+    ],
+    "name:glg_x_preferred":[
         "Aramecina"
     ],
     "name:ita_x_preferred":[
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":421197665,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1690930300,
     "wof:name":"Aramecina",
     "wof:parent_id":421182569,
     "wof:placetype":"locality",

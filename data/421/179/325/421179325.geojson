@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "La Uni\u00f3n"
     ],
+    "name:eus_x_preferred":[
+        "La Uni\u00f3n"
+    ],
     "name:fra_x_preferred":[
         "La Uni\u00f3n"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421179325,
-    "wof:lastmodified":1566645998,
+    "wof:lastmodified":1690930321,
     "wof:name":"La Uni\u00f3n",
     "wof:parent_id":421182931,
     "wof:placetype":"locality",

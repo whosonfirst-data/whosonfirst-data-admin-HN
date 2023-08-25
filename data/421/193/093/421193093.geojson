@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Camasca"
     ],
+    "name:eus_x_preferred":[
+        "Camasca"
+    ],
     "name:fra_x_preferred":[
         "Camasca"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421193093,
-    "wof:lastmodified":1566645803,
+    "wof:lastmodified":1690930238,
     "wof:name":"Camasca",
     "wof:parent_id":421191341,
     "wof:placetype":"locality",

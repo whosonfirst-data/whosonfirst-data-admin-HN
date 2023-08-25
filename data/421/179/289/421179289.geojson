@@ -17,10 +17,22 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "San Antonio del Norte"
+    ],
     "name:ceb_x_preferred":[
         "San Antonio del Norte"
     ],
+    "name:deu_x_preferred":[
+        "San Antonio del Norte"
+    ],
     "name:eng_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:epo_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:eus_x_preferred":[
         "San Antonio del Norte"
     ],
     "name:fra_x_preferred":[
@@ -31,6 +43,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30fb\u30a2\u30f3\u30c8\u30fc\u30cb\u30aa\u30fb\u30c7\u30eb\u30fb\u30ce\u30eb\u30c6"
+    ],
+    "name:lav_x_preferred":[
+        "San Antonio del Norte"
+    ],
+    "name:lit_x_preferred":[
+        "San Antonio del Norte"
     ],
     "name:nan_x_preferred":[
         "San Antonio del Norte"
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":421179289,
-    "wof:lastmodified":1566645996,
+    "wof:lastmodified":1690930319,
     "wof:name":"San Antonio del Norte",
     "wof:parent_id":421203415,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Labor"
     ],
+    "name:eus_x_preferred":[
+        "La Labor"
+    ],
     "name:fra_x_preferred":[
         "La Labor"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421201733,
-    "wof:lastmodified":1566645956,
+    "wof:lastmodified":1690930304,
     "wof:name":"La Labor",
     "wof:parent_id":421188495,
     "wof:placetype":"locality",

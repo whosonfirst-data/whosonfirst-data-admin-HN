@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Guarizama"
     ],
+    "name:eus_x_preferred":[
+        "Guarizama"
+    ],
     "name:fra_x_preferred":[
         "Guarizama"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421180267,
-    "wof:lastmodified":1566645836,
+    "wof:lastmodified":1690930254,
     "wof:name":"Guarizama",
     "wof:parent_id":421203407,
     "wof:placetype":"locality",

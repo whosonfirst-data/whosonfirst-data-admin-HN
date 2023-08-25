@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Sinuapa"
     ],
+    "name:eus_x_preferred":[
+        "Sinuapa"
+    ],
     "name:fra_x_preferred":[
         "Sinuapa"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421201743,
-    "wof:lastmodified":1566645959,
+    "wof:lastmodified":1690930306,
     "wof:name":"Sinuapa",
     "wof:parent_id":421169621,
     "wof:placetype":"locality",

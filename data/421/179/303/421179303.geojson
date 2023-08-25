@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Oropol\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Oropol\u00ed"
+    ],
     "name:fra_x_preferred":[
         "Oropol\u00ed"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421179303,
-    "wof:lastmodified":1566645999,
+    "wof:lastmodified":1690930322,
     "wof:name":"Oropol\u00ed",
     "wof:parent_id":421182949,
     "wof:placetype":"locality",

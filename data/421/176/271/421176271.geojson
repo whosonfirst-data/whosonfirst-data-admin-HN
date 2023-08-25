@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Pespire"
     ],
+    "name:eus_x_preferred":[
+        "Pespire"
+    ],
     "name:fra_x_preferred":[
         "Pespire"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421176271,
-    "wof:lastmodified":1566646050,
+    "wof:lastmodified":1690930346,
     "wof:name":"Pespire",
     "wof:parent_id":421182951,
     "wof:placetype":"locality",

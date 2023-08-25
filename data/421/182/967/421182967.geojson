@@ -40,6 +40,15 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u0986\u09a8\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:ceb_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:deu_x_preferred":[
+        "Santa Ana"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03b1"
     ],
@@ -48,6 +57,12 @@
     ],
     "name:eng_x_variant":[
         "Santa Ana Municipality"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Ana"
     ],
     "name:fra_x_preferred":[
         "Santa Ana"
@@ -72,6 +87,12 @@
     ],
     "name:kor_x_preferred":[
         "\uc0b0\ud0c0\uc544\ub098"
+    ],
+    "name:lav_x_preferred":[
+        "Santa Ana"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Ana"
     ],
     "name:nan_x_preferred":[
         "Santa Ana"
@@ -166,7 +187,7 @@
         }
     ],
     "wof:id":421182967,
-    "wof:lastmodified":1636495873,
+    "wof:lastmodified":1690930339,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

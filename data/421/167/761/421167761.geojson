@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Cucuyagua"
     ],
+    "name:eus_x_preferred":[
+        "Cucuyagua"
+    ],
     "name:fra_x_preferred":[
         "Cucuyagua"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421167761,
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1690930240,
     "wof:name":"Cucuyagua",
     "wof:parent_id":421182895,
     "wof:placetype":"locality",

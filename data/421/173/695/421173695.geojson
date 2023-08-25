@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Bel\u00e9n Gualcho"
     ],
+    "name:eus_x_preferred":[
+        "Bel\u00e9n Gualcho"
+    ],
     "name:fra_x_preferred":[
         "Bel\u00e9n Gualcho"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421173695,
-    "wof:lastmodified":1566645839,
+    "wof:lastmodified":1690930258,
     "wof:name":"Bel\u00e9n Gualcho",
     "wof:parent_id":421169617,
     "wof:placetype":"locality",

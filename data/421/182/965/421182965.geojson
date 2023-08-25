@@ -37,10 +37,16 @@
     "name:ben_x_preferred":[
         "\u09b8\u09be\u09a8 \u09ae\u09be\u09b0\u09cd\u0995\u09cb\u09b8"
     ],
+    "name:ceb_x_preferred":[
+        "San Marcos"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u039c\u03ac\u03c1\u03ba\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
+        "San Marcos"
+    ],
+    "name:eus_x_preferred":[
         "San Marcos"
     ],
     "name:fas_x_preferred":[
@@ -154,7 +160,7 @@
         }
     ],
     "wof:id":421182965,
-    "wof:lastmodified":1636495870,
+    "wof:lastmodified":1690930327,
     "wof:name":"San Marcos",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

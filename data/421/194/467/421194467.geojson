@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Vallecillo"
+    ],
     "name:eng_x_preferred":[
+        "Vallecillo"
+    ],
+    "name:eus_x_preferred":[
         "Vallecillo"
     ],
     "name:fra_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421194467,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1690930232,
     "wof:name":"Vallecillo",
     "wof:parent_id":421188527,
     "wof:placetype":"locality",

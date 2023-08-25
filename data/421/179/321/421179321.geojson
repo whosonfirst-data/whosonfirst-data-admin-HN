@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lejaman\u00ed"
     ],
+    "name:eus_x_preferred":[
+        "Lejamani"
+    ],
     "name:fra_x_preferred":[
         "Lejaman\u00ed"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179321,
-    "wof:lastmodified":1566646002,
+    "wof:lastmodified":1690930325,
     "wof:name":"Lejaman\u00ed",
     "wof:parent_id":421188773,
     "wof:placetype":"locality",

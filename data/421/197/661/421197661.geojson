@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "El Progreso"
     ],
+    "name:eus_x_preferred":[
+        "El Progreso"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0644 \u067e\u0631\u0648\u06af\u0631\u0633\u0648"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:hun_x_preferred":[
         "El Progreso"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c \u054a\u0580\u0578\u0563\u0580\u0565\u057d\u0578"
     ],
     "name:ind_x_preferred":[
         "El Progreso"
@@ -74,6 +80,9 @@
     "name:nld_x_preferred":[
         "El Progreso"
     ],
+    "name:nob_x_preferred":[
+        "El Progreso"
+    ],
     "name:pol_x_preferred":[
         "El Progreso"
     ],
@@ -89,6 +98,9 @@
     "name:swe_x_preferred":[
         "El Progreso"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u043b-\u041f\u0440\u043e\u0433\u0440\u0435\u0441\u043e"
+    ],
     "name:tur_x_preferred":[
         "El Progreso"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644 \u067e\u0631\u0648\u06af\u0631\u06cc\u0633\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "El Progreso"
     ],
     "name:vie_x_preferred":[
         "El Progreso"
@@ -159,7 +174,7 @@
         }
     ],
     "wof:id":421197661,
-    "wof:lastmodified":1636495864,
+    "wof:lastmodified":1690930298,
     "wof:name":"El Progreso",
     "wof:parent_id":421188755,
     "wof:placetype":"locality",

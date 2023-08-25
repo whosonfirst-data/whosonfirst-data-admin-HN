@@ -17,8 +17,20 @@
     "mz:is_current":1,
     "mz:min_zoom":6.7,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Trujillo"
+    ],
+    "name:bre_x_preferred":[
+        "Trujillo"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0440\u0443\u0445\u0438\u043b\u044c\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Trujillo"
+    ],
+    "name:ceb_x_preferred":[
+        "Trujillo"
     ],
     "name:ces_x_preferred":[
         "Trujillo"
@@ -36,6 +48,9 @@
         "Trujillo"
     ],
     "name:epo_x_preferred":[
+        "Trujillo"
+    ],
+    "name:eus_x_preferred":[
         "Trujillo"
     ],
     "name:fas_x_preferred":[
@@ -63,6 +78,9 @@
     "name:hun_x_preferred":[
         "Trujillo"
     ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0578\u0582\u056d\u056b\u056c\u056b\u0578"
+    ],
     "name:ind_x_preferred":[
         "Trujillo"
     ],
@@ -88,6 +106,9 @@
         "Trujillo"
     ],
     "name:nob_x_preferred":[
+        "Trujillo"
+    ],
+    "name:pol_x_preferred":[
         "Trujillo"
     ],
     "name:por_x_preferred":[
@@ -274,7 +295,7 @@
         }
     ],
     "wof:id":421186499,
-    "wof:lastmodified":1636495855,
+    "wof:lastmodified":1690930274,
     "wof:name":"Trujillo",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

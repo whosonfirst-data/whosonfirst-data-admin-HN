@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.5,
     "mz:min_zoom":4.5,
+    "name:abk_x_preferred":[
+        "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+    ],
     "name:ace_x_preferred":[
         "Honduras"
     ],
@@ -40,11 +43,23 @@
     "name:aka_x_preferred":[
         "H\u0254nduras"
     ],
+    "name:aka_x_variant":[
+        "Honduras"
+    ],
     "name:als_x_preferred":[
         "Honduras"
     ],
     "name:amh_x_preferred":[
         "\u1206\u1295\u12f1\u122b\u1235"
+    ],
+    "name:ami_x_preferred":[
+        "Honduras"
+    ],
+    "name:ang_x_preferred":[
+        "Honduras"
+    ],
+    "name:anp_x_preferred":[
+        "\u0939\u094c\u0928\u094d\u0921\u0941\u0930\u0938"
     ],
     "name:ara_x_preferred":[
         "\u0647\u0646\u062f\u0648\u0631\u0627\u0633"
@@ -63,6 +78,9 @@
     ],
     "name:ast_x_preferred":[
         "Hondures"
+    ],
+    "name:avk_x_preferred":[
+        "Ondura"
     ],
     "name:aym_x_preferred":[
         "Honduras"
@@ -85,6 +103,9 @@
     "name:bam_x_variant":[
         "H\u0254ndirasi"
     ],
+    "name:ban_x_preferred":[
+        "Honduras"
+    ],
     "name:bar_x_preferred":[
         "Honduras"
     ],
@@ -102,6 +123,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0939\u094b\u0902\u0921\u0941\u0930\u093e\u0938"
+    ],
+    "name:bis_x_preferred":[
+        "Honduras"
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0f7c\u0f44\u0f0b\u0f51\u0f74\u0f0b\u0f62\u0f0b\u0f66\u0f72\u0f0d"
@@ -136,6 +160,9 @@
     "name:ceb_x_preferred":[
         "Honduras"
     ],
+    "name:ceb_x_variant":[
+        "Kawondurhan"
+    ],
     "name:ces_x_preferred":[
         "Honduras"
     ],
@@ -144,6 +171,9 @@
     ],
     "name:chu_x_preferred":[
         "\u041e\u043d\u0434\u043e\u0443\u0440\u0430\u0441\u044a"
+    ],
+    "name:chv_x_preferred":[
+        "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
     ],
     "name:chy_x_preferred":[
         "Honduras"
@@ -159,6 +189,9 @@
     ],
     "name:cym_x_preferred":[
         "Hondwras"
+    ],
+    "name:dag_x_preferred":[
+        "Honduras"
     ],
     "name:dan_x_preferred":[
         "Honduras"
@@ -274,6 +307,9 @@
     "name:gom_x_preferred":[
         "\u0939\u094b\u0902\u0921\u0941\u0930\u093e\u0938"
     ],
+    "name:gpe_x_preferred":[
+        "Honduras"
+    ],
     "name:grn_x_preferred":[
         "Ond\u00fara"
     ],
@@ -306,6 +342,9 @@
     ],
     "name:hif_x_preferred":[
         "Honduras"
+    ],
+    "name:hil_x_preferred":[
+        "Kaondurhan"
     ],
     "name:hin_x_preferred":[
         "\u0939\u094c\u0923\u094d\u0921\u0941\u0930\u0938"
@@ -404,6 +443,9 @@
     "name:kor_x_preferred":[
         "\uc628\ub450\ub77c\uc2a4"
     ],
+    "name:krj_x_preferred":[
+        "Kaondurhan"
+    ],
     "name:kur_x_preferred":[
         "Hond\u00fbras"
     ],
@@ -440,6 +482,9 @@
     "name:lit_x_preferred":[
         "Hond\u016bras"
     ],
+    "name:lld_x_preferred":[
+        "Honduras"
+    ],
     "name:lmo_x_preferred":[
         "Honduras"
     ],
@@ -461,6 +506,9 @@
     "name:lzh_x_preferred":[
         "\u5b8f\u90fd\u62c9\u65af"
     ],
+    "name:mad_x_preferred":[
+        "Honduras"
+    ],
     "name:mal_x_preferred":[
         "\u0d39\u0d4b\u0d23\u0d4d\u0d1f\u0d41\u0d31\u0d3e\u0d38\u0d4d"
     ],
@@ -470,8 +518,14 @@
     "name:mar_x_variant":[
         "\u0939\u094b\u0902\u0921\u0941\u0930\u093e\u091c\u094d"
     ],
+    "name:mdf_x_preferred":[
+        "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+    ],
     "name:mhr_x_preferred":[
         "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+    ],
+    "name:min_x_preferred":[
+        "Honduras"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
@@ -485,8 +539,17 @@
     "name:mlt_x_preferred":[
         "\u0126onduras"
     ],
+    "name:mlt_x_variant":[
+        "Honduras"
+    ],
+    "name:mni_x_preferred":[
+        "\uabcd\uabe3\uabdf\uabd7\uabe8\uabd4\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "Honotura"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
@@ -503,14 +566,23 @@
     "name:myv_x_preferred":[
         "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
     ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0646\u062f\u0648\u0631\u0627\u0633"
+    ],
     "name:nah_x_preferred":[
         "Honduras"
     ],
     "name:nan_x_preferred":[
         "Honduras"
     ],
+    "name:nap_x_preferred":[
+        "Honduras"
+    ],
     "name:nau_x_preferred":[
         "Ondurat"
+    ],
+    "name:nav_x_preferred":[
+        "T\u00e9\u00e9hnii Bik\u00e9yah"
     ],
     "name:nde_x_preferred":[
         "Honduras"
@@ -566,6 +638,9 @@
     ],
     "name:pam_x_preferred":[
         "Honduras"
+    ],
+    "name:pam_x_variant":[
+        "Kaonduran"
     ],
     "name:pan_x_preferred":[
         "\u0a39\u0a3e\u0a02\u0a21\u0a42\u0a30\u0a3e\u0a38"
@@ -633,6 +708,9 @@
     "name:sat_x_preferred":[
         "\u1c66\u1c73\u1c71\u1c70\u1c69\u1c68\u1c5f\u1c65"
     ],
+    "name:sat_x_variant":[
+        "\u1c66\u1c5a\u1c71\u1c70\u1c69\u1c68\u1c5f\u1c65"
+    ],
     "name:scn_x_preferred":[
         "Honduras"
     ],
@@ -641,6 +719,9 @@
     ],
     "name:sgs_x_preferred":[
         "Huond\u016brs"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1081\u103d\u107c\u103a\u1087\u1010\u1030\u1038\u101b\u1085\u1010\u103a\u1088"
     ],
     "name:sin_x_preferred":[
         "\u0dc4\u0ddc\u0db1\u0dca\u0da9\u0dd4\u0dbb\u0dcf\u0dc3\u0dca"
@@ -657,11 +738,17 @@
     "name:sme_x_preferred":[
         "Honduras"
     ],
+    "name:smj_x_preferred":[
+        "Hondurra"
+    ],
     "name:smn_x_preferred":[
         "Honduras"
     ],
     "name:smo_x_preferred":[
         "Honilagi"
+    ],
+    "name:sms_x_preferred":[
+        "Honduras"
     ],
     "name:sna_x_preferred":[
         "Honduras"
@@ -730,6 +817,9 @@
     "name:tat_x_variant":[
         "\u04ba\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
     ],
+    "name:tay_x_preferred":[
+        "Honduras"
+    ],
     "name:tel_x_preferred":[
         "\u0c39\u0c4b\u0c02\u0c21\u0c41\u0c30\u0c3e\u0c38\u0c4d"
     ],
@@ -745,6 +835,9 @@
     "name:tgl_x_preferred":[
         "Honduras"
     ],
+    "name:tgl_x_variant":[
+        "Kaondurahan"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e2e\u0e2d\u0e19\u0e14\u0e39\u0e23\u0e31\u0e2a"
     ],
@@ -754,8 +847,14 @@
     "name:tir_x_preferred":[
         "\u1206\u1295\u12f1\u122b\u1235"
     ],
+    "name:tok_x_preferred":[
+        "ma Ontula"
+    ],
     "name:ton_x_preferred":[
         "Honitulasi"
+    ],
+    "name:trv_x_preferred":[
+        "Honduras"
     ],
     "name:tuk_x_preferred":[
         "Gonduras"
@@ -786,6 +885,9 @@
     ],
     "name:vec_x_preferred":[
         "\u00d2nduras"
+    ],
+    "name:vec_x_variant":[
+        "Ond\u00f9ras"
     ],
     "name:vep_x_preferred":[
         "Gonduras"
@@ -1096,7 +1198,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1618362169,
+    "wof:lastmodified":1690930187,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

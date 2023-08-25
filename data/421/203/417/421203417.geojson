@@ -49,6 +49,9 @@
     "name:eng_x_variant":[
         "San Francisco Del Valle"
     ],
+    "name:eus_x_preferred":[
+        "San Francisco del Valle"
+    ],
     "name:fra_x_preferred":[
         "San Francisco del Valle"
     ],
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":421203417,
-    "wof:lastmodified":1636495848,
+    "wof:lastmodified":1690930248,
     "wof:name":"San Francisco",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

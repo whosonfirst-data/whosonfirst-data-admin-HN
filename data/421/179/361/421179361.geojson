@@ -29,6 +29,9 @@
     "name:arz_x_preferred":[
         "\u0641\u0631\u0627\u0646\u0643\u064a\u0627"
     ],
+    "name:ava_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u043d\u0433 \u043a\u044a\u0438\u0440\u0430\u043b\u0430\u0442"
+    ],
     "name:azb_x_preferred":[
         "\u0641\u0631\u0627\u0646\u06a9 \u062f\u0624\u0648\u0644\u062a\u06cc"
     ],
@@ -50,11 +53,17 @@
     "name:bul_x_preferred":[
         "\u0424\u0440\u0430\u043d\u043a\u0441\u043a\u0430 \u0438\u043c\u043f\u0435\u0440\u0438\u044f"
     ],
+    "name:bul_x_variant":[
+        "\u0424\u0440\u0430\u043d\u043a\u0441\u043a\u0430 \u0434\u044a\u0440\u0436\u0430\u0432\u0430"
+    ],
     "name:cat_x_preferred":[
         "Regne Franc"
     ],
     "name:ces_x_preferred":[
         "Fransk\u00e1 \u0159\u00ed\u0161e"
+    ],
+    "name:chv_x_preferred":[
+        "\u0424\u0440\u0430\u043d\u043a\u0441\u0435\u043d \u043f\u0430\u0442\u0448\u0430\u043b\u0103\u0445\u0115"
     ],
     "name:dan_x_preferred":[
         "Frankerriget"
@@ -167,8 +176,14 @@
     "name:ltz_x_preferred":[
         "Franker\u00e4ich"
     ],
+    "name:lzh_x_preferred":[
+        "\u6cd5\u862d\u514b\u738b\u570b"
+    ],
     "name:mkd_x_preferred":[
         "\u0418\u043c\u043f\u0435\u0440\u0438\u0458\u0430 \u043d\u0430 \u0424\u0440\u0430\u043d\u043a\u0438\u0442\u0435"
+    ],
+    "name:mkd_x_variant":[
+        "\u0424\u0440\u0430\u043d\u043a\u0438\u0458\u0430"
     ],
     "name:msa_x_preferred":[
         "Empayar Frank"
@@ -215,6 +230,9 @@
     "name:slv_x_preferred":[
         "Frankovsko cesarstvo"
     ],
+    "name:slv_x_variant":[
+        "frankovski imperij"
+    ],
     "name:spa_x_preferred":[
         "Reino de los francos en la \u00e9poca merovingia"
     ],
@@ -230,11 +248,20 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e41\u0e1f\u0e23\u0e07\u0e01\u0e4c"
     ],
+    "name:tur_x_preferred":[
+        "Frank Krall\u0131\u011f\u0131"
+    ],
     "name:ukr_x_preferred":[
         "\u0424\u0440\u0430\u043d\u043a\u0441\u044c\u043a\u0435 \u043a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e"
     ],
     "name:urd_x_preferred":[
         "\u0641\u0631\u0627\u0646\u06a9\u06cc\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Frank davlati"
+    ],
+    "name:vec_x_preferred":[
+        "Regno Franco"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ebf qu\u1ed1c Frank"
@@ -301,7 +328,7 @@
         }
     ],
     "wof:id":421179361,
-    "wof:lastmodified":1566645998,
+    "wof:lastmodified":1690930321,
     "wof:name":"Francia",
     "wof:parent_id":421191089,
     "wof:placetype":"locality",

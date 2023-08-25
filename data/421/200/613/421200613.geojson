@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0645\u0648\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0645\u0648\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Omoa"
+    ],
     "name:ceb_x_preferred":[
         "Omoa"
     ],
@@ -27,6 +33,9 @@
         "Omoa"
     ],
     "name:eng_x_preferred":[
+        "Omoa"
+    ],
+    "name:eus_x_preferred":[
         "Omoa"
     ],
     "name:fin_x_preferred":[
@@ -45,6 +54,9 @@
         "Omoa"
     ],
     "name:nan_x_preferred":[
+        "Omoa"
+    ],
+    "name:nds_x_preferred":[
         "Omoa"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +124,7 @@
         }
     ],
     "wof:id":421200613,
-    "wof:lastmodified":1566645954,
+    "wof:lastmodified":1690930302,
     "wof:name":"Omoa",
     "wof:parent_id":421172429,
     "wof:placetype":"locality",

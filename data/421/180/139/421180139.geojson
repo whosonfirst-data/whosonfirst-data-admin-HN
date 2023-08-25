@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Manto"
+    ],
     "name:eng_x_preferred":[
+        "Manto"
+    ],
+    "name:eus_x_preferred":[
         "Manto"
     ],
     "name:fra_x_preferred":[
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421180139,
-    "wof:lastmodified":1566645837,
+    "wof:lastmodified":1690930256,
     "wof:name":"Manto",
     "wof:parent_id":421182939,
     "wof:placetype":"locality",

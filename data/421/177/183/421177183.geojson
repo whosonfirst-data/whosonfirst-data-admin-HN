@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "El Triunfo"
+    ],
     "name:eng_x_preferred":[
+        "El Triunfo"
+    ],
+    "name:eus_x_preferred":[
         "El Triunfo"
     ],
     "name:fra_x_preferred":[
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":421177183,
-    "wof:lastmodified":1566645984,
+    "wof:lastmodified":1690930312,
     "wof:name":"El Triunfo",
     "wof:parent_id":421182907,
     "wof:placetype":"locality",

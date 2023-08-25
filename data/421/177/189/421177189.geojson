@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lepaera"
     ],
+    "name:eus_x_preferred":[
+        "Lepaera"
+    ],
     "name:fra_x_preferred":[
         "Lepaera"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421177189,
-    "wof:lastmodified":1566645983,
+    "wof:lastmodified":1690930311,
     "wof:name":"Lepaera",
     "wof:parent_id":421205531,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Veracruz"
+    ],
     "name:eng_x_preferred":[
+        "Veracruz"
+    ],
+    "name:eus_x_preferred":[
         "Veracruz"
     ],
     "name:fas_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421176245,
-    "wof:lastmodified":1566646048,
+    "wof:lastmodified":1690930345,
     "wof:name":"Veracruz",
     "wof:parent_id":421198895,
     "wof:placetype":"locality",

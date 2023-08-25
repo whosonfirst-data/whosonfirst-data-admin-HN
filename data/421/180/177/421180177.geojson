@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "San Manuel Colohete"
     ],
+    "name:eus_x_preferred":[
+        "San Manuel Colohete"
+    ],
     "name:fra_x_preferred":[
         "San Manuel Colohete"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421180177,
-    "wof:lastmodified":1566645838,
+    "wof:lastmodified":1690930257,
     "wof:name":"San Manuel de Colohete",
     "wof:parent_id":421186029,
     "wof:placetype":"locality",

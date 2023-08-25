@@ -43,6 +43,9 @@
     "name:eng_x_variant":[
         "San Matias"
     ],
+    "name:eus_x_preferred":[
+        "San Mat\u00edas"
+    ],
     "name:fra_x_preferred":[
         "San Mat\u00edas"
     ],
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":421199965,
-    "wof:lastmodified":1636495865,
+    "wof:lastmodified":1690930300,
     "wof:name":"San Matias",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

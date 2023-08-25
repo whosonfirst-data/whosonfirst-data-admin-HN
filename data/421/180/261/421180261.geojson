@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ilama"
     ],
+    "name:eus_x_preferred":[
+        "Ilama"
+    ],
     "name:fra_x_preferred":[
         "Ilama"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":421180261,
-    "wof:lastmodified":1566645836,
+    "wof:lastmodified":1690930254,
     "wof:name":"Ilama",
     "wof:parent_id":421182917,
     "wof:placetype":"locality",

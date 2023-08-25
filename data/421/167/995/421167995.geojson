@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Guanaja"
     ],
+    "name:eus_x_preferred":[
+        "Guanaja"
+    ],
     "name:fin_x_preferred":[
         "Guanaja"
     ],
@@ -56,11 +59,17 @@
     "name:kor_x_variant":[
         "\uad6c\uc544\ub098\uc57c\uc12c"
     ],
+    "name:lav_x_preferred":[
+        "Gvanaha"
+    ],
     "name:lit_x_preferred":[
         "Guanacha"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0928\u093e\u0939\u093e"
+    ],
+    "name:nds_x_preferred":[
+        "Guanaja"
     ],
     "name:nld_x_preferred":[
         "Guanaja"
@@ -121,7 +130,7 @@
         }
     ],
     "wof:id":421167995,
-    "wof:lastmodified":1566645804,
+    "wof:lastmodified":1690930239,
     "wof:name":"Guanaja",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

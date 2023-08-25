@@ -19,19 +19,241 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Chirinos"
+    ],
+    "name:arg_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ast_x_preferred":[
+        "Chirinos"
+    ],
+    "name:bar_x_preferred":[
+        "Chirinos"
+    ],
+    "name:bos_x_preferred":[
+        "Chirinos"
+    ],
+    "name:bre_x_preferred":[
+        "Chirinos"
+    ],
+    "name:cat_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ces_x_preferred":[
+        "Chirinos"
+    ],
+    "name:cor_x_preferred":[
+        "Chirinos"
+    ],
+    "name:crh_x_preferred":[
+        "Chirinos"
+    ],
+    "name:csb_x_preferred":[
+        "Chirinos"
+    ],
+    "name:cym_x_preferred":[
+        "Chirinos"
+    ],
+    "name:dag_x_preferred":[
+        "Chirinos"
+    ],
+    "name:dan_x_preferred":[
+        "Chirinos"
+    ],
+    "name:deu_x_preferred":[
+        "Chirinos"
+    ],
     "name:eng_x_preferred":[
+        "Chirinos"
+    ],
+    "name:epo_x_preferred":[
+        "Chirinos"
+    ],
+    "name:est_x_preferred":[
+        "Chirinos"
+    ],
+    "name:eus_x_preferred":[
+        "Chirinos"
+    ],
+    "name:fao_x_preferred":[
+        "Chirinos"
+    ],
+    "name:fin_x_preferred":[
+        "Chirinos"
+    ],
+    "name:fit_x_preferred":[
+        "Chirinos"
+    ],
+    "name:fra_x_preferred":[
+        "Chirinos"
+    ],
+    "name:fry_x_preferred":[
+        "Chirinos"
+    ],
+    "name:gla_x_preferred":[
+        "Chirinos"
+    ],
+    "name:gle_x_preferred":[
+        "Chirinos"
+    ],
+    "name:glg_x_preferred":[
+        "Chirinos"
+    ],
+    "name:glv_x_preferred":[
+        "Chirinos"
+    ],
+    "name:gsw_x_preferred":[
+        "Chirinos"
+    ],
+    "name:hrv_x_preferred":[
+        "Chirinos"
+    ],
+    "name:hsb_x_preferred":[
+        "Chirinos"
+    ],
+    "name:hun_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ibo_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ido_x_preferred":[
         "Chirinos"
     ],
     "name:ind_x_preferred":[
         "Chirinos"
     ],
+    "name:isl_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ita_x_preferred":[
+        "Chirinos"
+    ],
+    "name:jav_x_preferred":[
+        "Chirinos"
+    ],
+    "name:jut_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ksh_x_preferred":[
+        "Chirinos"
+    ],
+    "name:lad_x_preferred":[
+        "Chirinos"
+    ],
+    "name:lat_x_preferred":[
+        "Chirinos"
+    ],
+    "name:lit_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ltz_x_preferred":[
+        "Chirinos"
+    ],
+    "name:min_x_preferred":[
+        "Chirinos"
+    ],
+    "name:mlt_x_preferred":[
+        "Chirinos"
+    ],
+    "name:mri_x_preferred":[
+        "Chirinos"
+    ],
+    "name:msa_x_preferred":[
+        "Chirinos"
+    ],
+    "name:nds_x_preferred":[
+        "Chirinos"
+    ],
     "name:nld_x_preferred":[
+        "Chirinos"
+    ],
+    "name:nno_x_preferred":[
+        "Chirinos"
+    ],
+    "name:nob_x_preferred":[
+        "Chirinos"
+    ],
+    "name:oci_x_preferred":[
+        "Chirinos"
+    ],
+    "name:pms_x_preferred":[
+        "Chirinos"
+    ],
+    "name:pol_x_preferred":[
+        "Chirinos"
+    ],
+    "name:por_x_preferred":[
+        "Chirinos"
+    ],
+    "name:ron_x_preferred":[
         "Chirinos"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0438\u0440\u0438\u043d\u043e\u0441"
     ],
+    "name:sco_x_preferred":[
+        "Chirinos"
+    ],
+    "name:sje_x_preferred":[
+        "Chirinos"
+    ],
+    "name:slk_x_preferred":[
+        "Chirinos"
+    ],
+    "name:slv_x_preferred":[
+        "Chirinos"
+    ],
+    "name:sma_x_preferred":[
+        "Chirinos"
+    ],
+    "name:sme_x_preferred":[
+        "Chirinos"
+    ],
+    "name:smj_x_preferred":[
+        "Chirinos"
+    ],
+    "name:smn_x_preferred":[
+        "Chirinos"
+    ],
+    "name:sna_x_preferred":[
+        "Chirinos"
+    ],
     "name:spa_x_preferred":[
+        "Chirinos"
+    ],
+    "name:sqi_x_preferred":[
+        "Chirinos"
+    ],
+    "name:srd_x_preferred":[
+        "Chirinos"
+    ],
+    "name:swa_x_preferred":[
+        "Chirinos"
+    ],
+    "name:swe_x_preferred":[
+        "Chirinos"
+    ],
+    "name:tur_x_preferred":[
+        "Chirinos"
+    ],
+    "name:vie_x_preferred":[
+        "Chirinos"
+    ],
+    "name:vro_x_preferred":[
+        "Chirinos"
+    ],
+    "name:war_x_preferred":[
+        "Chirinos"
+    ],
+    "name:wln_x_preferred":[
+        "Chirinos"
+    ],
+    "name:xho_x_preferred":[
+        "Chirinos"
+    ],
+    "name:zul_x_preferred":[
         "Chirinos"
     ],
     "qs:name":"Chirinos",
@@ -67,7 +289,7 @@
         }
     ],
     "wof:id":890429353,
-    "wof:lastmodified":1566646075,
+    "wof:lastmodified":1690930352,
     "wof:name":"Chirinos",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

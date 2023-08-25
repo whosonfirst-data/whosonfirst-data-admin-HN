@@ -59,6 +59,12 @@
     "name:ces_x_preferred":[
         "San Sebasti\u00e1n"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u043d-\u0421\u0435\u0431\u0430\u0441\u0442\u044c\u044f\u043d"
+    ],
+    "name:cos_x_preferred":[
+        "San Sebastianu"
+    ],
     "name:cym_x_preferred":[
         "Donostia"
     ],
@@ -68,11 +74,17 @@
     "name:deu_x_preferred":[
         "Donostia/San Sebasti\u00e1n"
     ],
+    "name:deu_x_variant":[
+        "Donostia-San Sebasti\u00e1n"
+    ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bd \u03a3\u03b5\u03bc\u03c0\u03b1\u03c3\u03c4\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Donostia-San Sebastian"
+    ],
+    "name:eng_x_variant":[
+        "San Sebasti\u00e1n"
     ],
     "name:epo_x_preferred":[
         "Donostio"
@@ -100,6 +112,9 @@
     ],
     "name:gle_x_preferred":[
         "Donostia-San Sebasti\u00e1n"
+    ],
+    "name:gle_x_variant":[
+        "Donostia"
     ],
     "name:glg_x_preferred":[
         "Donostia"
@@ -158,11 +173,17 @@
     "name:lav_x_preferred":[
         "Sansebastjana"
     ],
+    "name:lav_x_variant":[
+        "Sansevastjana"
+    ],
     "name:lim_x_preferred":[
         "San Sebasti\u00e1n"
     ],
     "name:lit_x_preferred":[
         "San Sebastianas"
+    ],
+    "name:lld_x_preferred":[
+        "Donostia-San Sebasti\u00e1n"
     ],
     "name:ltz_x_preferred":[
         "San Sebasti\u00e1n"
@@ -172,6 +193,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u0928 \u0938\u0947\u092c\u093e\u0938\u094d\u0924\u093f\u092f\u0928"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0421\u0430\u043d-\u0421\u044d\u200e\u0431\u0430\u0441\u0442\u044c\u044f\u043d"
     ],
     "name:mkd_x_preferred":[
         "\u0414\u043e\u043d\u043e\u0441\u0442\u0438\u0458\u0430/\u0421\u0430\u043d \u0421\u0435\u0431\u0430\u0441\u0442\u0438\u0458\u0430\u043d"
@@ -251,10 +275,16 @@
     "name:spa_x_preferred":[
         "San Sebasti\u00e1n"
     ],
+    "name:srd_x_preferred":[
+        "Santu Sebastianu"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043d \u0421\u0435\u0431\u0430\u0441\u0442\u0438\u0458\u0430\u043d"
     ],
     "name:swe_x_preferred":[
+        "San Sebasti\u00e1n"
+    ],
+    "name:szl_x_preferred":[
         "San Sebasti\u00e1n"
     ],
     "name:tam_x_preferred":[
@@ -281,14 +311,26 @@
     "name:uzb_x_preferred":[
         "Donostia-San Sebasti\u00e1n"
     ],
+    "name:vec_x_preferred":[
+        "Donostia-San Sebasti\u00e1n"
+    ],
     "name:vie_x_preferred":[
         "San Sebasti\u00e1n"
+    ],
+    "name:vls_x_preferred":[
+        "San Sebastian"
     ],
     "name:war_x_preferred":[
         "San Sebasti\u00e1n"
     ],
     "name:wln_x_preferred":[
         "Donostia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5723\u585e\u74e6\u65af\u8482\u5b89"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d3\u05d0\u05b8\u05e0\u05d0\u05b8\u05e1\u05d8\u05d9\u05e2"
     ],
     "name:yue_x_preferred":[
         "\u8056\u585e\u5df4\u65af\u63d0\u5b89"
@@ -342,7 +384,7 @@
         }
     ],
     "wof:id":421198457,
-    "wof:lastmodified":1566645914,
+    "wof:lastmodified":1690930283,
     "wof:name":"San Sebasti\u00e1n",
     "wof:parent_id":421188523,
     "wof:placetype":"locality",

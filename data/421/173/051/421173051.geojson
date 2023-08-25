@@ -32,6 +32,9 @@
     "name:pol_x_preferred":[
         "Siguatepeque"
     ],
+    "name:spa_x_preferred":[
+        "Siguatepeque"
+    ],
     "name:swe_x_preferred":[
         "Siguatepeque"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":421173051,
-    "wof:lastmodified":1566645840,
+    "wof:lastmodified":1690930259,
     "wof:name":"Siguatepeque",
     "wof:parent_id":421188781,
     "wof:placetype":"locality",

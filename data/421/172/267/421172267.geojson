@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Guata"
     ],
+    "name:eus_x_preferred":[
+        "Guata"
+    ],
     "name:fra_x_preferred":[
         "Guata"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421172267,
-    "wof:lastmodified":1566645878,
+    "wof:lastmodified":1690930271,
     "wof:name":"La Guata",
     "wof:parent_id":421199915,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Cedros"
     ],
+    "name:eus_x_preferred":[
+        "Cedros"
+    ],
     "name:fra_x_preferred":[
         "Cedros"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421180127,
-    "wof:lastmodified":1566645837,
+    "wof:lastmodified":1690930255,
     "wof:name":"Cedros",
     "wof:parent_id":421198881,
     "wof:placetype":"locality",

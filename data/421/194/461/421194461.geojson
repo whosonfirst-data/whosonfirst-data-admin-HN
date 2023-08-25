@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Concordia"
     ],
+    "name:eus_x_preferred":[
+        "Concordia"
+    ],
     "name:fra_x_preferred":[
         "Concordia"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421194461,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1690930232,
     "wof:name":"Concordia",
     "wof:parent_id":421191347,
     "wof:placetype":"locality",

@@ -20,7 +20,13 @@
     "name:ceb_x_preferred":[
         "El Para\u00edso"
     ],
+    "name:deu_x_preferred":[
+        "El Para\u00edso"
+    ],
     "name:eng_x_preferred":[
+        "El Para\u00edso"
+    ],
+    "name:eus_x_preferred":[
         "El Para\u00edso"
     ],
     "name:fra_x_preferred":[
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":421190453,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1690930296,
     "wof:name":"El Para\u00edso",
     "wof:parent_id":1108701667,
     "wof:placetype":"locality",

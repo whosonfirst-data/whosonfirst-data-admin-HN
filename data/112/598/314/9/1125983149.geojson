@@ -25,8 +25,20 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0633\u0643\u0627\u0631\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0648\u0633\u0643\u0627\u0631\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Yuscar\u00e1n"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u0989\u09b8\u09cd\u0995\u09be\u09b0\u09be\u09a8"
+    ],
+    "name:bre_x_preferred":[
+        "Yuscar\u00e1n"
+    ],
+    "name:cat_x_preferred":[
+        "Yuscar\u00e1n"
     ],
     "name:ceb_x_preferred":[
         "Yuscar\u00e1n"
@@ -42,6 +54,12 @@
     ],
     "name:eng_x_preferred":[
         "Yuscar\u00e1n"
+    ],
+    "name:eus_x_preferred":[
+        "Yuscar\u00e1n"
+    ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0648\u0633\u06a9\u0627\u0631\u0627\u0646"
     ],
     "name:fin_x_preferred":[
         "Yuscar\u00e1n"
@@ -181,7 +199,7 @@
         }
     ],
     "wof:id":1125983149,
-    "wof:lastmodified":1566646096,
+    "wof:lastmodified":1690930358,
     "wof:name":"Yuscar\u00e1n",
     "wof:parent_id":421188533,
     "wof:placetype":"locality",

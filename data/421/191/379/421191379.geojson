@@ -34,10 +34,16 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u09cd\u09a4\u09be \u09ae\u09be\u09b0\u09bf\u09af\u09bc\u09be"
+    ],
     "name:cat_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:ceb_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:deu_x_preferred":[
         "Santa Mar\u00eda"
     ],
     "name:eng_x_preferred":[
@@ -45,6 +51,12 @@
     ],
     "name:eng_x_variant":[
         "Santa Maria"
+    ],
+    "name:epo_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Mar\u00eda"
     ],
     "name:fra_x_preferred":[
         "Santa Mar\u00eda"
@@ -54,6 +66,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30f3\u30bf\u30fb\u30de\u30ea\u30fc\u30a2"
+    ],
+    "name:lav_x_preferred":[
+        "Santa Mar\u00eda"
+    ],
+    "name:lit_x_preferred":[
+        "Santa Mar\u00eda"
     ],
     "name:nan_x_preferred":[
         "Santa Mar\u00eda"
@@ -151,7 +169,7 @@
         }
     ],
     "wof:id":421191379,
-    "wof:lastmodified":1636495862,
+    "wof:lastmodified":1690930288,
     "wof:name":"Santa Maria",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

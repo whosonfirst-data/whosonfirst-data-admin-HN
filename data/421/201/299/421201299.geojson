@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Ojojona"
     ],
+    "name:eus_x_preferred":[
+        "Ojojona"
+    ],
     "name:fra_x_preferred":[
         "Ojojona"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421201299,
-    "wof:lastmodified":1566645959,
+    "wof:lastmodified":1690930305,
     "wof:name":"Ojojona",
     "wof:parent_id":421205119,
     "wof:placetype":"locality",

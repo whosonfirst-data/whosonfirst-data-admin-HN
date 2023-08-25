@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Campamento"
     ],
+    "name:eus_x_preferred":[
+        "Campamento"
+    ],
     "name:fin_x_preferred":[
         "Campamento"
     ],
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":421178879,
-    "wof:lastmodified":1566646003,
+    "wof:lastmodified":1690930326,
     "wof:name":"Campamento",
     "wof:parent_id":421191669,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "La Virtud"
     ],
+    "name:eus_x_preferred":[
+        "La Virtud"
+    ],
     "name:fra_x_preferred":[
         "La Virtud"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421197655,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1690930299,
     "wof:name":"La Virtud",
     "wof:parent_id":421182579,
     "wof:placetype":"locality",

@@ -23,11 +23,23 @@
     "name:ceb_x_preferred":[
         "La Lima"
     ],
+    "name:deu_x_preferred":[
+        "La Lima"
+    ],
     "name:eng_x_preferred":[
         "La Lima"
     ],
+    "name:eus_x_preferred":[
+        "La Lima"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627 \u0644\u06cc\u0645\u0627"
+    ],
     "name:fra_x_preferred":[
         "La Lima"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561 \u053c\u056b\u0574\u0561"
     ],
     "name:ita_x_preferred":[
         "La Lima"
@@ -57,6 +69,9 @@
         "La Lima"
     ],
     "name:swe_x_preferred":[
+        "La Lima"
+    ],
+    "name:szl_x_preferred":[
         "La Lima"
     ],
     "name:und_x_variant":[
@@ -115,7 +130,7 @@
         }
     ],
     "wof:id":421177305,
-    "wof:lastmodified":1566645983,
+    "wof:lastmodified":1690930312,
     "wof:name":"La Lima",
     "wof:parent_id":421204279,
     "wof:placetype":"locality",

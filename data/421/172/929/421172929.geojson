@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Santa Maria del Real"
     ],
+    "name:eng_x_variant":[
+        "Santa Mar\u00eda del Real"
+    ],
+    "name:eus_x_preferred":[
+        "Santa Mar\u00eda del Real"
+    ],
     "name:fra_x_preferred":[
         "Santa Mar\u00eda del Real"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421172929,
-    "wof:lastmodified":1566645885,
+    "wof:lastmodified":1690930274,
     "wof:name":"Santa Mar\u00eda del Real",
     "wof:parent_id":890420201,
     "wof:placetype":"locality",

@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "San Isidro"
+    ],
     "name:eng_x_preferred":[
+        "San Isidro"
+    ],
+    "name:eus_x_preferred":[
         "San Isidro"
     ],
     "name:fra_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421190457,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1690930297,
     "wof:name":"San Isidro",
     "wof:parent_id":421170711,
     "wof:placetype":"locality",

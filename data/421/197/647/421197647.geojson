@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Puerto Castilla"
+    ],
     "name:cat_x_preferred":[
         "Puerto Castilla"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421197647,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1690930299,
     "wof:name":"Puerto Castilla",
     "wof:parent_id":421188783,
     "wof:placetype":"locality",

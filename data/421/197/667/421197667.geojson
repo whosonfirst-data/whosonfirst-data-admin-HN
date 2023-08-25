@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Arada"
     ],
+    "name:eus_x_preferred":[
+        "Arada"
+    ],
     "name:fra_x_preferred":[
         "Arada"
     ],
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":421197667,
-    "wof:lastmodified":1566645947,
+    "wof:lastmodified":1690930297,
     "wof:name":"Arada",
     "wof:parent_id":421182565,
     "wof:placetype":"locality",

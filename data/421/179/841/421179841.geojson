@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "San Pedro Zacapa"
     ],
+    "name:eus_x_preferred":[
+        "San Pedro Zacapa"
+    ],
     "name:fra_x_preferred":[
         "San Pedro Zacapa"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421179841,
-    "wof:lastmodified":1566646000,
+    "wof:lastmodified":1690930323,
     "wof:name":"San Pedro Zacapa",
     "wof:parent_id":421188521,
     "wof:placetype":"locality",

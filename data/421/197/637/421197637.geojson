@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Silca"
     ],
+    "name:eus_x_preferred":[
+        "Silca"
+    ],
     "name:fra_x_preferred":[
         "Silca"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":421197637,
-    "wof:lastmodified":1566645948,
+    "wof:lastmodified":1690930299,
     "wof:name":"Silca",
     "wof:parent_id":421191383,
     "wof:placetype":"locality",

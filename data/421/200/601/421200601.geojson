@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Me\u00e1mbar"
     ],
+    "name:eus_x_preferred":[
+        "Meambar"
+    ],
     "name:fra_x_preferred":[
         "Me\u00e1mbar"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421200601,
-    "wof:lastmodified":1566645954,
+    "wof:lastmodified":1690930302,
     "wof:name":"Me\u00e1mbar",
     "wof:parent_id":421181805,
     "wof:placetype":"locality",

@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Liure"
     ],
+    "name:eus_x_preferred":[
+        "Liure"
+    ],
     "name:fra_x_preferred":[
         "Liure"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421185283,
-    "wof:lastmodified":1566646055,
+    "wof:lastmodified":1690930348,
     "wof:name":"Liure",
     "wof:parent_id":421188505,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "San Jos\u00e9"
     ],
+    "name:eus_x_preferred":[
+        "San Jos\u00e9"
+    ],
     "name:fra_x_preferred":[
         "San Jos\u00e9"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1125939387,
-    "wof:lastmodified":1566646090,
+    "wof:lastmodified":1690930357,
     "wof:name":"San Jos\u00e9 de Cop\u00e1n",
     "wof:parent_id":421198895,
     "wof:placetype":"locality",

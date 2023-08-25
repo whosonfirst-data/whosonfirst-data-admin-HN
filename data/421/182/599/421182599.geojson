@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Lepaterique"
     ],
+    "name:eus_x_preferred":[
+        "Lepaterique"
+    ],
     "name:fra_x_preferred":[
         "Lepaterique"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421182599,
-    "wof:lastmodified":1566646033,
+    "wof:lastmodified":1690930337,
     "wof:name":"Lepaterique",
     "wof:parent_id":421170707,
     "wof:placetype":"locality",

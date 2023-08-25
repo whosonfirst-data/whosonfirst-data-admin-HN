@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u0644\u0648\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u0644\u0648\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099a\u09b2\u09cb\u09ae\u09be"
     ],
@@ -47,6 +50,9 @@
     "name:epo_x_preferred":[
         "Choloma"
     ],
+    "name:eus_x_preferred":[
+        "Choloma"
+    ],
     "name:fin_x_preferred":[
         "Choloma"
     ],
@@ -58,6 +64,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091a\u094b\u0932\u094b\u092e\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u056c\u0578\u0574\u0561"
     ],
     "name:ind_x_preferred":[
         "Choloma"
@@ -115,6 +124,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bcb\u0bb2\u0bcb\u0bae\u0bbe"
+    ],
+    "name:tat_x_preferred":[
+        "\u0427\u043e\u043b\u043e\u043c\u0430"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c4a\u0c32\u0c4b\u0c2e\u0c3e"
@@ -189,7 +201,7 @@
         }
     ],
     "wof:id":421190455,
-    "wof:lastmodified":1566645946,
+    "wof:lastmodified":1690930296,
     "wof:name":"Choloma",
     "wof:parent_id":421185035,
     "wof:placetype":"locality",

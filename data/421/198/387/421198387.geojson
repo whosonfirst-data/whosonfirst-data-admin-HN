@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Esqu\u00edas"
     ],
+    "name:eus_x_preferred":[
+        "Esqu\u00edas"
+    ],
     "name:fra_x_preferred":[
         "Esqu\u00edas"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421198387,
-    "wof:lastmodified":1566645915,
+    "wof:lastmodified":1690930283,
     "wof:name":"Esqu\u00edas",
     "wof:parent_id":421203401,
     "wof:placetype":"locality",

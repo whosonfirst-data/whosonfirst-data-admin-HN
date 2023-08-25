@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Yorito"
     ],
+    "name:eus_x_preferred":[
+        "Yorito"
+    ],
     "name:fra_x_preferred":[
         "Yorito"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":421188987,
-    "wof:lastmodified":1636495854,
+    "wof:lastmodified":1690930270,
     "wof:name":"Yoro",
     "wof:parent_id":421188477,
     "wof:placetype":"locality",

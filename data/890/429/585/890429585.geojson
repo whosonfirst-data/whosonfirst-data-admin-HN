@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Sab\u00e1"
     ],
+    "name:eus_x_preferred":[
+        "Sab\u00e1"
+    ],
     "name:fra_x_preferred":[
         "Sab\u00e1"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:swe_x_preferred":[
         "Sab\u00e1"
+    ],
+    "name:swe_x_variant":[
+        "Sav\u00e1"
     ],
     "name:und_x_variant":[
         "Sav\u00e1"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890429585,
-    "wof:lastmodified":1566646077,
+    "wof:lastmodified":1690930353,
     "wof:name":"Sab\u00e1",
     "wof:parent_id":421204589,
     "wof:placetype":"locality",

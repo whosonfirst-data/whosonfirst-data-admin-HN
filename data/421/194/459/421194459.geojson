@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Corqu\u00edn"
     ],
+    "name:eus_x_preferred":[
+        "Corqu\u00edn"
+    ],
     "name:fra_x_preferred":[
         "Corqu\u00edn"
     ],
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421194459,
-    "wof:lastmodified":1566645793,
+    "wof:lastmodified":1690930233,
     "wof:name":"Corqu\u00edn",
     "wof:parent_id":421194943,
     "wof:placetype":"locality",

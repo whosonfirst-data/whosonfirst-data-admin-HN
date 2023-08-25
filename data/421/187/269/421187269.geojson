@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Yamaranguila"
+    ],
     "name:eng_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:eus_x_preferred":[
         "Yamaranguila"
     ],
     "name:fra_x_preferred":[
@@ -36,6 +42,9 @@
         "Yamaranguila"
     ],
     "name:spa_x_preferred":[
+        "Yamaranguila"
+    ],
+    "name:swe_x_preferred":[
         "Yamaranguila"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":421187269,
-    "wof:lastmodified":1566645839,
+    "wof:lastmodified":1690930258,
     "wof:name":"Yamaranguila",
     "wof:parent_id":421181669,
     "wof:placetype":"locality",
