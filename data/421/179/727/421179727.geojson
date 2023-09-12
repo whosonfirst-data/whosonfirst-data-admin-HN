@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013581,
-    "geom:area_square_m":162682758.47883,
+    "geom:area_square_m":162682625.059782,
     "geom:bbox":"-88.422752,14.280832,-88.258743,14.466297",
     "geom:latitude":14.360026,
     "geom:longitude":-88.343841,
@@ -34,6 +34,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "San Miguel Guancapia"
+    ],
     "name:eng_x_variant":[
         "San Miguelito"
     ],
@@ -79,7 +82,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08a3021936ec472c3e3a36b1990bd7dc",
+    "wof:geomhash":"55f9b47373d1496d5eb92eff788570d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":421179727,
-    "wof:lastmodified":1628266712,
+    "wof:lastmodified":1694492881,
     "wof:name":"San Miguel Guancapia",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

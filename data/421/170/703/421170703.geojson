@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005653,
-    "geom:area_square_m":67063453.610746,
+    "geom:area_square_m":67063371.217272,
     "geom:bbox":"-86.519806,15.945,-86.122475,16.447418",
     "geom:latitude":16.390108,
     "geom:longitude":-86.329821,
@@ -41,7 +41,7 @@
         "Jos\u00e9 Santos Guardiola"
     ],
     "name:eng_x_preferred":[
-        "Jos\u00e9 Santos Guardiola"
+        "Jose Santos Guardiola"
     ],
     "name:eng_x_variant":[
         "Jose Santos Guardiola"
@@ -124,7 +124,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a05c5d26ce8cd279d3f8f47a3a71f1cf",
+    "wof:geomhash":"e48f2a328083bdcb8210507fd80825df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +134,7 @@
         }
     ],
     "wof:id":421170703,
-    "wof:lastmodified":1690930309,
+    "wof:lastmodified":1694492674,
     "wof:name":"Jose Santos Guardiola",
     "wof:parent_id":85671869,
     "wof:placetype":"county",
