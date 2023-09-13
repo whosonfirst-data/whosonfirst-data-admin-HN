@@ -1128,7 +1128,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"504",
     "statoids:ds":"",
     "statoids:fifa":"HON",
@@ -1202,7 +1202,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694492147,
+    "wof:lastmodified":1694639600,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
