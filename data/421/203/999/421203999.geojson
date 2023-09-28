@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03028,
-    "geom:area_square_m":361791231.74732,
+    "geom:area_square_m":361791017.185842,
     "geom:bbox":"-89.228142,14.712849,-89.031265,15.094914",
     "geom:latitude":14.922705,
     "geom:longitude":-89.136461,
@@ -124,12 +124,13 @@
         "wd:id":"Q2191693",
         "wk:page":"Cop\u00e1n Ruinas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010170,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f698bfa159eb2ecdbd8917a2f22f8b8",
+    "wof:geomhash":"7336cfcfb8e07efc6a01ebfb8d16cb71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421203999,
-    "wof:lastmodified":1690930244,
+    "wof:lastmodified":1695886608,
     "wof:name":"Copan Ruinas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014687,
-    "geom:area_square_m":175381429.799617,
+    "geom:area_square_m":175381629.922145,
     "geom:bbox":"-88.238464,14.992914,-88.02581,15.113304",
     "geom:latitude":15.051921,
     "geom:longitude":-88.126817,
@@ -114,12 +114,13 @@
         "qs_pg:id":956676,
         "wd:id":"Q2055833"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dd3d3079dcf601111dd653e4e7ab18f",
+    "wof:geomhash":"9b1502837ae0a854e9e04f2787466156",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421182917,
-    "wof:lastmodified":1690930343,
+    "wof:lastmodified":1695886694,
     "wof:name":"Ilama",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

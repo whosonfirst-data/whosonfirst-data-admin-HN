@@ -102,6 +102,7 @@
     "wof:concordances":{
         "hasc:id":"HN.IN.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504509,
     "wof:geomhash":"4de59b1537e801d7bf66e31190c5e4cf",
@@ -114,7 +115,7 @@
         }
     ],
     "wof:id":1108701685,
-    "wof:lastmodified":1694492404,
+    "wof:lastmodified":1695886359,
     "wof:name":"Monte Verde",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

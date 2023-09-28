@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033966,
-    "geom:area_square_m":404468706.697399,
+    "geom:area_square_m":404468856.119166,
     "geom:bbox":"-86.407516,15.531565,-86.09716,15.732731",
     "geom:latitude":15.630389,
     "geom:longitude":-86.25673,
@@ -129,12 +129,13 @@
         "qs_pg:id":971549,
         "wd:id":"Q1020581"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009365,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16986b9a14a03689b72eb30eaaf6ce27",
+    "wof:geomhash":"de9a84a35b98b482249e3251e393fc06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":421183307,
-    "wof:lastmodified":1690930313,
+    "wof:lastmodified":1695886672,
     "wof:name":"Sonaguera",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

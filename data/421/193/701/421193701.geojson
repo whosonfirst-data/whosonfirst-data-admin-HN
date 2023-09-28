@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00495,
-    "geom:area_square_m":59222076.548495,
+    "geom:area_square_m":59222049.312356,
     "geom:bbox":"-89.157738,14.584917,-89.008156,14.726563",
     "geom:latitude":14.652949,
     "geom:longitude":-89.101513,
@@ -119,12 +119,13 @@
         "wd:id":"Q1896807",
         "wk:page":"San Jorge, Ocotepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009780,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13d8dc81461d1cd8db159667f8151e18",
+    "wof:geomhash":"c59231df9c4ddeb32c4d2310f74ca575",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421193701,
-    "wof:lastmodified":1690930234,
+    "wof:lastmodified":1695886598,
     "wof:name":"San Jorge",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

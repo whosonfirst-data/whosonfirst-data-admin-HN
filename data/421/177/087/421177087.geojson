@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.329096,
-    "geom:area_square_m":3926746566.412498,
+    "geom:area_square_m":3926747137.541359,
     "geom:bbox":"-84.999977,14.724362,-84.508354,15.706491",
     "geom:latitude":15.210725,
     "geom:longitude":-84.783092,
@@ -124,12 +124,13 @@
         "wd:id":"Q2604385",
         "wk:page":"Wampusirpi"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009132,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"70829a810158e6df2531a2f889ea1b74",
+    "wof:geomhash":"763bbb0fdb2098aa3ab33aa84e3b1456",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421177087,
-    "wof:lastmodified":1690930312,
+    "wof:lastmodified":1695886671,
     "wof:name":"Wampusirpi",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

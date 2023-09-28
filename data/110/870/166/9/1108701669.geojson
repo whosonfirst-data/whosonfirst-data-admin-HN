@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034914,
-    "geom:area_square_m":417574130.869045,
+    "geom:area_square_m":417574551.934627,
     "geom:bbox":"-87.339119,14.558929,-87.097366,14.861129",
     "geom:latitude":14.708178,
     "geom:longitude":-87.221999,
@@ -135,9 +135,10 @@
     "wof:concordances":{
         "hasc:id":"HN.FM.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504391,
-    "wof:geomhash":"3c46ceadf914018ccc86808a25d6fcea",
+    "wof:geomhash":"597fa55fa15d6c0de5c42fa933835ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":1108701669,
-    "wof:lastmodified":1636495825,
+    "wof:lastmodified":1695886662,
     "wof:name":"El Porvenir",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

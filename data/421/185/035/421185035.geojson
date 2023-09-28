@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039357,
-    "geom:area_square_m":468629374.091926,
+    "geom:area_square_m":468629784.212966,
     "geom:bbox":"-88.091141,15.539175,-87.77169,15.758631",
     "geom:latitude":15.643523,
     "geom:longitude":-87.934017,
@@ -216,12 +216,13 @@
         "wd:id":"Q998218",
         "wk:page":"Choloma"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009430,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd70594968a03938d79e7fc59965e65c",
+    "wof:geomhash":"fae161161f07a94005d75153f46aa2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":421185035,
-    "wof:lastmodified":1690930348,
+    "wof:lastmodified":1695886694,
     "wof:name":"Choloma",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

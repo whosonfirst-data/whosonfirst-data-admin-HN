@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018087,
-    "geom:area_square_m":217770443.431588,
+    "geom:area_square_m":217770348.806811,
     "geom:bbox":"-87.220085,13.039319,-87.072861,13.263126",
     "geom:latitude":13.160247,
     "geom:longitude":-87.1349,
@@ -117,12 +117,13 @@
         "qs_pg:id":1097292,
         "wd:id":"Q2602518"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"00b3c163eb4b33fe147070a12a53d021",
+    "wof:geomhash":"826ac597685e7486af81de581b6ea07f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421188503,
-    "wof:lastmodified":1690930262,
+    "wof:lastmodified":1695886620,
     "wof:name":"Namasigue",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

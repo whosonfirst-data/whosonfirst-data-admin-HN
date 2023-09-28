@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008709,
-    "geom:area_square_m":104650457.674423,
+    "geom:area_square_m":104650459.339441,
     "geom:bbox":"-86.888054,13.561423,-86.749092,13.702801",
     "geom:latitude":13.635146,
     "geom:longitude":-86.807255,
@@ -120,12 +120,13 @@
         "qs_pg:id":956670,
         "wd:id":"Q2090091"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6e39ca147e94444325eb84a1748464f",
+    "wof:geomhash":"976c5c43bc491bb33b19f0c297955828",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182903,
-    "wof:lastmodified":1690930338,
+    "wof:lastmodified":1695886689,
     "wof:name":"Duyure",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

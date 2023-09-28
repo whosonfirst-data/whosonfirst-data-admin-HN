@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026371,
-    "geom:area_square_m":315131879.06122,
+    "geom:area_square_m":315131931.369274,
     "geom:bbox":"-89.144905,14.773036,-88.939224,14.970896",
     "geom:latitude":14.886769,
     "geom:longitude":-89.036013,
@@ -169,12 +169,13 @@
         "wd:id":"Q2394334",
         "wk:page":"Santa Rita, Santa B\u00e1rbara"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd29e705c95df20088777f22cc0d5057",
+    "wof:geomhash":"41c3e75fa34cca645557807624ca371a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -184,7 +185,7 @@
         }
     ],
     "wof:id":421191381,
-    "wof:lastmodified":1690930295,
+    "wof:lastmodified":1695886692,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

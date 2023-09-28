@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019715,
-    "geom:area_square_m":235504805.666496,
+    "geom:area_square_m":235505233.83296,
     "geom:bbox":"-87.390686,14.875575,-87.184212,15.044827",
     "geom:latitude":14.972486,
     "geom:longitude":-87.278599,
@@ -120,12 +120,13 @@
         "qs_pg:id":971550,
         "wd:id":"Q727616"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009364,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9fa08d7b34c333314857ae7e28a3004c",
+    "wof:geomhash":"bb926482e9214e592ad58554c9cfb5ca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421183293,
-    "wof:lastmodified":1690930314,
+    "wof:lastmodified":1695886673,
     "wof:name":"Sulaco",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

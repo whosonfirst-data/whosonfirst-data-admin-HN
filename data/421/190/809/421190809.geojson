@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012962,
-    "geom:area_square_m":154753744.47854,
+    "geom:area_square_m":154753753.697372,
     "geom:bbox":"-88.680695,15.001077,-88.546516,15.166502",
     "geom:latitude":15.078057,
     "geom:longitude":-88.617767,
@@ -117,12 +117,13 @@
         "qs_pg:id":892472,
         "wd:id":"Q2362030"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009669,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e186475ce2df9f600b10caccc06d9b30",
+    "wof:geomhash":"f57f67a88f8d335d3f5f16d8a4384d90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421190809,
-    "wof:lastmodified":1690930296,
+    "wof:lastmodified":1695886659,
     "wof:name":"Proteccion",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

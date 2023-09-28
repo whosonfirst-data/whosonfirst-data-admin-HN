@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02126,
-    "geom:area_square_m":254209994.702667,
+    "geom:area_square_m":254209830.806309,
     "geom:bbox":"-86.635399,14.681649,-86.424652,14.870281",
     "geom:latitude":14.762952,
     "geom:longitude":-86.527394,
@@ -118,12 +118,13 @@
         "wd:id":"Q2394989",
         "wk:page":"Silca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8132d0c9f3f5f8aaddd700c5b6015c9e",
+    "wof:geomhash":"1044fc9ad8dba6f48905eed6d97c484e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191383,
-    "wof:lastmodified":1690930289,
+    "wof:lastmodified":1695886651,
     "wof:name":"Silca",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

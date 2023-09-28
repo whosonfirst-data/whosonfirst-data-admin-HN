@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.089479,
-    "geom:area_square_m":1076922859.178961,
+    "geom:area_square_m":1076922833.032055,
     "geom:bbox":"-87.375191,12.987211,-87.039299,13.522587",
     "geom:latitude":13.260867,
     "geom:longitude":-87.231742,
@@ -116,12 +116,13 @@
         "hasc:id":"HN.CH.CH",
         "qs_pg:id":1103805
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009578,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f828041e51494fbfe1de05cbca49031f",
+    "wof:geomhash":"1cafa19c72c8a7868bda7c0b2472f32d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421188769,
-    "wof:lastmodified":1636495853,
+    "wof:lastmodified":1695886676,
     "wof:name":"Choluteca",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

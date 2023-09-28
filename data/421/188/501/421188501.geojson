@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032997,
-    "geom:area_square_m":394305894.040605,
+    "geom:area_square_m":394305775.384037,
     "geom:bbox":"-87.597641,14.734795,-87.248787,15.056875",
     "geom:latitude":14.892449,
     "geom:longitude":-87.453788,
@@ -94,12 +94,13 @@
         "qs_pg:id":1097291,
         "wd:id":"Q2116913"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa64391642d1381a0ff721758a288d75",
+    "wof:geomhash":"ab43d0b2b9cba5ec16696ded10a64850",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421188501,
-    "wof:lastmodified":1627522179,
+    "wof:lastmodified":1695886652,
     "wof:name":"Minas de Oro",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

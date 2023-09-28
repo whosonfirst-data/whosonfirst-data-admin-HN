@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035164,
-    "geom:area_square_m":420904450.525824,
+    "geom:area_square_m":420904642.254966,
     "geom:bbox":"-88.135567,14.42312,-87.89743,14.662828",
     "geom:latitude":14.528691,
     "geom:longitude":-88.023791,
@@ -94,12 +94,13 @@
         "qs_pg:id":956678,
         "wd:id":"Q2105288"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a7c1b46ee166c21120042f0a1c4a6eee",
+    "wof:geomhash":"02eb134e145ccc41013787a0acc0dc2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421182921,
-    "wof:lastmodified":1627522177,
+    "wof:lastmodified":1695886650,
     "wof:name":"Jesus de Otoro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

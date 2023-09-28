@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034747,
-    "geom:area_square_m":415398324.762731,
+    "geom:area_square_m":415398415.506752,
     "geom:bbox":"-86.936142,14.639317,-86.72364,14.939021",
     "geom:latitude":14.801392,
     "geom:longitude":-86.831443,
@@ -117,12 +117,13 @@
         "qs_pg:id":62660,
         "wd:id":"Q2394969"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8473aec9ce3c365bfce6c6f445641554",
+    "wof:geomhash":"9ee74829d570554c56c2e0098accc2da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421191349,
-    "wof:lastmodified":1690930289,
+    "wof:lastmodified":1695886652,
     "wof:name":"Guayape",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

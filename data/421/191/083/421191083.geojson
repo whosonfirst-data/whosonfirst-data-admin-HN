@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016523,
-    "geom:area_square_m":198384870.004074,
+    "geom:area_square_m":198385091.377367,
     "geom:bbox":"-86.772438,13.768334,-86.574722,13.940014",
     "geom:latitude":13.835073,
     "geom:longitude":-86.688252,
@@ -120,12 +120,13 @@
         "qs_pg:id":1130169,
         "wd:id":"Q2391972"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1852e20ddb7b3847680d201f153d8b17",
+    "wof:geomhash":"9630a0d67d315af8827cbca29faeaa63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191083,
-    "wof:lastmodified":1690930286,
+    "wof:lastmodified":1695886649,
     "wof:name":"Alauca",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

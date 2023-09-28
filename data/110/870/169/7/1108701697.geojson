@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031253,
-    "geom:area_square_m":372431979.21305,
+    "geom:area_square_m":372431979.212766,
     "geom:bbox":"-86.3067474365,15.3670406342,-86.0297698975,15.5952959061",
     "geom:latitude":15.478922,
     "geom:longitude":-86.170233,
@@ -259,9 +259,10 @@
     "wof:concordances":{
         "hasc:id":"HN.CL.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504567,
-    "wof:geomhash":"ffa23824a4eda814f9994b1bc3c3fdc8",
+    "wof:geomhash":"9f12431850c013714d307f67e4dd6bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -271,7 +272,7 @@
         }
     ],
     "wof:id":1108701697,
-    "wof:lastmodified":1566645554,
+    "wof:lastmodified":1695886361,
     "wof:name":"Saba",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

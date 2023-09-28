@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027808,
-    "geom:area_square_m":332528762.127546,
+    "geom:area_square_m":332528130.014377,
     "geom:bbox":"-87.159294,14.603469,-86.973892,14.853873",
     "geom:latitude":14.743991,
     "geom:longitude":-87.055937,
@@ -127,12 +127,13 @@
         "wd:id":"Q925890",
         "wk:page":"San Ignacio, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009701,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cdb4f06c5c30a352fabe2cec02ee9f30",
+    "wof:geomhash":"3f31a791d14bcdffdec4b20523ae49d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421191677,
-    "wof:lastmodified":1690930293,
+    "wof:lastmodified":1695886691,
     "wof:name":"San Ignacio",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

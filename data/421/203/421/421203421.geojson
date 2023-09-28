@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006658,
-    "geom:area_square_m":79683773.83586,
+    "geom:area_square_m":79683555.738153,
     "geom:bbox":"-88.163345,14.503983,-88.062019,14.626904",
     "geom:latitude":14.568312,
     "geom:longitude":-88.120926,
@@ -115,12 +115,13 @@
         "wd:id":"Q1646042",
         "wk:page":"San Isidro, Intibuc\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9d4d571664ae66b842bb70ecc469a80",
+    "wof:geomhash":"50273d9537fc0c2bdd07fad8bb5306bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421203421,
-    "wof:lastmodified":1690930248,
+    "wof:lastmodified":1695886611,
     "wof:name":"San Isidro",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

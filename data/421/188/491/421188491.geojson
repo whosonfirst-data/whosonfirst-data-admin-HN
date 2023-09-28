@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.187272,
-    "geom:area_square_m":2234709156.285192,
+    "geom:area_square_m":2234709086.529164,
     "geom:bbox":"-86.356796,14.920992,-85.771774,15.529252",
     "geom:latitude":15.193699,
     "geom:longitude":-86.078552,
@@ -117,12 +117,13 @@
         "qs_pg:id":1097275,
         "wd:id":"Q2394350"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"471af54c2b469c64a6ea0035cb3aea39",
+    "wof:geomhash":"ef97d8ed73f9f42818acdebdeb039699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421188491,
-    "wof:lastmodified":1690930263,
+    "wof:lastmodified":1695886622,
     "wof:name":"Gualaco",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

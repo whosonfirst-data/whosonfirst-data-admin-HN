@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017623,
-    "geom:area_square_m":210732014.302683,
+    "geom:area_square_m":210731944.916168,
     "geom:bbox":"-88.165154,14.642249,-87.98111,14.881539",
     "geom:latitude":14.746667,
     "geom:longitude":-88.09274,
@@ -114,12 +114,13 @@
         "qs_pg:id":1097319,
         "wd:id":"Q2394316"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009565,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c4b418abcb4578c787f42660ec047d75",
+    "wof:geomhash":"816e8952739775a1caf9caba245701a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421188521,
-    "wof:lastmodified":1690930264,
+    "wof:lastmodified":1695886623,
     "wof:name":"San Pedro Zacapa",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

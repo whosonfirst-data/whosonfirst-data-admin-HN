@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003869,
-    "geom:area_square_m":46464519.298923,
+    "geom:area_square_m":46464494.041147,
     "geom:bbox":"-87.525162,13.753516,-87.413101,13.821182",
     "geom:latitude":13.786312,
     "geom:longitude":-87.470747,
@@ -126,12 +126,13 @@
         "qs_pg:id":62619,
         "wd:id":"Q676725"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e2fd924aa7276c1f870d61bbea31036e",
+    "wof:geomhash":"ae076b454f4ee117539311925e812488",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421193683,
-    "wof:lastmodified":1690930237,
+    "wof:lastmodified":1695886602,
     "wof:name":"Alubaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015025,
-    "geom:area_square_m":179705415.164889,
+    "geom:area_square_m":179705687.559946,
     "geom:bbox":"-88.347885,14.643879,-88.151031,14.788236",
     "geom:latitude":14.700423,
     "geom:longitude":-88.229683,
@@ -91,12 +91,13 @@
         "qs_pg:id":62709,
         "wd:id":"Q2395039"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009780,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f891c6ac16046ddfe4d310310a51c3ee",
+    "wof:geomhash":"a8aadf62a7b1d4b1a876d75235fb1c9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421193699,
-    "wof:lastmodified":1627522182,
+    "wof:lastmodified":1695886658,
     "wof:name":"San Francisco de Ojuera",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

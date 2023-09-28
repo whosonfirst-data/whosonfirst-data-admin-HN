@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00631,
-    "geom:area_square_m":75426173.407642,
+    "geom:area_square_m":75426130.726234,
     "geom:bbox":"-88.774101,14.762319,-88.652504,14.858045",
     "geom:latitude":14.812395,
     "geom:longitude":-88.708134,
@@ -94,12 +94,13 @@
         "qs_pg:id":223174,
         "wd:id":"Q2657178"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010120,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f38833bab02fce12ab6fe3d867e9656",
+    "wof:geomhash":"b108edcb5995938d0650897a1bd65fb4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421202499,
-    "wof:lastmodified":1627522183,
+    "wof:lastmodified":1695886659,
     "wof:name":"San Juan de Opoa",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

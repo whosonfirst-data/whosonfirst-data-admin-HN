@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035365,
-    "geom:area_square_m":423165418.082449,
+    "geom:area_square_m":423165418.082417,
     "geom:bbox":"-88.7774581909,14.5109586716,-88.4949951172,14.7481861115",
     "geom:latitude":14.606193,
     "geom:longitude":-88.618722,
@@ -136,12 +136,13 @@
         "hasc:id":"HN.LE.GR",
         "qs_pg:id":1103786
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009577,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47eafcf3356e25af5646e62d785c6d1b",
+    "wof:geomhash":"79da757bd24c53a6a09e154201e1fabc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421188757,
-    "wof:lastmodified":1582319300,
+    "wof:lastmodified":1695886627,
     "wof:name":"Gracias",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

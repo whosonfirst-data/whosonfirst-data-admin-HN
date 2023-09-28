@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029072,
-    "geom:area_square_m":347114934.380199,
+    "geom:area_square_m":347115069.890179,
     "geom:bbox":"-86.624016,14.917712,-86.408554,15.202773",
     "geom:latitude":15.072024,
     "geom:longitude":-86.518759,
@@ -123,12 +123,13 @@
         "qs_pg:id":1168617,
         "wd:id":"Q371054"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009743,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88351cca0f48a62855fed5952d636275",
+    "wof:geomhash":"9facf39892e5639834f15b4068516e22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421192627,
-    "wof:lastmodified":1690930228,
+    "wof:lastmodified":1695886595,
     "wof:name":"Jano",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

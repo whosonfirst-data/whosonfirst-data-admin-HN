@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018285,
-    "geom:area_square_m":219241482.64892,
+    "geom:area_square_m":219241588.060336,
     "geom:bbox":"-88.118523,13.994319,-87.943069,14.254082",
     "geom:latitude":14.145984,
     "geom:longitude":-88.037254,
@@ -136,12 +136,13 @@
         "wd:id":"Q2331621",
         "wk:page":"Marcala"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009365,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a74e4c5e44eabb090b629aea43079b05",
+    "wof:geomhash":"4b8481074ea94a1eb5992ad6011f0796",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421183317,
-    "wof:lastmodified":1690930316,
+    "wof:lastmodified":1695886675,
     "wof:name":"Marcala",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

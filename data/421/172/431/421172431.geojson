@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005416,
-    "geom:area_square_m":64268078.378998,
+    "geom:area_square_m":64268160.610167,
     "geom:bbox":"-86.60318,16.267015,-86.433578,16.383762",
     "geom:latitude":16.333778,
     "geom:longitude":-86.520127,
@@ -176,12 +176,13 @@
         "qs_pg:id":1310477,
         "wd:id":"Q1419813"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008941,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2b129e987eb293f0f5c846312553b8dd",
+    "wof:geomhash":"994eb92f3ca2cf026d28ca5c0de5fec2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -191,7 +192,7 @@
         }
     ],
     "wof:id":421172431,
-    "wof:lastmodified":1690930272,
+    "wof:lastmodified":1695886635,
     "wof:name":"Roatan",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

@@ -119,6 +119,7 @@
         "qs_pg:id":1195483,
         "wd:id":"Q2564825"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008865,
     "wof:geom_alt":[
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":421170703,
-    "wof:lastmodified":1694492674,
+    "wof:lastmodified":1695886648,
     "wof:name":"Jose Santos Guardiola",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

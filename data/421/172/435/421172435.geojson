@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.097566,
-    "geom:area_square_m":1161389774.523783,
+    "geom:area_square_m":1161389774.523688,
     "geom:bbox":"-87.8020401001,15.5058069229,-87.3668899536,15.9284915924",
     "geom:latitude":15.70484,
     "geom:longitude":-87.582812,
@@ -127,12 +127,13 @@
         "hasc:id":"HN.AT.TE",
         "qs_pg:id":1310480
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008942,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d85e5e3e95ce60b41b0dc84153c7d77",
+    "wof:geomhash":"2c087a011437263b6e6b8932b4a476fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":421172435,
-    "wof:lastmodified":1582319309,
+    "wof:lastmodified":1695886637,
     "wof:name":"Tela",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

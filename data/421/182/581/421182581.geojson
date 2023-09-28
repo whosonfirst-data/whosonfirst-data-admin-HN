@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025728,
-    "geom:area_square_m":308462205.364393,
+    "geom:area_square_m":308462472.401463,
     "geom:bbox":"-87.785797,14.047388,-87.477798,14.24691",
     "geom:latitude":14.159242,
     "geom:longitude":-87.63319,
@@ -120,12 +120,13 @@
         "qs_pg:id":919276,
         "wd:id":"Q1643754"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009335,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c7cc364b4da92cef9625a73c9b28828",
+    "wof:geomhash":"e7b6b89dd69f473e75839b2b71fe3e2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182581,
-    "wof:lastmodified":1690930333,
+    "wof:lastmodified":1695886684,
     "wof:name":"Lamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

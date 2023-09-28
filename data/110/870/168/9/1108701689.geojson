@@ -53,6 +53,7 @@
     "wof:concordances":{
         "hasc:id":"HN.GD.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504525,
     "wof:geomhash":"a621942cde838db4df9a8203db939217",
@@ -65,7 +66,7 @@
         }
     ],
     "wof:id":1108701689,
-    "wof:lastmodified":1694492871,
+    "wof:lastmodified":1695886363,
     "wof:name":"Nueva Jerusalen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

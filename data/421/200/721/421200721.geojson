@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01033,
-    "geom:area_square_m":123508855.117977,
+    "geom:area_square_m":123509017.928873,
     "geom:bbox":"-87.516891,14.719354,-87.365654,14.833016",
     "geom:latitude":14.770984,
     "geom:longitude":-87.45359,
@@ -163,12 +163,13 @@
         "wd:id":"Q1643719",
         "wk:page":"San Luis, Comayagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010036,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9321cc1896c91c8f28fc0ac49d24c14b",
+    "wof:geomhash":"f4719dd72c36802cf5c57e6be3474831",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421200721,
-    "wof:lastmodified":1690930303,
+    "wof:lastmodified":1695886693,
     "wof:name":"San Luis",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

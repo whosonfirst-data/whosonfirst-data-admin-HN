@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008516,
-    "geom:area_square_m":101846806.724447,
+    "geom:area_square_m":101846397.936635,
     "geom:bbox":"-88.452888,14.653455,-88.317314,14.769844",
     "geom:latitude":14.709513,
     "geom:longitude":-88.379914,
@@ -130,9 +130,10 @@
         "hasc:id":"HN.LE.SR",
         "wd:id":"Q964647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504650,
-    "wof:geomhash":"c97ebcd5c52e6062af27ac556f07759d",
+    "wof:geomhash":"85c3b55563fe22488649854abdcd8d62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -142,7 +143,7 @@
         }
     ],
     "wof:id":1108701715,
-    "wof:lastmodified":1690930226,
+    "wof:lastmodified":1695886670,
     "wof:name":"San Rafael",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

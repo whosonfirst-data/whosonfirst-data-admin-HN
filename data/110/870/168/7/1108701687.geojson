@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"HN.IN.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504523,
     "wof:geomhash":"2674203e4616a8b9ef8308c577d19e6a",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108701687,
-    "wof:lastmodified":1694492871,
+    "wof:lastmodified":1695886363,
     "wof:name":"Nueva Esperanza",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

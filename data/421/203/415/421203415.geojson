@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006296,
-    "geom:area_square_m":75571334.010682,
+    "geom:area_square_m":75571394.950611,
     "geom:bbox":"-87.769913,13.841446,-87.667969,13.939208",
     "geom:latitude":13.893242,
     "geom:longitude":-87.716986,
@@ -133,12 +133,13 @@
         "wd:id":"Q2132360",
         "wk:page":"San Antonio del Norte"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c5c881e0529fe9da7ff7e65389a4470",
+    "wof:geomhash":"a0d3b010b22a0ce055e6c2fb26367eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -148,7 +149,7 @@
         }
     ],
     "wof:id":421203415,
-    "wof:lastmodified":1690930245,
+    "wof:lastmodified":1695886609,
     "wof:name":"San Antonio del Norte",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

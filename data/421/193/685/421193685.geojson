@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019089,
-    "geom:area_square_m":229557912.905248,
+    "geom:area_square_m":229558068.276715,
     "geom:bbox":"-87.121887,13.379583,-86.92025,13.540045",
     "geom:latitude":13.455259,
     "geom:longitude":-87.015696,
@@ -118,12 +118,13 @@
         "wd:id":"Q2360971",
         "wk:page":"Apacilagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d9515dd6a8572947e53e94e8f80d054",
+    "wof:geomhash":"12809c957d93d4e5d258dd823f3f3900",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421193685,
-    "wof:lastmodified":1690930237,
+    "wof:lastmodified":1695886602,
     "wof:name":"Apacilagua",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

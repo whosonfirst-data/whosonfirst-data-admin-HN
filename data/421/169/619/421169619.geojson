@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042962,
-    "geom:area_square_m":511392711.74341,
+    "geom:area_square_m":511392903.547403,
     "geom:bbox":"-85.853912,15.567088,-85.626236,15.858206",
     "geom:latitude":15.706898,
     "geom:longitude":-85.737778,
@@ -130,12 +130,13 @@
         "wd:id":"Q22089",
         "wk:page":"Bonito Oriental"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008817,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"274873d90b41c24a13300c9c53a4ffa0",
+    "wof:geomhash":"60959f736c7eebd8e204c39724319413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421169619,
-    "wof:lastmodified":1690930241,
+    "wof:lastmodified":1695886603,
     "wof:name":"Bonito Oriental",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028035,
-    "geom:area_square_m":335122022.172557,
+    "geom:area_square_m":335122042.282013,
     "geom:bbox":"-86.77491,14.70728,-86.514824,14.968403",
     "geom:latitude":14.821686,
     "geom:longitude":-86.636336,
@@ -121,12 +121,13 @@
         "wd:id":"Q2394865",
         "wk:page":"Salam\u00e1, Olancho"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"045ee48dda5a286152bca6c9ea1eb8e3",
+    "wof:geomhash":"011be16145c26c6404e6ccf2ddbadba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421182959,
-    "wof:lastmodified":1690930337,
+    "wof:lastmodified":1695886688,
     "wof:name":"Salama",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

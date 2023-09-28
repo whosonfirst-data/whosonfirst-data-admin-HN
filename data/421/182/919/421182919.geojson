@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009398,
-    "geom:area_square_m":112726427.039246,
+    "geom:area_square_m":112726513.745318,
     "geom:bbox":"-86.742111,13.961154,-86.611435,14.166986",
     "geom:latitude":14.049921,
     "geom:longitude":-86.686107,
@@ -120,12 +120,13 @@
         "qs_pg:id":956677,
         "wd:id":"Q2209633"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb7a8c5b5e0f7add8ae72ab4e977fba8",
+    "wof:geomhash":"e088bdf8541f2b06cf96f80d0ce31110",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182919,
-    "wof:lastmodified":1690930343,
+    "wof:lastmodified":1695886693,
     "wof:name":"Jacaleapa",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

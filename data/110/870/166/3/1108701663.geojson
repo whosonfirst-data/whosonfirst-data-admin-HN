@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"HN.CH.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504364,
     "wof:geomhash":"c4cb7fa786f90e8797999505a20ef077",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108701663,
-    "wof:lastmodified":1694492839,
+    "wof:lastmodified":1695886278,
     "wof:name":"Coraycito",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

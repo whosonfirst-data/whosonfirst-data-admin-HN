@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00542,
-    "geom:area_square_m":65092483.234975,
+    "geom:area_square_m":65092660.879717,
     "geom:bbox":"-87.122314,13.704893,-87.029915,13.80815",
     "geom:latitude":13.751106,
     "geom:longitude":-87.079573,
@@ -123,12 +123,13 @@
         "qs_pg:id":62756,
         "wd:id":"Q2392519"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3e135fc2c6868ea73187cd751282fc53",
+    "wof:geomhash":"3e154625180d9029fbefc4282644350a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421191391,
-    "wof:lastmodified":1690930284,
+    "wof:lastmodified":1695886647,
     "wof:name":"Yauyupe",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

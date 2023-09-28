@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005477,
-    "geom:area_square_m":65376922.273547,
+    "geom:area_square_m":65376797.183172,
     "geom:bbox":"-88.223183,15.093946,-88.100365,15.227943",
     "geom:latitude":15.135236,
     "geom:longitude":-88.163453,
@@ -118,12 +118,13 @@
         "qs_pg:id":884751,
         "wd:id":"Q2219807"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009766,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9277c6b54791972a969d4e26d66cc51e",
+    "wof:geomhash":"840b3ef53b5b480b4f9840047b631dcf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421193297,
-    "wof:lastmodified":1690930238,
+    "wof:lastmodified":1695886602,
     "wof:name":"Chinda",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

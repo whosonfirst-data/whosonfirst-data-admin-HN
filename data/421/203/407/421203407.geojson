@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013502,
-    "geom:area_square_m":161332288.234489,
+    "geom:area_square_m":161332489.357728,
     "geom:bbox":"-86.364235,14.818617,-86.223228,14.995399",
     "geom:latitude":14.904849,
     "geom:longitude":-86.289155,
@@ -117,12 +117,13 @@
         "qs_pg:id":62657,
         "wd:id":"Q568891"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"06308b5e465249fe7b41f71a1e853aee",
+    "wof:geomhash":"754f0ddb89cfca86518e6ac13eb7c3d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421203407,
-    "wof:lastmodified":1690930247,
+    "wof:lastmodified":1695886611,
     "wof:name":"Guarizama",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

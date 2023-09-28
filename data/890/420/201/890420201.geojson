@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020251,
-    "geom:area_square_m":242083347.8276,
+    "geom:area_square_m":242083286.993625,
     "geom:bbox":"-86.048981,14.629442,-85.909798,14.9359",
     "geom:latitude":14.818511,
     "geom:longitude":-85.962213,
@@ -103,12 +103,13 @@
         "wd:id":"Q305214",
         "wk:page":"Santa Maria del Real"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051323,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13d89e6907d40681306b7a53baf5f609",
+    "wof:geomhash":"79d616215709af86300217ca35efc005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":890420201,
-    "wof:lastmodified":1690930355,
+    "wof:lastmodified":1695886697,
     "wof:name":"Santa Maria del Real",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

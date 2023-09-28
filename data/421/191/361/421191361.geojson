@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03352,
-    "geom:area_square_m":400737720.113907,
+    "geom:area_square_m":400738010.634838,
     "geom:bbox":"-87.03817,14.638245,-86.82856,15.001498",
     "geom:latitude":14.797833,
     "geom:longitude":-86.945402,
@@ -118,12 +118,13 @@
         "wd:id":"Q304913",
         "wk:page":"Orica, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32737fc1352a546f497903bea590d724",
+    "wof:geomhash":"95019595d76c77f9f8211268799c1114",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191361,
-    "wof:lastmodified":1690930290,
+    "wof:lastmodified":1695886653,
     "wof:name":"Orica",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

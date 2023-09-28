@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014931,
-    "geom:area_square_m":179092930.26826,
+    "geom:area_square_m":179092922.207692,
     "geom:bbox":"-88.5298,13.963201,-88.376419,14.136439",
     "geom:latitude":14.056862,
     "geom:longitude":-88.464337,
@@ -117,12 +117,13 @@
         "qs_pg:id":62696,
         "wd:id":"Q2393748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009826,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8866faa5e467ac7344babbbb9e9261ea",
+    "wof:geomhash":"dc063dba7157005e6ba813c70e57aa2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421194963,
-    "wof:lastmodified":1690930230,
+    "wof:lastmodified":1695886596,
     "wof:name":"Piraera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003076,
-    "geom:area_square_m":36800078.277519,
+    "geom:area_square_m":36800058.665434,
     "geom:bbox":"-89.103905,14.633452,-88.990982,14.693204",
     "geom:latitude":14.664971,
     "geom:longitude":-89.049036,
@@ -105,12 +105,13 @@
         "wd:id":"Q2023539",
         "wk:page":"La Encarnaci\u00f3n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051811,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c3051764d95ad98feca90822028c3f1",
+    "wof:geomhash":"300c4ebcc4b1857a258bedcaf0f2a7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890429347,
-    "wof:lastmodified":1690930352,
+    "wof:lastmodified":1695886696,
     "wof:name":"La Encarnacion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

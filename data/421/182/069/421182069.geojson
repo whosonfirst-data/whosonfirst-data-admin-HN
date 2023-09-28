@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010605,
-    "geom:area_square_m":127380637.880857,
+    "geom:area_square_m":127380696.913553,
     "geom:bbox":"-87.031166,13.691128,-86.849724,13.798674",
     "geom:latitude":13.747848,
     "geom:longitude":-86.948601,
@@ -118,12 +118,13 @@
         "wd:id":"Q2392435",
         "wk:page":"San Lucas, El Para\u00edso"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009317,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0fa5970ecf2f8f836db3fcb201eb52c6",
+    "wof:geomhash":"d4340c5726f0d4cee2d6384c35b7140f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182069,
-    "wof:lastmodified":1690930340,
+    "wof:lastmodified":1695886691,
     "wof:name":"San Lucas",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

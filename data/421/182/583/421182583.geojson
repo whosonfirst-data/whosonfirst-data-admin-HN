@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011378,
-    "geom:area_square_m":136710028.532109,
+    "geom:area_square_m":136710036.321074,
     "geom:bbox":"-87.693848,13.582998,-87.56739,13.743505",
     "geom:latitude":13.657125,
     "geom:longitude":-87.629099,
@@ -126,12 +126,13 @@
         "qs_pg:id":919277,
         "wd:id":"Q2395542"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009335,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64914f88e95bfea0cf37d3ab4fb21032",
+    "wof:geomhash":"9205e5cf3ce3dc8591e4b1713d4ee3b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421182583,
-    "wof:lastmodified":1690930344,
+    "wof:lastmodified":1695886693,
     "wof:name":"Langue",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

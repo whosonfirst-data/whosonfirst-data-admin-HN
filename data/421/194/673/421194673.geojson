@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008368,
-    "geom:area_square_m":99847365.49758,
+    "geom:area_square_m":99847424.862509,
     "geom:bbox":"-88.022331,15.11318,-87.904549,15.253902",
     "geom:latitude":15.197686,
     "geom:longitude":-87.960086,
@@ -121,12 +121,13 @@
         "wd:id":"Q1644959",
         "wk:page":"Potrerillos, Cort\u00e9s"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009815,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0a7675568ae147090a8f91dc8f66934",
+    "wof:geomhash":"e837edcdd433ef8769b7e397d2064069",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421194673,
-    "wof:lastmodified":1690930231,
+    "wof:lastmodified":1695886597,
     "wof:name":"Potrerillos",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

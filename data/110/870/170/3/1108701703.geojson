@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013144,
-    "geom:area_square_m":156788506.048462,
+    "geom:area_square_m":156788271.890559,
     "geom:bbox":"-88.75824,15.213181,-88.577019,15.34045",
     "geom:latitude":15.2718,
     "geom:longitude":-88.668126,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.SB.NF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504608,
-    "wof:geomhash":"5a61f1a5c8a6e7113ec217f4fa7883f4",
+    "wof:geomhash":"a3dbe45d76d24ba475fb3e678a4f5571",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701703,
-    "wof:lastmodified":1627522183,
+    "wof:lastmodified":1695886660,
     "wof:name":"San Jose de Tarros",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

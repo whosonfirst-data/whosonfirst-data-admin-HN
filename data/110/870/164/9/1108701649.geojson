@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02478,
-    "geom:area_square_m":294719775.298131,
+    "geom:area_square_m":294719850.459925,
     "geom:bbox":"-84.999863,15.780781,-84.792206,15.98161",
     "geom:latitude":15.873288,
     "geom:longitude":-84.916864,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"HN.GD.JF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504309,
-    "wof:geomhash":"9b6eae69da12890345d9b8aa44fa4a94",
+    "wof:geomhash":"d83966fad136ff0345b36cc064a5d2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1108701649,
-    "wof:lastmodified":1627522172,
+    "wof:lastmodified":1695886640,
     "wof:name":"Batalla",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017257,
-    "geom:area_square_m":205957504.475327,
+    "geom:area_square_m":205957897.244179,
     "geom:bbox":"-88.373734,15.062902,-88.161072,15.262318",
     "geom:latitude":15.160498,
     "geom:longitude":-88.260667,
@@ -253,9 +253,10 @@
     "wof:concordances":{
         "hasc:id":"HN.CP.TC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504715,
-    "wof:geomhash":"f4eabe04f92a2d39b294aab86dba7242",
+    "wof:geomhash":"4928af14c5035cb2a1174c2951a5bfb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -265,7 +266,7 @@
         }
     ],
     "wof:id":1108701731,
-    "wof:lastmodified":1636495826,
+    "wof:lastmodified":1695886664,
     "wof:name":"Trinidad",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

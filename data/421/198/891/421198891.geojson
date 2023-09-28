@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01667,
-    "geom:area_square_m":199230874.219146,
+    "geom:area_square_m":199231042.988933,
     "geom:bbox":"-87.402374,14.751012,-87.209114,14.94094",
     "geom:latitude":14.86208,
     "geom:longitude":-87.300572,
@@ -121,12 +121,13 @@
         "wd:id":"Q2392225",
         "wk:page":"San Jos\u00e9 del Potrero"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009965,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1cddd7f1f3a657b868a7fe83125539b",
+    "wof:geomhash":"5ead871d110dea2595342891ec601e0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421198891,
-    "wof:lastmodified":1690930283,
+    "wof:lastmodified":1695886645,
     "wof:name":"San Jose del Potrero",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

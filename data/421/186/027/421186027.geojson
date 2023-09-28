@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015032,
-    "geom:area_square_m":180017774.555247,
+    "geom:area_square_m":180017728.516908,
     "geom:bbox":"-88.503265,14.348065,-88.333656,14.480066",
     "geom:latitude":14.420841,
     "geom:longitude":-88.423057,
@@ -151,12 +151,13 @@
         "wd:id":"Q979141",
         "wk:page":"San Juan, Intibuc\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009462,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0e67461c2572cd8667f309a914469068",
+    "wof:geomhash":"a83083bc8495cb870670196b7221d1df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421186027,
-    "wof:lastmodified":1690930275,
+    "wof:lastmodified":1695886679,
     "wof:name":"San Juan",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

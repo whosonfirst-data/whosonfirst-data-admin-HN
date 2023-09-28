@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023811,
-    "geom:area_square_m":283508205.778742,
+    "geom:area_square_m":283508159.692683,
     "geom:bbox":"-87.10833,15.51174,-86.95356,15.786308",
     "geom:latitude":15.653754,
     "geom:longitude":-87.028198,
@@ -148,12 +148,13 @@
         "wd:id":"Q2361014",
         "wk:page":"San Francisco, Atl\u00e1ntida"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010152,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cba9206a70b4dc363ee899f0e993b28c",
+    "wof:geomhash":"d63044c4bfdfe1a065bde4f27319c255",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":421203451,
-    "wof:lastmodified":1690930248,
+    "wof:lastmodified":1695886672,
     "wof:name":"San Francisco",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

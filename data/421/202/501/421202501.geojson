@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031872,
-    "geom:area_square_m":381891374.829566,
+    "geom:area_square_m":381891472.365399,
     "geom:bbox":"-87.116112,14.219359,-86.827232,14.40097",
     "geom:latitude":14.301487,
     "geom:longitude":-86.965719,
@@ -97,12 +97,13 @@
         "qs_pg:id":223181,
         "wd:id":"Q1018684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010120,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2ec7a45a979fd2e0a18d761d66c2e0db",
+    "wof:geomhash":"ab44d3c30c6e0231f033f26f186556fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421202501,
-    "wof:lastmodified":1690930250,
+    "wof:lastmodified":1695886659,
     "wof:name":"San Juan de Flores",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

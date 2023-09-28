@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020283,
-    "geom:area_square_m":243562758.12915,
+    "geom:area_square_m":243562758.12935,
     "geom:bbox":"-87.3818817139,13.6835746765,-87.1898117065,13.8980579376",
     "geom:latitude":13.799793,
     "geom:longitude":-87.259598,
@@ -101,12 +101,13 @@
         "hasc:id":"HN.FM.SG",
         "qs_pg:id":956696
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"728b0d6798ce25a2d552939c769b799e",
+    "wof:geomhash":"bef4b628db1a5fb3cd568ab15b7e7d54",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421182957,
-    "wof:lastmodified":1582319382,
+    "wof:lastmodified":1695886687,
     "wof:name":"Sabanagrande",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

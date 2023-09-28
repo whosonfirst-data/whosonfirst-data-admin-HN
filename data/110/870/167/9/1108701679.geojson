@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"HN.CM.SS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504464,
     "wof:geomhash":"94ba31dc91881cfb1be9d9c76084a7fc",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108701679,
-    "wof:lastmodified":1694492858,
+    "wof:lastmodified":1695886326,
     "wof:name":"La Penita",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

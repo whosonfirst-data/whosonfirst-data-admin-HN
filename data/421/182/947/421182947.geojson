@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020204,
-    "geom:area_square_m":242376208.034505,
+    "geom:area_square_m":242376155.7014,
     "geom:bbox":"-87.95015,13.894305,-87.795807,14.185221",
     "geom:latitude":14.032812,
     "geom:longitude":-87.875815,
@@ -135,12 +135,13 @@
         "qs_pg:id":956689,
         "wd:id":"Q544482"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"27477d0caed2f2fc48c48110298fc1dc",
+    "wof:geomhash":"9cf8f6de2e0c7601a8f0247eee687e2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421182947,
-    "wof:lastmodified":1690930334,
+    "wof:lastmodified":1695886685,
     "wof:name":"Opatoro",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

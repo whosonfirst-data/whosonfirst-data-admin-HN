@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030398,
-    "geom:area_square_m":364479228.574318,
+    "geom:area_square_m":364479154.863331,
     "geom:bbox":"-86.987679,14.046991,-86.723557,14.292202",
     "geom:latitude":14.148213,
     "geom:longitude":-86.854029,
@@ -108,12 +108,13 @@
         "wd:id":"Q633411",
         "wk:page":"Morocel\u00ed"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469052943,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1158ecd66d91b18d5f7099e40fec620",
+    "wof:geomhash":"78546699031a508cbf5ecc393bdf3d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":890455353,
-    "wof:lastmodified":1690930350,
+    "wof:lastmodified":1695886695,
     "wof:name":"Moroceli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

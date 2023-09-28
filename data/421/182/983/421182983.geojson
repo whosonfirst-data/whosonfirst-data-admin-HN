@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015581,
-    "geom:area_square_m":187206768.684429,
+    "geom:area_square_m":187206795.566855,
     "geom:bbox":"-87.131622,13.580715,-86.931992,13.747345",
     "geom:latitude":13.669273,
     "geom:longitude":-87.038643,
@@ -118,12 +118,13 @@
         "wd:id":"Q2126741",
         "wk:page":"Texiguat"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f60fcd338ed98f79fa762a88c8e9aa09",
+    "wof:geomhash":"852be04644a2324e569adbed263bed61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182983,
-    "wof:lastmodified":1690930331,
+    "wof:lastmodified":1695886681,
     "wof:name":"Texigua",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

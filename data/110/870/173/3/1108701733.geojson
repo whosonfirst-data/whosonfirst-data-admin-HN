@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003102,
-    "geom:area_square_m":37220394.046276,
+    "geom:area_square_m":37220193.467491,
     "geom:bbox":"-88.616791,13.978364,-88.519417,14.037345",
     "geom:latitude":14.008783,
     "geom:longitude":-88.56423,
@@ -561,9 +561,10 @@
     "wof:concordances":{
         "hasc:id":"HN.LE.VI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504734,
-    "wof:geomhash":"094fdffef10456b70b1a2d1fbcdc7b85",
+    "wof:geomhash":"5d857146d38abfb1e1d6fef12d649411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -573,7 +574,7 @@
         }
     ],
     "wof:id":1108701733,
-    "wof:lastmodified":1636495826,
+    "wof:lastmodified":1695886664,
     "wof:name":"Virginia",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

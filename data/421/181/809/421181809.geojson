@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.557243,
-    "geom:area_square_m":6655141908.681601,
+    "geom:area_square_m":6655141562.710467,
     "geom:bbox":"-84.793961,14.615577,-83.385826,15.662786",
     "geom:latitude":15.01438,
     "geom:longitude":-84.078578,
@@ -151,12 +151,13 @@
         "hasc:id":"HN.GD.PL",
         "qs_pg:id":504946
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009307,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7698dd95da1396aba332f43c39b94ed1",
+    "wof:geomhash":"389a44293ad441676be737f5b8f89554",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":421181809,
-    "wof:lastmodified":1636495858,
+    "wof:lastmodified":1695886683,
     "wof:name":"Puerto Lempira",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

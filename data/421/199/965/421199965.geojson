@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009703,
-    "geom:area_square_m":116431438.60486,
+    "geom:area_square_m":116431360.383017,
     "geom:bbox":"-86.735184,13.911667,-86.556351,13.995675",
     "geom:latitude":13.95797,
     "geom:longitude":-86.648049,
@@ -136,12 +136,13 @@
         "wd:id":"Q2392501",
         "wk:page":"San Mat\u00edas, Honduras"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010006,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"517b300f58848a1ffc9ef4d3a0781043",
+    "wof:geomhash":"9c13d997b1776d5d64d19049082e5e14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421199965,
-    "wof:lastmodified":1690930300,
+    "wof:lastmodified":1695886693,
     "wof:name":"San Matias",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

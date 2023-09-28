@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008094,
-    "geom:area_square_m":96945339.332806,
+    "geom:area_square_m":96945319.312071,
     "geom:bbox":"-88.690811,14.335191,-88.52816,14.440048",
     "geom:latitude":14.387576,
     "geom:longitude":-88.600518,
@@ -82,12 +82,13 @@
         "wd:id":"Q922209",
         "wk:page":"San Marcos de Caiqu\u00edn"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051053,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30d7ef9426e555fbb405f4ed2c1d789a",
+    "wof:geomhash":"ab17530cc17e286c44f28f85288e4c71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":890414563,
-    "wof:lastmodified":1627522184,
+    "wof:lastmodified":1695886661,
     "wof:name":"Caiquin",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

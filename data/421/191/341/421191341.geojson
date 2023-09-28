@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005557,
-    "geom:area_square_m":66678619.367893,
+    "geom:area_square_m":66678401.914234,
     "geom:bbox":"-88.440979,13.955911,-88.331696,14.045259",
     "geom:latitude":13.996979,
     "geom:longitude":-88.388851,
@@ -114,12 +114,13 @@
         "qs_pg:id":62623,
         "wd:id":"Q2393269"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"79021d95f0024c7510f22219182332dc",
+    "wof:geomhash":"e5ec42ad2517ab54fee1b07cd0417af3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421191341,
-    "wof:lastmodified":1690930288,
+    "wof:lastmodified":1695886651,
     "wof:name":"Camasca",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

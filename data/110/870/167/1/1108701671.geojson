@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"HN.CM.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504399,
     "wof:geomhash":"2a0cf6ab3daeea5d3f7a949bc5edeb16",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1108701671,
-    "wof:lastmodified":1694492843,
+    "wof:lastmodified":1695886289,
     "wof:name":"El Volcan",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

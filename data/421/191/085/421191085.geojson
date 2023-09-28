@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01718,
-    "geom:area_square_m":206616558.001111,
+    "geom:area_square_m":206616437.533353,
     "geom:bbox":"-87.820702,13.353303,-87.635254,13.542204",
     "geom:latitude":13.444602,
     "geom:longitude":-87.713129,
@@ -101,12 +101,13 @@
         "hasc:id":"HN.VA.AL",
         "qs_pg:id":1130170
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8ce8c9a5d706ae5b71f735788a8b4f4b",
+    "wof:geomhash":"be389bddffb1a4ba323fa63c8e7088e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421191085,
-    "wof:lastmodified":1627522171,
+    "wof:lastmodified":1695886637,
     "wof:name":"Alianza",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

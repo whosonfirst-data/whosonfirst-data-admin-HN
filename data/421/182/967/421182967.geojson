@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017441,
-    "geom:area_square_m":209273967.529949,
+    "geom:area_square_m":209274033.28257,
     "geom:bbox":"-88.026802,13.871284,-87.873772,14.121787",
     "geom:latitude":13.984801,
     "geom:longitude":-87.947929,
@@ -172,12 +172,13 @@
         "wd:id":"Q955784",
         "wk:page":"Santa Ana, La Paz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"703530c67f102c7573c04f9a2fa0885a",
+    "wof:geomhash":"dc02ae7181f7d4109eb698858147e212",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":421182967,
-    "wof:lastmodified":1690930339,
+    "wof:lastmodified":1695886699,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

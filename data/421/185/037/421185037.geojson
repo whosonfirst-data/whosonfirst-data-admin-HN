@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020778,
-    "geom:area_square_m":250030271.742439,
+    "geom:area_square_m":250030327.83621,
     "geom:bbox":"-87.101639,13.173804,-86.915947,13.403879",
     "geom:latitude":13.303499,
     "geom:longitude":-87.016401,
@@ -121,12 +121,13 @@
         "wd:id":"Q2311788",
         "wk:page":"El Corpus"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009430,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f35d38bc4d1768cd6663685016ff239f",
+    "wof:geomhash":"5b38b345517463b31fc4bb47982b2aed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421185037,
-    "wof:lastmodified":1690930347,
+    "wof:lastmodified":1695886694,
     "wof:name":"El Corpus",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

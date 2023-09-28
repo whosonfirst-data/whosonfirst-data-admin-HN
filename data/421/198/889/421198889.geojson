@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006619,
-    "geom:area_square_m":79165194.302489,
+    "geom:area_square_m":79165084.984418,
     "geom:bbox":"-88.087837,14.634612,-87.995918,14.765982",
     "geom:latitude":14.705597,
     "geom:longitude":-88.040797,
@@ -91,12 +91,13 @@
         "qs_pg:id":186320,
         "wd:id":"Q2296196"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009964,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ba02e4706354777ec04562e8a795593",
+    "wof:geomhash":"dcb0b89e45292b27d6a638e6762439ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421198889,
-    "wof:lastmodified":1627522183,
+    "wof:lastmodified":1695886659,
     "wof:name":"San Jose de Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

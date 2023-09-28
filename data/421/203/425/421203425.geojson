@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005668,
-    "geom:area_square_m":68107181.017454,
+    "geom:area_square_m":68107076.382849,
     "geom:bbox":"-87.003853,13.57646,-86.888741,13.69748",
     "geom:latitude":13.639656,
     "geom:longitude":-86.954544,
@@ -118,12 +118,13 @@
         "wd:id":"Q2067159",
         "wk:page":"Vado Ancho"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"550e38820d441743da56a9222f61d6c8",
+    "wof:geomhash":"92762b58fdfd1285b09ef49a407e3dda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421203425,
-    "wof:lastmodified":1690930244,
+    "wof:lastmodified":1695886609,
     "wof:name":"Vado Ancho",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

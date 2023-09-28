@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024849,
-    "geom:area_square_m":297829164.926983,
+    "geom:area_square_m":297829366.671957,
     "geom:bbox":"-88.562363,14.12361,-88.329811,14.367393",
     "geom:latitude":14.238592,
     "geom:longitude":-88.45626,
@@ -120,12 +120,13 @@
         "qs_pg:id":956673,
         "wd:id":"Q387445"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42f46f12a75852ab9afb83fd56dfe08a",
+    "wof:geomhash":"e22e9b336cde1902a08dc03c2bec6f65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182911,
-    "wof:lastmodified":1690930341,
+    "wof:lastmodified":1695886691,
     "wof:name":"Erandique",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

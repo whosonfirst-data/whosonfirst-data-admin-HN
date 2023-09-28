@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025737,
-    "geom:area_square_m":309024659.245117,
+    "geom:area_square_m":309024807.45893,
     "geom:bbox":"-87.650055,13.713131,-87.480751,13.955777",
     "geom:latitude":13.827842,
     "geom:longitude":-87.568722,
@@ -120,12 +120,13 @@
         "qs_pg:id":62642,
         "wd:id":"Q2392548"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c177ee6443689aa15affb31a5c1a71ff",
+    "wof:geomhash":"864594850a846207f44362a539941783",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421194945,
-    "wof:lastmodified":1690930233,
+    "wof:lastmodified":1695886598,
     "wof:name":"Curaren",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

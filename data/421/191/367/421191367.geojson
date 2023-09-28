@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00631,
-    "geom:area_square_m":75370861.950713,
+    "geom:area_square_m":75370593.512266,
     "geom:bbox":"-88.829826,14.96937,-88.6772,15.036601",
     "geom:latitude":14.999865,
     "geom:longitude":-88.74331,
@@ -121,12 +121,13 @@
         "wd:id":"Q1644014",
         "wk:page":"San Nicol\u00e1s, Cop\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"111dd8375cfc7d428d3e1c4c5789eb68",
+    "wof:geomhash":"a1ab7e4388fc5fc93e26bd7529480899",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421191367,
-    "wof:lastmodified":1690930291,
+    "wof:lastmodified":1695886655,
     "wof:name":"San Nicolas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

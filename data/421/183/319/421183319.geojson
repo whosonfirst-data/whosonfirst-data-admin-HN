@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031589,
-    "geom:area_square_m":377887570.476327,
+    "geom:area_square_m":377887964.952838,
     "geom:bbox":"-88.54895,14.538343,-88.323196,14.830255",
     "geom:latitude":14.66028,
     "geom:longitude":-88.453473,
@@ -117,12 +117,13 @@
         "qs_pg:id":972358,
         "wd:id":"Q2394093"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009365,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"22160797665bb2c4bcdc901f91bd71ce",
+    "wof:geomhash":"c1f8e741c6799168a9e4053e6bda7915",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421183319,
-    "wof:lastmodified":1690930316,
+    "wof:lastmodified":1695886676,
     "wof:name":"La Iguala",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

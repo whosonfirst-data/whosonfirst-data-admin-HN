@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003719,
-    "geom:area_square_m":44569351.090083,
+    "geom:area_square_m":44569467.230077,
     "geom:bbox":"-87.68721,14.19486,-87.588593,14.2689",
     "geom:latitude":14.237697,
     "geom:longitude":-87.637876,
@@ -121,12 +121,13 @@
         "wd:id":"Q2167734",
         "wk:page":"San Sebasti\u00e1n, Comayagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009565,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d72974b71e5e582c70efc95f7b0258f5",
+    "wof:geomhash":"0a710201f646291de7dd7dacb47c0f74",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421188523,
-    "wof:lastmodified":1690930271,
+    "wof:lastmodified":1695886635,
     "wof:name":"San Sebastian",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

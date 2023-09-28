@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003452,
-    "geom:area_square_m":41316735.361955,
+    "geom:area_square_m":41316660.201106,
     "geom:bbox":"-89.168732,14.518489,-89.101616,14.612859",
     "geom:latitude":14.557312,
     "geom:longitude":-89.133011,
@@ -117,12 +117,13 @@
         "qs_pg:id":956667,
         "wd:id":"Q2138937"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5186c2d91ed8952634169da9065f263e",
+    "wof:geomhash":"1347d4af214b9e1fadb79aa9679e0b2c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421182897,
-    "wof:lastmodified":1690930341,
+    "wof:lastmodified":1695886691,
     "wof:name":"Dolores Merendon",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045697,
-    "geom:area_square_m":545565358.744251,
+    "geom:area_square_m":545565551.424283,
     "geom:bbox":"-83.525887,14.976615,-83.149658,15.249168",
     "geom:latitude":15.089982,
     "geom:longitude":-83.391402,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"HN.GD.RV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504560,
-    "wof:geomhash":"e8e200e4364fc17c505b4a248ac1a62a",
+    "wof:geomhash":"61e8f638b304a84e04aa92c4393677d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1108701695,
-    "wof:lastmodified":1627522180,
+    "wof:lastmodified":1695886656,
     "wof:name":"Raya",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

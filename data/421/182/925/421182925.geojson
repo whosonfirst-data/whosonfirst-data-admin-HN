@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026941,
-    "geom:area_square_m":321961078.720687,
+    "geom:area_square_m":321960760.51631,
     "geom:bbox":"-87.74308,14.722327,-87.494591,15.02373",
     "geom:latitude":14.880037,
     "geom:longitude":-87.598857,
@@ -160,12 +160,13 @@
         "wd:id":"Q1986477",
         "wk:page":"La Libertad, Comayagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c46327b39db03b40fc5b9f3aeeb8f49",
+    "wof:geomhash":"cb2dbe8425f157eb5526454325e8acc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421182925,
-    "wof:lastmodified":1690930335,
+    "wof:lastmodified":1695886698,
     "wof:name":"La Libertad",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020302,
-    "geom:area_square_m":242402127.834143,
+    "geom:area_square_m":242402103.816818,
     "geom:bbox":"-88.413925,14.977423,-88.224548,15.170983",
     "geom:latitude":15.070867,
     "geom:longitude":-88.328106,
@@ -79,12 +79,13 @@
         "hasc:id":"HN.SB.SJ",
         "qs_pg:id":96038
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051324,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dbffac02eb03e05edc3be456294ab23",
+    "wof:geomhash":"2fb2ad621ec93940d8fac6694db3bd07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":890420221,
-    "wof:lastmodified":1627522183,
+    "wof:lastmodified":1695886660,
     "wof:name":"San Jose de Colinas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

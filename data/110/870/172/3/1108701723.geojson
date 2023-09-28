@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006883,
-    "geom:area_square_m":82302471.176155,
+    "geom:area_square_m":82302538.403801,
     "geom:bbox":"-88.318535,14.69865,-88.221321,14.815631",
     "geom:latitude":14.754995,
     "geom:longitude":-88.270597,
@@ -168,9 +168,10 @@
     "wof:concordances":{
         "hasc:id":"HN.SB.SR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504677,
-    "wof:geomhash":"3ad452c16e4194c5056ed440493baa39",
+    "wof:geomhash":"b50485e04d29d88f773d200f27d4594d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1108701723,
-    "wof:lastmodified":1636495827,
+    "wof:lastmodified":1695886665,
     "wof:name":"Santa Rita",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

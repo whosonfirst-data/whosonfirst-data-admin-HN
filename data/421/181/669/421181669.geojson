@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024979,
-    "geom:area_square_m":299347460.491138,
+    "geom:area_square_m":299347236.976001,
     "geom:bbox":"-88.334023,14.169457,-88.15406,14.391555",
     "geom:latitude":14.263776,
     "geom:longitude":-88.248938,
@@ -117,12 +117,13 @@
         "qs_pg:id":499946,
         "wd:id":"Q2394043"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009303,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c500ef8f57cbe5da62b48a431ee1d6b5",
+    "wof:geomhash":"d3da8eab59d6b5e8d67c6d7abf23ac9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421181669,
-    "wof:lastmodified":1690930276,
+    "wof:lastmodified":1695886641,
     "wof:name":"Yamaranguila",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

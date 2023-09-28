@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062396,
-    "geom:area_square_m":743787437.033026,
+    "geom:area_square_m":743787210.051684,
     "geom:bbox":"-88.534416,15.286146,-88.144547,15.546744",
     "geom:latitude":15.414094,
     "geom:longitude":-88.357204,
@@ -105,12 +105,13 @@
         "wd:id":"Q2394900",
         "wk:page":"Quimist\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469052943,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"86b8462dfd407cc92e0c0f6299e672ac",
+    "wof:geomhash":"e7961780453613e4cea044825347e42b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":890455339,
-    "wof:lastmodified":1690930350,
+    "wof:lastmodified":1695886696,
     "wof:name":"Quimistan",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

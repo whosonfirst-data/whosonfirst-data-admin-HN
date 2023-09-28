@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032922,
-    "geom:area_square_m":393862399.613863,
+    "geom:area_square_m":393862091.048159,
     "geom:bbox":"-88.021942,14.4979,-87.776886,14.809291",
     "geom:latitude":14.642702,
     "geom:longitude":-87.876678,
@@ -204,12 +204,13 @@
         "wd:id":"Q2552676",
         "wk:page":"Siguatepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009578,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ab5570768f63f7969b6a1caf53eff98b",
+    "wof:geomhash":"cdae166a73bcfabc5035f30eed9ab160",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":421188781,
-    "wof:lastmodified":1690930270,
+    "wof:lastmodified":1695886634,
     "wof:name":"Siguatepeque",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

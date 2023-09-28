@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00908,
-    "geom:area_square_m":108716330.888305,
+    "geom:area_square_m":108716449.966899,
     "geom:bbox":"-88.635437,14.421235,-88.498085,14.53327",
     "geom:latitude":14.472817,
     "geom:longitude":-88.560687,
@@ -118,12 +118,13 @@
         "wd:id":"Q2394060",
         "wk:page":"La Campa"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7ef8fab077376aa6dbea88feaab4daad",
+    "wof:geomhash":"490abbe8caf895257d9564555d45b13b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182923,
-    "wof:lastmodified":1690930333,
+    "wof:lastmodified":1695886684,
     "wof:name":"La Campa",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

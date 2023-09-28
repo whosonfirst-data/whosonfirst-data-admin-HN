@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023025,
-    "geom:area_square_m":276762758.336892,
+    "geom:area_square_m":276763015.424274,
     "geom:bbox":"-87.021393,13.468699,-86.784912,13.661278",
     "geom:latitude":13.563689,
     "geom:longitude":-86.901728,
@@ -120,12 +120,13 @@
         "qs_pg:id":511784,
         "wd:id":"Q2358973"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7877a322ff0126c68ede27b837c9089a",
+    "wof:geomhash":"44c6c7e63545a293e27f3624032111fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421181923,
-    "wof:lastmodified":1690930276,
+    "wof:lastmodified":1695886642,
     "wof:name":"Morolica",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

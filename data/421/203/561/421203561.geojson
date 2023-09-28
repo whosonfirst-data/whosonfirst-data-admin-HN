@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210887,
-    "geom:area_square_m":2529126349.778773,
+    "geom:area_square_m":2529126412.966413,
     "geom:bbox":"-86.685837,13.763007,-86.070953,14.36069",
     "geom:latitude":14.09645,
     "geom:longitude":-86.376722,
@@ -89,12 +89,13 @@
         "hasc:id":"HN.EP.DA",
         "qs_pg:id":233549
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010156,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fa48008af1916bcfa996af3bf67f2efe",
+    "wof:geomhash":"5abe42643cbb48ca2672d6a9494aef36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421203561,
-    "wof:lastmodified":1627522175,
+    "wof:lastmodified":1695886645,
     "wof:name":"Danli",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

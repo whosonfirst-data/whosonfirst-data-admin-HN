@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013164,
-    "geom:area_square_m":158198702.424135,
+    "geom:area_square_m":158198834.523294,
     "geom:bbox":"-87.224709,13.547846,-87.053017,13.686021",
     "geom:latitude":13.614677,
     "geom:longitude":-87.147057,
@@ -156,12 +156,13 @@
         "wd:id":"Q2392467",
         "wk:page":"Soledad, El Para\u00edso"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8bc0666f08b563a63f2c5286150716f3",
+    "wof:geomhash":"689756b3f02f04f50006fd153fda1252",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -171,7 +172,7 @@
         }
     ],
     "wof:id":421191385,
-    "wof:lastmodified":1690930289,
+    "wof:lastmodified":1695886691,
     "wof:name":"Soledad",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

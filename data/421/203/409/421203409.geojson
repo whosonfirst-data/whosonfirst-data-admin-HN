@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003372,
-    "geom:area_square_m":40464956.817548,
+    "geom:area_square_m":40464990.65235,
     "geom:bbox":"-88.401741,13.869775,-88.347603,13.972628",
     "geom:latitude":13.92389,
     "geom:longitude":-88.372006,
@@ -160,12 +160,13 @@
         "wd:id":"Q2393454",
         "wk:page":"Magdalena, Intibuc\u00e1"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7987a45f36162c18a0a077067dc16a3d",
+    "wof:geomhash":"0e37d359aa44e67e3106b80092a0b545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421203409,
-    "wof:lastmodified":1690930246,
+    "wof:lastmodified":1695886671,
     "wof:name":"Magdalena",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

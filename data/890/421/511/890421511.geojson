@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013998,
-    "geom:area_square_m":168505840.908284,
+    "geom:area_square_m":168505830.083002,
     "geom:bbox":"-87.039062,13.127125,-86.892921,13.31702",
     "geom:latitude":13.221407,
     "geom:longitude":-86.962037,
@@ -86,12 +86,13 @@
         "wd:id":"Q2358808",
         "wk:page":"Concepci\u00f3n de Mar\u00eda"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051395,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd2674a7ffff108fe33f3acba4692223",
+    "wof:geomhash":"1a2c0efa8f9ba960944df4d482d816c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":890421511,
-    "wof:lastmodified":1627522174,
+    "wof:lastmodified":1695886642,
     "wof:name":"Concepcion de Maria",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

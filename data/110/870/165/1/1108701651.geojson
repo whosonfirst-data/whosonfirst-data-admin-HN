@@ -119,6 +119,7 @@
     "wof:concordances":{
         "hasc:id":"HN.GD.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504312,
     "wof:geomhash":"b2421d1c4dbea783d9912b09521db38c",
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1108701651,
-    "wof:lastmodified":1694492926,
+    "wof:lastmodified":1695886665,
     "wof:name":"Belen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

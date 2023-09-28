@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015063,
-    "geom:area_square_m":179604137.322478,
+    "geom:area_square_m":179604137.322326,
     "geom:bbox":"-86.9487609863,15.278842926,-86.6951446533,15.4251937866",
     "geom:latitude":15.35646,
     "geom:longitude":-86.821847,
@@ -134,12 +134,13 @@
         "hasc:id":"HN.YO.AR",
         "qs_pg:id":511772
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3527d2a482d671d719aafaa09e7bbc2d",
+    "wof:geomhash":"a59a3d08220b5c6486ab0f0bbc2a5064",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421181921,
-    "wof:lastmodified":1582319323,
+    "wof:lastmodified":1695886642,
     "wof:name":"Arenal",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

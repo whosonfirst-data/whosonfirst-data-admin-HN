@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003548,
-    "geom:area_square_m":42620139.267918,
+    "geom:area_square_m":42620210.217357,
     "geom:bbox":"-87.528389,13.708453,-87.450592,13.795041",
     "geom:latitude":13.749542,
     "geom:longitude":-87.491173,
@@ -121,12 +121,13 @@
         "wd:id":"Q532321",
         "wk:page":"San Miguelito, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3f5b0613332487ef0568e1ecb79d565b",
+    "wof:geomhash":"303418e61a6c6a59a8db04fa1e880b00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421191365,
-    "wof:lastmodified":1690930284,
+    "wof:lastmodified":1695886646,
     "wof:name":"San Miguelito",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

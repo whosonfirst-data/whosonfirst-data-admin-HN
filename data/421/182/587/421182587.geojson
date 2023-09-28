@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006782,
-    "geom:area_square_m":81124577.813091,
+    "geom:area_square_m":81124628.934456,
     "geom:bbox":"-88.753479,14.611496,-88.564728,14.7377",
     "geom:latitude":14.68079,
     "geom:longitude":-88.658755,
@@ -121,12 +121,13 @@
         "wd:id":"Q2293008",
         "wk:page":"Las Flores, Lempira"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009335,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"faf2d3e53bf6e8d74396d840571c899b",
+    "wof:geomhash":"1e7d9e28e65eaf7e17af939f44d0d027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421182587,
-    "wof:lastmodified":1690930336,
+    "wof:lastmodified":1695886685,
     "wof:name":"Las Flores",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

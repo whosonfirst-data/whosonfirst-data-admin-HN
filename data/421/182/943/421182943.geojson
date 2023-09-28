@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022032,
-    "geom:area_square_m":264488783.150835,
+    "geom:area_square_m":264488563.192213,
     "geom:bbox":"-87.155014,13.762743,-86.980309,13.985159",
     "geom:latitude":13.867502,
     "geom:longitude":-87.05637,
@@ -120,12 +120,13 @@
         "qs_pg:id":956688,
         "wd:id":"Q2392935"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd61813da6755cfca44fb31f4b281f1f",
+    "wof:geomhash":"58dbcf95e877df1881c88c4f399cbfec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182943,
-    "wof:lastmodified":1690930344,
+    "wof:lastmodified":1695886694,
     "wof:name":"Maraita",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

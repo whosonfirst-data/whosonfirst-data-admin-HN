@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005438,
-    "geom:area_square_m":65002678.352444,
+    "geom:area_square_m":65002802.211782,
     "geom:bbox":"-88.198082,14.765628,-88.091377,14.878205",
     "geom:latitude":14.82296,
     "geom:longitude":-88.148953,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.SB.CS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504350,
-    "wof:geomhash":"4a2658c17ea582ef491f4421241c82d5",
+    "wof:geomhash":"beccd8744abfdf9edfa54143e0bb9c31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701655,
-    "wof:lastmodified":1627522174,
+    "wof:lastmodified":1695886643,
     "wof:name":"Concepcion del Sur",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

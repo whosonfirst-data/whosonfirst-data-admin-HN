@@ -77,6 +77,7 @@
         "hasc:id":"HN.FM.SM",
         "qs_pg:id":237256
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009231,
     "wof:geom_alt":[
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":421179727,
-    "wof:lastmodified":1694492881,
+    "wof:lastmodified":1695886394,
     "wof:name":"San Miguel Guancapia",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

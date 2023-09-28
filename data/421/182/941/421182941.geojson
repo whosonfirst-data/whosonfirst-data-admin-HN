@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002719,
-    "geom:area_square_m":32612318.995907,
+    "geom:area_square_m":32612183.645096,
     "geom:bbox":"-88.656776,14.013526,-88.58493,14.086797",
     "geom:latitude":14.048719,
     "geom:longitude":-88.62152,
@@ -111,12 +111,13 @@
         "qs_pg:id":956687,
         "wd:id":"Q1645810"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f5d4b4179a97a580c8348cde9c050e8f",
+    "wof:geomhash":"f4d1e38caac1e24fc6e68616e756e90b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421182941,
-    "wof:lastmodified":1690930332,
+    "wof:lastmodified":1695886683,
     "wof:name":"Mapulaca",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

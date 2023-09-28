@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032674,
-    "geom:area_square_m":390852200.518805,
+    "geom:area_square_m":390851986.338068,
     "geom:bbox":"-87.543938,14.523993,-87.254257,14.782177",
     "geom:latitude":14.670133,
     "geom:longitude":-87.405681,
@@ -120,12 +120,13 @@
         "qs_pg:id":62653,
         "wd:id":"Q2361049"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88848d6fd9b76edd1ea30f48b88551b7",
+    "wof:geomhash":"a9103230ed5945ad3e084231137ce64b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421203401,
-    "wof:lastmodified":1690930246,
+    "wof:lastmodified":1695886610,
     "wof:name":"Esquias",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

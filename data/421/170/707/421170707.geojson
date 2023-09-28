@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047443,
-    "geom:area_square_m":569095132.908862,
+    "geom:area_square_m":569093994.660823,
     "geom:bbox":"-87.617439,13.919703,-87.353592,14.211001",
     "geom:latitude":14.048234,
     "geom:longitude":-87.495496,
@@ -121,12 +121,13 @@
         "wd:id":"Q2316676",
         "wk:page":"Lepaterique"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008865,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0002cc3bcec180e3286006123ae760d",
+    "wof:geomhash":"2bfc48a1422ce50d6a0f11e80db1b5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421170707,
-    "wof:lastmodified":1690930307,
+    "wof:lastmodified":1695886664,
     "wof:name":"Lepaterique",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

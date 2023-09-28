@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007992,
-    "geom:area_square_m":95501675.332718,
+    "geom:area_square_m":95501909.305624,
     "geom:bbox":"-87.707932,14.857934,-87.557106,14.941174",
     "geom:latitude":14.894441,
     "geom:longitude":-87.632854,
@@ -154,12 +154,13 @@
         "wd:id":"Q2360984",
         "wk:page":"Las Lajas, Honduras"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b88303c5281504489db4655db6c3dc75",
+    "wof:geomhash":"2a6b7603da02885728ede922cd06103b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421194955,
-    "wof:lastmodified":1690930230,
+    "wof:lastmodified":1695886670,
     "wof:name":"Las Lajas",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

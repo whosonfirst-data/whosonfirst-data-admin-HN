@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006562,
-    "geom:area_square_m":78455161.914201,
+    "geom:area_square_m":78455011.932487,
     "geom:bbox":"-88.38961,14.719244,-88.272438,14.823744",
     "geom:latitude":14.772382,
     "geom:longitude":-88.336231,
@@ -118,12 +118,13 @@
         "wd:id":"Q1823994",
         "wk:page":"El Nispero"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"283e5160dbd54058be9563b445b82b50",
+    "wof:geomhash":"73fd5e79bc6052f4ad90121dd732ab7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421177939,
-    "wof:lastmodified":1690930311,
+    "wof:lastmodified":1695886671,
     "wof:name":"El Nispero",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

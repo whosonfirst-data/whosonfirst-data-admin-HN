@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.180533,
-    "geom:area_square_m":2149323761.853328,
+    "geom:area_square_m":2149324405.568086,
     "geom:bbox":"-85.000069,15.409341,-84.282249,15.886182",
     "geom:latitude":15.672377,
     "geom:longitude":-84.649989,
@@ -173,12 +173,13 @@
         "qs_pg:id":956664,
         "wd:id":"Q2102693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b35ee6a4dd61c3b24bbc46685f8ba244",
+    "wof:geomhash":"e9127405db7c272c2fcd59edfffafe01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -188,7 +189,7 @@
         }
     ],
     "wof:id":421182889,
-    "wof:lastmodified":1690930328,
+    "wof:lastmodified":1695886696,
     "wof:name":"Brus Laguna",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

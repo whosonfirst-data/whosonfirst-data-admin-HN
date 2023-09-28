@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066567,
-    "geom:area_square_m":794741485.18065,
+    "geom:area_square_m":794741187.713641,
     "geom:bbox":"-87.768738,14.904819,-87.347862,15.285527",
     "geom:latitude":15.085713,
     "geom:longitude":-87.567261,
@@ -295,12 +295,13 @@
         "hasc:id":"HN.YO.VI",
         "qs_pg:id":1130177
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2aa4cdc63ed7dd67a530c1d1800612b",
+    "wof:geomhash":"bb9941c18354046ad48e80117aa6a45e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -310,7 +311,7 @@
         }
     ],
     "wof:id":421191091,
-    "wof:lastmodified":1636495862,
+    "wof:lastmodified":1695886689,
     "wof:name":"Victoria",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

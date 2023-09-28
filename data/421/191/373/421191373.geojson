@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003154,
-    "geom:area_square_m":37686349.194422,
+    "geom:area_square_m":37686184.185177,
     "geom:bbox":"-88.331215,14.848716,-88.254143,14.921032",
     "geom:latitude":14.886178,
     "geom:longitude":-88.302581,
@@ -114,12 +114,13 @@
         "qs_pg:id":62722,
         "wd:id":"Q2179819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c826c350bac77c4125f1543475a70c2",
+    "wof:geomhash":"e29334b32f32a9a71f2b54197f8bf5f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421191373,
-    "wof:lastmodified":1690930295,
+    "wof:lastmodified":1695886659,
     "wof:name":"San Vicente Centenario",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

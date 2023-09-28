@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004847,
-    "geom:area_square_m":58124829.289907,
+    "geom:area_square_m":58124749.759632,
     "geom:bbox":"-87.135292,14.081243,-87.05468,14.179078",
     "geom:latitude":14.12775,
     "geom:longitude":-87.095387,
@@ -121,12 +121,13 @@
         "wd:id":"Q1645159",
         "wk:page":"Santa Luc\u00eda, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008875,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"799a526257d4c3e7f4d6d03e66b158ca",
+    "wof:geomhash":"7631e60370d74ff5367ab8db8f477480",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421170947,
-    "wof:lastmodified":1690930308,
+    "wof:lastmodified":1695886666,
     "wof:name":"Santa Lucia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

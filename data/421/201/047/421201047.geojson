@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006596,
-    "geom:area_square_m":79145430.79607,
+    "geom:area_square_m":79145509.926591,
     "geom:bbox":"-87.126724,13.937597,-87.013199,14.03727",
     "geom:latitude":13.985465,
     "geom:longitude":-87.071355,
@@ -121,12 +121,13 @@
         "wd:id":"Q2137406",
         "wk:page":"Tatumbla"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010050,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"def8d014e884f041943cfefa47ee046d",
+    "wof:geomhash":"c8bd018de6c115301dbc5d96727e7860",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421201047,
-    "wof:lastmodified":1690930303,
+    "wof:lastmodified":1695886660,
     "wof:name":"Tatumbla",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

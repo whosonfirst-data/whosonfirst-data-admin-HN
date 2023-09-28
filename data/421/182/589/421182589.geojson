@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004443,
-    "geom:area_square_m":53140210.154294,
+    "geom:area_square_m":53140385.71188,
     "geom:bbox":"-89.148705,14.656267,-89.030624,14.726662",
     "geom:latitude":14.69108,
     "geom:longitude":-89.098786,
@@ -160,12 +160,13 @@
         "wd:id":"Q281256",
         "wk:page":"San Fernando, Ocotepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009335,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6cf0360e93d679ac5098c6815261b4a5",
+    "wof:geomhash":"6bb51f964350fa0e98edd3beb812b722",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -175,7 +176,7 @@
         }
     ],
     "wof:id":421182589,
-    "wof:lastmodified":1690930335,
+    "wof:lastmodified":1695886699,
     "wof:name":"San Fernando",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

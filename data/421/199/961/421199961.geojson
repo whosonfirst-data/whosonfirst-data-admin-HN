@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256935,
-    "geom:area_square_m":3067946738.402094,
+    "geom:area_square_m":3067945356.733329,
     "geom:bbox":"-85.697853,14.653333,-84.999802,15.432247",
     "geom:latitude":15.05797,
     "geom:longitude":-85.306851,
@@ -91,12 +91,13 @@
         "qs_pg:id":203656,
         "wd:id":"Q2248666"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010006,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0adf04c062c1c2a97cb8bdd6dd316a5b",
+    "wof:geomhash":"50e48d4235f030d3e4a5cd89c7ef9ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421199961,
-    "wof:lastmodified":1627522175,
+    "wof:lastmodified":1695886644,
     "wof:name":"Dulce nombre de Culmi",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

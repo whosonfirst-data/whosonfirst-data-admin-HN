@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009987,
-    "geom:area_square_m":119551639.131142,
+    "geom:area_square_m":119551661.982414,
     "geom:bbox":"-89.004295,14.446369,-88.846558,14.617702",
     "geom:latitude":14.504863,
     "geom:longitude":-88.927634,
@@ -114,12 +114,13 @@
         "qs_pg:id":956705,
         "wd:id":"Q582892"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"88c709ef5ce43cb8183ef2a7aba48922",
+    "wof:geomhash":"4b4186e6b05b96518d2b0041b5072e6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421182977,
-    "wof:lastmodified":1690930330,
+    "wof:lastmodified":1695886680,
     "wof:name":"Senseti",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190633,
-    "geom:area_square_m":2274281890.371233,
+    "geom:area_square_m":2274283050.719977,
     "geom:bbox":"-87.562485,15.015387,-86.855835,15.546222",
     "geom:latitude":15.243301,
     "geom:longitude":-87.22755,
@@ -136,12 +136,13 @@
         "hasc:id":"HN.YO.YO",
         "qs_pg:id":1024213
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009442,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0980cec0b3b1a77911d576b416a2cfdb",
+    "wof:geomhash":"28270f17f264763d3877819b75c1d884",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -151,7 +152,7 @@
         }
     ],
     "wof:id":421185397,
-    "wof:lastmodified":1636495875,
+    "wof:lastmodified":1695886701,
     "wof:name":"Yoro",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

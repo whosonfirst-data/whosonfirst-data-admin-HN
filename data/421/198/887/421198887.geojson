@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043663,
-    "geom:area_square_m":521898962.642045,
+    "geom:area_square_m":521898003.49698,
     "geom:bbox":"-86.268852,14.725038,-85.981171,14.956049",
     "geom:latitude":14.839889,
     "geom:longitude":-86.138415,
@@ -91,12 +91,13 @@
         "qs_pg:id":186319,
         "wd:id":"Q2395000"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009964,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d5cac7651da8c8f0d7c3260b50fce1a",
+    "wof:geomhash":"bd43bcad194bc955ffdf7fb1ef45a24d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421198887,
-    "wof:lastmodified":1627522182,
+    "wof:lastmodified":1695886659,
     "wof:name":"San Francisco de la Paz",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

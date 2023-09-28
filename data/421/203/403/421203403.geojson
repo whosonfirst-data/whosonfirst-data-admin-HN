@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015974,
-    "geom:area_square_m":191994242.788263,
+    "geom:area_square_m":191994306.383805,
     "geom:bbox":"-87.793114,13.487191,-87.636375,13.694826",
     "geom:latitude":13.593753,
     "geom:longitude":-87.712639,
@@ -132,12 +132,13 @@
         "qs_pg:id":62655,
         "wd:id":"Q606540"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"30b71e3d3804f635f065afd135b9632b",
+    "wof:geomhash":"32bf15459f9d621ba5dccd4e22f1ea7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421203403,
-    "wof:lastmodified":1690930249,
+    "wof:lastmodified":1695886612,
     "wof:name":"Goascoran",
     "wof:parent_id":85671883,
     "wof:placetype":"county",
