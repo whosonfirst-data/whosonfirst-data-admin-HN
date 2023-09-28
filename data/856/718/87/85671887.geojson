@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.430793,
-    "geom:area_square_m":5154216536.627023,
+    "geom:area_square_m":5154216320.745576,
     "geom:bbox":"-88.087837,14.047388,-87.209114,15.056875",
     "geom:latitude":14.624546,
     "geom:longitude":-87.633505,
@@ -271,17 +271,19 @@
         "gn:id":3613319,
         "gp:id":2345626,
         "hasc:id":"HN.CM",
+        "iso:code":"HN-CM",
         "iso:id":"HN-CM",
         "qs_pg:id":890073,
         "unlc:id":"HN-CM",
         "wd:id":"Q823443",
         "wk:page":"Comayagua Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bf9c26e70cbd065a27adec95a743b8eb",
+    "wof:geomhash":"8423acff5b483f5894bfdc09cbb619b5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -296,7 +298,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690930208,
+    "wof:lastmodified":1695884824,
     "wof:name":"Comayagua",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

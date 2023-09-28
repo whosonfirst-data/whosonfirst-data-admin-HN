@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.618229,
-    "geom:area_square_m":7416710132.112741,
+    "geom:area_square_m":7416710311.912468,
     "geom:bbox":"-87.224709,13.501615,-85.569672,14.422551",
     "geom:latitude":14.021689,
     "geom:longitude":-86.479505,
@@ -310,17 +310,19 @@
         "gn:id":3610942,
         "gp:id":2345629,
         "hasc:id":"HN.EP",
+        "iso:code":"HN-EP",
         "iso:id":"HN-EP",
         "qs_pg:id":1135067,
         "unlc:id":"HN-EP",
         "wd:id":"Q867108",
         "wk:page":"El Para\u00edso Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77e914e7d527452455d566ca84835a8f",
+    "wof:geomhash":"1188c5a9ae0d3860bfdb8b55958ed652",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -335,7 +337,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690930189,
+    "wof:lastmodified":1695884340,
     "wof:name":"El Para\u00edso",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

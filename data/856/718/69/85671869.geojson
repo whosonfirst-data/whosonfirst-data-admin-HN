@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019437,
-    "geom:area_square_m":230630832.992401,
+    "geom:area_square_m":230630832.991598,
     "geom:bbox":"-86.9905471802,15.9449996948,-85.8160018921,16.5167942047",
     "geom:latitude":16.340679,
     "geom:longitude":-86.381834,
@@ -287,17 +287,19 @@
         "gn:id":3608814,
         "gp:id":2345633,
         "hasc:id":"HN.IB",
+        "iso:code":"HN-IB",
         "iso:id":"HN-IB",
         "qs_pg:id":1311144,
         "unlc:id":"HN-IB",
         "wd:id":"Q751725",
         "wk:page":"Bay Islands Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f922f6f1372548e0cda1efc40a1fb4a2",
+    "wof:geomhash":"df07dd8df2cbacde4f3e0292f1dce5d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1582319202,
+    "wof:lastmodified":1695884343,
     "wof:name":"Islas de la Bah\u00eda",
     "wof:parent_id":-1,
     "wof:placetype":"region",
