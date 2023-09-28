@@ -1166,6 +1166,7 @@
         "hasc:id":"HN",
         "icao:code":"HR",
         "ioc:id":"HON",
+        "iso:code":"HN",
         "itu:id":"HND",
         "loc:id":"n79096785",
         "m49:code":"340",
@@ -1179,6 +1180,7 @@
         "wk:page":"Honduras",
         "wmo:id":"HO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:country_alpha3":"HND",
     "wof:geom_alt":[
@@ -1202,7 +1204,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1694639600,
+    "wof:lastmodified":1695881261,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
