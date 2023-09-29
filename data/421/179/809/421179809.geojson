@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019364,
-    "geom:area_square_m":231561069.897643,
+    "geom:area_square_m":231561201.585536,
     "geom:bbox":"-88.031502,14.650738,-87.880623,14.881539",
     "geom:latitude":14.741064,
     "geom:longitude":-87.95481,
@@ -121,12 +121,13 @@
         "wd:id":"Q1643763",
         "wk:page":"Taulab\u00e9"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009233,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"179738e6139e83a51e9e7658d8cc2851",
+    "wof:geomhash":"d8b17caf4cda401957d01e8e6f0fa517",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421179809,
-    "wof:lastmodified":1690930324,
+    "wof:lastmodified":1695886677,
     "wof:name":"Taulabe",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

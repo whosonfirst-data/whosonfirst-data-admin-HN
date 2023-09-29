@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029855,
-    "geom:area_square_m":356078609.396033,
+    "geom:area_square_m":356078111.610477,
     "geom:bbox":"-87.099136,15.180607,-86.817818,15.396344",
     "geom:latitude":15.300004,
     "geom:longitude":-86.956904,
@@ -117,12 +117,13 @@
         "qs_pg:id":1150582,
         "wd:id":"Q2308179"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009701,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f63784fc4ace50f5a23f03a34dfd0b8",
+    "wof:geomhash":"7465f4583e3d8f0b075179fb9bc2d5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421191673,
-    "wof:lastmodified":1690930287,
+    "wof:lastmodified":1695886649,
     "wof:name":"Jocon",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

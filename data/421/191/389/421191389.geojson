@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007283,
-    "geom:area_square_m":87338956.079013,
+    "geom:area_square_m":87338905.135288,
     "geom:bbox":"-88.159225,13.996936,-88.029732,14.179682",
     "geom:latitude":14.108161,
     "geom:longitude":-88.092852,
@@ -138,12 +138,13 @@
         "qs_pg:id":62755,
         "wd:id":"Q2393556"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"006282076e383201727c875acde023b6",
+    "wof:geomhash":"ee62f6fe48880a2a7f2917fdbcd866d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":421191389,
-    "wof:lastmodified":1690930294,
+    "wof:lastmodified":1695886658,
     "wof:name":"Yarula",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

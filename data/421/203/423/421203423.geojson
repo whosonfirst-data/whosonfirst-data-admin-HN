@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004904,
-    "geom:area_square_m":58782025.284695,
+    "geom:area_square_m":58782086.140535,
     "geom:bbox":"-88.826324,14.187961,-88.684151,14.281167",
     "geom:latitude":14.226034,
     "geom:longitude":-88.762007,
@@ -115,12 +115,13 @@
         "wd:id":"Q1645794",
         "wk:page":"Tambla"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d306842dd158deef95a1077eedfca2ad",
+    "wof:geomhash":"54eea854658e9d23cf9c085fc2e33cfc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421203423,
-    "wof:lastmodified":1690930245,
+    "wof:lastmodified":1695886611,
     "wof:name":"Tambla",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

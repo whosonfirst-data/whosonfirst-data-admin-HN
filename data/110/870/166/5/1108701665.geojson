@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006841,
-    "geom:area_square_m":81980092.235479,
+    "geom:area_square_m":81980144.482574,
     "geom:bbox":"-88.425041,14.225562,-88.295082,14.297004",
     "geom:latitude":14.262368,
     "geom:longitude":-88.357859,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"HN.IN.DO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504375,
-    "wof:geomhash":"b72f8d8e8407221bac91fdaafb38903e",
+    "wof:geomhash":"e99b65908b38376f61b92e55d18384bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108701665,
-    "wof:lastmodified":1636495826,
+    "wof:lastmodified":1695886664,
     "wof:name":"Dolores",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

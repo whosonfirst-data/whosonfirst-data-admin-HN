@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00745,
-    "geom:area_square_m":89507950.137079,
+    "geom:area_square_m":89507912.319984,
     "geom:bbox":"-87.598015,13.61873,-87.459496,13.719526",
     "geom:latitude":13.669635,
     "geom:longitude":-87.545741,
@@ -94,12 +94,13 @@
         "qs_pg:id":919281,
         "wd:id":"Q1019299"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009335,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"537562860ab60fc83e7e85da88bae60d",
+    "wof:geomhash":"4927e83130449a1d803d688b0ac590ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421182591,
-    "wof:lastmodified":1690930340,
+    "wof:lastmodified":1695886658,
     "wof:name":"San Francisco de Coray",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007568,
-    "geom:area_square_m":90816912.384034,
+    "geom:area_square_m":90816900.213922,
     "geom:bbox":"-88.511375,13.860766,-88.413536,14.019309",
     "geom:latitude":13.942098,
     "geom:longitude":-88.466255,
@@ -100,9 +100,10 @@
         "hasc:id":"HN.IN.SA",
         "wd:id":"Q1645362"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504584,
-    "wof:geomhash":"256f5ff39b04639fd22f5a8fea78a8c6",
+    "wof:geomhash":"60ab34d6f3aad6f005d32d686837defa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1108701701,
-    "wof:lastmodified":1690930226,
+    "wof:lastmodified":1695886669,
     "wof:name":"San Antonio",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

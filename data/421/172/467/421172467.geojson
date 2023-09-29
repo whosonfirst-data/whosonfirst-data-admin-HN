@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.03602,
-    "geom:area_square_m":431380434.595668,
+    "geom:area_square_m":431380577.600605,
     "geom:bbox":"-87.237663,14.296724,-86.87925,14.482334",
     "geom:latitude":14.409443,
     "geom:longitude":-87.067835,
@@ -204,12 +204,13 @@
         "wd:id":"Q2603720",
         "wk:page":"Talanga"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008943,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d60d97428fba89602bf46a82244836bc",
+    "wof:geomhash":"605dc6321e997837144f312d5862d0f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -219,7 +220,7 @@
         }
     ],
     "wof:id":421172467,
-    "wof:lastmodified":1690930273,
+    "wof:lastmodified":1695886640,
     "wof:name":"Talanga",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

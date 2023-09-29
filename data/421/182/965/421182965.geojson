@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014178,
-    "geom:area_square_m":169807739.92881,
+    "geom:area_square_m":169807634.818124,
     "geom:bbox":"-89.072685,14.341346,-88.805687,14.47327",
     "geom:latitude":14.394498,
     "geom:longitude":-88.925051,
@@ -145,12 +145,13 @@
         "wd:id":"Q2605007",
         "wk:page":"San Marcos, Ocotepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"005d01f035532200d415174a818589a3",
+    "wof:geomhash":"3ea9ff7e1d0ea23688fd489bddb1e0f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":421182965,
-    "wof:lastmodified":1690930327,
+    "wof:lastmodified":1695886695,
     "wof:name":"San Marcos",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

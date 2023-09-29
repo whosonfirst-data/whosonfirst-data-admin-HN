@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006556,
-    "geom:area_square_m":78601274.925175,
+    "geom:area_square_m":78601382.3361,
     "geom:bbox":"-88.757988,14.101776,-88.65889,14.207615",
     "geom:latitude":14.153128,
     "geom:longitude":-88.711814,
@@ -121,12 +121,13 @@
         "wd:id":"Q1645823",
         "wk:page":"Valladolid, Lempira"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34f4978e7717529c8480673f099149e3",
+    "wof:geomhash":"1052366c8390c689ee5497d657189150",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421191093,
-    "wof:lastmodified":1690930294,
+    "wof:lastmodified":1695886691,
     "wof:name":"Valladolid",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

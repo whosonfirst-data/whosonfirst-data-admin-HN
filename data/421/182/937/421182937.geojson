@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020755,
-    "geom:area_square_m":247624938.520415,
+    "geom:area_square_m":247624809.77814,
     "geom:bbox":"-88.716782,15.14511,-88.459717,15.331765",
     "geom:latitude":15.232448,
     "geom:longitude":-88.572974,
@@ -117,12 +117,13 @@
         "qs_pg:id":956685,
         "wd:id":"Q2395223"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28aa53e03f987e506892de3917763ecc",
+    "wof:geomhash":"9b89a5d3d5ad907a976ab7dd10b1d489",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421182937,
-    "wof:lastmodified":1690930328,
+    "wof:lastmodified":1695886679,
     "wof:name":"Macuelizo",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

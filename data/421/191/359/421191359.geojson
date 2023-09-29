@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014469,
-    "geom:area_square_m":172969225.431904,
+    "geom:area_square_m":172968987.652726,
     "geom:bbox":"-87.755959,14.727164,-87.554726,14.875298",
     "geom:latitude":14.805035,
     "geom:longitude":-87.653252,
@@ -103,12 +103,13 @@
         "qs_pg:id":62691,
         "wd:id":"Q3881323"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"23090029493242718dd87abf78d65c9d",
+    "wof:geomhash":"dca6bfa52b681b7fbd8d6cea98d1b581",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -118,7 +119,7 @@
         }
     ],
     "wof:id":421191359,
-    "wof:lastmodified":1627522180,
+    "wof:lastmodified":1695886655,
     "wof:name":"Ojos de Agua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

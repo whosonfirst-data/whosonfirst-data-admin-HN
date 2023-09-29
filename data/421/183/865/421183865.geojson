@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002381,
-    "geom:area_square_m":28459055.713756,
+    "geom:area_square_m":28459047.845133,
     "geom:bbox":"-88.876564,14.823344,-88.800392,14.907453",
     "geom:latitude":14.867844,
     "geom:longitude":-88.840761,
@@ -118,12 +118,13 @@
         "wd:id":"Q2392425",
         "wk:page":"Dulce Nombre"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009389,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7811be201279cbc8e9f95be1441ead10",
+    "wof:geomhash":"879d2cae80dee1c3b3c83bd67438ffdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421183865,
-    "wof:lastmodified":1690930315,
+    "wof:lastmodified":1695886675,
     "wof:name":"Dulce Nombre",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

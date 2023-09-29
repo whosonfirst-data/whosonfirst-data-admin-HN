@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011623,
-    "geom:area_square_m":139106746.829715,
+    "geom:area_square_m":139106951.5601,
     "geom:bbox":"-88.930244,14.496684,-88.733536,14.611496",
     "geom:latitude":14.56341,
     "geom:longitude":-88.849007,
@@ -120,12 +120,13 @@
         "qs_pg:id":62641,
         "wd:id":"Q1119909"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"76d6b8e8de2db3325062f7febf1f8316",
+    "wof:geomhash":"f40c56845ddbcb6dbaa3f8b15b115031",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421194943,
-    "wof:lastmodified":1690930233,
+    "wof:lastmodified":1695886597,
     "wof:name":"Corquin",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

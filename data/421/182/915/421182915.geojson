@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0168,
-    "geom:area_square_m":201674255.367871,
+    "geom:area_square_m":201674306.465532,
     "geom:bbox":"-87.010445,13.778684,-86.859718,13.969032",
     "geom:latitude":13.870411,
     "geom:longitude":-86.943038,
@@ -117,12 +117,13 @@
         "qs_pg:id":956675,
         "wd:id":"Q732437"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"58e5d6ed0f79859894a8c31953b29689",
+    "wof:geomhash":"3cbdc0e53de87154d85b07bac58907e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421182915,
-    "wof:lastmodified":1690930332,
+    "wof:lastmodified":1695886682,
     "wof:name":"Guinope",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

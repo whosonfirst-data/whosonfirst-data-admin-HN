@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005288,
-    "geom:area_square_m":63399088.802295,
+    "geom:area_square_m":63398700.435628,
     "geom:bbox":"-88.015266,14.132875,-87.880135,14.231846",
     "geom:latitude":14.185418,
     "geom:longitude":-87.958302,
@@ -120,12 +120,13 @@
         "qs_pg:id":62624,
         "wd:id":"Q2393377"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"471056c06b48972bba5506c51d387d7f",
+    "wof:geomhash":"91611ee8fb5be0f9e016034f622983a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191343,
-    "wof:lastmodified":1690930295,
+    "wof:lastmodified":1695886659,
     "wof:name":"Chinacla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

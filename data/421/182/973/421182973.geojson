@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011489,
-    "geom:area_square_m":136627931.813753,
+    "geom:area_square_m":136628012.892822,
     "geom:bbox":"-85.748901,15.83532,-85.609901,15.970911",
     "geom:latitude":15.902854,
     "geom:longitude":-85.689501,
@@ -97,12 +97,13 @@
         "qs_pg:id":956703,
         "wd:id":"Q958080"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48c9fb3ad4455866ddf8a8f40c871996",
+    "wof:geomhash":"6757736d228922d58d7a7298157bed9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421182973,
-    "wof:lastmodified":1627522186,
+    "wof:lastmodified":1695886665,
     "wof:name":"Sta. Rosa de Aguan",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

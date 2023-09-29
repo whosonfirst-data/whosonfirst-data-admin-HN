@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056474,
-    "geom:area_square_m":674007213.94553,
+    "geom:area_square_m":674006802.410072,
     "geom:bbox":"-86.489822,14.98968,-86.258492,15.33434",
     "geom:latitude":15.162119,
     "geom:longitude":-86.374279,
@@ -117,12 +117,13 @@
         "qs_pg:id":511779,
         "wd:id":"Q2394928"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010005,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"666c12b0f448bce362e1215f390eaf21",
+    "wof:geomhash":"2b347f24f09efb95cf1cf31ad23e92df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421199915,
-    "wof:lastmodified":1690930301,
+    "wof:lastmodified":1695886660,
     "wof:name":"Guata",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

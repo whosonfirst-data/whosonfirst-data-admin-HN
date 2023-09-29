@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014089,
-    "geom:area_square_m":169444411.493268,
+    "geom:area_square_m":169444433.249027,
     "geom:bbox":"-87.49781,13.357687,-87.340858,13.526731",
     "geom:latitude":13.444335,
     "geom:longitude":-87.414422,
@@ -180,9 +180,10 @@
     "wof:concordances":{
         "hasc:id":"HN.VA.SL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504620,
-    "wof:geomhash":"1c51d3e2ebc0654cda175fc961f376e7",
+    "wof:geomhash":"3ea1583b357b75fd55e65175d6478b95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -192,7 +193,7 @@
         }
     ],
     "wof:id":1108701707,
-    "wof:lastmodified":1636495828,
+    "wof:lastmodified":1695886666,
     "wof:name":"San Lorenzo",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

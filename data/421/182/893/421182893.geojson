@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004452,
-    "geom:area_square_m":53404733.474993,
+    "geom:area_square_m":53405034.314091,
     "geom:bbox":"-88.603081,14.012867,-88.517685,14.097224",
     "geom:latitude":14.056773,
     "geom:longitude":-88.557725,
@@ -118,12 +118,13 @@
         "wd:id":"Q2261478",
         "wk:page":"Candelaria, Lempira"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fcb316b9c8536fc4e771b0f9209bb3fa",
+    "wof:geomhash":"3f4425ec7564b244b77e5297688a708d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182893,
-    "wof:lastmodified":1690930330,
+    "wof:lastmodified":1695886680,
     "wof:name":"Candelaria",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

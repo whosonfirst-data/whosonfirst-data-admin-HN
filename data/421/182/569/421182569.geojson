@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008399,
-    "geom:area_square_m":100891684.018831,
+    "geom:area_square_m":100891730.547486,
     "geom:bbox":"-87.748367,13.672516,-87.642227,13.795939",
     "geom:latitude":13.732982,
     "geom:longitude":-87.690376,
@@ -123,12 +123,13 @@
         "qs_pg:id":919267,
         "wd:id":"Q2001506"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009334,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a0c875abd1a7d190d94d7822e5960474",
+    "wof:geomhash":"43ecd1b3adcdc68c7af06533dca14130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -138,7 +139,7 @@
         }
     ],
     "wof:id":421182569,
-    "wof:lastmodified":1690930326,
+    "wof:lastmodified":1695886677,
     "wof:name":"Aramecina",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

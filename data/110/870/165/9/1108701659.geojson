@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007709,
-    "geom:area_square_m":92466891.822554,
+    "geom:area_square_m":92466827.778551,
     "geom:bbox":"-88.377029,13.992594,-88.262558,14.107163",
     "geom:latitude":14.048736,
     "geom:longitude":-88.318768,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.IN.CN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504355,
-    "wof:geomhash":"2137fdfc13474ead6fb334f6c8da8b22",
+    "wof:geomhash":"7162c9e37e93cbb9f9986699201b9bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701659,
-    "wof:lastmodified":1627522173,
+    "wof:lastmodified":1695886642,
     "wof:name":"Concepcion",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

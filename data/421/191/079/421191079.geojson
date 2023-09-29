@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005171,
-    "geom:area_square_m":61937366.750326,
+    "geom:area_square_m":61937329.812484,
     "geom:bbox":"-87.789078,14.363906,-87.650612,14.432564",
     "geom:latitude":14.396828,
     "geom:longitude":-87.722317,
@@ -120,12 +120,13 @@
         "qs_pg:id":1130168,
         "wd:id":"Q762654"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9096f9e96e15747a4facebeeb84bda32",
+    "wof:geomhash":"483342ae40d1b6a04abf33d02a31362c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191079,
-    "wof:lastmodified":1690930286,
+    "wof:lastmodified":1695886648,
     "wof:name":"Ajuterique",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

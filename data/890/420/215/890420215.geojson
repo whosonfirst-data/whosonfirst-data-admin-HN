@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011949,
-    "geom:area_square_m":143271511.697933,
+    "geom:area_square_m":143271721.698195,
     "geom:bbox":"-88.329529,14.064939,-88.15432,14.183154",
     "geom:latitude":14.135956,
     "geom:longitude":-88.248349,
@@ -79,12 +79,13 @@
         "wd:id":"Q765638",
         "wk:page":"San Marco de Sierra"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051324,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e81e9ec74fec17b7f5606755a9d2135f",
+    "wof:geomhash":"0bb9e63c986241a3f41674abdf78825a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":890420215,
-    "wof:lastmodified":1627522184,
+    "wof:lastmodified":1695886661,
     "wof:name":"San Marcos de Sierra",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

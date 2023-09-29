@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021191,
-    "geom:area_square_m":253813632.79678,
+    "geom:area_square_m":253813670.361593,
     "geom:bbox":"-88.06926,14.27217,-87.847618,14.4979",
     "geom:latitude":14.388843,
     "geom:longitude":-87.970895,
@@ -118,12 +118,13 @@
         "wd:id":"Q948576",
         "wk:page":"Masaguara"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009779,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7aec81056afea91f15750ff3a25e4544",
+    "wof:geomhash":"06a8aa0a46db6b0b6088ad0ed86e27b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421193687,
-    "wof:lastmodified":1690930235,
+    "wof:lastmodified":1695886599,
     "wof:name":"Masaguara",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

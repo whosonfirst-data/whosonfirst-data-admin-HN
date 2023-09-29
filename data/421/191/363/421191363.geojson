@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063569,
-    "geom:area_square_m":761638754.882203,
+    "geom:area_square_m":761639257.16959,
     "geom:bbox":"-86.150299,14.123881,-85.803917,14.528406",
     "geom:latitude":14.313746,
     "geom:longitude":-85.963011,
@@ -118,12 +118,13 @@
         "wd:id":"Q2394584",
         "wk:page":"Patuca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dd96255802df753cad60dfc7cb7bfdbf",
+    "wof:geomhash":"fa97962ed40d2addc60789b6a890c054",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191363,
-    "wof:lastmodified":1690930285,
+    "wof:lastmodified":1695886647,
     "wof:name":"Patuca",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

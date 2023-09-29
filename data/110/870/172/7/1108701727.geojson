@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125822,
-    "geom:area_square_m":1508435373.616253,
+    "geom:area_square_m":1508435373.616165,
     "geom:bbox":"-87.4724655151,13.8951311111,-87.0053939819,14.3719415665",
     "geom:latitude":14.175831,
     "geom:longitude":-87.251074,
@@ -399,9 +399,10 @@
     "wof:concordances":{
         "hasc:id":"HN.FM.DC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504704,
-    "wof:geomhash":"0ca8db5cbffe6a1a9c3e36462c656c52",
+    "wof:geomhash":"c5db11caf2d4899cbe7af312cbd00197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -411,7 +412,7 @@
         }
     ],
     "wof:id":1108701727,
-    "wof:lastmodified":1566645557,
+    "wof:lastmodified":1695886363,
     "wof:name":"Tegucigalpa",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

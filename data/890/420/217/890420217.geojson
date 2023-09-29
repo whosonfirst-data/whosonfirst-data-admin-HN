@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003596,
-    "geom:area_square_m":43121593.473294,
+    "geom:area_square_m":43121519.192163,
     "geom:bbox":"-88.82933,14.102782,-88.754051,14.192805",
     "geom:latitude":14.150476,
     "geom:longitude":-88.784614,
@@ -102,12 +102,13 @@
         "wd:id":"Q1646012",
         "wk:page":"San Juan Guarita"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1469051324,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1e0af5be5f4ef1bd636ee2cdc56a6fcc",
+    "wof:geomhash":"757ce8b30034e4103bfe48fe36035fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -117,7 +118,7 @@
         }
     ],
     "wof:id":890420217,
-    "wof:lastmodified":1690930353,
+    "wof:lastmodified":1695886697,
     "wof:name":"San Juan Guarita",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196413,
-    "geom:area_square_m":2341954910.55598,
+    "geom:area_square_m":2341955245.350165,
     "geom:bbox":"-84.582451,15.002788,-84.113487,15.8109",
     "geom:latitude":15.357389,
     "geom:longitude":-84.353184,
@@ -130,12 +130,13 @@
         "wd:id":"Q2393126",
         "wk:page":"Ahuas"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009775,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c37e4dc13e3d0e642bb7a6b39e09a26",
+    "wof:geomhash":"be1c08690198b5b8237395bc7e6b54ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421193573,
-    "wof:lastmodified":1690930236,
+    "wof:lastmodified":1695886600,
     "wof:name":"Ahuas",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00325,
-    "geom:area_square_m":39044951.688594,
+    "geom:area_square_m":39044850.328606,
     "geom:bbox":"-87.549164,13.669556,-87.458626,13.743116",
     "geom:latitude":13.707326,
     "geom:longitude":-87.500541,
@@ -125,12 +125,13 @@
         "wd:id":"Q1644896",
         "wk:page":"La Libertad, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a598f34d85710c2cb2c3cc410f38d5d1",
+    "wof:geomhash":"86b002eb147a0752a55f3c8a34bed4d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421194949,
-    "wof:lastmodified":1690930231,
+    "wof:lastmodified":1695886670,
     "wof:name":"La Libertad",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

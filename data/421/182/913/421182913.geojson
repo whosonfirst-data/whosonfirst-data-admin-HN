@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040473,
-    "geom:area_square_m":482763480.589254,
+    "geom:area_square_m":482763058.249993,
     "geom:bbox":"-86.665253,15.141436,-86.390816,15.406235",
     "geom:latitude":15.280887,
     "geom:longitude":-86.547311,
@@ -120,12 +120,13 @@
         "qs_pg:id":956674,
         "wd:id":"Q2393712"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8dc4cc42939196ac1410b435cd7a5864",
+    "wof:geomhash":"c2d77e349d65a93794eb244933da5475",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182913,
-    "wof:lastmodified":1690930335,
+    "wof:lastmodified":1695886686,
     "wof:name":"Esquipulas del Norte",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

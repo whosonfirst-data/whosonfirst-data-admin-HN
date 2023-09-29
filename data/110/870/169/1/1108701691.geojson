@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010923,
-    "geom:area_square_m":131026484.843207,
+    "geom:area_square_m":131026484.843341,
     "geom:bbox":"-86.8364486694,13.977766037,-86.7049713135,14.138051033",
     "geom:latitude":14.054075,
     "geom:longitude":-86.75646,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"HN.EP.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504545,
-    "wof:geomhash":"75c5382dd1bb4d2fbfcb00c7431333c7",
+    "wof:geomhash":"1534d7319cc4f2956e55e8326f4bfae6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1108701691,
-    "wof:lastmodified":1566645556,
+    "wof:lastmodified":1695886362,
     "wof:name":"Potrerillos",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

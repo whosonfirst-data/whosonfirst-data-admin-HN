@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024264,
-    "geom:area_square_m":290422812.581437,
+    "geom:area_square_m":290422812.581769,
     "geom:bbox":"-88.374961853,14.3877391815,-88.1837463379,14.6534547806",
     "geom:latitude":14.534133,
     "geom:longitude":-88.284453,
@@ -37,6 +37,9 @@
         "Monte Verde"
     ],
     "name:deu_x_preferred":[
+        "Monte Verde"
+    ],
+    "name:eng_x_preferred":[
         "Monte Verde"
     ],
     "name:eng_x_variant":[
@@ -99,9 +102,10 @@
     "wof:concordances":{
         "hasc:id":"HN.IN.SF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504509,
-    "wof:geomhash":"e5d18b27db41caf9c3dd761a0c07e0fa",
+    "wof:geomhash":"4de59b1537e801d7bf66e31190c5e4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1108701685,
-    "wof:lastmodified":1566645545,
+    "wof:lastmodified":1695886359,
     "wof:name":"Monte Verde",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

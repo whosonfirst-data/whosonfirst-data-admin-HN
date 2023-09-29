@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031849,
-    "geom:area_square_m":381287603.942372,
+    "geom:area_square_m":381287672.915855,
     "geom:bbox":"-86.751411,14.373542,-86.544189,14.596931",
     "geom:latitude":14.492137,
     "geom:longitude":-86.641423,
@@ -192,12 +192,13 @@
         "qs_pg:id":1150580,
         "wd:id":"Q2394161"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009701,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2e8e64e30bc70fb877f2cf16fc7b2431",
+    "wof:geomhash":"ba1c5a0f4d65ffabb781b530f2fa5789",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -207,7 +208,7 @@
         }
     ],
     "wof:id":421191669,
-    "wof:lastmodified":1690930287,
+    "wof:lastmodified":1695886650,
     "wof:name":"Campamento",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

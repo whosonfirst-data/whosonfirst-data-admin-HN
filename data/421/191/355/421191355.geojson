@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007167,
-    "geom:area_square_m":85713449.849965,
+    "geom:area_square_m":85713402.873641,
     "geom:bbox":"-87.753822,14.664433,-87.599678,14.740509",
     "geom:latitude":14.707614,
     "geom:longitude":-87.671333,
@@ -118,12 +118,13 @@
         "wd:id":"Q1643280",
         "wk:page":"La Trinidad, Comayagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b523824abeb34fafc4d2bf91d048c56",
+    "wof:geomhash":"76da2ca0c1ce2c1ad17dc42ce8cdfa48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191355,
-    "wof:lastmodified":1690930285,
+    "wof:lastmodified":1695886647,
     "wof:name":"La Trinidad",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

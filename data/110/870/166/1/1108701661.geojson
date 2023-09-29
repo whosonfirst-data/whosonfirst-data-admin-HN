@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.013627,
-    "geom:area_square_m":163404704.297817,
+    "geom:area_square_m":163404538.604519,
     "geom:bbox":"-88.663681,14.06881,-88.479836,14.205453",
     "geom:latitude":14.127404,
     "geom:longitude":-88.570507,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"HN.LE.GC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504360,
-    "wof:geomhash":"06607f618d89649e8eaeb2f64417ca2c",
+    "wof:geomhash":"ed85d4315564e41189cd298cbfd65232",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108701661,
-    "wof:lastmodified":1627522174,
+    "wof:lastmodified":1695886643,
     "wof:name":"Congolon",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

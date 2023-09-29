@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008648,
-    "geom:area_square_m":103358755.3399,
+    "geom:area_square_m":103358755.339853,
     "geom:bbox":"-88.3984451294,14.7913284302,-88.2526779175,14.9108772278",
     "geom:latitude":14.851814,
     "geom:longitude":-88.337316,
@@ -113,12 +113,13 @@
         "hasc:id":"HN.SB.AR",
         "qs_pg:id":919266
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009334,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db84abc594a033cf356991f2f3782f7a",
+    "wof:geomhash":"c10f50bf536a2a9041c506aec3abcc8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":421182565,
-    "wof:lastmodified":1582319386,
+    "wof:lastmodified":1695886689,
     "wof:name":"Arada",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

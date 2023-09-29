@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010741,
-    "geom:area_square_m":128423430.050995,
+    "geom:area_square_m":128423466.439093,
     "geom:bbox":"-89.130898,14.714473,-89.009621,14.853175",
     "geom:latitude":14.776721,
     "geom:longitude":-89.071832,
@@ -124,12 +124,13 @@
         "wd:id":"Q2393572",
         "wk:page":"Caba\u00f1as, La Paz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6ba362367e6df8ce0da28275aac463b9",
+    "wof:geomhash":"b18c4e3071fc52a6a80bb21df31d7f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421191339,
-    "wof:lastmodified":1690930285,
+    "wof:lastmodified":1695886647,
     "wof:name":"Cabanas",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

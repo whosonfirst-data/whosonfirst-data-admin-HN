@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012223,
-    "geom:area_square_m":146832377.572196,
+    "geom:area_square_m":146832278.249766,
     "geom:bbox":"-86.925224,13.647285,-86.759575,13.773677",
     "geom:latitude":13.715353,
     "geom:longitude":-86.839437,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.EP.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504579,
-    "wof:geomhash":"0e0e99423e15f454fde93ac2fe316d02",
+    "wof:geomhash":"01249140edbcdf6d1ebd0f382549c75b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701699,
-    "wof:lastmodified":1627522181,
+    "wof:lastmodified":1695886658,
     "wof:name":"San Antonio de Flores",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

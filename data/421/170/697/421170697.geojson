@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.325111,
-    "geom:area_square_m":3872587462.164439,
+    "geom:area_square_m":3872586915.70912,
     "geom:bbox":"-85.672813,15.071033,-84.999565,15.987597",
     "geom:latitude":15.566352,
     "geom:longitude":-85.230759,
@@ -121,12 +121,13 @@
         "wd:id":"Q2036829",
         "wk:page":"Iriona"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008864,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e99468bf14f438c664ded13b2facc171",
+    "wof:geomhash":"4585d86310b7b4c4a2cfbe219bd0f8a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421170697,
-    "wof:lastmodified":1690930310,
+    "wof:lastmodified":1695886667,
     "wof:name":"Iriona",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

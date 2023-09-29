@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005576,
-    "geom:area_square_m":66595005.478936,
+    "geom:area_square_m":66594743.508946,
     "geom:bbox":"-88.239983,14.970223,-88.118668,15.039021",
     "geom:latitude":15.004488,
     "geom:longitude":-88.184546,
@@ -101,12 +101,13 @@
         "hasc:id":"HN.SB.GU",
         "qs_pg:id":62656
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010151,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f2e589b93f51f2a8839433f092fed92",
+    "wof:geomhash":"1b15d36abc16eed55f241fe733be3f8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":421203405,
-    "wof:lastmodified":1627522176,
+    "wof:lastmodified":1695886647,
     "wof:name":"Gualala",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

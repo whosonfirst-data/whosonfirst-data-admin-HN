@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006005,
-    "geom:area_square_m":72257131.552663,
+    "geom:area_square_m":72257132.261996,
     "geom:bbox":"-87.141991,13.235726,-87.054588,13.374431",
     "geom:latitude":13.305287,
     "geom:longitude":-87.097421,
@@ -91,12 +91,13 @@
         "qs_pg:id":892475,
         "wd:id":"Q2358738"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010036,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"12f45403b480b09f0418bf1c84031811",
+    "wof:geomhash":"583e41db28fff22ebd2a77a48198a6fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421200723,
-    "wof:lastmodified":1627522185,
+    "wof:lastmodified":1695886663,
     "wof:name":"Sta. Ana de Yusguare",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

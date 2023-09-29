@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016267,
-    "geom:area_square_m":195299501.953707,
+    "geom:area_square_m":195299753.368605,
     "geom:bbox":"-87.495583,13.748929,-87.366638,13.930883",
     "geom:latitude":13.851459,
     "geom:longitude":-87.429119,
@@ -120,12 +120,13 @@
         "qs_pg:id":62698,
         "wd:id":"Q2604760"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009698,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"11ad15fcbb1f48a80f31320e1b30401b",
+    "wof:geomhash":"f898aefea04fd853787ec08555907176",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191601,
-    "wof:lastmodified":1690930294,
+    "wof:lastmodified":1695886658,
     "wof:name":"Reitoca",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

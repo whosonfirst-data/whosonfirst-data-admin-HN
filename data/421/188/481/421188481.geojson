@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007757,
-    "geom:area_square_m":92822715.082753,
+    "geom:area_square_m":92822755.303651,
     "geom:bbox":"-89.121681,14.518858,-89.019386,14.649294",
     "geom:latitude":14.584682,
     "geom:longitude":-89.072594,
@@ -118,12 +118,13 @@
         "wd:id":"Q945066",
         "wk:page":"Fraternidad, Ocotepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009560,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e6966e3744b9e116db2e797d8f411705",
+    "wof:geomhash":"7626f2f8bfe9e4538316b690952a791b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421188481,
-    "wof:lastmodified":1690930267,
+    "wof:lastmodified":1695886627,
     "wof:name":"Fraternidad",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

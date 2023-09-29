@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006954,
-    "geom:area_square_m":83173056.010704,
+    "geom:area_square_m":83173061.809333,
     "geom:bbox":"-88.796288,14.642513,-88.656967,14.722956",
     "geom:latitude":14.684342,
     "geom:longitude":-88.73384,
@@ -111,12 +111,13 @@
         "qs_pg:id":511801,
         "wd:id":"Q1645820"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66136a156ce1f264b8e843cf17356e2a",
+    "wof:geomhash":"9e7f07f9299f4ec10a3d86ca63fd5f6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":421181917,
-    "wof:lastmodified":1690930279,
+    "wof:lastmodified":1695886643,
     "wof:name":"Talgua",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

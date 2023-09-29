@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065487,
-    "geom:area_square_m":783896915.285687,
+    "geom:area_square_m":783897174.404865,
     "geom:bbox":"-87.419395,14.346916,-87.022194,14.704625",
     "geom:latitude":14.517969,
     "geom:longitude":-87.198851,
@@ -120,12 +120,13 @@
         "wd:id":"Q748590",
         "wk:page":"Cedros, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009964,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5ae873f36f528edbc2c6920760324b82",
+    "wof:geomhash":"5937ef2aaccee33d2b76a5ca8e45457d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421198881,
-    "wof:lastmodified":1690930281,
+    "wof:lastmodified":1695886644,
     "wof:name":"Cedros",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

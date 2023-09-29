@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.160105,
-    "geom:area_square_m":1909414978.897625,
+    "geom:area_square_m":1909415812.819281,
     "geom:bbox":"-85.947891,15.032131,-85.458389,15.59628",
     "geom:latitude":15.316163,
     "geom:longitude":-85.719685,
@@ -118,12 +118,13 @@
         "wd:id":"Q2394385",
         "wk:page":"San Esteban, Olancho"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009321,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc43979f7eff7097d8cdb9d808fd04e4",
+    "wof:geomhash":"6ea78b8a4466cabaa764639ae90fff41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182173,
-    "wof:lastmodified":1690930331,
+    "wof:lastmodified":1695886681,
     "wof:name":"San Esteban",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

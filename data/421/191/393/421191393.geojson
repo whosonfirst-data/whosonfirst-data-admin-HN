@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020725,
-    "geom:area_square_m":247583238.768868,
+    "geom:area_square_m":247583647.32122,
     "geom:bbox":"-86.971115,14.893645,-86.695068,15.01875",
     "geom:latitude":14.959911,
     "geom:longitude":-86.811608,
@@ -120,12 +120,13 @@
         "qs_pg:id":62757,
         "wd:id":"Q2394940"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2af65aee5fb4a8238300f6cacd410deb",
+    "wof:geomhash":"86c507fed8cbf417e7a8b20bec8c314c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421191393,
-    "wof:lastmodified":1690930291,
+    "wof:lastmodified":1695886655,
     "wof:name":"Yocon",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

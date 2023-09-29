@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003307,
-    "geom:area_square_m":39695929.852726,
+    "geom:area_square_m":39695915.783621,
     "geom:bbox":"-87.807602,13.866605,-87.75029,13.986382",
     "geom:latitude":13.918788,
     "geom:longitude":-87.779741,
@@ -109,12 +109,13 @@
         "qs_pg:id":62689,
         "wd:id":"Q2394007"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009780,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"89845dae66678e8b2a209bfc77eca52c",
+    "wof:geomhash":"5c5deb11f0c4ba9098d25c13ca67c876",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":421193689,
-    "wof:lastmodified":1627522179,
+    "wof:lastmodified":1695886653,
     "wof:name":"Mercedes de Oriente",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.170115,
-    "geom:area_square_m":2027416167.973909,
+    "geom:area_square_m":2027416167.973051,
     "geom:bbox":"-87.1657180786,15.264509201,-86.2265777588,15.6042881012",
     "geom:latitude":15.457178,
     "geom:longitude":-86.659914,
@@ -121,12 +121,13 @@
         "hasc:id":"HN.YO.OL",
         "qs_pg:id":1310478
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010191,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a3949c6117e4d417e492ab6f434b97b1",
+    "wof:geomhash":"9ec03d2ea45851d585d3cb198c1b7491",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421204589,
-    "wof:lastmodified":1582319272,
+    "wof:lastmodified":1695886605,
     "wof:name":"Olanchito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

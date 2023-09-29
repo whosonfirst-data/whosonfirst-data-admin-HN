@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115787,
-    "geom:area_square_m":1388797852.956394,
+    "geom:area_square_m":1388797406.491108,
     "geom:bbox":"-86.151649,13.832712,-85.569672,14.271607",
     "geom:latitude":14.065294,
     "geom:longitude":-85.858781,
@@ -121,12 +121,13 @@
         "wd:id":"Q2393154",
         "wk:page":"Trojes"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009565,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b5c7ac23ecd476d185289e2a4709b265",
+    "wof:geomhash":"c1ec28dd7e567b5332fd8b474be09e00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421188529,
-    "wof:lastmodified":1690930265,
+    "wof:lastmodified":1695886624,
     "wof:name":"Trojes",
     "wof:parent_id":85671929,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010459,
-    "geom:area_square_m":125752251.175177,
+    "geom:area_square_m":125752068.88615,
     "geom:bbox":"-87.21698,13.409571,-87.069275,13.5647",
     "geom:latitude":13.497522,
     "geom:longitude":-87.139631,
@@ -117,12 +117,13 @@
         "qs_pg:id":259849,
         "wd:id":"Q2361001"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010216,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42ed0176c793f94eaa76fbd46d1aacca",
+    "wof:geomhash":"8c4a29d043d4ef5613a25e69a412f9cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421205245,
-    "wof:lastmodified":1690930251,
+    "wof:lastmodified":1695886614,
     "wof:name":"Orocuina",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011845,
-    "geom:area_square_m":141958826.772578,
+    "geom:area_square_m":141958957.875544,
     "geom:bbox":"-88.218369,14.1602,-88.05645,14.313132",
     "geom:latitude":14.250198,
     "geom:longitude":-88.13339,
@@ -125,12 +125,13 @@
         "hasc:id":"HN.IN.LE",
         "qs_pg:id":1097278
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009561,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0e9ddf6ee227fb4de7cf26a237e3b18",
+    "wof:geomhash":"b6cb8f2a476b47d1399ab54da7a8de47",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421188497,
-    "wof:lastmodified":1636495851,
+    "wof:lastmodified":1695886674,
     "wof:name":"La Esperanza",
     "wof:parent_id":85671899,
     "wof:placetype":"county",

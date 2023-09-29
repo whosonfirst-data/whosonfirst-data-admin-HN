@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012406,
-    "geom:area_square_m":148111561.758632,
+    "geom:area_square_m":148111561.757907,
     "geom:bbox":"-88.7808074951,15.0143280029,-88.6367797852,15.2015275955",
     "geom:latitude":15.090324,
     "geom:longitude":-88.705245,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"HN.CP.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504452,
-    "wof:geomhash":"198340725f5fb989aa62f124f3bfb5dc",
+    "wof:geomhash":"f4d3f0b445c9dba8bf6692474020f74c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1108701677,
-    "wof:lastmodified":1566645550,
+    "wof:lastmodified":1695886360,
     "wof:name":"La Entrada",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

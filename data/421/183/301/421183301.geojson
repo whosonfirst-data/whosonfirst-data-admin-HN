@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009755,
-    "geom:area_square_m":116771353.039379,
+    "geom:area_square_m":116771489.753518,
     "geom:bbox":"-89.26416,14.4519,-89.130096,14.584721",
     "geom:latitude":14.525246,
     "geom:longitude":-89.203092,
@@ -118,12 +118,13 @@
         "wd:id":"Q2066939",
         "wk:page":"Concepci\u00f3n, Ocotepeque"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009364,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"482b6fbc0aeed9e597d0878c817289b4",
+    "wof:geomhash":"173bcb1ec5ba60d7403b90911348c6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421183301,
-    "wof:lastmodified":1690930313,
+    "wof:lastmodified":1695886673,
     "wof:name":"Concepcion",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

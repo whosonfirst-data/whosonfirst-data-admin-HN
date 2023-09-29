@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008738,
-    "geom:area_square_m":104716487.407873,
+    "geom:area_square_m":104716572.72535,
     "geom:bbox":"-88.0065,14.188087,-87.848,14.327929",
     "geom:latitude":14.271608,
     "geom:longitude":-87.920932,
@@ -154,12 +154,13 @@
         "wd:id":"Q2394137",
         "wk:page":"Santa Mar\u00eda, La Paz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009690,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"247103ece347e621b0ffa0557eb24fc8",
+    "wof:geomhash":"e1971c91305254da073785b9d0835d20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -169,7 +170,7 @@
         }
     ],
     "wof:id":421191379,
-    "wof:lastmodified":1690930288,
+    "wof:lastmodified":1695886690,
     "wof:name":"Santa Maria",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

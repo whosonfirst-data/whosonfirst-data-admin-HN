@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005516,
-    "geom:area_square_m":66110359.141939,
+    "geom:area_square_m":66110614.590397,
     "geom:bbox":"-88.012482,14.197837,-87.887939,14.273454",
     "geom:latitude":14.232229,
     "geom:longitude":-87.955323,
@@ -103,9 +103,10 @@
     "wof:concordances":{
         "hasc:id":"HN.LP.SJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504614,
-    "wof:geomhash":"87d80e286a47c811d042c0e7a1c55b2f",
+    "wof:geomhash":"b17f19806a1ffc3065721c215708b751",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -115,7 +116,7 @@
         }
     ],
     "wof:id":1108701705,
-    "wof:lastmodified":1636495829,
+    "wof:lastmodified":1695886670,
     "wof:name":"San Jose",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005211,
-    "geom:area_square_m":62551497.498241,
+    "geom:area_square_m":62551527.812191,
     "geom:bbox":"-87.220329,13.84271,-87.148155,13.965471",
     "geom:latitude":13.898621,
     "geom:longitude":-87.183919,
@@ -118,12 +118,13 @@
         "wd:id":"Q2393112",
         "wk:page":"San Buenaventura, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009766,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a94cbbf5b58af55299ac8d24fabd9556",
+    "wof:geomhash":"be7aa7762e778df93066b5adaabf171a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421193299,
-    "wof:lastmodified":1690930239,
+    "wof:lastmodified":1695886602,
     "wof:name":"San Buenaventura",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

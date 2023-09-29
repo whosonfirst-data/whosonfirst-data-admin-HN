@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001888,
-    "geom:area_square_m":22619300.684606,
+    "geom:area_square_m":22619188.270287,
     "geom:bbox":"-87.74189,14.346504,-87.648605,14.390213",
     "geom:latitude":14.369412,
     "geom:longitude":-87.693118,
@@ -120,12 +120,13 @@
         "qs_pg:id":1103808,
         "wd:id":"Q2148930"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009578,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"da61217dc1eaf4bcd3c9a21575be9f80",
+    "wof:geomhash":"82a377d4745b8a1dd20caf37c15b6122",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421188773,
-    "wof:lastmodified":1690930270,
+    "wof:lastmodified":1695886635,
     "wof:name":"Lejamani",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

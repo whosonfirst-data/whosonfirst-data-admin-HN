@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.047581,
-    "geom:area_square_m":567138796.926906,
+    "geom:area_square_m":567139078.051297,
     "geom:bbox":"-87.805611,15.199949,-87.598297,15.705886",
     "geom:latitude":15.432628,
     "geom:longitude":-87.698623,
@@ -126,12 +126,13 @@
         "qs_pg:id":209957,
         "wd:id":"Q2302837"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010049,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe9feff67daabf7f42fbe0a6b2eb6917",
+    "wof:geomhash":"ed2b2f14fb4ebda8c0ed94415585096c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":421201043,
-    "wof:lastmodified":1690930305,
+    "wof:lastmodified":1695886661,
     "wof:name":"El Negrito",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

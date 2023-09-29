@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004311,
-    "geom:area_square_m":51736897.568096,
+    "geom:area_square_m":51736749.487008,
     "geom:bbox":"-87.785614,13.92516,-87.679649,13.987598",
     "geom:latitude":13.955465,
     "geom:longitude":-87.732392,
@@ -139,12 +139,13 @@
         "wd:id":"Q1645752",
         "wk:page":"San Juan, La Paz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009359,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87cb38cf92a4ebe73217472064a7a3c2",
+    "wof:geomhash":"28edb11eb75f5a1e9f41bf351c2888ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":421183141,
-    "wof:lastmodified":1690930316,
+    "wof:lastmodified":1695886695,
     "wof:name":"San Juan",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

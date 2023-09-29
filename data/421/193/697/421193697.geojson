@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024475,
-    "geom:area_square_m":292847185.135629,
+    "geom:area_square_m":292847470.910311,
     "geom:bbox":"-86.146561,14.507222,-85.959602,14.735022",
     "geom:latitude":14.613891,
     "geom:longitude":-86.043198,
@@ -91,12 +91,13 @@
         "qs_pg:id":62708,
         "wd:id":"Q2394598"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009780,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"299ebd2e37da60d38b55f698199413e2",
+    "wof:geomhash":"023b86257717659fad378d2f940b9dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421193697,
-    "wof:lastmodified":1627522181,
+    "wof:lastmodified":1695886657,
     "wof:name":"San Francisco de Becerra",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

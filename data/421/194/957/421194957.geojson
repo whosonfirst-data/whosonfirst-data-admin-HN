@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003068,
-    "geom:area_square_m":36830653.786299,
+    "geom:area_square_m":36830622.861843,
     "geom:bbox":"-87.693321,13.830267,-87.614754,13.893181",
     "geom:latitude":13.862735,
     "geom:longitude":-87.655135,
@@ -132,12 +132,13 @@
         "qs_pg:id":62672,
         "wd:id":"Q2132428"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009825,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8366b3c6afc9412ae4a9ba98510aef88",
+    "wof:geomhash":"36fce95fcc017b4287bc20e69d011058",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":421194957,
-    "wof:lastmodified":1690930232,
+    "wof:lastmodified":1695886598,
     "wof:name":"Lauterique",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

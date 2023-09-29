@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012352,
-    "geom:area_square_m":147621450.796128,
+    "geom:area_square_m":147621450.796106,
     "geom:bbox":"-88.1273269653,14.8135128021,-87.9811096191,14.9342889786",
     "geom:latitude":14.870619,
     "geom:longitude":-88.053521,
@@ -479,12 +479,13 @@
         "hasc:id":"HN.SB.LV",
         "qs_pg:id":1103807
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009578,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8702804b38c116a1a2c7fe6767a4ddc",
+    "wof:geomhash":"ffb48fdf803cda9635b0a7973abf2275",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -494,7 +495,7 @@
         }
     ],
     "wof:id":421188771,
-    "wof:lastmodified":1582319293,
+    "wof:lastmodified":1695886624,
     "wof:name":"Las Vegas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016669,
-    "geom:area_square_m":199532976.603288,
+    "geom:area_square_m":199532724.332477,
     "geom:bbox":"-88.537949,14.453444,-88.330597,14.595359",
     "geom:latitude":14.524103,
     "geom:longitude":-88.430981,
@@ -163,12 +163,13 @@
         "wd:id":"Q2355084",
         "wk:page":"Bel\u00e9n, Honduras"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009430,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"743e05fc0b6a133262cfbcb3882fa9e4",
+    "wof:geomhash":"0cc79112110c36ed642f4dfba72db44e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -178,7 +179,7 @@
         }
     ],
     "wof:id":421185031,
-    "wof:lastmodified":1690930347,
+    "wof:lastmodified":1695886703,
     "wof:name":"Belen",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

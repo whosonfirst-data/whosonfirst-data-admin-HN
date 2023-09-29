@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.697785,
-    "geom:area_square_m":8308585752.500744,
+    "geom:area_square_m":8308584018.697145,
     "geom:bbox":"-86.458771,15.071033,-84.999565,16.028637",
     "geom:latitude":15.644101,
     "geom:longitude":-85.608482,
@@ -308,17 +308,19 @@
         "gn:id":3613358,
         "gp:id":2345625,
         "hasc:id":"HN.CL",
+        "iso:code":"HN-CL",
         "iso:id":"HN-CL",
         "qs_pg:id":219562,
         "unlc:id":"HN-CL",
         "wd:id":"Q867117",
         "wk:page":"Col\u00f3n Department (Honduras)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a9d913c50bfd2e54133befde3d02191",
+    "wof:geomhash":"f43fa5e722764f647f063465d07f1367",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690930198,
+    "wof:lastmodified":1695884342,
     "wof:name":"Col\u00f3n",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

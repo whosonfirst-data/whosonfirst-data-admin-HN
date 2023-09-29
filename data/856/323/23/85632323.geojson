@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.421988,
-    "geom:area_square_m":112620818859.809982,
+    "geom:area_square_m":112620853843.085663,
     "geom:bbox":"-89.355961,12.984225,-82.389137,17.418722",
     "geom:latitude":14.82234,
     "geom:longitude":-86.615838,
@@ -14,6 +14,9 @@
     "iso:country":"HN",
     "itu:country_code":[
         "504"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "HN"
@@ -1124,7 +1127,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"504",
     "statoids:ds":"",
     "statoids:fifa":"HON",
@@ -1162,6 +1166,7 @@
         "hasc:id":"HN",
         "icao:code":"HR",
         "ioc:id":"HON",
+        "iso:code":"HN",
         "itu:id":"HND",
         "loc:id":"n79096785",
         "m49:code":"340",
@@ -1175,6 +1180,7 @@
         "wk:page":"Honduras",
         "wmo:id":"HO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:country_alpha3":"HND",
     "wof:geom_alt":[
@@ -1184,7 +1190,7 @@
         "quattroshapes",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"1a87bd0cc5d7c0b8f8c09d093b0c29ee",
+    "wof:geomhash":"f0bd9468777ea80bee038e73faa2da8c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1198,12 +1204,12 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690930187,
+    "wof:lastmodified":1695881261,
     "wof:name":"Honduras",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":8097688,
-    "wof:population_rank":13,
+    "wof:population":9746117,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:shortcode":"HN",
     "wof:superseded_by":[],

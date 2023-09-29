@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01136,
-    "geom:area_square_m":135555853.952457,
+    "geom:area_square_m":135555859.509321,
     "geom:bbox":"-88.205803,15.132394,-88.060402,15.267419",
     "geom:latitude":15.200606,
     "geom:longitude":-88.143777,
@@ -122,12 +122,13 @@
         "wd:id":"Q2340275",
         "wk:page":"Concepci\u00f3n del Sur"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e3d1f32de0def0a1765d647926b0904a",
+    "wof:geomhash":"438fc3b96fc847e348ef54dfa54641ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":421191345,
-    "wof:lastmodified":1690930295,
+    "wof:lastmodified":1695886658,
     "wof:name":"Concepcion del Norte",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029411,
-    "geom:area_square_m":350726691.234841,
+    "geom:area_square_m":350726691.235385,
     "geom:bbox":"-88.1462860107,15.2102079391,-87.9458312988,15.4339475632",
     "geom:latitude":15.330677,
     "geom:longitude":-88.047423,
@@ -116,12 +116,13 @@
         "hasc:id":"HN.CR.VI",
         "qs_pg:id":999088
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009411,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"886d99602a364eb9e35ae84f5f0cfa9b",
+    "wof:geomhash":"ae5a03a08c9578ccb8b0a251d3a9450e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":421184465,
-    "wof:lastmodified":1582319349,
+    "wof:lastmodified":1695886662,
     "wof:name":"Villa Nueva",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

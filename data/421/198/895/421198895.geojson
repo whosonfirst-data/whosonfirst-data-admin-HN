@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00437,
-    "geom:area_square_m":52213885.768539,
+    "geom:area_square_m":52213765.457391,
     "geom:bbox":"-88.787773,14.891372,-88.639397,14.938006",
     "geom:latitude":14.913651,
     "geom:longitude":-88.714523,
@@ -172,12 +172,13 @@
         "wd:id":"Q2394109",
         "wk:page":"San Jos\u00e9, La Paz"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009965,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"74827665090340cf1b9406d1512a55c9",
+    "wof:geomhash":"b5cdacd9048ea7d52fb43bfd036d723d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -187,7 +188,7 @@
         }
     ],
     "wof:id":421198895,
-    "wof:lastmodified":1690930281,
+    "wof:lastmodified":1695886689,
     "wof:name":"San Jose",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004339,
-    "geom:area_square_m":51870968.929531,
+    "geom:area_square_m":51871017.566554,
     "geom:bbox":"-88.259697,14.768306,-88.168915,14.867198",
     "geom:latitude":14.81962,
     "geom:longitude":-88.204501,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"HN.SB.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504656,
-    "wof:geomhash":"92377ac94cac1a8f56b43eaf20f81ecc",
+    "wof:geomhash":"1b6739416f16699c662d4f5ca78f0f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108701717,
-    "wof:lastmodified":1627522185,
+    "wof:lastmodified":1695886663,
     "wof:name":"Santa Ana o Las Lomas",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004541,
-    "geom:area_square_m":54431306.662319,
+    "geom:area_square_m":54431336.162034,
     "geom:bbox":"-87.764359,14.179958,-87.64753,14.268916",
     "geom:latitude":14.224123,
     "geom:longitude":-87.707443,
@@ -117,12 +117,13 @@
         "qs_pg:id":62661,
         "wd:id":"Q1643258"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009689,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e9b2c3acb81c3f9ee59dff97cd808b03",
+    "wof:geomhash":"6a5c59c985425eca97c2fe729d54c7f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":421191353,
-    "wof:lastmodified":1690930284,
+    "wof:lastmodified":1695886646,
     "wof:name":"Humuya",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04354,
-    "geom:area_square_m":520329482.147132,
+    "geom:area_square_m":520329482.146513,
     "geom:bbox":"-86.5370559692,14.7421703339,-86.2424316406,15.0113859177",
     "geom:latitude":14.876355,
     "geom:longitude":-86.397017,
@@ -128,12 +128,13 @@
         "hasc:id":"HN.OL.MT",
         "qs_pg:id":956686
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c463403ea3fb08bd10ca0ab8203c0fb0",
+    "wof:geomhash":"a1a1e80e8b7e7ceb6daf0a3a33df677c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421182939,
-    "wof:lastmodified":1582319370,
+    "wof:lastmodified":1695886678,
     "wof:name":"Manto",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

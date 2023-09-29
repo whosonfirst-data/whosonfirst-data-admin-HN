@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010566,
-    "geom:area_square_m":126911699.155333,
+    "geom:area_square_m":126911831.935931,
     "geom:bbox":"-87.394585,13.678765,-87.258629,13.7918",
     "geom:latitude":13.732098,
     "geom:longitude":-87.327603,
@@ -124,12 +124,13 @@
         "wd:id":"Q628829",
         "wk:page":"La Venta, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009352,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3bea359e2b9977ad6d45dbd03f878d26",
+    "wof:geomhash":"069b4839150d923b74eceb9f578cf292",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421182935,
-    "wof:lastmodified":1690930338,
+    "wof:lastmodified":1695886688,
     "wof:name":"La Venta",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

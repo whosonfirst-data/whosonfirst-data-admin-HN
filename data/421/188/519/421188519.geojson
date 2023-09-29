@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003981,
-    "geom:area_square_m":47709058.694941,
+    "geom:area_square_m":47709073.334603,
     "geom:bbox":"-87.882271,14.195557,-87.819771,14.297941",
     "geom:latitude":14.248332,
     "geom:longitude":-87.850638,
@@ -97,12 +97,13 @@
         "qs_pg:id":1097318,
         "wd:id":"Q2201661"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009565,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebaac3931a0368303f6bf2dfc820925b",
+    "wof:geomhash":"ea74fd3e8ee57c2f40b7371f9a6f1fd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":421188519,
-    "wof:lastmodified":1627522185,
+    "wof:lastmodified":1695886663,
     "wof:name":"San Pedro Tutule",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

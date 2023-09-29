@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009457,
-    "geom:area_square_m":112691159.589544,
+    "geom:area_square_m":112691159.589367,
     "geom:bbox":"-87.9639434814,15.4109010696,-87.798789978,15.5973243713",
     "geom:latitude":15.484475,
     "geom:longitude":-87.86931,
@@ -115,12 +115,13 @@
         "hasc:id":"HN.CR.LL",
         "qs_pg:id":238962
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bc4b09b3476d5539019c5bad2c70789",
+    "wof:geomhash":"977021dc641b2ed51b0449c3c1d94dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421204279,
-    "wof:lastmodified":1582319273,
+    "wof:lastmodified":1695886607,
     "wof:name":"La Lima",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

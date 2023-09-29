@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009951,
-    "geom:area_square_m":119080423.203287,
+    "geom:area_square_m":119080423.203364,
     "geom:bbox":"-89.0585250854,14.5325336456,-88.9071350098,14.6581993103",
     "geom:latitude":14.592701,
     "geom:longitude":-88.983596,
@@ -137,12 +137,13 @@
         "hasc:id":"HN.OC.LU",
         "qs_pg:id":1097289
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009560,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e1dc75e98279b1125d51053a984711ca",
+    "wof:geomhash":"745c3a18c55388851a9148e9a38a6120",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421188485,
-    "wof:lastmodified":1582319289,
+    "wof:lastmodified":1695886619,
     "wof:name":"Lucerna",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

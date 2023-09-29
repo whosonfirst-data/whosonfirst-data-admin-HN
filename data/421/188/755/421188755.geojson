@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044997,
-    "geom:area_square_m":536377441.248851,
+    "geom:area_square_m":536377245.845269,
     "geom:bbox":"-87.93866,15.224049,-87.685493,15.725393",
     "geom:latitude":15.4178,
     "geom:longitude":-87.804399,
@@ -186,12 +186,13 @@
         "wd:id":"Q2277161",
         "wk:page":"El Progreso"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009577,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e6532bc5b5c3ecbea09af577df4df7b",
+    "wof:geomhash":"2e76303ca2c2e7d67b4bd064874f8ef2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -201,7 +202,7 @@
         }
     ],
     "wof:id":421188755,
-    "wof:lastmodified":1690930260,
+    "wof:lastmodified":1695886674,
     "wof:name":"El Progreso",
     "wof:parent_id":85671879,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002835,
-    "geom:area_square_m":33875785.926821,
+    "geom:area_square_m":33875972.618411,
     "geom:bbox":"-88.836449,14.852359,-88.74926,14.927884",
     "geom:latitude":14.887385,
     "geom:longitude":-88.78803,
@@ -124,12 +124,13 @@
         "wd:id":"Q2344760",
         "wk:page":"Veracruz, Cop\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009568,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"594f06739ceae44b14af39e7a838795a",
+    "wof:geomhash":"afafec619c08e1bbb39a818d445d683c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421188531,
-    "wof:lastmodified":1690930267,
+    "wof:lastmodified":1695886626,
     "wof:name":"Veracruz",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015222,
-    "geom:area_square_m":182829361.94748,
+    "geom:area_square_m":182829404.84624,
     "geom:bbox":"-87.244461,13.653211,-87.100189,13.84844",
     "geom:latitude":13.751473,
     "geom:longitude":-87.161367,
@@ -118,12 +118,13 @@
         "wd:id":"Q2392491",
         "wk:page":"Nueva Armenia"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009312,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"735dbf4a974c115f89f2ea88ce18ea21",
+    "wof:geomhash":"89fe4c6e579ad90ce9e8a60fa2e43845",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421181925,
-    "wof:lastmodified":1690930277,
+    "wof:lastmodified":1695886642,
     "wof:name":"Nueva Armenia",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

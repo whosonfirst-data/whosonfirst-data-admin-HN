@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008295,
-    "geom:area_square_m":99062287.504392,
+    "geom:area_square_m":99062084.087427,
     "geom:bbox":"-88.050163,14.978804,-87.926804,15.086043",
     "geom:latitude":15.02516,
     "geom:longitude":-87.986274,
@@ -90,12 +90,13 @@
         "qs_pg:id":1311372,
         "wd:id":"Q1644762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009903,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eeb66361fc3b82485924190b7f0899a7",
+    "wof:geomhash":"3f628369864bf46d9742fdb6793c7d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":421197119,
-    "wof:lastmodified":1627522182,
+    "wof:lastmodified":1695886658,
     "wof:name":"San Francisco de Yojoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003539,
-    "geom:area_square_m":42041487.910622,
+    "geom:area_square_m":42041481.694265,
     "geom:bbox":"-86.990547,16.05488,-86.871384,16.123806",
     "geom:latitude":16.097804,
     "geom:longitude":-86.93237,
@@ -155,12 +155,13 @@
         "qs_pg:id":224067,
         "wd:id":"Q1572113"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010121,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e3b2b2c5a6318d70bde4026d711104e",
+    "wof:geomhash":"e305eb71501eb09517624531c8c077b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -170,7 +171,7 @@
         }
     ],
     "wof:id":421202525,
-    "wof:lastmodified":1690930251,
+    "wof:lastmodified":1695886612,
     "wof:name":"Utila",
     "wof:parent_id":85671869,
     "wof:placetype":"county",

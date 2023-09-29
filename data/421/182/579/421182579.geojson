@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007445,
-    "geom:area_square_m":89298936.973033,
+    "geom:area_square_m":89298860.255983,
     "geom:bbox":"-88.739098,14.009441,-88.635864,14.140099",
     "geom:latitude":14.071347,
     "geom:longitude":-88.686333,
@@ -121,12 +121,13 @@
         "wd:id":"Q2394130",
         "wk:page":"La Virtud"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009334,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f328e09617880b389c84672efc1e7094",
+    "wof:geomhash":"20459fa05f4a395165b320afeb876dd3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421182579,
-    "wof:lastmodified":1690930343,
+    "wof:lastmodified":1695886693,
     "wof:name":"La Virtud",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

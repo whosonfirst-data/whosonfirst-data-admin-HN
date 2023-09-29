@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011792,
-    "geom:area_square_m":141259289.138116,
+    "geom:area_square_m":141259035.159857,
     "geom:bbox":"-87.961769,14.271905,-87.789078,14.426847",
     "geom:latitude":14.358355,
     "geom:longitude":-87.879445,
@@ -115,12 +115,13 @@
         "qs_pg:id":956704,
         "wd:id":"Q1930019"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009354,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9070b24915615297d11054e83d0537eb",
+    "wof:geomhash":"d619033b4c48b3293bdb404e317998f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421182975,
-    "wof:lastmodified":1627522187,
+    "wof:lastmodified":1695886666,
     "wof:name":"Santiago de Puringla",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

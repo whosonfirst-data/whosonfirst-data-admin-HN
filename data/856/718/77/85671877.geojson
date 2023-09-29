@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.019285,
-    "geom:area_square_m":24136267638.514202,
+    "geom:area_square_m":24136267180.803139,
     "geom:bbox":"-86.991455,14.045672,-84.999802,15.59628",
     "geom:latitude":14.833941,
     "geom:longitude":-85.927139,
@@ -304,17 +304,19 @@
         "gn:id":3604249,
         "gp:id":2345637,
         "hasc:id":"HN.OL",
+        "iso:code":"HN-OL",
         "iso:id":"HN-OL",
         "qs_pg:id":242273,
         "unlc:id":"HN-OL",
         "wd:id":"Q867089",
         "wk:page":"Olancho Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"HN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8768ad48c67d9c9c393a0f7fd1e6a65f",
+    "wof:geomhash":"48dc4932c1ef7673fc379f5f88fc9c81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "spa"
     ],
-    "wof:lastmodified":1690930220,
+    "wof:lastmodified":1695884832,
     "wof:name":"Olancho",
     "wof:parent_id":85632323,
     "wof:placetype":"region",

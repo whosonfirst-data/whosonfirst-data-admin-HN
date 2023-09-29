@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069983,
-    "geom:area_square_m":837896898.951676,
+    "geom:area_square_m":837896837.787659,
     "geom:bbox":"-87.89743,14.357095,-87.384727,14.596642",
     "geom:latitude":14.470829,
     "geom:longitude":-87.624214,
@@ -253,12 +253,13 @@
         "wd:id":"Q679169",
         "wk:page":"Comayagua"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010212,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a4524587a7657d845b327ba4620fe010",
+    "wof:geomhash":"79aea7bcf50d3e0eaaf1168906c86699",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -268,7 +269,7 @@
         }
     ],
     "wof:id":421205113,
-    "wof:lastmodified":1690930252,
+    "wof:lastmodified":1695886673,
     "wof:name":"Comayagua",
     "wof:parent_id":85671887,
     "wof:placetype":"county",

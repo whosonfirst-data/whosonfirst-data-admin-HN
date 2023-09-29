@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025713,
-    "geom:area_square_m":307404458.425241,
+    "geom:area_square_m":307404321.17548,
     "geom:bbox":"-88.93911,14.706836,-88.641006,14.910702",
     "geom:latitude":14.796275,
     "geom:longitude":-88.776599,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.CP.SC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504694,
-    "wof:geomhash":"bf0503e187faa2b8fccebe1b3f2537e6",
+    "wof:geomhash":"eeb4a93d6076dca6964b104640cdf370",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701725,
-    "wof:lastmodified":1627522186,
+    "wof:lastmodified":1695886665,
     "wof:name":"Sta. Rosa de Copan",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

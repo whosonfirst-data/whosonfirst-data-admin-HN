@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006004,
-    "geom:area_square_m":72139670.622329,
+    "geom:area_square_m":72139432.902885,
     "geom:bbox":"-87.310455,13.606203,-87.211609,13.687677",
     "geom:latitude":13.646513,
     "geom:longitude":-87.260128,
@@ -115,12 +115,13 @@
         "wd:id":"Q585662",
         "wk:page":"San Isidro, Choluteca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009701,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"638e85d7416524ca797046385afcc2ed",
+    "wof:geomhash":"b27e641536211b263ec8caa4b57bc92b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421191679,
-    "wof:lastmodified":1690930293,
+    "wof:lastmodified":1695886657,
     "wof:name":"San Isidro",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

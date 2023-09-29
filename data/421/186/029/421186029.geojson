@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014661,
-    "geom:area_square_m":175552724.391914,
+    "geom:area_square_m":175552634.079706,
     "geom:bbox":"-88.739708,14.367523,-88.603058,14.523132",
     "geom:latitude":14.451223,
     "geom:longitude":-88.669959,
@@ -89,12 +89,13 @@
         "hasc:id":"HN.LE.SH",
         "qs_pg:id":908158
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009462,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"289f6a7ae8eae645400f0bf6d37a76b5",
+    "wof:geomhash":"ad7ad4b912799c2420e3f39cc6cd979f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":421186029,
-    "wof:lastmodified":1627522184,
+    "wof:lastmodified":1695886660,
     "wof:name":"San Manuel de Colohete",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

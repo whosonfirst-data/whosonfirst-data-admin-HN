@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027146,
-    "geom:area_square_m":326287240.422722,
+    "geom:area_square_m":326287525.410205,
     "geom:bbox":"-87.459503,13.488928,-87.183731,13.692718",
     "geom:latitude":13.579494,
     "geom:longitude":-87.317801,
@@ -120,12 +120,13 @@
         "qs_pg:id":956693,
         "wd:id":"Q2602771"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009353,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecbe0e4c2f74484af1201816152da674",
+    "wof:geomhash":"a5e1161f278b56fe442ff74c0d9947af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421182951,
-    "wof:lastmodified":1690930339,
+    "wof:lastmodified":1695886689,
     "wof:name":"Pespire",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

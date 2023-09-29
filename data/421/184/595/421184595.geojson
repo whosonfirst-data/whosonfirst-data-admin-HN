@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007994,
-    "geom:area_square_m":95937930.849956,
+    "geom:area_square_m":95938110.760459,
     "geom:bbox":"-87.290421,13.871591,-87.123734,13.978772",
     "geom:latitude":13.928103,
     "geom:longitude":-87.214069,
@@ -157,12 +157,13 @@
         "wd:id":"Q1645164",
         "wk:page":"Santa Ana, Francisco Moraz\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009416,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5000092d26d9e20573ce0a5cad4ecaa2",
+    "wof:geomhash":"e608c454e36e6688d1cacfeea417505b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421184595,
-    "wof:lastmodified":1690930306,
+    "wof:lastmodified":1695886695,
     "wof:name":"Santa Ana",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

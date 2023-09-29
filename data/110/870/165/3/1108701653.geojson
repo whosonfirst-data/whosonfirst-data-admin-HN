@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012985,
-    "geom:area_square_m":155801160.551414,
+    "geom:area_square_m":155801185.307497,
     "geom:bbox":"-88.079903,13.90227,-87.94696,14.089993",
     "geom:latitude":13.990866,
     "geom:longitude":-88.018296,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"HN.LP.CB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504321,
-    "wof:geomhash":"11b64ae33882b7d42d6e17f1b71cfc05",
+    "wof:geomhash":"ed89c4c77878ed283c61d4d767a837fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1108701653,
-    "wof:lastmodified":1627522173,
+    "wof:lastmodified":1695886641,
     "wof:name":"Cabanas",
     "wof:parent_id":85671901,
     "wof:placetype":"county",

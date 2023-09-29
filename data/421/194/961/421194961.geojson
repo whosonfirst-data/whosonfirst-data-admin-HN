@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004665,
-    "geom:area_square_m":55647159.677355,
+    "geom:area_square_m":55646982.443297,
     "geom:bbox":"-88.020012,15.236257,-87.910942,15.307597",
     "geom:latitude":15.274626,
     "geom:longitude":-87.970193,
@@ -118,12 +118,13 @@
         "wd:id":"Q1644985",
         "wk:page":"Pimienta, Honduras"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009826,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"15cf76f4e3c419bf0189c4067774414e",
+    "wof:geomhash":"52b8484f2080ebba5e9594c9bd0b61ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421194961,
-    "wof:lastmodified":1690930232,
+    "wof:lastmodified":1695886598,
     "wof:name":"Pimienta",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

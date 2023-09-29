@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000132,
-    "geom:area_square_m":1566309.18827,
+    "geom:area_square_m":1566277.174597,
     "geom:bbox":"-84.792892,15.88288,-84.756554,15.903126",
     "geom:latitude":15.893467,
     "geom:longitude":-84.769761,
@@ -47,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b5\u03bb\u03ad\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Belen"
     ],
     "name:eng_x_variant":[
         "Brus Laguna"
@@ -116,9 +119,10 @@
     "wof:concordances":{
         "hasc:id":"HN.GD.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504312,
-    "wof:geomhash":"6721d96dca6d599480afb5d539bdb8e8",
+    "wof:geomhash":"b2421d1c4dbea783d9912b09521db38c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":1108701651,
-    "wof:lastmodified":1636495827,
+    "wof:lastmodified":1695886665,
     "wof:name":"Belen",
     "wof:parent_id":85671867,
     "wof:placetype":"county",

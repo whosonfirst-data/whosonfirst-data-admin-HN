@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051905,
-    "geom:area_square_m":617589227.986522,
+    "geom:area_square_m":617587680.813552,
     "geom:bbox":"-85.678986,15.672048,-85.283417,15.906867",
     "geom:latitude":15.795989,
     "geom:longitude":-85.514096,
@@ -124,12 +124,13 @@
         "wd:id":"Q1643266",
         "wk:page":"Lim\u00f3n, Honduras"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009679,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1cb811a228c831ce94dcd9e4648d1e2d",
+    "wof:geomhash":"2cfef99b5a0b593b0d58917c3d6eb450",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421191089,
-    "wof:lastmodified":1690930292,
+    "wof:lastmodified":1695886654,
     "wof:name":"Limon",
     "wof:parent_id":85671857,
     "wof:placetype":"county",

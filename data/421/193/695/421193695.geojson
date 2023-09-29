@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009973,
-    "geom:area_square_m":119091305.704801,
+    "geom:area_square_m":119091434.482038,
     "geom:bbox":"-88.929482,14.979927,-88.82843,15.141335",
     "geom:latitude":15.052509,
     "geom:longitude":-88.88808,
@@ -124,12 +124,13 @@
         "wd:id":"Q2314026",
         "wk:page":"San Antonio, Cop\u00e1n"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009780,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c5c9f37a7c0877aed563fb9cfdaa06a4",
+    "wof:geomhash":"861928aad560fb1f54e287952230334c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":421193695,
-    "wof:lastmodified":1690930236,
+    "wof:lastmodified":1695886670,
     "wof:name":"San Antonio",
     "wof:parent_id":85671911,
     "wof:placetype":"county",

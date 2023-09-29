@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033823,
-    "geom:area_square_m":404094888.698576,
+    "geom:area_square_m":404095087.128972,
     "geom:bbox":"-87.22319,14.845339,-86.988464,15.033292",
     "geom:latitude":14.937967,
     "geom:longitude":-87.102447,
@@ -118,12 +118,13 @@
         "wd:id":"Q2315619",
         "wk:page":"Marale"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009701,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a25f44329938af024432589bf5aba182",
+    "wof:geomhash":"aa36d07aceb5bd572b1a0f0877b4d64d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421191671,
-    "wof:lastmodified":1690930292,
+    "wof:lastmodified":1695886657,
     "wof:name":"Marale",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

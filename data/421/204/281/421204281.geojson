@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008877,
-    "geom:area_square_m":106438733.588199,
+    "geom:area_square_m":106438660.855754,
     "geom:bbox":"-87.068321,14.097793,-86.907677,14.229639",
     "geom:latitude":14.15376,
     "geom:longitude":-87.009816,
@@ -94,12 +94,13 @@
         "qs_pg:id":238963,
         "wd:id":"Q2393072"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"06fef6f91976c3adf8351b2d737bc222",
+    "wof:geomhash":"14d7501ac0d016931f6d74321f7d68ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421204281,
-    "wof:lastmodified":1627522187,
+    "wof:lastmodified":1695886667,
     "wof:name":"Valle de Angeles",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

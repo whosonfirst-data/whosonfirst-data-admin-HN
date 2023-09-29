@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218557,
-    "geom:area_square_m":2615914300.456872,
+    "geom:area_square_m":2615914467.011434,
     "geom:bbox":"-86.677689,14.271442,-85.940865,14.792964",
     "geom:latitude":14.541983,
     "geom:longitude":-86.315249,
@@ -63,9 +63,10 @@
     "wof:concordances":{
         "hasc:id":"HN.OL.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1474504445,
-    "wof:geomhash":"ce402dab93f9e034292ddd0512cde113",
+    "wof:geomhash":"a2f643271843228f584089f40e649b6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1108701673,
-    "wof:lastmodified":1627522178,
+    "wof:lastmodified":1695886651,
     "wof:name":"Jutiquile",
     "wof:parent_id":85671877,
     "wof:placetype":"county",

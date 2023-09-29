@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.026049,
-    "geom:area_square_m":311379745.687349,
+    "geom:area_square_m":311379557.063587,
     "geom:bbox":"-88.681099,14.72173,-88.504013,14.948006",
     "geom:latitude":14.826564,
     "geom:longitude":-88.595124,
@@ -114,12 +114,13 @@
         "qs_pg:id":263802,
         "wd:id":"Q777598"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010227,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d82ec3ec5bcac386ea4fdf2d39bd6633",
+    "wof:geomhash":"3487fb19b536ee7b29cbdb286972dde5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421205531,
-    "wof:lastmodified":1690930252,
+    "wof:lastmodified":1695886616,
     "wof:name":"Lepaera",
     "wof:parent_id":85671915,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025599,
-    "geom:area_square_m":308320194.374749,
+    "geom:area_square_m":308319923.220113,
     "geom:bbox":"-87.128899,12.983047,-86.915489,13.193145",
     "geom:latitude":13.083814,
     "geom:longitude":-87.025836,
@@ -118,12 +118,13 @@
         "wd:id":"Q1747638",
         "wk:page":"El Triunfo, Choluteca"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009351,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"875ebfc684560d885b385c3c2a401a86",
+    "wof:geomhash":"5b03b74dbe59988809301a33eae39d1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +134,7 @@
         }
     ],
     "wof:id":421182907,
-    "wof:lastmodified":1690930327,
+    "wof:lastmodified":1695886677,
     "wof:name":"El Triunfo",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

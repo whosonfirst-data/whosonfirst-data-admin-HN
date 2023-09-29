@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.048284,
-    "geom:area_square_m":580777245.927139,
+    "geom:area_square_m":580777245.926632,
     "geom:bbox":"-86.9643783569,13.2673950195,-86.70362854,13.564953804",
     "geom:latitude":13.405705,
     "geom:longitude":-86.822361,
@@ -115,12 +115,13 @@
         "qs_pg:id":14457,
         "wd:id":"Q2552667"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009165,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d41e57fbf2b6420b036c8fd052e78f7",
+    "wof:geomhash":"8398a44c299eec269972139f6e37ffe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":421177943,
-    "wof:lastmodified":1582319361,
+    "wof:lastmodified":1695886672,
     "wof:name":"San Marcos de Colon",
     "wof:parent_id":85671923,
     "wof:placetype":"county",

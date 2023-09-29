@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064695,
-    "geom:area_square_m":772684257.279676,
+    "geom:area_square_m":772685105.066066,
     "geom:bbox":"-88.061417,14.799693,-87.73156,15.193937",
     "geom:latitude":15.006772,
     "geom:longitude":-87.876734,
@@ -91,12 +91,13 @@
         "qs_pg:id":1195577,
         "wd:id":"Q2180652"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008865,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"be48fb0c581ba699288fd033824b9c2b",
+    "wof:geomhash":"3eb39ee0889210d45de60a604e1d8fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421170711,
-    "wof:lastmodified":1627522186,
+    "wof:lastmodified":1695886664,
     "wof:name":"Santa Cruz de Yojoa",
     "wof:parent_id":85671893,
     "wof:placetype":"county",

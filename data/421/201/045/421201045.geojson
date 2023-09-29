@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033306,
-    "geom:area_square_m":397601615.047291,
+    "geom:area_square_m":397601711.010586,
     "geom:bbox":"-88.585838,15.001475,-88.363708,15.23747",
     "geom:latitude":15.109216,
     "geom:longitude":-88.477403,
@@ -203,12 +203,13 @@
         "hasc:id":"HN.SB.SL",
         "qs_pg:id":209958
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010050,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee28f3f4f48d155ef0117a79e942453b",
+    "wof:geomhash":"5ac3e2c2b68c821dd8a9e110b7507b88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -218,7 +219,7 @@
         }
     ],
     "wof:id":421201045,
-    "wof:lastmodified":1636495866,
+    "wof:lastmodified":1695886693,
     "wof:name":"San Luis",
     "wof:parent_id":85671905,
     "wof:placetype":"county",

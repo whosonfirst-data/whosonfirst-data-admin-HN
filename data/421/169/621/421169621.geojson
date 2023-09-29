@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010534,
-    "geom:area_square_m":126123365.81485,
+    "geom:area_square_m":126123270.448464,
     "geom:bbox":"-89.209091,14.381566,-89.066437,14.529972",
     "geom:latitude":14.461224,
     "geom:longitude":-89.122618,
@@ -114,12 +114,13 @@
         "qs_pg:id":223182,
         "wd:id":"Q2394150"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008817,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cec64778e69af140a80c0070b6f4cf68",
+    "wof:geomhash":"40ce80af1e5a1bee5265f7e91e74a36d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":421169621,
-    "wof:lastmodified":1690930240,
+    "wof:lastmodified":1695886604,
     "wof:name":"Sinuapa",
     "wof:parent_id":85671919,
     "wof:placetype":"county",

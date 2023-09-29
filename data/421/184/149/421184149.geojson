@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017689,
-    "geom:area_square_m":212199346.780178,
+    "geom:area_square_m":212199503.323152,
     "geom:bbox":"-87.105377,13.950429,-86.910194,14.125035",
     "geom:latitude":14.034443,
     "geom:longitude":-86.990137,
@@ -91,12 +91,13 @@
         "qs_pg:id":989528,
         "wd:id":"Q1834215"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459009402,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7c3242b20a31fb6f95d69ea2af3b8945",
+    "wof:geomhash":"6a9857895fda16187bd85a15d5139ac4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":421184149,
-    "wof:lastmodified":1627522181,
+    "wof:lastmodified":1695886656,
     "wof:name":"San Antonio de Oriente",
     "wof:parent_id":85671863,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004346,
-    "geom:area_square_m":52187951.306223,
+    "geom:area_square_m":52188006.165144,
     "geom:bbox":"-87.746017,13.78389,-87.642845,13.851656",
     "geom:latitude":13.819059,
     "geom:longitude":-87.687685,
@@ -120,12 +120,13 @@
         "qs_pg:id":884749,
         "wd:id":"Q2394882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459010029,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb229a282349f8963c4dfc1629332a60",
+    "wof:geomhash":"b910a3529dcfa5b564b78450d1c4e859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":421200543,
-    "wof:lastmodified":1690930301,
+    "wof:lastmodified":1695886660,
     "wof:name":"Caridad",
     "wof:parent_id":85671883,
     "wof:placetype":"county",

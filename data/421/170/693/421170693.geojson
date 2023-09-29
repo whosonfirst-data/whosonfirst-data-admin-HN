@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038841,
-    "geom:area_square_m":462439757.406532,
+    "geom:area_square_m":462440197.480086,
     "geom:bbox":"-87.325584,15.427526,-87.127106,15.83218",
     "geom:latitude":15.663049,
     "geom:longitude":-87.235419,
@@ -121,12 +121,13 @@
         "wd:id":"Q949593",
         "wk:page":"Esparta"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008864,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28d32c753dff06aa39c191bfa5899d7a",
+    "wof:geomhash":"e41b8b5be9a5b8fa2e70536498d3c935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -136,7 +137,7 @@
         }
     ],
     "wof:id":421170693,
-    "wof:lastmodified":1690930307,
+    "wof:lastmodified":1695886664,
     "wof:name":"Esparta",
     "wof:parent_id":85671851,
     "wof:placetype":"county",

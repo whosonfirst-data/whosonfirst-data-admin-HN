@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609355,
-    "geom:area_square_m":7292043164.557492,
+    "geom:area_square_m":7292043164.55864,
     "geom:bbox":"-86.0016784668,14.0456724167,-85.0215454102,15.083024025",
     "geom:latitude":14.581188,
     "geom:longitude":-85.554974,
@@ -130,12 +130,13 @@
         "hasc:id":"HN.OL.CT",
         "qs_pg:id":1195434
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"HN",
     "wof:created":1459008864,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bb5744c5c60b48d77737106f7c152abf",
+    "wof:geomhash":"73f6e67250140e9bfd3c3a6015a96142",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":421170691,
-    "wof:lastmodified":1582319358,
+    "wof:lastmodified":1695886668,
     "wof:name":"Catacamas",
     "wof:parent_id":85671877,
     "wof:placetype":"county",
