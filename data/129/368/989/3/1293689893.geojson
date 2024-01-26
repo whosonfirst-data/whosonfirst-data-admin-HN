@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":3610533
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3819387
+        ]
+    },
     "wof:country":"HN",
     "wof:geomhash":"ba371c6e572888704e60c1e3888bde9b",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1293689893,
-    "wof:lastmodified":1566645046,
+    "wof:lastmodified":1706239761,
     "wof:name":"El Remolino",
     "wof:parent_id":421182951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344265949
+    ],
     "wof:tags":[]
 },
   "bbox": [
