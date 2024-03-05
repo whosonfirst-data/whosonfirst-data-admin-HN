@@ -9,6 +9,19 @@
     "geom:bbox":"-87.96667,15.23333,-87.96667,15.23333",
     "geom:latitude":15.23333,
     "geom:longitude":-87.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Potrerillos",
+    "gn:country_code":"HN",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3603330,
+    "gn:latitude":15.23333,
+    "gn:longitude":-87.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Potrerillos",
+    "gn:population":15707,
+    "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
     "lbl:bbox":"-87.98667,15.21333,-87.94667,15.25333",
     "lbl:max_zoom":15.0,
@@ -97,10 +110,16 @@
         "gn:id":3603326,
         "gp:id":106043,
         "qs_pg:id":243141,
-        "wd:id":"Q1644959"
+        "wd:id":"Q1644959",
+        "wk:page":"Potrerillos%2C_Cort%C3%A9s"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1045664
+        "gn:id":[
+            3603330
+        ],
+        "qs_pg:id":[
+            1045664
+        ]
     },
     "wof:country":"HN",
     "wof:created":1459010193,
@@ -118,7 +137,7 @@
         }
     ],
     "wof:id":421204651,
-    "wof:lastmodified":1690930243,
+    "wof:lastmodified":1706239761,
     "wof:name":"Potrerillos",
     "wof:parent_id":421194673,
     "wof:placetype":"locality",
@@ -126,7 +145,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293222797
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":3826116
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            3608329
+        ]
+    },
     "wof:country":"HN",
     "wof:geomhash":"67562cecdbb9593a1a39cfa0ae98d39b",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259559751,
-    "wof:lastmodified":1566646287,
+    "wof:lastmodified":1706239761,
     "wof:name":"La Canada",
     "wof:parent_id":421182591,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327006217
+    ],
     "wof:tags":[]
 },
   "bbox": [

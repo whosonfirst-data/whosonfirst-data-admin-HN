@@ -9,6 +9,19 @@
     "geom:bbox":"-87.27139,13.93167,-87.27139,13.93167",
     "geom:latitude":13.93167,
     "geom:longitude":-87.27139,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Santa Ana",
+    "gn:country_code":"HN",
+    "gn:dem":1455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3601719,
+    "gn:latitude":13.93167,
+    "gn:longitude":-87.27139,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Santa Ana",
+    "gn:population":1052,
+    "gn:timezone":"America/Tegucigalpa",
     "iso:country":"HN",
     "lbl:bbox":"-87.29139,13.91167,-87.25139,13.95167",
     "lbl:max_zoom":16.0,
@@ -188,7 +201,12 @@
         "qs_pg:id":149244
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1045630
+        "gn:id":[
+            3601719
+        ],
+        "qs_pg:id":[
+            1045630
+        ]
     },
     "wof:country":"HN",
     "wof:created":1459008929,
@@ -206,7 +224,7 @@
         }
     ],
     "wof:id":421172257,
-    "wof:lastmodified":1636495855,
+    "wof:lastmodified":1706239760,
     "wof:name":"Santa Ana",
     "wof:parent_id":421184595,
     "wof:placetype":"locality",
@@ -214,7 +232,9 @@
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-hn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326725767
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-87.27139,13.93167,-87.27139,13.93167",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Santa Ana"
@@ -188,14 +190,16 @@
         }
     ],
     "wof:id":1326725767,
-    "wof:lastmodified":1636495729,
+    "wof:lastmodified":1706239760,
     "wof:name":"Santa Ana",
     "wof:parent_id":421184595,
     "wof:placetype":"locality",
     "wof:population":1052,
     "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-hn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        421172257
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
